@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
 const BASE_URL = 'https://78bbe158.ngrok.io';
+const db = require('./db/db.js');
 // const d = require('../../FEC/scraped/photo/1.jpg')
 require('dotenv').config();
 
@@ -13,9 +14,11 @@ app.use(cors());
 app.use(express.static('public'));
 
 const yoyos = require('./yoyos.json');
-
+const products = require('./data/products.json');
+let found = products.find(item => item.id == 1)
+// console.log(found);
 app.post("/yoyos", (req, res) => {
-  console.log("query Result from req!: ", req.body.queryResult);
+  // console.log("query Result from req!: ", req.body.queryResult);
   const { parameters, outputContexts } = req.body.queryResult;
   if (parameters.yoyos && parameters.yoyos.length) {
     return res.json({
@@ -39,15 +42,25 @@ app.post("/yoyos", (req, res) => {
     });
   }
 
-  const names = yoyos.map(({ name }) => name);
+  let names = yoyos.map(({ name }) => name);
+  db.getCategoryProducts('Canvas').then((result) => {
+    // console.log(result);
+    names = result.map(({itemName}) => itemName.split('-').join(' '));
+    // console.log('name: ', names)
+    return res.json({
+      fulfillmentText: `The available canvas products are: ` + names.join(', ')
+    });
+  }).catch((err = 'none') => {
+    console.log(err)
+    return res.json({
+      fulfillmentText: "The yoyos available are: " + names.join(', ')
+    });
+  })
 
-  return res.json({
-    fulfillmentText: "The yoyos available are: " + names.join(', ')
-  });
 });
 
 app.get('/images', (req, res) => {
-  console.log('hereEEEEEEEEEEEEEEEEEEEEEE');
+  // console.log('hereEEEEEEEEEEEEEEEEEEEEEE');
   const options = {
     root: path.join(__dirname, 'data/photo'),
     dotfiles: 'deny',
