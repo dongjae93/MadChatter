@@ -1,0 +1,739 @@
+{
+    "descriptions": {
+        "overview": "Remove water from anywhere with the Utilitech 0.33 HP utility pump. This pump features both a 0.75 In. straight pipe and garden hose adapter for quick and efficient water removal options. The 0.33 HP quickly transfers water, providing up to a 30 GPM flow rate. The corrosion resistant thermoplastic construction provides you with durability and long pump life. Instructions and a quick-start guide are included for your convenience to ensure easy installation and operation for this Utilitech utility pump.",
+        "list": [
+            "The 0.33 HP pump quickly transfers water, providing up to a 30 GPM performance",
+            "The thermoplastic construction provides corrosion resistance ensuring dependable Long Life",
+            "This pump features both a 3/4 in. straight pipe and garden hose adapter for quick and efficient water removal options",
+            "Remove water from anywhere with the Utilitech 0.33 HP utility pump",
+            "10 ft. cord",
+            "1 Year warranty"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Horsepower (HP)",
+            "spec": "0.33"
+        },
+        {
+            "title": "Water Flow (GPM)",
+            "spec": "30"
+        },
+        {
+            "title": "Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "Volts",
+            "spec": "N/A"
+        },
+        {
+            "title": "Material",
+            "spec": "Thermoplastic"
+        },
+        {
+            "title": "Impeller Material",
+            "spec": "Thermoplastic"
+        },
+        {
+            "title": "Inlet Diameter",
+            "spec": "0.75"
+        },
+        {
+            "title": "Outlet Diameter",
+            "spec": "0.75"
+        },
+        {
+            "title": "Cord Length (Feet)",
+            "spec": "9"
+        },
+        {
+            "title": "Application",
+            "spec": "Remove water from anywhere"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Package Contents",
+            "spec": "Utility Pump - 1/3 HP Thermo"
+        },
+        {
+            "title": "Power Source",
+            "spec": "Electric"
+        },
+        {
+            "title": "Collection Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Amperage",
+            "spec": "0"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "40151500"
+        },
+        {
+            "title": "Inlet Connection",
+            "spec": "Garden Hose"
+        },
+        {
+            "title": "Battery Voltage",
+            "spec": "N/A"
+        },
+        {
+            "title": "Outlet Connection",
+            "spec": "NPT"
+        },
+        {
+            "title": "Sub Type",
+            "spec": "Submersible utility pump"
+        },
+        {
+            "title": "Switch Type",
+            "spec": "Switchless"
+        },
+        {
+            "title": "Type",
+            "spec": "Utility pumps"
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        },
+        {
+            "title": "Submersible",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "199d90ae-aed8-5b4c-a668-5726644040e4",
+                    "largeName": "81009a9f-6e0f-5a1d-b16f-2970bef1c92f"
+                }
+            ],
+            "title": "\"EXCELLENT pump for pumping out a NASTY pool...\"",
+            "rating": 5,
+            "date": "04/25/2019",
+            "recommended": true,
+            "text": "Purchased this pump to remove the nasty, debris laden water out of our 6,000 gallon above-ground pool with one IMPORTANT modification! When you purchase this pump, PURCHASE a B&K BRASS 3/4\" Threaded Male x FIP Hose Adapter (Lowes Item # 877058) and a small roll of teflon tape to replace the plastic hose adapter that comes with the pump which failed within 1 hour of pumping. I constructed a small floating basket (small holes in sides) with a large pool noodle (for buoyancy) and wire-ties to prevent the debris from clogging the pump. (SEE PHOTO) WORKED LIKE A CHARM !!! Completely drained the pool in less than 20 hours !!!",
+            "author": "Keith",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "12866c99-efda-5f01-9b75-d390862c9164",
+                    "largeName": "d32e76df-896e-5e9f-9cd0-38c148e000f4"
+                }
+            ],
+            "title": "\"Better than I thought!\"",
+            "rating": 5,
+            "date": "03/01/2019",
+            "recommended": true,
+            "text": "It's been running 48 hours solid and at 30 Gph it pumped about 86,000 gallons through 150' of hose to the road to keep my house from flooding! It brought water level down 2” in 48 hours in my situation! Great little unit!",
+            "author": "Rick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "00bfc484-95b4-56c8-8be3-bff8de514843",
+                    "largeName": "10414772-e93d-5c66-8a87-6ef2446042f4"
+                }
+            ],
+            "title": "\"Sub Pump saved us\"",
+            "rating": 5,
+            "date": "02/01/2019",
+            "recommended": false,
+            "text": "This last storm filled our newly installed cistern to overflowing. We broke out the new Utilitech pump and it instantly stopped the flooding damage. It saved some property flooding and got the water away from the house. Thanks Utilitech!",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Works good but less flow than expected\"",
+            "rating": 3,
+            "date": "11/12/2018",
+            "recommended": false,
+            "text": "Pump runs right out of the box and I have to say I love the plug and play aspect of it. Works good too but I'm pumping water straight out of a ditch with 0 lift except what is required by the pump itself. 12 foot hose just crossing the street and its only pumping about 8 gallons per minute. I bought to replace a smaller 5.5 gpm pump because I wanted faster results.  Haven't decided if I want to return it yet. It is simple to use.",
+            "author": "Joe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Submersible Utility Pump\"",
+            "rating": 5,
+            "date": "12/18/2018",
+            "recommended": true,
+            "text": "Used for draining water from yard from recent heavy rains. Used very efficiently.",
+            "author": "Mick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works\"",
+            "rating": 4,
+            "date": "01/19/2019",
+            "recommended": true,
+            "text": "Gpm is low, but for garden hose pump not badSuggest using no kink hose and keep base clear of debris, I use a flower pot container",
+            "author": "Pit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Only wish it had a float switch.\"",
+            "rating": 4,
+            "date": "03/03/2019",
+            "recommended": true,
+            "text": "Submersible, cheap, connects us hose fittings. Wish it had a auto shut off float switch. Worry it will buy out if unattended.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"good pump\"",
+            "rating": 4,
+            "date": "04/07/2019",
+            "recommended": false,
+            "text": "this pump works as advertised, its not fast, but it has been reliable. I left it running for many hours and havent had a problem.",
+            "author": "zach",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Awesome!\"",
+            "rating": 5,
+            "date": "02/27/2019",
+            "recommended": true,
+            "text": "Pumped out my crawl space really fast. It worked just like it was supposed to.",
+            "author": "Jc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Completely worthless\"",
+            "rating": 1,
+            "date": "05/20/2019",
+            "recommended": false,
+            "text": "Save your money, this is completely worthless.  It has only worked once for me.  I've got a heavy downpour happening right now, which means it's going to flood my backdoor.  I could see that it had not come on, so I went out in the heavy downpour to mess with it, check the circuit, clean the airway, etc., and it won't come one.  Nothing to do but continue to put down towels and keep saying up money to fix the problem via construction.",
+            "author": "TexasGayla",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect Emergency Pump\"",
+            "rating": 5,
+            "date": "03/04/2019",
+            "recommended": true,
+            "text": "This is a great pump for when your basement or crawl is flooded and you need to quickly displace the water and don't have an exsisting sump pump and drain. Hook a garden hose to the end and place the end away from your house to drain. It works very well.",
+            "author": "Karen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great utility pump\"",
+            "rating": 5,
+            "date": "04/03/2019",
+            "recommended": true,
+            "text": "Pump is small but it is mighty. Doing a great job on pumping out the water in my lawn, due to breakup. I'm sure it's meant for small to medium size puddles, however, it's doing a fantastic job on large puddles. For the price, it's fantastic.",
+            "author": "Ben",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great pump!\"",
+            "rating": 5,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "Our basement flooded and we have really put this pump to work.  It has done a great job pumping a lot of water and easy to set up since it is lightweight.  I have really been pleased with the Utilitech products I have purchased so far.",
+            "author": "utvol1994",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"So far so good\"",
+            "rating": 5,
+            "date": "05/04/2019",
+            "recommended": true,
+            "text": "As have others, using this to drain water out of the basement. It's doing the trick so far and even with the water down to a trickle in the sump well it is still pumping water up and out of the basement through 75' of hose.",
+            "author": "gp",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Small inlet opening.\"",
+            "rating": 3,
+            "date": "06/05/2019",
+            "recommended": false,
+            "text": "I'm sure this pump works great in a clean environment, but the small aperture clogs very quickly in the back yard. I had to clean it out 3 times in 5 minutes pumping water off my pool tarp. Cleaned it up and returned it.",
+            "author": "Erik",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Awesome Pump\"",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": false,
+            "text": "This submersible pump works great. I use this pump to drain my pool before major storms arrive in the Carolinas. Store it my outdoor utility storage box and works every time.This pump is all that you need.",
+            "author": "Loaf",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Basement Clean Out\"",
+            "rating": 5,
+            "date": "04/28/2019",
+            "recommended": true,
+            "text": "Bought this online, while I was out of town and my basement was flooding. Had my 17 year old son pick it up, bring it home, hooked it up and it went right to work. Couldn't be easier.",
+            "author": "D",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"The Garden Hose Attachment kept detaching\"",
+            "rating": 2,
+            "date": "04/20/2019",
+            "recommended": false,
+            "text": "The garden hose connector would not hold the female end of a garden hose. If the hose turned or you tried to reposition the pump using the hose it popped off.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"didnt last long\"",
+            "rating": 3,
+            "date": "02/14/2019",
+            "recommended": false,
+            "text": "i took this product home and sadly it didnt work well. happily though, lowes return policy is fair and i was able to get another of a different manufacturer.",
+            "author": "mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Used lower portion of pier and beam house.\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "Used lower portion of pier and beam house. A water hose on one end and got rain water out from below the house.Reasonable price.",
+            "author": "RJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/03/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Philip",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Pump\"",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "Bought this pump to drain pool after heavy rains, works great.",
+            "author": "Hammer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Pump was a life saver\"",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "Old pump went out and no one in town had one. Works great",
+            "author": "Billy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/11/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "None",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "RJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Speed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Alfred",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "06/24/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mommomj",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "J",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dustin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jose",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jose",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/11/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Robbie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glady",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Crystal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 42,
+        "percentRecommended": "76",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 29,
+            "four": 6,
+            "three": 4,
+            "two": 1,
+            "one": 2
+        }
+    },
+    "questions": [
+        {
+            "question": "\"What is the minimum depth that this pump will pump?\"",
+            "author": "Anonymous",
+            "date": "05/27/2019",
+            "answers": [
+                {
+                    "badgeName": "95487594-0ec1-5b4a-93fb-61f09fa16c3c",
+                    "author": "Utilitech Team",
+                    "date": "05/28/2019",
+                    "text": "The model #148002 will pump down to approximately 3/16\" of an inch. But, it must be unplugged at this point to not burn out the motor. If you have any further questions, please call our technical support line @ 1-800-742-5044.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"will pump shut off when over heated or area is dry?\"",
+            "author": "Anonymous",
+            "date": "05/25/2019",
+            "answers": [
+                {
+                    "badgeName": "95487594-0ec1-5b4a-93fb-61f09fa16c3c",
+                    "author": "Utilitech Team",
+                    "date": "05/28/2019",
+                    "text": "The pump does have a built in thermal overload that will shut off the pump when the motor gets too hot from running no water. But, it is not designed to run this way. It is designed to be unplugged once all the water has been removed. If you have any further questions, please call our technical support line @ 1-800-742-5044.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"can you use on top of pool cover with standing leaves\"",
+            "author": "Anonymous",
+            "date": "04/06/2019",
+            "answers": [
+                {
+                    "badgeName": "95487594-0ec1-5b4a-93fb-61f09fa16c3c",
+                    "author": "Utilitech Team",
+                    "date": "04/08/2019",
+                    "text": "Not recommended as the leaves can and will block the pump intake and affect the flow of water. This can cause the pump to burn out prematurely. The model #148003 might be better suited for your needs.Please call our technical support line @ 1-800-742-5044 if you have any further questions.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"can you add a float switch to this model, to use as a sump pump\"",
+            "author": "Anonymous",
+            "date": "03/08/2019",
+            "answers": [
+                {
+                    "badgeName": "95487594-0ec1-5b4a-93fb-61f09fa16c3c",
+                    "author": "Utilitech Team",
+                    "date": "03/11/2019",
+                    "text": "Yes, you can add a tethered float switch to this pump and the on and off will be controlled by the tethered float. Be aware that you have to have enough room for this type of float to work properly. If you have any questions, please call our technical support line @ 1-800-742-5044.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

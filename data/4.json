@@ -1,0 +1,4695 @@
+{
+    "descriptions": {
+        "list": [
+            "White ceiling fan from the Armitage collection features 4 reversible blades in white/blonde finish",
+            "Light kit with globe-style shade provides attractive illumination",
+            "Includes one 6.5 watt LED Bulb",
+            "42-in fan is ideal for small to medium sized rooms",
+            "3 speed settings make it easy to maintain the ideal comfort level",
+            "Reverse airflow feature allows you to change the fan's direction, so cool air is pushed down or warm air is distributed evenly",
+            "Limited lifetime motor warranty gives you peace of mind"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "Armitage"
+        },
+        {
+            "title": "Fan Diameter (Inches)",
+            "spec": "42"
+        },
+        {
+            "title": "Downrod Length (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "4"
+        },
+        {
+            "title": "Reversible Blades",
+            "spec": 1
+        },
+        {
+            "title": "Blade Finish",
+            "spec": "White/Blonde"
+        },
+        {
+            "title": "Blade Color",
+            "spec": "White"
+        },
+        {
+            "title": "Housing Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "Light Kit",
+            "spec": "Included"
+        },
+        {
+            "title": "Number of Bulbs Required",
+            "spec": "1"
+        },
+        {
+            "title": "Number of Lights",
+            "spec": "1"
+        },
+        {
+            "title": "Light Bulb Base Type",
+            "spec": "Medium base (E-26)"
+        },
+        {
+            "title": "Recommended Light Bulb Shape",
+            "spec": "A15"
+        },
+        {
+            "title": "Maximum Bulb Wattage",
+            "spec": "6"
+        },
+        {
+            "title": "Bulb Type",
+            "spec": "LED"
+        },
+        {
+            "title": "Remote Control Included",
+            "spec": 0
+        },
+        {
+            "title": "High Speed Electricity Use (Watts)",
+            "spec": "45"
+        },
+        {
+            "title": "Mounting Options",
+            "spec": "Flush mount"
+        },
+        {
+            "title": "Reverse Air Flow",
+            "spec": 1
+        },
+        {
+            "title": "Motor Type",
+            "spec": "AC Motor"
+        },
+        {
+            "title": "Angle Mount Capable",
+            "spec": 0
+        },
+        {
+            "title": "Dual Fan Heads",
+            "spec": 0
+        },
+        {
+            "title": "Wattage Equivalent",
+            "spec": "0"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Remote Control",
+            "spec": "None"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Light Kit Type",
+            "spec": "Globe"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Residential"
+        },
+        {
+            "title": "ENERGY STAR Certified",
+            "spec": 0
+        },
+        {
+            "title": "Airflow (CFM)",
+            "spec": "1185"
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 0
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 0
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Maximum Height (Inches)",
+            "spec": "11.81"
+        },
+        {
+            "title": "Number of Speeds",
+            "spec": "3"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "40101600"
+        },
+        {
+            "title": "Minimum Height (Inches)",
+            "spec": "6.93"
+        },
+        {
+            "title": "Shade Material",
+            "spec": "Glass"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor"
+        },
+        {
+            "title": "Glass Type",
+            "spec": "Marbleized glass"
+        },
+        {
+            "title": "Fixture Finish",
+            "spec": "N/A"
+        },
+        {
+            "title": "Outdoor Usage Rating",
+            "spec": "N/A"
+        },
+        {
+            "title": "Suggested Room Size",
+            "spec": "Small Room (up to 100 sq. ft.)"
+        },
+        {
+            "title": "Bulb Installation Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Style",
+            "spec": "Transitional"
+        },
+        {
+            "title": "Fixture Color Family",
+            "spec": "White"
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        },
+        {
+            "title": "For Use in Bathrooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Bedrooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Dining Rooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Kitchens",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Living Rooms",
+            "spec": 1
+        },
+        {
+            "title": "Frosted Glass",
+            "spec": 1
+        },
+        {
+            "title": "Oscillating",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "9012fad0-3080-55c7-9f62-2b9c12d51894",
+                    "largeName": "c15488fa-ba3e-5b46-80e4-410041ebadcb"
+                },
+                {
+                    "smallName": "19c71136-49c6-5f88-9ad6-9816dbe43687",
+                    "largeName": "796f434c-f107-5d51-b98a-b62383b15195"
+                },
+                {
+                    "smallName": "538e4e73-a72a-557f-8806-a240eba30e80",
+                    "largeName": "ce5c7ac6-08ba-589b-804f-537c6fb235fd"
+                },
+                {
+                    "smallName": "3887c899-e6b1-531c-ab59-963f1e364c3b",
+                    "largeName": "0f5a9d8d-2bdc-5778-87ed-b94ee0ceedbb"
+                },
+                {
+                    "smallName": "63b011f2-60ba-5fe9-a63b-e504a3fd31c1",
+                    "largeName": "0bf1991e-c154-5dbf-9310-a32902b6f836"
+                }
+            ],
+            "title": "\"Review #2   got 2 more and love them!\"",
+            "rating": 5,
+            "date": "09/08/2017",
+            "recommended": true,
+            "text": "So got two more in the master bedroom of my travel trailer and I must say they run great I had to cut the blades about a inch on each fan so they don't hit the walls and have had zero problems with ether.  I have no no regrets and I sleep great now. No more hot nights.",
+            "author": "Dieselboss",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "dbbdb85c-3614-52cb-9fe0-e9693441d47f",
+                    "largeName": "acfe66ef-dedc-5fb6-8c47-535cae55e8aa"
+                },
+                {
+                    "smallName": "4df7ed6e-da00-5a40-92ab-25317adfcfe0",
+                    "largeName": "09c4bd63-8869-5570-a869-d0fe2e36d520"
+                },
+                {
+                    "smallName": "8718dc86-bf87-5545-bbca-0119909f07ab",
+                    "largeName": "d50aaa97-d80d-5f57-bc7e-7735d8bbd53e"
+                }
+            ],
+            "title": "\"Great ceiling fan!\"",
+            "rating": 5,
+            "date": "10/30/2017",
+            "recommended": true,
+            "text": "My first impression of the fan's packaging is that it was an incredibly small box. Upon opening the box and taking out the contents I could see that it was constructed well and the pieces were in good condition with no scratches to the paint or blades. Every item was packed really nicely.\nDuring installation, I noticed that the manuals instructions were clear and concise and easy to understand and the pictures were also easily identifiable to assemble the parts. If you have never hung a fan before and feel capable of doing so, the manual would be an easy guide to complete your task. There is a troubleshooting section with certain problems you may be having and how to correct them. There is also a parts list in case you need to order any parts. The back side of the manual also has the instructions in Spanish. There is an 800 number to call in case you are missing parts or having any problems. Even though the fan light socket says 6.5 watt max for LED, the manual says regular 60-watt max bulb, you can also use a CFL bulb, however, a halogen is not recommended. \n\nI am using mine with the white side of the blades showing downward. However, if you are wanting to use the wooden side please note that the edging of the blades are white. You may not notice it from below but something to keep in mind if that type of thing bothers you.\nCompared to some other fans I have installed or uninstalled this fan motor is incredibly light and easy to hang. It is extremely easy to lift up the ladder and to the ceiling bracket. This is a 1 person job. I am a female and installed mine by myself with no issues in about 10-15 minutes. The fan comes with everything needed for assembly except for electrical tape and tools. Even though it called for a number of different tools I only needed a phillips head screwdriver to get the entire job done. The ceiling bracket has a notch to hang the fan from while working on the wiring. This way it frees up both of your hands so you do not have to hold the fan with 1 hand prior to mounting. The parts bag comes with 1 extra washer, 1 screw for hardware on the blade, and 1 screw for the blade to fan assembly. So if you should drop one and lose it you will have 1 backup.\n\nThe box includes an LED lightbulb that is 6.5 watts. The fan comes with a blade balancing kit if you are having a problem with a slight wobble. The fan does not have any indicators letting you know which side to hang either chain pull from. However, the manual will show you an illustration indicating which side takes which pull for the light and the speed control of the fan. There are 3 speeds. The fan definitely hugs the ceiling. The measurement from the ceiling to the blade is 6\" down.\nThe fan has a reverse switch. One for summer to cool down and one for winter to run in reverse and push down the heat.\n\nMy overall impression of the fan was for the price point it is fantastic! It moves a lot of air around and cools down the room. It is not noisy at all. If you are experiencing noise then something is not correct in the installation. I had a loud vibration noise on mine and realized that my light globe was not as tight as it should have been and that fixed the issue. It is completely quiet except for the ambient noise of the fan itself. You could sleep with it on full blast without any issue of noise whatsoever. It is a clean minimalistic design, nothing fancy but again for the price point it does its job well and is just a basic appearance of a standard builder grade fan.\n\nEven though this fan was free it worked so well that I decided to go out the next day and buy a matching one to hang next to it and change out the previous owners' fans. So, in conclusion, I would completely recommend this fan and I would buy it again if I needed too.",
+            "author": "WoodenMakeup",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 56,
+                "no": 6
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f0abcd66-353a-50d4-af0a-ba34e88d78ad",
+                    "largeName": "4ceb2401-257d-564e-a068-031f940b9af5"
+                }
+            ],
+            "title": "\"Easy to install, pleasing to the eye BUT ...\"",
+            "rating": 2,
+            "date": "03/04/2018",
+            "recommended": false,
+            "text": "I knew I was taking a gamble purchasing this item due to its economic retail price, but I knew that I was going to install it in a rarely use spare bedroom soooo, and I'm in reality CHEAP.  It was easy to assemble and install.  It looks fresh and pleasant on the eyes.  The light is adequate for me.  You, maybe not.  Now, the negative.  I am a retired police officer and have contemplated calling the department and asking for a former coworker to bring a noise meter to my house.  The hum omitted by this product is simply ANNOYING and if and when I have guests stay overnight, the least favorite, will get this room.",
+            "author": "Ptown50-Retired",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Trust me, do NOT buy\"",
+            "rating": 1,
+            "date": "09/03/2018",
+            "recommended": false,
+            "text": "I know there are plenty of glowing reviews on here but trust me. I am a \"good enough\" guy and this fan is not good enough.Google the issue of burning smells coming from many of the cheaper harbor breeze fans, Its a known issue. Many people report going through 2-4 fans before getting one that doesn't stink. Save your heartache and buy a hunter or something even better, the cost difference is minor for a permanent fixture in your home. This fan feels cheap, looks cheap, and even though UL listed has known issues with the motor stinking. I wasted half a day screwing around with junk, I know better but still let my judgement get the best of me. DO NOT BUY!",
+            "author": "Adam",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 23,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Low Price - HIGH MOTOR HUM\"",
+            "rating": 1,
+            "date": "06/23/2018",
+            "recommended": false,
+            "text": "Picked this fan up because of the low price.  I have purchased and installed well over a dozen ceiling fans over the years.  The installation was easy as all the others.  But when I turned the fan on the first time I was really disappointed in the hum from the motor.  No other fan that I have owned had this bad of a hum.  Many or the reviews complain about this problem.  However, many reviews claim quiet operation.  So maybe it just simply depends on the one you take home.  Anyway, I took the fan down and it went straight to the trash.  Too bad, because I was happy with the look of the fan. So if you want to take a chance that you get a good one, be my guest.",
+            "author": "AverageGuy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"You get what you pay for\"",
+            "rating": 1,
+            "date": "04/23/2017",
+            "recommended": false,
+            "text": "I should have known this was junk from the price. But, I bought it anyway. Installed it perfectly (was easy... great directions). Flipped the switch... and click click click. Not from the blades spinning, but from the motor itself. Turned it off and spun the blades manually. Scrape scrape click click. Yup, the interior of the motor was making the noise with each revolution. Ran it continuously for 48 hours as per the prescribed break-in period (ridiculous). No better. So, I took it down (what a pain) and bought a Hunter for $109. Whisper quiet. Flawless. Perfection. I'll say it again... you get what you pay for. Also, I will never buy the Lowes brand again; it turned me off that much.",
+            "author": "Dave",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 8
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Loud hum, motor scrapes\"",
+            "rating": 2,
+            "date": "07/10/2017",
+            "recommended": false,
+            "text": "This fan makes a very audible humming noise that can be heard from at least one room away.  I checked my other 2 Harbor Breeze fans (not builders quality) and another 20 year old fan and none had any humming at any speed, so this is just an extraordinarily cheaply built fan.  In less than 12 hours of use, the motor began scraping against something.  The fan does not push nearly as much air as two 44\" fans I have either.  The glass globe around the bulb looks cheap and while the bulb is a standard E26 base, it is a miniature bulb size.  I returned mine and bought a slightly more expensive 52\" fan.",
+            "author": "Chase",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"One Year Revies\"",
+            "rating": 5,
+            "date": "05/27/2017",
+            "recommended": true,
+            "text": "I bought this fan over a year ago.  After its initial year, this fan has been problem free.  It gets medium to heavy usage in our upstairs loft/game room.  We set it on medium and it gets a calm gentle and cool breeze.  Going back today and getting 4 to install in our bedrooms.",
+            "author": "Fritz",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 126,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Great fan and light\"",
+            "rating": 5,
+            "date": "07/04/2017",
+            "recommended": true,
+            "text": "We bought one for the grandsons bedroom. Loved it. Bought more for the other bedrooms. Three in all. Easy to install. Work great.",
+            "author": "T",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 49,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Good value\"",
+            "rating": 5,
+            "date": "06/21/2017",
+            "recommended": true,
+            "text": "Easy to install,runs smooth and quite, and includes an adequate led light. I would recommend it for small rooms.",
+            "author": "Bubba",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 54,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Beer budget fan, not for champagne dreamers!\"",
+            "rating": 5,
+            "date": "09/08/2017",
+            "recommended": true,
+            "text": "Whether you're going for the 42 or the 52, these fans do the job of recirculating air in small or medium rooms. Don't buy these for your kitchen or living room, these are perfect for bedrooms or your home office/library.  I wrote up a review on the 52, and my opinion of these has not changed. If your LED bulbs are going out it is because of a loose connection in the lamp holder; likely where you connected the wires at the fixture. If the circuit is not completed as tightly as it should and could be, then electricity may \"arc\" or jump across the contact, rather than simply flowing through it. If your motor is making a noise, you need to make sure that your ceiling is level and that the blade brackets aren't bent in such a way that it's causing it to spin out of balance.  If that doesn't work, you need to exchange the unit; these are flush mount only fan units - they do not have extension components to hang them lower for say 9ft+ ceilings. If the globe breaks, you might not be able to buy one from the manufacturer, but it is an ISO form factor, so go the lighting section at Lowes. You can also put a different style of globe if you find one of the right diameter. If you do this, be aware of the maximum wattage for bulbs which says in the fixture 6.5 watts, that means these are for LED bulbs only with a 60 Watt equivalency; do not put regular bulbs in this as it says not to put anything above 6.5 Watts... If you do and you have problems, it is because you cause them. Also, if you don't have your epilepsy under control via meds, or if LED's give you headaches as they do with some, by a fan that supports 40-60 watt incandescent bulbs.",
+            "author": "MrHobbs",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 144,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"Ceiling fan\"",
+            "rating": 4,
+            "date": "06/26/2017",
+            "recommended": true,
+            "text": "Product took a little longer to receive but that is not an issue. It works great and has a lot of power. I love it",
+            "author": "Missy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ceiling fans\"",
+            "rating": 5,
+            "date": "03/17/2017",
+            "recommended": true,
+            "text": "For the price, this fan keeps the room very pleasant.",
+            "author": "Spoon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 62,
+                "no": 8
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Noisy fan, low price\"",
+            "rating": 1,
+            "date": "07/30/2017",
+            "recommended": false,
+            "text": "I bought 3 of these because they are low profile and very nicely priced.  After I installed them we immediately noticed the fan motor makes a loud humming noise.  I'm returning these to Lowes.  Because none of my family members are using them.",
+            "author": "David",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"DO NOT BUY !!!\"",
+            "rating": 1,
+            "date": "08/09/2017",
+            "recommended": false,
+            "text": "OK so i have bought 3 of these fans. 1 worked correctly. The other 2 vibrated and growled so loudly you could hear them from the other end of the house. The noise and the vibration is coming from inside the motor. Something badly wrong inside. I even took 1 back and exchanged it for another. But the 4th vibrated so badly that it could be felt on the upstairs floor. The one that works correctly moves such little air that if you do not look to see if it is on you cant tell. Fan is useless. Not to mention the 6 watt the does not supply adequate light for even the smallest bedroom. Spend the extra 20 bucks and get one that you will not have problems with. PLEASE DO NOT BUY THIS FAN. Lowe's should remove it from their shelves.",
+            "author": "Nathan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Loving this little fan!\"",
+            "rating": 5,
+            "date": "11/02/2017",
+            "recommended": true,
+            "text": "I didn't have a ceiling fan in my bedroom and was so excited to try this one for review. It is pretty plain, which is what I wanted. The white blades match the trim on my doors and woodwork and it is the perfect size for my bedroom. It cools nicely, just make sure you brace it properly so it doesn't wobble.",
+            "author": "Citygirl79",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Ceiling fan\"",
+            "rating": 3,
+            "date": "05/15/2017",
+            "recommended": true,
+            "text": "Good for kids room but looks cheap but for the price that's what you get. Glad it was easy to install and came with the light bulbs",
+            "author": "Sherry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 4
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "9f476181-66db-50ec-9e43-37cf7b7d12f9",
+                    "largeName": "7f295b0b-e8dd-54f0-9df6-496b046f6f28"
+                }
+            ],
+            "title": "\"5 Star for price!\"",
+            "rating": 5,
+            "date": "09/11/2018",
+            "recommended": true,
+            "text": "I was hesitant about this fan due to the price. With the help of a Lowe's associate she showed me on the box where it actually listed the air flow and this one was almost double the more expensive one. Yes, the other one had a fancier light but I was buying a fan not a light. Easy to put together, clear instructions. Runs smoothly and puts out plenty of air in my 12x15 bedroom. The only noise I hear is what sounds like the wind. I am more than pleased with the product and the help.",
+            "author": "Pstricia",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very Happy\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "I am so pleased with this fan! My husband hung it in our boys' room that tends to get very toasty during the summer. Their previous fan was so off balance that it was not longer worth it to fix it. We also got the bunk beds and needed something flush mount. This fan is perfect. Yes, there is an audible hum on the highest setting, but my boys don't even care, I think they find the white noise calming. On the lowest setting the hum is barely noticable. Their room is a medium sized bedroom and this pushes the air enough to make all the difference. Highly recommend!",
+            "author": "Redhead3dmomm4",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"LOUD MOTOR\"",
+            "rating": 1,
+            "date": "10/14/2017",
+            "recommended": false,
+            "text": "This fan was so loud when we installed it and turned it on.  No one could even sleep with that fan going.  To cheaply made or something.",
+            "author": "Vicki",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very disappointed\"",
+            "rating": 2,
+            "date": "08/22/2017",
+            "recommended": false,
+            "text": "You get what you pay for. I wish I'd just bought the next step up.The fan is loud and doesn't move a lot of air, even in a 9x9 room. The lightbulb is not standard size and has to be replaced at least once a month.I won't be buying this brand again.",
+            "author": "Jennifer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 7
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "e274c516-5949-53be-82a7-93048322e2b9",
+                    "largeName": "57faaf6c-6511-5eff-8736-3c32fb89dafb"
+                }
+            ],
+            "title": "\"A great investment for a reasonable price\"",
+            "rating": 5,
+            "date": "06/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bray",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Loud motor\"",
+            "rating": 3,
+            "date": "09/20/2018",
+            "recommended": false,
+            "text": "Nice small fan. Great for $30 but the fan does have a loud motor- I feel like it is especially loud for the small size of the fan. There is no wobble. We installed another much larger fan (and 10x the cost) in another room the day before and it is very quiet. You get what you pay for. If it were in my room I'd have to replace it because of the noise. But it's in my todddler's room :)",
+            "author": "Customer99",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"You get what you pay for\"",
+            "rating": 3,
+            "date": "05/28/2019",
+            "recommended": false,
+            "text": "I bought this fan for my kids room about a  little less than a year ago (I no longer have the receipt or the box). It was easy to install. It did have a smoke smell the first few hours but that went away. Fast forward to 2 days ago. My kids were cleaning their room and one of the fan blades fell. The metal arm that attaches the blade to the fan snapped in half. I am so thankful it did not hit them. Once we got the fan off we checked the other 3 blade arms and 2 of them are starting to crack as well. I have been unsuccessful finding new blade arms that are the same size so now I have to buy a new fan.",
+            "author": "MommaBear",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "bc6263a6-ed9e-57db-b883-51861da09f2f",
+                    "largeName": "58bcf605-276f-55c7-be6c-e8b22a0987f0"
+                }
+            ],
+            "title": "\"Great Little Fan\"",
+            "rating": 5,
+            "date": "11/08/2017",
+            "recommended": true,
+            "text": "We originally wanted to install this fan in our RV but found ceiling support in the trailer was not adequate. We instead installed it in a small dining room. The fan was super easy to install within about 35 minutes. It moves a surprising amount of air and runs very quietly. The fans looks great and we are happy with the amount of light it puts out. I recommend this fan for any small area application.",
+            "author": "Eagle69",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Not quiet/Not enough air\"",
+            "rating": 2,
+            "date": "06/19/2018",
+            "recommended": false,
+            "text": "The fan is installed in my 100 square foot bedroom. It was reasonably easy to install and is easy to use. However, the fan motor has a constant quiet hum and there is a perpetual clicking noise that comes from somewhere inside the unit. It's not loud, but it is distracting to sleep. It doesn't produce much air movement either.",
+            "author": "ABL",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect for My Small Bedroom\"",
+            "rating": 5,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "I needed to replace a 48-inch ceiling fan in a 10X10 bedroom because the light had stopped working and the fan had grown noisy. This was the perfect replacement. The light is bright and the fan moves enough air in this size room. It is amazingly quiet as well. Installation was easy enough. I thought I could reuse the mounting bracket from the larger fan, only to discover AFTER hooking up the wiring, that I could not. Once I started over, the installation went quickly and smoothly. I went with the white fan, rather than more ornate fans, because the dropped ceiling is white and this fan looks good against it. My wife helped me install it, but it could be installed by one person if necessary.",
+            "author": "SouthsideSlim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Decent fan, slight grind\"",
+            "rating": 3,
+            "date": "05/25/2018",
+            "recommended": true,
+            "text": "I have installed several ceiling fans.  For some reason, this fan makes a slight scratchy/grinding noise when in operation.  I've checked that everything is nice and tight, but it seems to be more of an internal motor issue.  I don't have time to remove and return the fan so will probably live with it for now.  Despite the noise, I am giving 3 stars anyway - the price is excellent and the fan looks nice.  It does a great job moving the air around.  I have purchased this same fan previously, and there was no grind.",
+            "author": "CH",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sindhu",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b9787c41-4c7f-5d31-9335-ac75c79b5441",
+                    "largeName": "d99061a1-b549-52ac-999d-5ed330199b63"
+                }
+            ],
+            "title": "\"Easy install; solid value\"",
+            "rating": 5,
+            "date": "10/29/2017",
+            "recommended": true,
+            "text": "This product is exactly what you want if you're looking for a quick upgrade for any room. With existing ceiling fan mount, installing this fan took less than 15 minutes. Blades are both white and pine-print to add an accent. Good value and easy install. Would recommend this product for anyone.",
+            "author": "Steve",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 5,
+            "date": "07/07/2019",
+            "recommended": true,
+            "text": "Very easy to install. Great detailed instructions. Works great.",
+            "author": "ChicagoDen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Low Price with High Satisfaction\"",
+            "rating": 4,
+            "date": "05/14/2018",
+            "recommended": true,
+            "text": "This is a plain fan at a low price that has out performed its price point in my opinion. I installed two of these in my two car garage more than three years ago and they are still going. They run most of the year and all summer long without being turned off. With my master bath and closet above my garage, they do make a noticable difference. Having them in the garage makes it a lot easier to work on the cars in the summer time.  They aren't as quiet as the more expensive fans in my house but I don't care since they are in the farage. I have more than gotten my monies worth.",
+            "author": "SVFRRS",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good little fan\"",
+            "rating": 5,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "This is a pretty basic \"builder grade\" fan.  It has separate wires for the light and the fan so you can use two switches.  It comes with a dimmable LED bulb, it isn't overly bright but does the job.  The fan came well packaged and didn't have any scratches or missing parts.  The assembly and mounting took about 30 minutes total, assembling the blades taking the longest. The fan didn't need any balancing whatsoever (it came with a balancing kit though, in case you need it), it's quiet and works just fine.  I bought 2, one for each spare bedroom.  No issues yet, I'd recommend for a similar setup but not for a large room.  The blades aren't huge, so in a large room you probably wouldn't feel anything from this unit.",
+            "author": "Mark",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Meh\"",
+            "rating": 3,
+            "date": "06/12/2018",
+            "recommended": false,
+            "text": "The fan works fine. That's nice.However, I wanted a white fan, not an \"off-white\" or \"cream\" colored fan, and the latter are a better description than the former. I ended up using the cover and blades from the 13 year old white fan I was replacing because they were still whiter than the one I just bought.Again, I don't want to be all negative: the fan accomplishes its purpose, to blow air in a way that cools people sitting near it. Thank you for that; I'm genuinely appreciative.",
+            "author": "deke",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent buy\"",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "Good price, easy to install, does a good job for smaller room.",
+            "author": "Rick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f9659333-396f-5f51-9922-884bed3a7051",
+                    "largeName": "7af758e1-c95c-569b-b69c-61e5a6fbc849"
+                }
+            ],
+            "title": "\"Simple but works!\"",
+            "rating": 5,
+            "date": "12/26/2017",
+            "recommended": true,
+            "text": "I just needed a small fan for a bedroom and this certainly appears to be doing the trick. Needed more in the summer so we'll see when it gets warm again.",
+            "author": "Ly",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "217786ac-56f7-5f39-befa-9aeb99a767ac",
+                    "largeName": "8665101d-5f4f-52fd-aa24-9172bf2888ae"
+                }
+            ],
+            "title": "\"Retired\"",
+            "rating": 5,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "Easy to mount.\nClear and easy instructions.\nQuite running motor.\nAmazed at how much illumination the LED bulb provides for so little current.",
+            "author": "Retired",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8138c756-011b-5d55-b7ed-544968d852e7",
+                    "largeName": "4c1fdac5-4547-5360-8f5c-f0934ed63fb8"
+                }
+            ],
+            "title": "\"Basic small fan\"",
+            "rating": 5,
+            "date": "07/15/2018",
+            "recommended": true,
+            "text": "It is basic. for a small childrens bedroom. It works well. Easy to install we painted it pink and purple and its great",
+            "author": "Rambo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Easy install--works great\"",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "The was the smaller of two fans (42in. or 52in.) available that are flush mounting--chose this one due to the room size. There is a convenient chart on the outside of the box to help you make your choice. All of the parts were there and the installation was easy. The included instructions cover it pretty good. Only tip I have for the someone that either has not does this before or not in a long time....make sure your either write down how the light fixture your replacing was wired or label the supply wires. Highly suggest that if this is NOT a replacing an existing light fixture and your are NOT an electrician---then hire yourself an electrician. Final words: does the job completely and thoroughly happy with the product.",
+            "author": "FishinDude",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "475970a2-6759-5437-8488-df22ab2a8d37",
+                    "largeName": "204d968d-856d-5720-9e2c-bba9f7d2589d"
+                }
+            ],
+            "title": "\"Perfect ceiling fan for bedrooms!\"",
+            "rating": 5,
+            "date": "12/05/2018",
+            "recommended": true,
+            "text": "Perfect size and feel of wind flow for 14x12 and 12x12 bedrooms. Super easy to install! Super affordable!",
+            "author": "Megz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "c5ae8c07-329c-5f50-a4d9-220286e523a5",
+                    "largeName": "a5d44ea9-ca10-5bfa-ab19-e5f027e3e6c0"
+                }
+            ],
+            "title": "\"Easy installation\"",
+            "rating": 4,
+            "date": "10/23/2018",
+            "recommended": true,
+            "text": "This fan was easy to install for us. We did paint the metal bits silver before installing though.",
+            "author": "Sandi",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "15221ff1-a154-5058-9531-5f8fb271f8df",
+                    "largeName": "e4f965f2-5a70-5561-bdc3-ad08d0f1ee0b"
+                }
+            ],
+            "title": "\"Inexpensive & effective\"",
+            "rating": 5,
+            "date": "09/20/2018",
+            "recommended": true,
+            "text": "Cheap and Super easy to install! Cools my kids' rooms down awesome! Little yet powerful.",
+            "author": "Lacey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3518be14-5bc5-53fc-818f-5f4554667775",
+                    "largeName": "ba47bf36-3d39-5d97-bfe6-413efe52a882"
+                }
+            ],
+            "title": "\"Great budget friendly fan\"",
+            "rating": 4,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "Get what you pay for but good quality for the price.",
+            "author": "JP",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "2419bac0-b916-569f-ae82-1fc68cb18e59",
+                    "largeName": "7cb7fa48-642b-57cd-96f1-ed419f360d23"
+                }
+            ],
+            "title": "\"Nice for a small room.\"",
+            "rating": 4,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "Added an improved look to the kids bedrooms.",
+            "author": "The1nonlydlh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "32ff8aba-20dd-5691-b8ba-916d8c2d7867",
+                    "largeName": "d3179b93-5aa2-526b-8b4d-8f71c715957b"
+                }
+            ],
+            "title": "\"4 blade fan\"",
+            "rating": 3,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "This was a replacement fan for the kitchen.",
+            "author": "Mac",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Fan was a Breeze to install.\"",
+            "rating": 5,
+            "date": "04/09/2018",
+            "recommended": true,
+            "text": "I had the easiest time installing this little jewel that I have ever had. When all was in place and tightened down a flip of the switch and away we went. The price was great and the performance equally as impressive.",
+            "author": "Lonewolf-1",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works fine.\"",
+            "rating": 5,
+            "date": "04/30/2018",
+            "recommended": true,
+            "text": "Bought this fan for my bedroom. Works great, easy to assemble. Went back the following day to get another for my computer room.",
+            "author": "Gerry",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Get a better product.\"",
+            "rating": 3,
+            "date": "09/15/2018",
+            "recommended": false,
+            "text": "This a cheaply made fan and hums pretty loudly once turned on. It doesn't put out strong air circulation either.",
+            "author": "Debipotpie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Noisy\"",
+            "rating": 1,
+            "date": "02/27/2018",
+            "recommended": false,
+            "text": "I have installed many ceiling fans. This particular fan was the noisiest fan I have ever installed.I would have returned it if it was mine. But, it works and since I was helping a friend and did not charge him for the labor we left it installed.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great quiet fan\"",
+            "rating": 5,
+            "date": "06/27/2017",
+            "recommended": true,
+            "text": "Very sturdy, quiet, no humming or vibrations. Quickly installed...by someone else!;)Sweet little light, and cute detail on the fan mounting. Best value I've found in a fan. Recommend strongly, I have it in small bedroom and keeps it nice and cool on a lower speed. Love it, price couldn't be better.",
+            "author": "Lynne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Motor smells burnt\"",
+            "rating": 1,
+            "date": "05/19/2018",
+            "recommended": false,
+            "text": "Motor had a small oder before install. After the install I let the fan run a few hours and it had the same smell the longer it ran the hotter it got and the smell got worse. Took two fans to get a good one.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Love these!\"",
+            "rating": 5,
+            "date": "08/15/2018",
+            "recommended": true,
+            "text": "I purchased 2 of these ceiling fans, one 4 years ago and one 3 years ago.  They provide great air circulation for their size (42 inches) and they are QUIET!   It took a few tries to get the fan properly balanced but once you do, it will provide you with peaceful air circulation.  NO HUMMING! Plus it comes with a light fixture which takes a standard ceiling light replacement bulb.  We are relocating and will be purchasing 2 more for the bedrooms in the new house.  Great fan/great price!",
+            "author": "dbgbocala",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Buy cheap get cheap.\"",
+            "rating": 2,
+            "date": "08/09/2017",
+            "recommended": false,
+            "text": "This fan looks nice. It is loud but more importantly the light will just turn on by itself when the light is switched off but the fan is on. Scared me in the middle of the night.",
+            "author": "jen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Smooth, but not quiet\"",
+            "rating": 4,
+            "date": "05/10/2018",
+            "recommended": true,
+            "text": "It works fine, easy to install, but has a noticeable hum, the same volume and pitch at all three speeds.It works for my bathroom; wouldn't want it in a bedroom to run at night.",
+            "author": "pj",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great indoor fan\"",
+            "rating": 4,
+            "date": "09/21/2018",
+            "recommended": true,
+            "text": "We just moved into a new home with no lights or fan and it was horrible at night. We bought these and it was great. Didn't keep us up at night and did the job perfectly.",
+            "author": "Cindy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ideal for a small room and at the right price\"",
+            "rating": 5,
+            "date": "03/30/2018",
+            "recommended": true,
+            "text": "Was easy to assemble and the amount of light is just what I ordered. Great fit for a small room",
+            "author": "Rich",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"42\" white garbor breeze led fan\"",
+            "rating": 5,
+            "date": "12/20/2018",
+            "recommended": true,
+            "text": "Love my new fan. It us beautiful, works great and I got it at an unbelievable price.",
+            "author": "PEGGY",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ceiling fan\"",
+            "rating": 5,
+            "date": "05/31/2019",
+            "recommended": true,
+            "text": "We install this prada it is absolutely gorgeous for the price great product",
+            "author": "McCarty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "03/26/2018",
+            "recommended": true,
+            "text": "Have a small room probably 15x15 and the fam works perfectly!",
+            "author": "Colleen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan\"",
+            "rating": 4,
+            "date": "04/22/2018",
+            "recommended": true,
+            "text": "It has a small hum other then that cheap goes together easy",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice budget fan\"",
+            "rating": 5,
+            "date": "12/30/2018",
+            "recommended": true,
+            "text": "This is a great, no frills fan.  Very easy to install.",
+            "author": "Doogie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "10/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dennis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "04/09/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "elizapace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze 42 in fan\"",
+            "rating": 5,
+            "date": "11/27/2018",
+            "recommended": true,
+            "text": "I have a wall mounted propane heater in my basement, which has 12 foot ceilings, and it takes nearly 2 days before I feel any heat near the floor. I installed this fan in the area that I work in the most and the fan moves the heat downward, warming my work area to 65-70 degrees in about 1/2 hour. I've had it for only a month, so I can't comment on how long it will work. It was economical to purchase and it does EXACTLY what I wanted it to do.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works Great Looks Good\"",
+            "rating": 5,
+            "date": "11/13/2017",
+            "recommended": true,
+            "text": "I used this ceiling fan to replace a fan that was similar that had stopped working. It did require that I hire someone to hang the fan only because I am not skilled at working on things electrical so I thought it best to bring in a professional. Once the fan was up it looked great. The pull cords were smooth and not sluggish when you tried to pull them and the lamp gave off adequate light for a bedroom. Definitely a great buy for the price.",
+            "author": "Grace10",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"smells like its burning\"",
+            "rating": 1,
+            "date": "10/06/2018",
+            "recommended": false,
+            "text": "fan when running smelled like burnings plastic .. I shot a laser temp gauge at it and temperature exceeded 120 degrees on the motor housing be very careful.",
+            "author": "geo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cheap looking\"",
+            "rating": 4,
+            "date": "11/01/2017",
+            "recommended": false,
+            "text": "This fan was received as a free promotion and is kinda cheap looking so I had my husband install it in our shop building. The install was pretty easy for him but he's installed lots of fans before. It gives adequate air movement in the 30x30 building and we haven't had any issues with it thus far. For me, it's fine for outside but not something I'd like in my living room or bedroom. The looks of it are just not to my liking.",
+            "author": "Dempsey83",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good fan for the money\"",
+            "rating": 5,
+            "date": "05/16/2019",
+            "recommended": true,
+            "text": "We needed a cheap ceiling fan for a room in our old house with a low ceiling no light switch.  We're restoring/renovating an old farm house and this particular room will eventually be gutted, but that's a couple years away still.  Pleased that it was an easy install, and that it looks good, too.  Extra bonus was that it's designed for LED bulbs, so we don't have to worry about overloading the old wiring in the ceiling.",
+            "author": "LH",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"LONG LASTING\"",
+            "rating": 5,
+            "date": "04/06/2019",
+            "recommended": true,
+            "text": "I'm getting ready to go to Lowes in the morning to buy a replacement fan for a bedroom.  In 2008 i got 2 of these little fans and have had no problems with them until today. After \"10 yrs\" one stopped turning , the other is still going. I truly recommend  this product. At 70 I know I can easily install one again. Good price , easy to install and will last a long time if they are made as well as my 1st two.",
+            "author": "49Taurus",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Basic utililitarian fan/light\"",
+            "rating": 4,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "Simple, very basic contemporary design. Quality components that are easy to assemble as well as to install. Perfect for small workspaces or rooms where a more aesthetic look is not necessary. The fan seems durable, is quiet, practical and functional at a very reasonable price. The blades do have white or wood tone on either side for you to choose from. It has three speeds and is reversible.",
+            "author": "Rick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"So far so good\"",
+            "rating": 4,
+            "date": "12/06/2017",
+            "recommended": true,
+            "text": "This fan was pretty easy to install--instructions were easy enough to follow and all parts were included. The fan and light are easy to operate though they don't feel very solid. That is, I wouldn't put the fixture in a place where kids are operating it all the time or where there is a higher potential for damage. All in all though, we've been happy with it.",
+            "author": "Alan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Michael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Chemical SMELL\"",
+            "rating": 1,
+            "date": "05/13/2018",
+            "recommended": false,
+            "text": "I don't mind that they are cheap as they would rarely be used but what in the world do they put in these fans that make them smell like a chemical plant? My cabin smells obnoxious so it looks like I'm gonna have to uninstall 2 fans and return them. All said about 2 hours wasted time. Unless you don't mind obnoxious chemical smells, don't buy these fans!",
+            "author": "Alan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Priced right.  Easy installation. Quiet operation.\"",
+            "rating": 5,
+            "date": "09/11/2017",
+            "recommended": true,
+            "text": "Perfect for the small room in witch it was installed.  The fan took less than 30 minutes to install. Good buy.",
+            "author": "brad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Inexpensive but full featured\"",
+            "rating": 5,
+            "date": "06/19/2019",
+            "recommended": true,
+            "text": "This fan is basic and is wonderful it visually blends into our ceiling because it is white and low profile. It was very easy to install with the instructions. It is very quiet (it's in our bedroom) and the multiple speeds allows us to set it just perfect for sleeping. We changed the light globe to make it look less builder grade.",
+            "author": "Rich",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan\"",
+            "rating": 5,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "I love this fan. It is just the right size for the room it is in. The color (white) brightens up the room. It gives just enough light from the globe, and the 4 blades circulating keeps the room and me cool. I would recommend this ceiling fan to my family and friends. I may also get another one for another room in my house.",
+            "author": "Deeg",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Small Room Approved!\"",
+            "rating": 5,
+            "date": "12/06/2017",
+            "recommended": true,
+            "text": "Excellent product for the price. Works best in a small room. Quality is great. Installation was a 'breeze.' Will definitely be buying this product again for two other rooms. Creates very cooling airflow for summer and gives that added circulation of warmth in the winter. Very quiet operation. Gives off excellent light.",
+            "author": "Scrapknot",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Decent fan for the price\"",
+            "rating": 3,
+            "date": "08/01/2018",
+            "recommended": false,
+            "text": "Bought 2 of these fans for the bedrooms. Was on a budget and didn't want to spend $$$ so for the price of $36 I can't complain. It moves air and the led light bulb is bright enough to light the whole room. It's not the best air mover but we do feel it. I'd say this is a perfect example of you pay for what you get.",
+            "author": "V",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Quiet and easy to install\"",
+            "rating": 4,
+            "date": "02/25/2019",
+            "recommended": true,
+            "text": "At its low price, I was pleasantly surprised at how quiet this fan is. It was installed in a kitchen with low sealings to help keep the smoke alarm from going off as often while cooking and does its job well. I which is lower-profile, though. The light fixture could be easily re-designed to be more shallow.",
+            "author": "Casey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"You Get What You Pay For\"",
+            "rating": 1,
+            "date": "04/23/2019",
+            "recommended": false,
+            "text": "Purchased this 52” Harbor Breeze fan based solely on price. It was more than what is listed  above. Failed to check the reviews prior to purchasing and after having installed the fan, need to take it down and remove it. The noise from the motor is unacceptable. Exchanging it for a reliable Hunter Fan",
+            "author": "Bonnie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan For A Small Room\"",
+            "rating": 5,
+            "date": "08/01/2018",
+            "recommended": true,
+            "text": "Bought this fan for a small room and it was a perfect choice. The fan was easy to install, the LED light is bright enough and it runs great, with plenty moving air. At the fastest setting, the fan is very quiet. The price is excellent compared to many other fans of its type; I highly recommend this fan.",
+            "author": "Johnny",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Small & Powerful!\"",
+            "rating": 4,
+            "date": "08/06/2017",
+            "recommended": true,
+            "text": "Love this fan for the circulation power and price. It runs smooth, quiet, and is the perfect size for my 8'x10'room. Highly recommend.",
+            "author": "JoZB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"HB Armitage\"",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "Great little fan.  Contractor grade.  Nothing fancy.  LED.  Updated a few basement lights to these fans to help with circulation.  Easy to install, good simple instructions.  Value was equivalent to a nice box fan with the benefits of no cords, a LED light, being able to reverse the directions, etc...",
+            "author": "Richard",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect for a 10x10 bedroom\"",
+            "rating": 5,
+            "date": "11/30/2018",
+            "recommended": true,
+            "text": "I bought this item for a gift to a friend who's standing fan caused a fire in her 10x10 bedroom. I had bought the 52\" for my bedroom 5 yrs prior and knew this wld be a perfect gift to her. The led lights is a plus that will last  a long time. ThankLowe's for your exceptional quality and ideal price.",
+            "author": "Marie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great price\"",
+            "rating": 4,
+            "date": "09/04/2018",
+            "recommended": true,
+            "text": "The price is great--installation was fairly easy. I had read other reviews stating it had a loud motor-- it's definitely somewhat loud but I don't find that a problem at all it's more like just having a white noise machine going. Would recommend for a small to medium room for someone on a budget!",
+            "author": "BRegina",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"FAN tastic purchase\"",
+            "rating": 5,
+            "date": "06/29/2018",
+            "recommended": true,
+            "text": "We needed a smaller fan for a small room. This was perfect. It was easy to install, easy instructions to follow and worked right away. It cools the room with 3 different speeds. It also gives you the option of having wood tone blades or all white blades. We are very happy with our purchase.",
+            "author": "wenjan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan for the budget minded.\"",
+            "rating": 5,
+            "date": "12/06/2017",
+            "recommended": true,
+            "text": "This is a well built, easy and quick to install low priced unit. It is a close mount which gives you adequate head clearance. The light globe is reminiscent of the old school house look and provides good lighting. If you want a good fan at a reasonable price this one should fill the bill.",
+            "author": "Pawpaw",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Decent fan\"",
+            "rating": 3,
+            "date": "10/29/2017",
+            "recommended": true,
+            "text": "I got this product to replace one in my living room. The installation was easy and straight forward. Instructions were good. Took about 30 minutes for me to install. \n\nOnce installed it took another 30 minutes to get balanced. That's not as easy as one would think. I ended up getting extra weights to use because no matter what I did, I couldn't get it balanced with the ones provided.\n\nI used the white side of the blades facing down, not sure why they put a wood grain look on one side because it doesn't match the rest of the white at all. \n\nThis can only has one light bulb which is LED, at 600 lumens. I really thought it would be brighter than it is. \nMy old fan had 3 bulbs, so maybe it takes getting used too. \n\nThe fan speeds seem the same as my old and are plenty for this size fan. \n\nAll in all, it's worth the money. I would like it to have more light bulbs or one brighter, and maybe be a little bit larger. It's ok for a small room, but wouldn't work well in a large living room or family room.",
+            "author": "Copatlarge",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Armitage 42\" White Ceiling Fan\"",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "I was pleasantly surprised by this little fan. It works very well and is really great for a small bedroom. It's a little noisy, but not to the point that it's irritating. I bought 2 for goth guest bedrooms and would def buy this little fan again if I ever needed another one.",
+            "author": "CDC",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Poor lighting\"",
+            "rating": 3,
+            "date": "11/07/2017",
+            "recommended": false,
+            "text": "Although this is a well made fan it only has 1 bulb in the light fixture. Recommends a max of a 60 watt. That 1 bulb is not enough light for a bedroom or a kitchen. Not sure where a good place to use this would be. Perhaps a laundry room but still a lighting issue.",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Awesomely Surprised\"",
+            "rating": 5,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "Installed this fan in a 14x14 guest room was thinking of getting bigger but Thot what heck try this one there n wow what a great fan it pushes air as good as my 52\" do super easy put up n my wife likes the blond shade of blades definitely great for this size room",
+            "author": "mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Repeat buyer, can't get enough!\"",
+            "rating": 5,
+            "date": "07/15/2018",
+            "recommended": true,
+            "text": "We love this fan! We actually use it in all our bedrooms and in the rooms at our parents'. We keep going back for another this will be our 5th one we have purchased. Our first was purchased over 2 years ago and still works good as new!",
+            "author": "HappyJen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Happy Mother-n-law!\"",
+            "rating": 5,
+            "date": "08/16/2018",
+            "recommended": true,
+            "text": "Went to visit the mother in law and her family quit working. We bought her this fan and she loved it, it was perfect for her room. And it was so affordable we got her another to replace the fan in another room. Daughter on law score!",
+            "author": "Rachel",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Value - Great Product\"",
+            "rating": 5,
+            "date": "11/29/2018",
+            "recommended": true,
+            "text": "Was a little unsure as this mounting was somewhat different than other fans I have hung.  However, after short time and following the directions, the fan worked flawlessly, was balanced the first try, and looks great in my kitchen.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Kitchen comfort\"",
+            "rating": 4,
+            "date": "08/23/2018",
+            "recommended": true,
+            "text": "Great little fan! Moves air well in our kitchen. Easy and quick to install. Only down side is the grounding wire was a tad too short for my particular installation. Turned out to be the perfect height for our low kitchen ceiling!",
+            "author": "Mainefolks",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Installed this fan in small bedroom\"",
+            "rating": 5,
+            "date": "05/08/2018",
+            "recommended": true,
+            "text": "This is one of the best ceiling fans I have ever purchased and installed. Quality with everything needed including light kit( already attached) and LED light bulb. Put it up in less then 15 minutes. I am more than happy",
+            "author": "Tim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works very good\"",
+            "rating": 4,
+            "date": "08/12/2018",
+            "recommended": true,
+            "text": "This is an excellent fan for the price. It is quiet, and moves a lot of air. The blades are reversible, allowing for 2 different color schemes. Easy to install, complete with hanging system to aid in the installation.",
+            "author": "JRM",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Simple and Efficent\"",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "This was really simple to install and only took maybe 30 min total. Went up easily and had no problems. It works to move air around in my daughters room in the hot summer days. Nothing fancy but not a bad fan either.",
+            "author": "Mcdonat22",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan for the price\"",
+            "rating": 5,
+            "date": "11/17/2018",
+            "recommended": true,
+            "text": "We bought this exact same fan about 20 yrs ago and we're just now having to replace it. The fan itself still works, but the light flickers a lot. So we're thinking something may be wrong with our electrical wiring.",
+            "author": "Brie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan, a little smaller than expected\"",
+            "rating": 4,
+            "date": "10/24/2018",
+            "recommended": true,
+            "text": "The fan looks and works well. It is a little smaller than I expected, but I have to take the blame for that, since everything was properly documented in the specifications. I'd recommend for a smaller room.",
+            "author": "Benjamin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ceiling Fan nice addition for Beach sunroom\"",
+            "rating": 4,
+            "date": "11/10/2017",
+            "recommended": true,
+            "text": "The ceiling fan was a welcomed replacement to our old ceiling fan at the beach in our sunroom. Our old fan wobbled and was rusted. The new fan was easy to install, attractive and circulates the air well.",
+            "author": "Perry",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent Fan\"",
+            "rating": 5,
+            "date": "03/11/2018",
+            "recommended": true,
+            "text": "Replaced a broken worn out fan with this one. It is easy to install, quite and doesn't shake on high. Also moves a lot of air. Light is bright for an average size bedroom. Great fan for a great price.",
+            "author": "Happy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Remodel\"",
+            "rating": 4,
+            "date": "02/22/2019",
+            "recommended": true,
+            "text": "Bought this fan to replace the broken one in our 2nd bedroom. Easy to swap out. Very quiet. Only complaint is when the fan is on there is a weird smell. I can smell it as soon as I walk in the room.",
+            "author": "JWahl",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"nice little fan\"",
+            "rating": 5,
+            "date": "05/21/2019",
+            "recommended": true,
+            "text": "This is a simple ceiling fan that is not very ornate. It just installs easily and works well without a lot of flash and splash. It's not very big, but it moves the air very well. Very affordable.",
+            "author": "curt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice fan for porch\"",
+            "rating": 4,
+            "date": "07/24/2018",
+            "recommended": true,
+            "text": "We were looking for a small inexpensive fan for our front porch.   It does a great job,  was easy to install.  The only issue is that it makes a bit of noise from time to time.",
+            "author": "Scott",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"52\" 5 blade with light kit\"",
+            "rating": 5,
+            "date": "12/28/2017",
+            "recommended": true,
+            "text": "Did not keep it. Took it back and exchanged for a little larger Harbour Breeze with 5 Blades and light kit which is great!! Quite, no wobble at high speed and plenty of light!!",
+            "author": "Captjv",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"52\" 5 blade with light kit\"",
+            "rating": 5,
+            "date": "12/28/2017",
+            "recommended": true,
+            "text": "Did not keep it. Took it back and exchanged for a little larger Harbour Breeze with 5 Blades and light kit which is great!! Quite, no wobble at high speed and plenty of light!!",
+            "author": "Captjv",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"42\" Armitage White CFAN item # 40680\"",
+            "rating": 5,
+            "date": "10/30/2017",
+            "recommended": true,
+            "text": "I hung this fan in a small 8'x10' office. It does an excellent job! It was easy to install, is very quiet, and we are very pleased with it. I would highly recommend this fan.",
+            "author": "Jules",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Decent fan for the price\"",
+            "rating": 4,
+            "date": "11/11/2017",
+            "recommended": true,
+            "text": "Installed this in my Daughter's bedroom. Pretty standard fan, nothing fancy, but does the trick if you are looking for a low priced fan with decent quality. Easy to install.",
+            "author": "Sherm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good for small rooms\"",
+            "rating": 3,
+            "date": "09/01/2018",
+            "recommended": true,
+            "text": "Used in small room.  Nothing fancey and if purchased I would recommend having another light source in room (ie bed lamp).  Light was just not bright enough for me.",
+            "author": "Kdgorter80",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Armitage 42-in White LED Indoor Flus\"",
+            "rating": 2,
+            "date": "03/10/2019",
+            "recommended": false,
+            "text": "Bought  2,   both  hum  and  noisy,  one  light stopped   working LED  and  special bulbs socket  issue. planning  to  replace  it with  new one  better quality.",
+            "author": "TZ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan, despite missing peices\"",
+            "rating": 4,
+            "date": "08/27/2018",
+            "recommended": false,
+            "text": "The fan is fine.  It works nicely and looks good.  However, we were missing 5 different screws.  Luckily we were replacing another fan,  so we reused those.",
+            "author": "Sarah",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan\"",
+            "rating": 5,
+            "date": "08/06/2018",
+            "recommended": true,
+            "text": "For the price, and for two kids' rooms, and a spare room the white goes great no matter how many times the decor changes. DH said they were easy to install.",
+            "author": "Marie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works well, simple installation\"",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "Contractor-grade ceiling fan suitable for many ceiling-height installations, clear instructions. Nice fit and finish with reversible white/wood tone blades.",
+            "author": "mikeh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very nice\"",
+            "rating": 5,
+            "date": "10/06/2018",
+            "recommended": false,
+            "text": "Very nice fan for small rooms. Works efficiently and quietly. Easy installation as well. Have two of these and will get more as the needed for other rooms.",
+            "author": "Kd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 5,
+            "date": "03/17/2018",
+            "recommended": false,
+            "text": "Decent fan.  Easy install and sits relatively close to the ceiling which is great in the room its in..  Moves plenty of air in the room even on low.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"perfect fan for smaller bedrooms\"",
+            "rating": 4,
+            "date": "09/05/2017",
+            "recommended": true,
+            "text": "For the price of these fans, they move air in small bedrooms, just what was needed.  If they last 5 or more years they will be a FANtastic bargan!",
+            "author": "am",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Basic Fan /Lighpt fixture, highly recommended.\"",
+            "rating": 5,
+            "date": "06/23/2018",
+            "recommended": true,
+            "text": "Basic fan/light fixture. Even though not top of the line I am giving 5 stars because it looks good, easy install, works well and priced right.",
+            "author": "REM2",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan, I definetly am\"",
+            "rating": 5,
+            "date": "11/14/2018",
+            "recommended": true,
+            "text": "I am a big fan of this product, just the size and the light kit is perfect I highly recommend it if you are looking for a new fan with light.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great ceiling fan!\"",
+            "rating": 5,
+            "date": "07/04/2019",
+            "recommended": true,
+            "text": "Great ceiling fan! Good quality and affordable price!",
+            "author": "MIB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan\"",
+            "rating": 5,
+            "date": "01/27/2019",
+            "recommended": true,
+            "text": "Put this fan in a small room puts out plenty of air pretty quite can't say much for the light that comes with it had to get daylight bulb",
+            "author": "Kenny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Effective fan just too noisy\"",
+            "rating": 3,
+            "date": "11/27/2017",
+            "recommended": true,
+            "text": "For being the cheapest price you can't ask for more!  It's just more noisy than I expected.  Get that figured out and sell it for $5 more",
+            "author": "PB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan review\"",
+            "rating": 5,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "Old fan failed, it was in a small room so we bought a smaller fan and installed it. This fan seems to be doing a good job and looks good",
+            "author": "Gene",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"42 inch an\"",
+            "rating": 5,
+            "date": "08/20/2018",
+            "recommended": true,
+            "text": "Hung the fan in the foyer and it is working great.  Makes a big difference in the amount of air being moved in that part of the house.",
+            "author": "Dub",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Surprised\"",
+            "rating": 5,
+            "date": "12/02/2018",
+            "recommended": true,
+            "text": "I was surprised to how well they worked considering the price and the blades have a tan color too if you want. Who knows long term...?",
+            "author": "wanabkolob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice little ceiling fan, easy to install\"",
+            "rating": 4,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "I had to replace fan than quit just nnededsomwthing quick and inexpensive, this filled the bill, and matches the other fan and light",
+            "author": "jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze 42-in Ceilin' fan\"",
+            "rating": 3,
+            "date": "08/17/2018",
+            "recommended": false,
+            "text": "Came in a lot smaller box than I expected !Simple fan, seems ok so far... Hopefully will last longer than the previous one we had.",
+            "author": "Lars",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ceiling fan\"",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "This small ceiling fan and light was perfect in a small room. It looks a lot better then I thought it would. It's working great!",
+            "author": "Peggy52",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great purchase\"",
+            "rating": 5,
+            "date": "02/02/2019",
+            "recommended": true,
+            "text": "This fan light combo is easy to install, energy efficient and good looking. I bought two for my lani. This was a great deal.",
+            "author": "doggydude",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very well made\"",
+            "rating": 5,
+            "date": "02/21/2019",
+            "recommended": true,
+            "text": "This fan was bought for a rental property and the tenants love it! They said it is very quiet and puts off a nice breeze.",
+            "author": "CB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"4blade fan\"",
+            "rating": 4,
+            "date": "04/10/2019",
+            "recommended": true,
+            "text": "This fannis a great value for the money.  Nice high profile and fairly decent lighting in a one shot kit.Thanks lowes!",
+            "author": "G",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great small room fan.\"",
+            "rating": 4,
+            "date": "06/29/2019",
+            "recommended": true,
+            "text": "Great fan at a better price. Nothing fancy, but it has a LED bulb included and is super quick and easy to mount.",
+            "author": "TopCross",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice fan\"",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "This is a decent fan for the money. For once I put up a fan and I didn't have to spend more time balancing it out.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Inexpensive bedroom ceiling fan\"",
+            "rating": 5,
+            "date": "08/20/2017",
+            "recommended": true,
+            "text": "I needed a replacement ceiling fan for a bedroom in my duplex.  Very happy with this one.  Will buy more of them.",
+            "author": "ebill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fairly easy install\"",
+            "rating": 4,
+            "date": "03/05/2018",
+            "recommended": true,
+            "text": "Found this unit at a good price and easy to install as ceiling fans go.  It has a pretty quiet operation as well.",
+            "author": "FSalinas",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Awesome\"",
+            "rating": 5,
+            "date": "08/08/2018",
+            "recommended": true,
+            "text": "Very nice product. Runs quite easy to install. No issues. I have about 20 of these in my house and my rentals.",
+            "author": "Karen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice little fan\"",
+            "rating": 4,
+            "date": "12/03/2017",
+            "recommended": true,
+            "text": "Nice fan, easy to install. Keeps a small room cool. Only con is the small light kit ( one small wattage bulb)",
+            "author": "Smitty",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Best fan for the 30 dollar price tag\"",
+            "rating": 5,
+            "date": "08/25/2018",
+            "recommended": true,
+            "text": "These fans are quite, easy to install. Bought one, and went back for 2 more. And they are nice to look at.",
+            "author": "ray",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Just what I needed\"",
+            "rating": 4,
+            "date": "11/13/2017",
+            "recommended": true,
+            "text": "Nothing fancy, white ceiling fan, nice light. 42 inch perfect for my small kitchen. Quiet, smooth running.",
+            "author": "Dona",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"If you're looking this is it\"",
+            "rating": 5,
+            "date": "08/26/2018",
+            "recommended": true,
+            "text": "The ceiling fan is everything I wanted plus more for the price I paid. Very quiet and gets the job done.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good fan.\"",
+            "rating": 4,
+            "date": "06/08/2019",
+            "recommended": true,
+            "text": "Bought this fan for my daughters bedroom. Good fan for the money.  Quite operating and easy to install.",
+            "author": "Lee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good basic fan\"",
+            "rating": 4,
+            "date": "10/07/2017",
+            "recommended": true,
+            "text": "I bought this for my kitchen. It's a good,quiet fan. I do love the included led bulb. A great value.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"ceiling fan\"",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "Very nice fan for the money.....needed small ceiling fan for computer room...fits and works great!",
+            "author": "Butch",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Basic and Beautiful\"",
+            "rating": 4,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "Looks like a fan worth twice the price. Worked perfect for what I need it for.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Summer fan\"",
+            "rating": 4,
+            "date": "03/20/2019",
+            "recommended": true,
+            "text": "No complaints except that the light is not bright enough. Need to change. But overall. Good buy.",
+            "author": "Edmund",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works!\"",
+            "rating": 5,
+            "date": "01/23/2019",
+            "recommended": true,
+            "text": "Great for small rooms, pushes air evenly and was easy to balance - because I didn't have too.",
+            "author": "Cap",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great for the price\"",
+            "rating": 5,
+            "date": "10/30/2018",
+            "recommended": true,
+            "text": "It's works and it's quiet everything you want for such a great price!!! Great for small roomd",
+            "author": "Tdub",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan!\"",
+            "rating": 5,
+            "date": "01/19/2018",
+            "recommended": true,
+            "text": "This went into the girls room and they loved it.  Very quiet and the lighting is just right.",
+            "author": "Arazo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Indoor fan\"",
+            "rating": 5,
+            "date": "02/01/2019",
+            "recommended": true,
+            "text": "Love this fan. It was very easy to install and the function is just what I was looking for.",
+            "author": "Marie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ceiling Fan\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "Replace 2 old broken ceiling fans that the light quit working and the blades were drooping",
+            "author": "MarvinMathis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Bang for your buck!\"",
+            "rating": 5,
+            "date": "03/14/2019",
+            "recommended": true,
+            "text": "Nice and simple setup, works nicely for smaller rooms, nice and quiet, will buy it again!",
+            "author": "LJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Porch fan\"",
+            "rating": 5,
+            "date": "02/19/2019",
+            "recommended": true,
+            "text": "Very simple to assemble and connect to wiring. Placed out in the porch for summer breeze.",
+            "author": "Uli",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"good for a emergeny fan\"",
+            "rating": 4,
+            "date": "06/30/2019",
+            "recommended": true,
+            "text": "my fan broke down but very little money. this fan works great for the price",
+            "author": "dorothy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fit\"",
+            "rating": 5,
+            "date": "03/19/2019",
+            "recommended": true,
+            "text": "It's a nice size for a small bedroom and has good power. It is exactly what we needed.",
+            "author": "Cathy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cost effective, quiet and clean.\"",
+            "rating": 4,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "Easy to install and perfect for small rooms. Reversible blades for two optional looks.",
+            "author": "Beth",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Ceiling Fan\"",
+            "rating": 5,
+            "date": "10/23/2018",
+            "recommended": true,
+            "text": "Installed this in our outdoor patio. Installation was easy and fan/light works great.",
+            "author": "KAB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good product, easy install\"",
+            "rating": 4,
+            "date": "05/27/2018",
+            "recommended": true,
+            "text": "Easy to install and seems like a good fan. A little noisy, but not bad for the price",
+            "author": "Cc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Reliable Ceiling Fan\"",
+            "rating": 5,
+            "date": "10/24/2018",
+            "recommended": true,
+            "text": "Quiet and efficient; not too big; just right for medium to small-size bedrooms.",
+            "author": "Fred",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Quiet & good size for my sunroom\"",
+            "rating": 5,
+            "date": "03/24/2019",
+            "recommended": true,
+            "text": "Good price & perfect for our sunroom to gently move the air. Install was easy.",
+            "author": "dlbolyard",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Armitage 42-in White Indoor Flush\"",
+            "rating": 5,
+            "date": "08/14/2018",
+            "recommended": true,
+            "text": "Excellent fan for bedroom, with easy to read directions. Mounting was simple.",
+            "author": "Author",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent Fan\"",
+            "rating": 5,
+            "date": "12/07/2017",
+            "recommended": true,
+            "text": "Small for a bedroom that is the master, but quite and a very bright light.",
+            "author": "Pam",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan\"",
+            "rating": 5,
+            "date": "06/03/2019",
+            "recommended": true,
+            "text": "Nice, small, cost effective ceiling fan/light for a small bedroom or den.",
+            "author": "Theo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good value\"",
+            "rating": 5,
+            "date": "09/28/2018",
+            "recommended": true,
+            "text": "For the price this is an excellent fan for a small room. Easy to install.",
+            "author": "Jg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"perfect for a small room\"",
+            "rating": 5,
+            "date": "05/03/2019",
+            "recommended": true,
+            "text": "This fan was easy to put up. It is very quiet perfect for a small bedroom",
+            "author": "GD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Just what I needed\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "Fan was exactly what I was looking for. Installation was quick and easy.",
+            "author": "Joyce",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice small room fan\"",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "It works great for my son's room. Was very easy to install. It's quiet.",
+            "author": "Brandy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan!\"",
+            "rating": 5,
+            "date": "03/19/2019",
+            "recommended": true,
+            "text": "Installed easily and works well.  Very quiet even on the highest speed.",
+            "author": "Dsquared",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good basic fan\"",
+            "rating": 5,
+            "date": "11/18/2018",
+            "recommended": true,
+            "text": "This fan was purchased to fin a guest bedroom. It is the perfect size.",
+            "author": "MG",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice Fan!\"",
+            "rating": 5,
+            "date": "10/29/2017",
+            "recommended": true,
+            "text": "I needed a replacement for an old ceiling fan that had been mounted improperly. When the fan was on the high setting it would wobble like crazy. It wasn't very safe, so we had to use it on medium or low speed which minimized the wobbling. \nThe Armitage fan was a great choice to replace my old fan. The all white color goes well with my current kitchen color scheme and blends in seamlessly. The whole installation process took about 35 to 45 minutes which included removing the old fan. I made sure the breaker was off before doing anything. I don't need to be a big shot by just turning off the wall switch. All parts and instructions were neatly packed and easy to follow. Take your time and make sure everything is snug at each step to prevent accidents. Once installation was completed, I tested the light and fan which worked really well. The fan is sturdy and quiet. The light was very bright thanks to the provided LED bulb. This will provide efficient lighting that won't need to be replaced for a while. I should note that the one bulb that comes with this fan outshines the 3 little incandescent bulbs on my old fan. This is a good sturdy fan that will go with almost any decor, and provide bright, efficient operation.",
+            "author": "JB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze 42\" White indoor ceiling fan\"",
+            "rating": 5,
+            "date": "06/18/2018",
+            "recommended": true,
+            "text": "Great price! Easy to install. Perfect for a small bedroom or office.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "04/03/2019",
+            "recommended": true,
+            "text": "Works perfect.  Easy to install. My 15year old son installed this.",
+            "author": "Dad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"right size, right price\"",
+            "rating": 5,
+            "date": "09/30/2018",
+            "recommended": false,
+            "text": "the right size for the right price ceiling fan. does a great job.",
+            "author": "john",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good inexpensive small fan\"",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "Good for small room or bedroom.  Easy installation.  Great price.",
+            "author": "Lee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"The product was way less expensive then I expected\"",
+            "rating": 5,
+            "date": "10/31/2018",
+            "recommended": true,
+            "text": "Quality was excellent plan to buy more for entire house thanks.",
+            "author": "Milton",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Decent little fan\"",
+            "rating": 3,
+            "date": "03/22/2019",
+            "recommended": true,
+            "text": "Easy to hook up, simple, and meets the need of a small bedroom.",
+            "author": "Brandon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Real nice fan.\"",
+            "rating": 4,
+            "date": "11/27/2017",
+            "recommended": true,
+            "text": "The fan is now up and it is real nice. Quiet and nice looking.",
+            "author": "Gail",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"nice little fan\"",
+            "rating": 4,
+            "date": "09/02/2018",
+            "recommended": true,
+            "text": "Easy install and good price works nice. Great for small rooms",
+            "author": "bigdave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan\"",
+            "rating": 4,
+            "date": "11/21/2018",
+            "recommended": false,
+            "text": "Great fan and great price! Just put it up and so far so good!",
+            "author": "Kat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"cool off the bedroom\"",
+            "rating": 5,
+            "date": "10/07/2018",
+            "recommended": true,
+            "text": "works great so far no complaints. flush mount which I needed.",
+            "author": "diybob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan for the price\"",
+            "rating": 5,
+            "date": "08/12/2018",
+            "recommended": true,
+            "text": "This fan works great for smaller rooms. Was easy to install.",
+            "author": "DIYer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good guality\"",
+            "rating": 5,
+            "date": "11/11/2018",
+            "recommended": true,
+            "text": "Easy to install. Looks great in the guest room. Runs quite.",
+            "author": "Bree",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan\"",
+            "rating": 3,
+            "date": "12/13/2018",
+            "recommended": true,
+            "text": "Small but functional...no noises but it was just installed",
+            "author": "JudyM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works well\"",
+            "rating": 5,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Can't best it for the price.  Second one I have bought.",
+            "author": "Dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice inexpensive product\"",
+            "rating": 5,
+            "date": "04/11/2019",
+            "recommended": true,
+            "text": "Nice fan, easy to install. Runs quietly and looks nice",
+            "author": "RL",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"More power\"",
+            "rating": 3,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "This was easy to install, but it needs to be stronger.",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great basic fan\"",
+            "rating": 4,
+            "date": "05/30/2018",
+            "recommended": true,
+            "text": "Perfect for a small kids room. Works and looks great.",
+            "author": "Bres05",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Easy to install\"",
+            "rating": 5,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "This fan works well in a small room.  Easy to install",
+            "author": "UNstamper",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor breeze fan\"",
+            "rating": 5,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "Excellent value very easy to install works fantastic",
+            "author": "Curt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"ceiling fan\"",
+            "rating": 4,
+            "date": "12/14/2018",
+            "recommended": true,
+            "text": "Basic ceiling fan, nothing special, easy to install.",
+            "author": "Mb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Looks great\"",
+            "rating": 4,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Little harder for an 81 year old man but I managed.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/30/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Niecey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rachel",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/20/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dennis",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/12/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "rick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "CJ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Georief",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bj",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/04/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "GEDO",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Theredmeadow",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Memma",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jack",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Debbie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/04/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "GEDO",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/22/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rudy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kathryn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Theredmeadow",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "10/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Doug",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/14/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gator",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Docpowell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "JanisLong",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ralph",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lutreda",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Peter",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dori",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Randy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sarge",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kia",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/05/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Nancy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Me",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Carl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/27/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "sherryt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/27/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jb",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "bob",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "fish1623",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Brandon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Roseann",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/30/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jennifer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "roy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gabe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "cora",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "POPS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Nick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jonathan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Niah",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Guadalupe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Eva",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Esteban",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jj",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Earthly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Brian",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "09/10/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sleepless",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/12/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Papa",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "T",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Carl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Memma",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/15/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "j",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/23/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "KBBROWNTVA",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/12/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Erin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/12/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Clay",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/30/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "denny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Thebrat",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/17/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hrider398",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bert77",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jpierce1791",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dawn",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Andie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/19/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ronald",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Donna",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Linda",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marvy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Picasso",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "WAresident",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sandy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Roy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jonathan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rel2k",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Damonw401",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/27/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "awbrown",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bruce",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dovidean",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mel",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "joyce",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Great small room fan\"",
+            "rating": 5,
+            "date": "11/07/2017",
+            "recommended": true,
+            "text": "Just converted a small bedroom (10 x 10 feet) into an office area and wanted to get some air circulation in the room. Selected this small fan as the color (white) and size (42 inch) seemed a good fit for my space. Received the fan in a surprisingly small box but it was packaged very well. Each painted piece was in it's own plastic bag so all finished areas were well protected so no issues with any scratches or damage. All the parts were in the box and even a few extra screws were included. Did not have a ceiling light in this room so most effort in the process was to mount a fan box and get power to it. Once the wiring was done the fan installation was a snap. Very simple design. I liked the way the hanging bracket was designed to allow hanging the motor while connecting the wiring. Also liked that most screws were installed in brackets so I did not have to search through a large bag of fasteners to find the right ones. Brackets had small rubber pads to avoid metal to metal contact and reduce vibration. The fan does hum, especially at the low speed, which I expected as this is a direct ceiling mount. Good news is that the hum is not is not objectionable and I don't notice it while I am working at my desk. The fan does come with a balance kit if needed but it works fine without it. The finish color is not a bright white but just a bit off white so very compatible with most any ceiling paint. The fan also comes with an LED light bulb that provides a nice bright soft white light so very pleased with the light output. Overall a nicely built little fan with good instructions that was an easy install which added just the right amount of air circulation to the room and is an excellent value. Full disclosure - this fan was provided to me in exchange for an honest review so I have given my unbiased opinon on the features and quality of the product.",
+            "author": "leanguy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 283,
+        "percentRecommended": "87",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 179,
+            "four": 67,
+            "three": 18,
+            "two": 7,
+            "one": 12
+        }
+    },
+    "questions": [
+        {
+            "question": "\"can you put longer blades on this fan like 52 inch?\"",
+            "author": "DAn",
+            "date": "08/05/2017",
+            "answers": [
+                {
+                    "author": "dbeagar",
+                    "date": "04/25/2019",
+                    "text": "It is possible, Yes, but you should not do that. Putting larger blades on this fan motor would not be a good idea. The fan motor is designed for 42 inch four blade use and putting longer blades could shorten motor life. A much better idea is to buy a 52 inch fan such as the Harbor Breeze Item # 807426. Assuming you want to stay in this price range.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "SouthsideSlim",
+                    "date": "11/07/2017",
+                    "text": "I replaced a 48-in fan with this 42-in fan. I had to switch to a smaller mounting bracket. I suspect a 52-in fan would require an even larger bracket.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "I suppose you could, but the fan motor itself is designed for specific size blades. The bearings, horsepower rating and life of the motor would be greatly reduced.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "Citygirl79",
+                    "date": "11/02/2017",
+                    "text": "I wouldn't think it would look right to put longer blades on.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "WoodenMakeup",
+                    "date": "10/30/2017",
+                    "text": "I would imagine that you could since they sell the same exact fan in a 52\". However, you would probably have to drill new holes to make it fit the fans particular hardware.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "08/08/2017",
+                    "text": "No, the motor is not adequate to pull larger blades. Using blades that are too large will cause the motor to overheat which creates a fire hazard and voids the warranty.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the LED bulb replaceable or do you have to replace the whole thing when the bulb goes?\"",
+            "author": "Karen",
+            "date": "07/29/2017",
+            "answers": [
+                {
+                    "author": "Grayone1",
+                    "date": "04/21/2019",
+                    "text": "Yes,But only with a A19 type bulb.800lm /60watt equivalent. Is the max,you can go up to a 75 watt equivalent but they soon fail because of the extra heat in an enclosed space.You can remove the glass globe and any thing with a 26 medium base will work.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "leanguy",
+                    "date": "11/07/2017",
+                    "text": "The bulb is replaceable. The bulb it comes with is very small but I think it is designed for a ceiling fan but it has a standard base. The opening of the glass globe is about 2 3/4 inches so as long as the bulb will fit you can replace the bulb. Given that it is an LED it should last many years.",
+                    "helpful": {
+                        "yes": 19,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "WoodenMakeup",
+                    "date": "10/30/2017",
+                    "text": "It is just a bulb and is replaceable which is one thing i liked in particular about this fan. As one of my other fans has that circuit board thing and Ido not like it.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "10/29/2017",
+                    "text": "It is a 60w, 600 lumens replaceable bulb.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "SuperDave",
+                    "date": "09/19/2017",
+                    "text": "The bulb is replaceable. Have this fan installed in two rooms at the house",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "07/31/2017",
+                    "text": "The LED bulb is replaceable. It uses an E26-base bulb.",
+                    "helpful": {
+                        "yes": 11,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can the light fixture be removed if I don't need it and to gain more vertical clearance?\"",
+            "author": "tobybul",
+            "date": "12/16/2017",
+            "answers": [
+                {
+                    "author": "jman",
+                    "date": "08/25/2018",
+                    "text": "No. There isn't a blank cap included with this fan.",
+                    "helpful": {
+                        "yes": 18,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "05/26/2018",
+                    "text": "Yes the light kit is seperate/optional/included",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "Citygirl79",
+                    "date": "01/01/2018",
+                    "text": "I hear you saying you want to remove the fixture for more clearance, but removing the fixture would not help, as the lightbulb would still stick down. Just try it and see what you think.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "12/18/2017",
+                    "text": "Tobybul, No. The Armitage doesn't have a \"no-light\" option.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "12/17/2017",
+                    "text": "You can remove the fixture and gain about an inch. If you remove the bulb also you will gain a few more inches.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the fan motor reversible?\"",
+            "author": "MrChilly",
+            "date": "11/02/2017",
+            "answers": [
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "Yes, and has three speeds.",
+                    "helpful": {
+                        "yes": 25,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "11/03/2017",
+                    "text": "Yes, all ceiling fans have reversible motors.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Steve",
+                    "date": "11/02/2017",
+                    "text": "Yes, the fan offers two directions",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "WoodenMakeup",
+                    "date": "11/02/2017",
+                    "text": "Yes it is.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "11/02/2017",
+                    "text": "Yes it is",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How much does this item weigh in lbs\"",
+            "author": "Mar",
+            "date": "10/07/2017",
+            "answers": [
+                {
+                    "author": "Jim",
+                    "date": "11/07/2017",
+                    "text": "Maybe 7 pounds",
+                    "helpful": {
+                        "yes": 15,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "An educated guess, less than five pounds.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Steve",
+                    "date": "10/29/2017",
+                    "text": "I would guesstimate between 5-8 lbs",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "10/29/2017",
+                    "text": "Total weight assembled is about ten pounds.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "10/09/2017",
+                    "text": "The 42-inch Armitage weighs 9.68 pounds.",
+                    "helpful": {
+                        "yes": 15,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you add remote capabilities?\"",
+            "author": "Elyse",
+            "date": "09/14/2017",
+            "answers": [
+                {
+                    "author": "SouthsideSlim",
+                    "date": "11/07/2017",
+                    "text": "No.",
+                    "helpful": {
+                        "yes": 22,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "No.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "WoodenMakeup",
+                    "date": "10/30/2017",
+                    "text": "Hi, Yes I believe you can add any universal remote to any ceiling fan kit.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Jules",
+                    "date": "10/30/2017",
+                    "text": "I see no reason not to be able to add a remote control.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "09/14/2017",
+                    "text": "No, the mounting bracket on the Armitage, like most hugger-style ceiling fans was not designed to secure a remote receiver.",
+                    "helpful": {
+                        "yes": 11,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the light kit interchangeable? This can appears just right for the 3 small bedrooms in our home but find the light unattractive, can I switch it?\"",
+            "author": "Jen",
+            "date": "07/31/2017",
+            "answers": [
+                {
+                    "author": "SouthsideSlim",
+                    "date": "11/07/2017",
+                    "text": "I imagine you can install a different globe of the same diameter base.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 4
+                    }
+                },
+                {
+                    "author": "leanguy",
+                    "date": "11/07/2017",
+                    "text": "The light kit appears to mount like most standard ceiling fans would. However, I would recommend just replacing the globe with one you find more attractive. The globe neck is about 3 1/4 inches in diameter and is held in with 3 screws so it is easy to replace.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "I agree it's not the greatest looking light kit, but alas looking at mine, the best you can do is change the \"globe\" to something a bit more appealing.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "10/29/2017",
+                    "text": "You can change the actual glass cover as it's a standard 3.5” size.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "07/31/2017",
+                    "text": "I'm not aware of any universal light kits that would fit this fan.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Do u have to use light kit?\"",
+            "author": "Pancho",
+            "date": "06/20/2017",
+            "answers": [
+                {
+                    "author": "leanguy",
+                    "date": "11/07/2017",
+                    "text": "The fan does not come with a cover plate so the globe and/or fan kit could be removed but there is no cover to replace it provided so you would have a opening in the bottom of the fan with the light wires hanging out. Some fans do included a cover to replace a light kit but this one did not.",
+                    "helpful": {
+                        "yes": 16,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "Unless you did quite a bit of modification I'm going to have to say \"yes.\"",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Steve",
+                    "date": "10/29/2017",
+                    "text": "Light kit is preinstalled; however pretty sure you could bypass with some electrical knowledge",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "10/29/2017",
+                    "text": "There is a separate pull string for the light and fan, so you can leave the light off if you'd like.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "06/20/2017",
+                    "text": "Yes. This fan doesn't have a \"no-light\" option.",
+                    "helpful": {
+                        "yes": 18,
+                        "no": 5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"does it put out a good breeze\"",
+            "author": "ANN",
+            "date": "04/23/2017",
+            "answers": [
+                {
+                    "author": "Rick",
+                    "date": "11/07/2017",
+                    "text": "For a flush mount fan, at high speed, it puts out a satisfactory breeze for me.",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 7
+                    }
+                },
+                {
+                    "author": "Citygirl79",
+                    "date": "11/02/2017",
+                    "text": "Yes, it makes a noticeable difference.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "WoodenMakeup",
+                    "date": "10/30/2017",
+                    "text": "Yes, it is really good.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Copatlarge",
+                    "date": "10/29/2017",
+                    "text": "Yes. I see no difference between this one and the 52” I have in another room.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Dave",
+                    "date": "04/23/2017",
+                    "text": "Yes, but mine clicked horribly from the motor area. Clicked and scraped on every revolution. Took it down immediately after installing and bought a $109 Hunter. You get what you pay for. Pass on this one my friend.",
+                    "helpful": {
+                        "yes": 12,
+                        "no": 5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you mount this on an angled or sloped ceiling?\"",
+            "author": "Anonymous",
+            "date": "06/29/2018",
+            "answers": [
+                {
+                    "author": "Jim",
+                    "date": "07/07/2018",
+                    "text": "sure",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 4
+                    }
+                },
+                {
+                    "badgeName": "b78648a4-3eb3-5767-b149-006877b23fba",
+                    "author": "HarborBreeze Team",
+                    "date": "07/02/2018",
+                    "text": "No, hugger-style fans like the Armitage were designed to be used on a flat ceiling only. We apologize for any inconvenience this might cause.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Steve",
+                    "date": "06/30/2018",
+                    "text": "No. This fan's base doesn't move unfortunately.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Rick",
+                    "date": "06/29/2018",
+                    "text": "No, this is a flush mount fan. You have to get a fan that hangs from a \"down rod\" You must also make sure the rod is long enough to prevent the fan blades from hitting the angled/sloped area of the ceiling. I hope that helps and my explanation was understandable enough.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

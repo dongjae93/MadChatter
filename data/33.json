@@ -1,0 +1,2242 @@
+{
+    "descriptions": {
+        "overview": "The Wi-Fi Smart Color Thermostat is ideally suited for the connected home and today's smartphone. It's packed with smart features, a customizable color touchscreen and easy setup. All you need is a Wi-Fi connection, or use the free app for smartphone/tablet to manage the thermostat remotely and take advantage of savings when away and maintain comfort when home.",
+        "list": [
+            "Wi-Fi enabled so you can control from anywhere with your smartphone, tablet or computer",
+            "Fully customizable color touchscreen allows you to change the background color to match your paint color or personal preference",
+            "Smart Response Technology learns your home's heating and cooling cycle times to deliver optimal temperature at the right time",
+            "View daily forecast on thermostat screen or the 5-day forecast on the app",
+            "Automatic energy-saving settings that fit your life",
+            "Auto alerts to your device ensure on-time filter changes and keeps you in the know about extreme temperatures",
+            "Auto change from heat to cool automatically determines if your home needs heating or cooling to provide maximum comfort",
+            "Permanent, temporary and vacation hold settings",
+            "Works with Alexa, Samsung SmartThings, Google Assistant, IFTTT, Stringify,Yonomi, and Cortana"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Compatible with Oil Fuel Types",
+            "spec": 1
+        },
+        {
+            "title": "Compatible with Gas Fuel Types",
+            "spec": 1
+        },
+        {
+            "title": "Compatible with Electric Fuel Types",
+            "spec": 0
+        },
+        {
+            "title": "Supports Single-Stage Heating",
+            "spec": 1
+        },
+        {
+            "title": "Supports Single-Stage Cooling",
+            "spec": 1
+        },
+        {
+            "title": "Supports Multi-Stage Heating",
+            "spec": 1
+        },
+        {
+            "title": "Supports Multi-Stage Cooling",
+            "spec": 1
+        },
+        {
+            "title": "Control Type",
+            "spec": "Touch screen"
+        },
+        {
+            "title": "Battery Type",
+            "spec": "N/A"
+        },
+        {
+            "title": "Auto-Away Mode",
+            "spec": 0
+        },
+        {
+            "title": "Proximity Sensor",
+            "spec": 0
+        },
+        {
+            "title": "Outdoor Weather Sensor",
+            "spec": 1
+        },
+        {
+            "title": "Energy History Indicator",
+            "spec": 0
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Package Contents",
+            "spec": "Wi-Fi Smart Color Thermostat, Mounting Hardware, Install Guide"
+        },
+        {
+            "title": "Warranty",
+            "spec": "2-year limited"
+        },
+        {
+            "title": "Compatible with 24V Heating",
+            "spec": 1
+        },
+        {
+            "title": "Compatible with 24V Cooling",
+            "spec": 1
+        },
+        {
+            "title": "Program Periods per Day",
+            "spec": "4"
+        },
+        {
+            "title": "Auto System Change from Heat to Cool",
+            "spec": 1
+        },
+        {
+            "title": "Temperature Displayed",
+            "spec": "Current and setpoint/desired temperature"
+        },
+        {
+            "title": "High/Low Desired Temperature Limits",
+            "spec": 1
+        },
+        {
+            "title": "Temporary Vacation Override",
+            "spec": 1
+        },
+        {
+            "title": "Hold Temperature Button",
+            "spec": 1
+        },
+        {
+            "title": "Early-Start Comfort Function",
+            "spec": 1
+        },
+        {
+            "title": "Filter Monitor",
+            "spec": 1
+        },
+        {
+            "title": "Daylight Savings Time Ready",
+            "spec": 1
+        },
+        {
+            "title": "Compatible with Aux/Emergency Heat Pump",
+            "spec": 1
+        },
+        {
+            "title": "Compatible with Humidifier/Dehumidifier",
+            "spec": 0
+        },
+        {
+            "title": "Series Name",
+            "spec": "Wi-Fi Smart Color"
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 0
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Mounting Hardware Included",
+            "spec": 1
+        },
+        {
+            "title": "Remote Control Included",
+            "spec": 0
+        },
+        {
+            "title": "Battery Size",
+            "spec": "N/A"
+        },
+        {
+            "title": "Backlit Display",
+            "spec": "Yes (always on)"
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": "N/A"
+        },
+        {
+            "title": "Displays Weather Forecast",
+            "spec": 1
+        },
+        {
+            "title": "Batteries Included",
+            "spec": "N/A"
+        },
+        {
+            "title": "Built-In Z-Wave",
+            "spec": 0
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "Hub Required",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 1
+        },
+        {
+            "title": "Works with Android",
+            "spec": 1
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 1
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 1
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 1
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 0
+        },
+        {
+            "title": "ENERGY STAR Certified",
+            "spec": 1
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "41112200"
+        },
+        {
+            "title": "Display Type",
+            "spec": "LCD"
+        },
+        {
+            "title": "Room Sensor Included",
+            "spec": 0
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Silver"
+        },
+        {
+            "title": "Type",
+            "spec": "Smart thermostat"
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "ce014d92-44a9-5f3b-ad7f-98332371a7b5",
+                    "largeName": "80209377-d9ba-5f94-9a5b-b2e3e4be282e"
+                },
+                {
+                    "smallName": "36c66ee3-c07f-58c2-8fa2-68868b53d3ec",
+                    "largeName": "a62ae4d5-8789-52e3-88cb-259d001caa3a"
+                }
+            ],
+            "title": "\"Excellent thermostat...\"",
+            "rating": 5,
+            "date": "11/09/2018",
+            "recommended": true,
+            "text": "Works excellent and easy to operate from my phone... Being single and traveling it's great to be able to control the thermostat while on the road...",
+            "author": "Chito",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "c5c22408-1f48-555e-aba6-7607a04f81a5",
+                    "largeName": "7561cc86-8383-5e05-8828-500fac417444"
+                }
+            ],
+            "title": "\"Works well and Sleek\"",
+            "rating": 5,
+            "date": "03/31/2019",
+            "recommended": true,
+            "text": "Easy to install - 36 yr old adult female and it took me less than 20 minutes after watching a YouTube video. I love that it shows the outside temperature and forecast for the next 5 days. Found out, after purchasing at Lowe's, that my Electric Company also gives a $110 rebate for this thermostat.",
+            "author": "NeinerJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "de583214-1765-5f50-8023-abc510b6a42b",
+                    "largeName": "c6eaa2cd-36c5-5364-9315-67e2f94a2f6b"
+                }
+            ],
+            "title": "\"Why the Lines?\"",
+            "rating": 2,
+            "date": "10/22/2017",
+            "recommended": false,
+            "text": "I had an older one RTH9580WF and on the display it had no lines. I had to get a new one and when looking on the box at Lowes the picture shows just like my old one with no lines. After installing it the unit had lines on it. I called support and they told me it was a bad unit to return it. When I installed the new one it has the same lines. When I called today and sent them a picture they told me good news! Its supposed to be that way. What? That looks very bad in my option. This is one of the greatest thermostats I have ever used but those lines have to go away. Makes it look cheap and hard to read. Wish I would have went to the website and seen it before buying as it shows the lines.",
+            "author": "randy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 31,
+                "no": 87
+            }
+        },
+        {
+            "title": "\"very solid thermostat\"",
+            "rating": 5,
+            "date": "10/12/2017",
+            "recommended": true,
+            "text": "Expensive unit but seems to be worth it so far.  I had an old cheap thermostat and wanted to go all out and get a touch screen wifi system.  Took about 2 hours from start to finish to install and get it all set up. Now i can set calenders, set specific on/off times, get weather reports all from the touch screen or my phone...  you can change the screen color and set reminders to change out filters.  Some pretty cool features.  If you are wanting to upgrade to something nicer than what you have, this might be it.  Just make sure you follow all the directions and take your time.  Directions are straight forword and easy to follow. Wifi is not a must to operate but if you want to access the system from your phone you need it.  Diy'ers should be able to handle this...",
+            "author": "bretzky99",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 159,
+                "no": 26
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f3513193-38a9-516e-8200-ff9aa0c119f1",
+                    "largeName": "80af9c0d-7c62-505d-93e7-40145e8c16c2"
+                },
+                {
+                    "smallName": "7d113bc4-0a1f-54eb-9b5a-fff5d87a38a6",
+                    "largeName": "40a636a0-750a-556c-b6b9-922d2818981f"
+                }
+            ],
+            "title": "\"Painless installation\"",
+            "rating": 5,
+            "date": "10/20/2018",
+            "recommended": true,
+            "text": "Replacing an old school mercury thermostat.  With that being said, wires W2 and E required a wire nut with pig tail.  I had to return to Lowes to pick up a wire nut(unfortunately, ya can't purchase single wire nuts).  You may use the C wire that is included with the thermostat and use as pig tail.  Love this thermostat!",
+            "author": "Millard",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"meeting expectations, love the remote control\"",
+            "rating": 5,
+            "date": "11/07/2018",
+            "recommended": true,
+            "text": "I didn't do a ton of research.  Wanted to buy from Lowes.  Asked friends, this unit came up as a target.  Lowes just happened to have a sale price in play so I jumped.  Great packaging, great instructions (especially for the C-wire), easy install, easy setup.  The remote control is the best feature for sure.  Change temp if you forgot to set it, change temp for your planned arrival home (this time of year in PA we bump the temp to warm up the house before we arrive.  We've even used the App to reduce temp at night from the bedroom, when we forget to change it.  For now we're not using the Program, just Permanent Hold, so that we are in total control.  Really like this unit.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Honeywell servers routinely go down\"",
+            "rating": 1,
+            "date": "11/06/2018",
+            "recommended": false,
+            "text": "This thing is junk.  Their customer support telephone system routinely just hangs up on you because of their high volume of calls with so many problems.  Their servers routinely go down so my smartphone app or website will not respond or control my thermostats (I have two of these located in separate states).   Sometimes they will answer their internet \"chat\" support app and often they are not even aware their server is not operational, but they are always indifferent and just ask for your understanding while they resolve their server problems.  So far this week they been down 4 times, just that I know of.",
+            "author": "rod",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 9
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Dead after 9 months to the day 12/23/17-08/23/2018\"",
+            "rating": 2,
+            "date": "08/23/2018",
+            "recommended": false,
+            "text": "Loved the product easy to install and even easier to program.  That's why I gave it 2 stars.  The down side is that it died after 9 months.  Lowe's policy is 30 day's on electronics so no ability to return and get a replacement.  I called Honeywell sat on in the queue for 28 mins waiting to an agent.  After I got an agent I went through all the trouble shooting items/checklist on the agents screen.  I was then told I would be placed on a \"short\" hold while the agent was going to check to see what else he could do for me.  After 15 Mins on hold the line went dead and that was the end of my call.",
+            "author": "Kevin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Excellent Thermostat\"",
+            "rating": 5,
+            "date": "12/20/2017",
+            "recommended": true,
+            "text": "Very easy installation and holds temperature to under 0.5^F. With Wifi, communicating remotely with the Thermostat works without a flaw, plus up to date local weather is also displayed. When starting out on a trip I set the house temperature to a much lower setting and on the return I when a half hour away I use my iPhone to reset the Thermostat to normal temperature returning to a nice warm house. All in all a very good purchase that I am pleased with.",
+            "author": "JFM",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 90,
+                "no": 14
+            }
+        },
+        {
+            "title": "\"Wi-Fi Smart Thermostat - Works Well\"",
+            "rating": 5,
+            "date": "06/27/2018",
+            "recommended": true,
+            "text": "Installed, setup and programmed easily.  I installed it after we returned from a trip and found our house at 94 degrees, humidity at 80%, because the HVAC system didn't reset after a momentary power hit.  Now I can check the temperature and humidity remotely. Both are important when we're traveling when the house is in Florida where there are frequent power hits/outages during the rainy season. I'd would like it even more if the thermostat would send my phone an alert when the temperature/humidity exceeded preset high or low thresholds, then I wouldn't have to open the app to check if the HVAC system is working when we're out of town.  Seems to me Honeywell could tweak the software to enable that functionality.",
+            "author": "RonK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "74f102f9-9603-546a-aa20-fa21166d1f7c",
+                    "largeName": "e7625319-467f-582a-b42b-44960b23c273"
+                }
+            ],
+            "title": "\"Nest What?\"",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": true,
+            "text": "I was updating my thermostat and compared this thermostat with the Nest. Of course they have some similarities and differences. No biggie, if you wanted to utilized certain features with the Nest that meant buying additional items for the already expensive thermostat. Im glad I made the choice to go with Honeywell",
+            "author": "LAW05",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Self install\"",
+            "rating": 5,
+            "date": "02/25/2019",
+            "recommended": true,
+            "text": "i Had an hvac  guy install the first one in my vacation home, which I really liked .  I decided to install one on my second unit myself after calling Honeywell support.  It was as easy as I could have ever hoped, rarely are instructions this clear and simple. I usually curse and maybe bleed before I complete a project at home.  I was finished in 20-25 minutes, saved install expense and didn't have to wait a couple of weeks to get a guy out to the house. Synced up with existing network right away,",
+            "author": "Matt",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Upgrade!\"",
+            "rating": 5,
+            "date": "02/20/2018",
+            "recommended": true,
+            "text": "Was hesitant to by this since looking at my old thermostat, I would had to do the \"G\" to \"C\" wiring and I am a newbie with home HVAC and wiring. But after watching online videos of installing, discovered my furnace circuit board and wiring harness had extra wires and a \"C\" slot open. Matched up the wires to the circut board in the furnace to the wires for the thermostat and installed everything.  Love the features it has and the whole wifi connection setup was simple. Using the app to set a schedule is probably one of the best features I like about this and the fact that it shows the outside temp as well as weather forecast for several hours ahead Did wish it should at least a 3 or 5 day forecast which shows on the app.  Overall, it's easy to use and adds that \"modern\" look and feel to your home.",
+            "author": "Mikey",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 8,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Nice display\"",
+            "rating": 5,
+            "date": "12/02/2017",
+            "recommended": true,
+            "text": "Had this installed by a professional in 10 minutes.  I like how I can monitor the temperature via the app and the display looks very nice.  I haven't used a nest or ecobee, but I'm very pleased with this thermostat.",
+            "author": "OP",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 46,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"Honeywell Thermostat\"",
+            "rating": 5,
+            "date": "01/23/2018",
+            "recommended": true,
+            "text": "Medium install but easy setup. If you are going from a 4 wire to a 5 wire thermostat I do recommend watching a YouTube video on how to set up the C wire or have it professionally installed.",
+            "author": "Ray",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 42,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Honeywell Purple Wi-Fi Smart Color Thermostat\"",
+            "rating": 5,
+            "date": "01/10/2018",
+            "recommended": true,
+            "text": "awesome!!!  love the colors choices and when connected to the internet you will have 24/7 updates on outdoor temp's and humidity.   Easy to wire even though I had a hiccup during installation.  I called the 1-800 number for tech support and was able to get the thermostat properly hooked up with no issues.   I recommend it for its style of modernization, easy to install, and functionality for indoor and outdoor temp readings.  great product !!!!",
+            "author": "whatever",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"At first Execellent!\"",
+            "rating": 3,
+            "date": "08/23/2018",
+            "recommended": false,
+            "text": "I purchase this Thermostat to control my heating/Air when not home. It was working for few months, but now it seem to not be communicating with Honneywell server. They server has been down for days at least every other week. Some days I do not go home right away from work and thought this would be perfect to control the air. We are about to have a heatwave and I cannot even control the thermostat because once again their server is DOWN. Therefore, I have to leave my thermostat at a certain temp all day. Not saving money this way SMH......",
+            "author": "Tee",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 11,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"thermostat for smart homes\"",
+            "rating": 4,
+            "date": "10/11/2018",
+            "recommended": true,
+            "text": "I'm using this to control my Lennox heat pump / air handler because the one Lennox supplied stopped working.  By default, it runs in heat or cool mode only but, I enabled automatic mode by going into the advanced settings.  The Lennox thermostat had an extra wire that this did not support so I checked the wiring on my air handler and found that the extra wire was already bonded to some other wire so, I left it disconnected at the thermostat instead of bonding it with a different wire as the instructions suggested.",
+            "author": "Forseti",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent Product\"",
+            "rating": 5,
+            "date": "09/18/2018",
+            "recommended": true,
+            "text": "I now have 10 of these units in service between two business facilities and my home and absolutely love everything about them.  I especially like this unit's size & customizable appearance, the super easy to use intuitive & clear menu structure, and my ability to access/monitor/control them remotely.  I would add that this is a consumer installable product by anyone who is the least bit handy. The installation instructions (that also include wire labels) are particularly well written and easy to follow.  A truly wonderful product.  Well done Honeywell!!",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"honeywell thermostat\"",
+            "rating": 5,
+            "date": "12/09/2018",
+            "recommended": true,
+            "text": "This thermostat is awesome and I love how simple it is to program as well as change settings from my smart phone. The display stays lighted so you can see it in the dark to make changes. Also, the screen display is large and user friendly. At a glance you can see what the temps are and make the setting changes without turning on lights. The design and finish of the thermostat is very appealing and low profile. I have two of these and I am very pleased with everything about them. Also, installation is a snap with adequate instructions provided. The auto feature to switch from heat to cooling or cooling to heat is a plus when your away and the weather changes.",
+            "author": "general",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Such an improvement\"",
+            "rating": 5,
+            "date": "06/22/2018",
+            "recommended": true,
+            "text": "Replaced the defective thermostat that was installed with my system. I really like the wifi and web features. Makes it easy to monitor and change the temps when I am heading home. Easy to install, my old thermo's \"B\" wire is the required \"C\" wire.",
+            "author": "Saroede97",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"The Answer\"",
+            "rating": 5,
+            "date": "08/27/2018",
+            "recommended": true,
+            "text": "Love this device. I researched everything on the market before deciding to upgrade my existing basic honeywell thermostat to the smart one. It soved all my problems. I have a sitter come after school to watch my children, and both sitter and children would change the setting on my thermostat without permission. So, I don't want a \"learning\" thermostat to learn other people's arbitrary habits.  When my bill came in three times higher than I've ever had in my life, I decided remote access was worth investing in.  No more \"I forgot to turn it off\" excuses. I can tell the device to ONLY turn on and cool when people are actually home, instead of forcing my thermostat to maintain 78 degrees all day. Yes, I could have programmed my last one, but the problem was people could stand in front of the buttons and still change them. Now, they cannot because the screen has a lock code on it that nobody knows but me.  Problem solved.",
+            "author": "rikki",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great control\"",
+            "rating": 4,
+            "date": "01/13/2018",
+            "recommended": true,
+            "text": "Any thermostat is about controlling temperature. This unit does that from the unit or from your mobile device. Easy to install and easier to control. Great job Honeywell.",
+            "author": "stan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 28,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"WI Fi Cooling\"",
+            "rating": 5,
+            "date": "04/11/2018",
+            "recommended": true,
+            "text": "Bought the  thermostat to  upgrade to  wireless access. The installation was  easy  once I view the  video about  the installation  without a  C Wire.   I would  recommend this   thermostat.  Honeywell  makes  good  product.",
+            "author": "G",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Correct title for this product.Great product.\"",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "Very easy to install, Instructions were very detailed and easy to understand, I installed this myself and took less then half an hour to do it. Make sure you watch the various videos on installation before you try and it is not a hard thing to do. Setup only took about fifteen minutes, and love all the info displayed on it. The great thing was this was on sale, with my military discount got it for a great price. Also your local power company offers a rebate on it also, more money saved!! Overall this it is great deal that will save you money in the long run because of the intelligent learning of the product.",
+            "author": "Manny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Long history with Honywell.\"",
+            "rating": 5,
+            "date": "03/02/2019",
+            "recommended": true,
+            "text": "As a electriction I wired the first heat pumps in Longview Wa. The thermostates were always Honeywell. They  were acurate and trouble free. That was in the early sixtes. This one is so easy to program with a step by step program for your weekly scheduel and has all the information you could ever need.",
+            "author": "RJR",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works pretty good\"",
+            "rating": 4,
+            "date": "05/11/2018",
+            "recommended": true,
+            "text": "I put 2 in my house and so far I like the thermostats.  Signed up for electric company savings and am expecting 150.00 rebate for each thermostat.  I've only had them a few weeks but I'm satisfied and would recommend to a friend.",
+            "author": "Rick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Few things you should know before buying\"",
+            "rating": 5,
+            "date": "03/01/2018",
+            "recommended": true,
+            "text": "Love this thermostat but will start with the bad that I didn't consider. Old thermostat was larger and this does not come with a back plate so had to putty the holes so they won't show and I had painted around the old thermostat so had to paint and I'm lucky I saved some paint for an exact match if you don't have exact paint a perfect match would be tuff and time consuming. I have a oil furnace and an outdoor carrier ac unit.My old thermostat was digital but old and hard to see but did have a light which is probably why I was lucky and already had a \"C\" wire common to power this new thermostat which you will need to add if you don't have one already.  So I highly recommend checking wires on your thermostat before buying so you can get everything you will need to install. This thermostat turned on and started working 1st time i turned back on my furnace and was very easy to set up to my wifi which is why I bought it. I travel and forget to adjust before leaving wasting money and now that is no longer a problem.Absolutely love being able to change background color as I figured a blue screen would be fine but with my decor another color looked better and it was fun to play around with that.Looking from across the room the room temperature is easily visible and I can't believe I went so many yrs getting up and checking it.Instalation and hooking up was a breeze which I figured nothing goes as easy as claimed but this did.Big visual improvement that I get compliments on and everyone notices it and wants one.",
+            "author": "67hwell",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 43,
+                "no": 17
+            }
+        },
+        {
+            "title": "\"New thermostat\"",
+            "rating": 5,
+            "date": "10/31/2017",
+            "recommended": true,
+            "text": "Easy installation large colorful easy to read screen. Nice to be able to program my heating and cooling from my phone when I am away from home",
+            "author": "Jimmy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 28,
+                "no": 14
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Bad experience\"",
+            "rating": 1,
+            "date": "01/10/2018",
+            "recommended": false,
+            "text": "I don't know where to begin, so I'll start with the thermostat itself. Wiring was basic and took all of 5 minutes. Turned it on and all still seems good. Set everything up to my system and wifi, still seems good. It called for the heat to come on, ok. House got to temp, this is where the problems start. Inside unit fan won't cut off. Fan on the outside unit won't cut off, even though I can hear the compressor cutting on and off. 6 days later, the fans are still running. Like other videos on the internet, I can turn it off and on and the temperature jumps 4-6 degrees. Strange thing is it won't read an odd number on the temperature. The final straw was when I called tech support today I was on hold for 30 minutes. Someone finally answered. We went through the wiring and settings, he said everything was correct, and then the unthinkable happened, I was disconnected. He had my phone number, why didn't he call me back? Called back and was on hold for 15 more minutes and no one answered. Had enough tonight and put my old White-Rodgers non programmable thermostat back in and lo and behold, system works flawless again. Bad thermostat, worse customer service. Honeywell isn't what they used to be. I'll try a Nest or Ecobee next.",
+            "author": "Kevin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 40,
+                "no": 22
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good for Basic Users\"",
+            "rating": 2,
+            "date": "02/28/2018",
+            "recommended": false,
+            "text": "If your a IT geek this unit is not for you. It requires opening your network up to hackers. If you mange your own firewall beware, it may not work as expected. Support is awful, no networking background and only level one Support. I spent 3 hours on the phone and they finally sent out another unit. It doesn't work either. Went with Nest, less features for sure but less intrusive for network people only requires https. Ecobee was also an option. Honeywell great company and products but not IT centric, stay in your lane.",
+            "author": "Mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Honeywell WiFi thermostat\"",
+            "rating": 5,
+            "date": "04/20/2019",
+            "recommended": true,
+            "text": "Easy install.  Quick verification of wiring from the furnace/ac panel to the previous thermostat.  Less than 10 minutes to mount and plug in the wiring.Easy to follow prompts on the thermostat to set up the WiFi connection.  Search for WiFi and plug in your WiFi passcode and your good to go.  Nice perk is that you can make adjustments to your thermostat from your phone or other wireless device as long as you install the app on your wireless device.  Installing the app was just as easy as setting up the thermostat.",
+            "author": "Nate",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6932cd68-683a-54b1-b367-6cd8e12f953e",
+                    "largeName": "c257cbfc-6f31-5488-b082-1ee3c206e0f6"
+                }
+            ],
+            "title": "\"Awesome thermostat!!!!!!\"",
+            "rating": 5,
+            "date": "01/27/2019",
+            "recommended": true,
+            "text": "Very easy to set up and connect.   Step by step detailed WiFi setup.   We love being able to control the temp from any location through WiFi!!!!!  Looks very stylish and modern in our home.  Different color backgrounds are also a nice touch.   My husband had to hook up the “C” wire on the actual furnace - but was doable!!!",
+            "author": "GraceM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Honeywell RTH9585WF-1004 Wifi thermostat\"",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "I was replacing my central air conditioning and I decided to make everything brand new. I have been using Honeywell components for my air conditioning and heating need and have never had any of their products fail.  All my existing thermostats are Honeywell. My old air conditioner was 35 years old before it gave up the ghost and guy was working with that only the compressor was becoming unstable. Since my HVAC guy was working only a few feet away from the thermostat I had him add a five wire control wire to provide for the control voltage and WIFI support. Connected everything up and everything started with the flip of the switch. I walked through all the settings on the thermostat connected the thermostat to my router and registered it with Honeywell Server using the mac Id provided. I then went to my laptop downloaded the software set up my account and then programed my thermostat schedules.I then went to my cell phone went to the google store and loaded the software on my phone. So where ever I am I can see my air conditioning status and received alerts. I had a wire nut disconnect from vibration in the air handler I got an alert even before I noticed a problem. I really appreciate the retro approach in using system power instead of batteries to power the thermostat. No remembering to replace batteries every spring and fall. Appreciate the light being on all the time do not have to touch something to see the temperature. The temperature differential function is a nice feature. Where my thermostat sits it is typically 2 degrees cooler than the rest of the house due to air flow so made the adjustment and I no longer get the question how come you set it so cold. All the thermostats in the living space read the same. Even matched the color of the display to the wall color. I do not have to walk up to it every time I come and go out of the house like the Nest requires!",
+            "author": "Tom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Disappointing\"",
+            "rating": 1,
+            "date": "11/22/2017",
+            "recommended": false,
+            "text": "Does not work with lowes iris hub.Does not have an outdoor temp compressor cut off setting.Seems like it is headed in a user friendly direction, just not quite there.  For the price, i expected it to compete with nest.Returned, picked up an ecobee 3.  Much happier.",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 21
+            }
+        },
+        {
+            "title": "\"An Excellent Thermostat With Great WiFi Functions\"",
+            "rating": 5,
+            "date": "12/27/2017",
+            "recommended": true,
+            "text": "This thermostat is one of the best thermostats Honeywell has ever made for Wifi as it lets you control your thermostat from any place in the US.",
+            "author": "moneyrole622",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 10
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3427929e-f1ed-58a0-9bea-ec330a3cfca9",
+                    "largeName": "acd9a15b-3dd0-55f9-89bb-8a1af729c12b"
+                }
+            ],
+            "title": "\"Easy Installation\"",
+            "rating": 5,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "Purchased after reviewing several different options. I would recommend a mounting plate as these are a little smaller that the older models. Instructions were clear and took less than an hour to install. Highly recommend.",
+            "author": "DA",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great wifi thermostat at a nice price\"",
+            "rating": 4,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "Purchased to replace old, dated thermostat..works fine with the smart phone..",
+            "author": "Ace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best Smart Home Thermostat\"",
+            "rating": 5,
+            "date": "04/26/2019",
+            "recommended": true,
+            "text": "This thermostat is easy to install for a first time homeowner with no wiring skills. The box includes detailed instructions and diagrams to follow that are easy to understand. It is also easy to connect to your homes secure or unsecured WiFi network. Easy to use app for both Android and Apple devices that allow you to control your thermostat using WiFi or Cell network. I would recommend this thermostat to anyone that is looking to upgrade the one they currently have in their home.",
+            "author": "DavidJr",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "bb96446f-f985-5054-8fc0-953db3ad8783",
+                    "largeName": "bb42d7a4-c80c-57ee-98ed-fae032a7eff3"
+                }
+            ],
+            "title": "\"BEST THERMOSTAT IVE EVER HAD!\"",
+            "rating": 5,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "This is great! Easy to use and love being able to schedule or adjust it it from my phone so the temp is where I need it for when I get home. It's made a huge improvement on my energy bill!",
+            "author": "Alan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good for Basic Users\"",
+            "rating": 2,
+            "date": "02/28/2018",
+            "recommended": false,
+            "text": "If your a IT geek this unit is not for you. It requires opening your network up to hackers. If you mange your own firewall beware, it may not work as expected. Support is awful, no networking background and only level one Support. I spent 3 hours on the phone and they finally sent out another unit. It doesn't work either. Went with Nest, less features for sure but less intrusive for network people only requires https. Ecobee was also an option. Honeywell great company and products but not IT centric, stay in your lane.",
+            "author": "Mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Honeywell WiFi thermostat\"",
+            "rating": 5,
+            "date": "04/20/2019",
+            "recommended": true,
+            "text": "Easy install.  Quick verification of wiring from the furnace/ac panel to the previous thermostat.  Less than 10 minutes to mount and plug in the wiring.Easy to follow prompts on the thermostat to set up the WiFi connection.  Search for WiFi and plug in your WiFi passcode and your good to go.  Nice perk is that you can make adjustments to your thermostat from your phone or other wireless device as long as you install the app on your wireless device.  Installing the app was just as easy as setting up the thermostat.",
+            "author": "Nate",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6932cd68-683a-54b1-b367-6cd8e12f953e",
+                    "largeName": "c257cbfc-6f31-5488-b082-1ee3c206e0f6"
+                }
+            ],
+            "title": "\"Awesome thermostat!!!!!!\"",
+            "rating": 5,
+            "date": "01/27/2019",
+            "recommended": true,
+            "text": "Very easy to set up and connect.   Step by step detailed WiFi setup.   We love being able to control the temp from any location through WiFi!!!!!  Looks very stylish and modern in our home.  Different color backgrounds are also a nice touch.   My husband had to hook up the “C” wire on the actual furnace - but was doable!!!",
+            "author": "GraceM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Honeywell RTH9585WF-1004 Wifi thermostat\"",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "I was replacing my central air conditioning and I decided to make everything brand new. I have been using Honeywell components for my air conditioning and heating need and have never had any of their products fail.  All my existing thermostats are Honeywell. My old air conditioner was 35 years old before it gave up the ghost and guy was working with that only the compressor was becoming unstable. Since my HVAC guy was working only a few feet away from the thermostat I had him add a five wire control wire to provide for the control voltage and WIFI support. Connected everything up and everything started with the flip of the switch. I walked through all the settings on the thermostat connected the thermostat to my router and registered it with Honeywell Server using the mac Id provided. I then went to my laptop downloaded the software set up my account and then programed my thermostat schedules.I then went to my cell phone went to the google store and loaded the software on my phone. So where ever I am I can see my air conditioning status and received alerts. I had a wire nut disconnect from vibration in the air handler I got an alert even before I noticed a problem. I really appreciate the retro approach in using system power instead of batteries to power the thermostat. No remembering to replace batteries every spring and fall. Appreciate the light being on all the time do not have to touch something to see the temperature. The temperature differential function is a nice feature. Where my thermostat sits it is typically 2 degrees cooler than the rest of the house due to air flow so made the adjustment and I no longer get the question how come you set it so cold. All the thermostats in the living space read the same. Even matched the color of the display to the wall color. I do not have to walk up to it every time I come and go out of the house like the Nest requires!",
+            "author": "Tom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Disappointing\"",
+            "rating": 1,
+            "date": "11/22/2017",
+            "recommended": false,
+            "text": "Does not work with lowes iris hub.Does not have an outdoor temp compressor cut off setting.Seems like it is headed in a user friendly direction, just not quite there.  For the price, i expected it to compete with nest.Returned, picked up an ecobee 3.  Much happier.",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 21
+            }
+        },
+        {
+            "title": "\"An Excellent Thermostat With Great WiFi Functions\"",
+            "rating": 5,
+            "date": "12/27/2017",
+            "recommended": true,
+            "text": "This thermostat is one of the best thermostats Honeywell has ever made for Wifi as it lets you control your thermostat from any place in the US.",
+            "author": "moneyrole622",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 10
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3427929e-f1ed-58a0-9bea-ec330a3cfca9",
+                    "largeName": "acd9a15b-3dd0-55f9-89bb-8a1af729c12b"
+                }
+            ],
+            "title": "\"Easy Installation\"",
+            "rating": 5,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "Purchased after reviewing several different options. I would recommend a mounting plate as these are a little smaller that the older models. Instructions were clear and took less than an hour to install. Highly recommend.",
+            "author": "DA",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great wifi thermostat at a nice price\"",
+            "rating": 4,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "Purchased to replace old, dated thermostat..works fine with the smart phone..",
+            "author": "Ace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best Smart Home Thermostat\"",
+            "rating": 5,
+            "date": "04/26/2019",
+            "recommended": true,
+            "text": "This thermostat is easy to install for a first time homeowner with no wiring skills. The box includes detailed instructions and diagrams to follow that are easy to understand. It is also easy to connect to your homes secure or unsecured WiFi network. Easy to use app for both Android and Apple devices that allow you to control your thermostat using WiFi or Cell network. I would recommend this thermostat to anyone that is looking to upgrade the one they currently have in their home.",
+            "author": "DavidJr",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "bb96446f-f985-5054-8fc0-953db3ad8783",
+                    "largeName": "bb42d7a4-c80c-57ee-98ed-fae032a7eff3"
+                }
+            ],
+            "title": "\"BEST THERMOSTAT IVE EVER HAD!\"",
+            "rating": 5,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "This is great! Easy to use and love being able to schedule or adjust it it from my phone so the temp is where I need it for when I get home. It's made a huge improvement on my energy bill!",
+            "author": "Alan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good for Basic Users\"",
+            "rating": 2,
+            "date": "02/28/2018",
+            "recommended": false,
+            "text": "If your a IT geek this unit is not for you. It requires opening your network up to hackers. If you mange your own firewall beware, it may not work as expected. Support is awful, no networking background and only level one Support. I spent 3 hours on the phone and they finally sent out another unit. It doesn't work either. Went with Nest, less features for sure but less intrusive for network people only requires https. Ecobee was also an option. Honeywell great company and products but not IT centric, stay in your lane.",
+            "author": "Mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Honeywell WiFi thermostat\"",
+            "rating": 5,
+            "date": "04/20/2019",
+            "recommended": true,
+            "text": "Easy install.  Quick verification of wiring from the furnace/ac panel to the previous thermostat.  Less than 10 minutes to mount and plug in the wiring.Easy to follow prompts on the thermostat to set up the WiFi connection.  Search for WiFi and plug in your WiFi passcode and your good to go.  Nice perk is that you can make adjustments to your thermostat from your phone or other wireless device as long as you install the app on your wireless device.  Installing the app was just as easy as setting up the thermostat.",
+            "author": "Nate",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6932cd68-683a-54b1-b367-6cd8e12f953e",
+                    "largeName": "c257cbfc-6f31-5488-b082-1ee3c206e0f6"
+                }
+            ],
+            "title": "\"Awesome thermostat!!!!!!\"",
+            "rating": 5,
+            "date": "01/27/2019",
+            "recommended": true,
+            "text": "Very easy to set up and connect.   Step by step detailed WiFi setup.   We love being able to control the temp from any location through WiFi!!!!!  Looks very stylish and modern in our home.  Different color backgrounds are also a nice touch.   My husband had to hook up the “C” wire on the actual furnace - but was doable!!!",
+            "author": "GraceM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Honeywell RTH9585WF-1004 Wifi thermostat\"",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "I was replacing my central air conditioning and I decided to make everything brand new. I have been using Honeywell components for my air conditioning and heating need and have never had any of their products fail.  All my existing thermostats are Honeywell. My old air conditioner was 35 years old before it gave up the ghost and guy was working with that only the compressor was becoming unstable. Since my HVAC guy was working only a few feet away from the thermostat I had him add a five wire control wire to provide for the control voltage and WIFI support. Connected everything up and everything started with the flip of the switch. I walked through all the settings on the thermostat connected the thermostat to my router and registered it with Honeywell Server using the mac Id provided. I then went to my laptop downloaded the software set up my account and then programed my thermostat schedules.I then went to my cell phone went to the google store and loaded the software on my phone. So where ever I am I can see my air conditioning status and received alerts. I had a wire nut disconnect from vibration in the air handler I got an alert even before I noticed a problem. I really appreciate the retro approach in using system power instead of batteries to power the thermostat. No remembering to replace batteries every spring and fall. Appreciate the light being on all the time do not have to touch something to see the temperature. The temperature differential function is a nice feature. Where my thermostat sits it is typically 2 degrees cooler than the rest of the house due to air flow so made the adjustment and I no longer get the question how come you set it so cold. All the thermostats in the living space read the same. Even matched the color of the display to the wall color. I do not have to walk up to it every time I come and go out of the house like the Nest requires!",
+            "author": "Tom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Disappointing\"",
+            "rating": 1,
+            "date": "11/22/2017",
+            "recommended": false,
+            "text": "Does not work with lowes iris hub.Does not have an outdoor temp compressor cut off setting.Seems like it is headed in a user friendly direction, just not quite there.  For the price, i expected it to compete with nest.Returned, picked up an ecobee 3.  Much happier.",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 21
+            }
+        },
+        {
+            "title": "\"An Excellent Thermostat With Great WiFi Functions\"",
+            "rating": 5,
+            "date": "12/27/2017",
+            "recommended": true,
+            "text": "This thermostat is one of the best thermostats Honeywell has ever made for Wifi as it lets you control your thermostat from any place in the US.",
+            "author": "moneyrole622",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 10
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3427929e-f1ed-58a0-9bea-ec330a3cfca9",
+                    "largeName": "acd9a15b-3dd0-55f9-89bb-8a1af729c12b"
+                }
+            ],
+            "title": "\"Easy Installation\"",
+            "rating": 5,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "Purchased after reviewing several different options. I would recommend a mounting plate as these are a little smaller that the older models. Instructions were clear and took less than an hour to install. Highly recommend.",
+            "author": "DA",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great wifi thermostat at a nice price\"",
+            "rating": 4,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "Purchased to replace old, dated thermostat..works fine with the smart phone..",
+            "author": "Ace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best Smart Home Thermostat\"",
+            "rating": 5,
+            "date": "04/26/2019",
+            "recommended": true,
+            "text": "This thermostat is easy to install for a first time homeowner with no wiring skills. The box includes detailed instructions and diagrams to follow that are easy to understand. It is also easy to connect to your homes secure or unsecured WiFi network. Easy to use app for both Android and Apple devices that allow you to control your thermostat using WiFi or Cell network. I would recommend this thermostat to anyone that is looking to upgrade the one they currently have in their home.",
+            "author": "DavidJr",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "bb96446f-f985-5054-8fc0-953db3ad8783",
+                    "largeName": "bb42d7a4-c80c-57ee-98ed-fae032a7eff3"
+                }
+            ],
+            "title": "\"BEST THERMOSTAT IVE EVER HAD!\"",
+            "rating": 5,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "This is great! Easy to use and love being able to schedule or adjust it it from my phone so the temp is where I need it for when I get home. It's made a huge improvement on my energy bill!",
+            "author": "Alan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Smart Thermostat\"",
+            "rating": 5,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "We had a Honeywell Setback thermostat which was working fine but wanted the versatility of being able to make adjustments wirelessly from the Honeywell app on our phones & ipad. Love the functionality & large easy to read LED lettering.",
+            "author": "DIYER2952",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good thermostat with some hitches\"",
+            "rating": 3,
+            "date": "01/15/2019",
+            "recommended": true,
+            "text": "Thermostat set up and working easily but has a weird sense of control of heating.  Sometimes it leaves the heat on until the room temperature rises 3 or 4 degrees above the setpoint and then it goes back to controlling within a degree of setpoint.  Very annoying.  Unit does not allow checking or setting the on/off differential for heating in degrees.  Seems to be arbitrary.  I would like to be able to adjust the on/off in a range from 0.5°F to 1.5°F to compensate for room and system dynamics.",
+            "author": "Hoffy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Works better than the nest\"",
+            "rating": 5,
+            "date": "08/27/2018",
+            "recommended": null,
+            "text": "First bought nest but we didn't like mostly how it operated. Looks cool and easy to setup. The Honeywell works better operates better but little harder to hookup",
+            "author": "Tim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Honeywell\"",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "The product works great and was quickly installed by a certified vendor. The app is easy to use.",
+            "author": "Satch67",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/22/2019",
+            "recommended": true,
+            "text": "Does exactly what it is advertised to do.  Would not hesitate to recommend it to a friend.",
+            "author": "Alan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Junk\"",
+            "rating": 1,
+            "date": "10/18/2018",
+            "recommended": false,
+            "text": "Complete junk. Have gotten 2 and neither one works. Quantity over quality.Junk",
+            "author": "Steve",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"Remotely controlled\"",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "Better than the nest, this thermostat is easy to install and even easier to operate.  Download the app and configure the thermostat and you are on your way!  Best of all, you don't get locked into its memory, like the nest would force you to!",
+            "author": "Caljosh",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"mine didnt work\"",
+            "rating": 1,
+            "date": "08/24/2018",
+            "recommended": false,
+            "text": "mine didnt work and would change 5 degrees in just a few seconds.  returned it but didnt have anymore to choose from",
+            "author": "james0923",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"I feel like I've stepped into the future!\"",
+            "rating": 5,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "This is great!  So much I can do with it, but not too difficult to understand how to use, even people that hate computers can find this easy and amazing!",
+            "author": "daBull",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"This the best thermostat I have ever purchased.\"",
+            "rating": 5,
+            "date": "08/08/2018",
+            "recommended": true,
+            "text": "By far this is the top of the line at a great price. Can control over my phone. Controls the humidity as well temp.",
+            "author": "Donald",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"May need a Electrician\"",
+            "rating": 4,
+            "date": "11/27/2018",
+            "recommended": true,
+            "text": "Since I did not have the proper wiring when replacing, we had to get an electrician to wire it up and work.  Once it started working have not had any issues with it, works well with wi-fi",
+            "author": "Cliff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Sleek design\"",
+            "rating": 4,
+            "date": "02/04/2019",
+            "recommended": null,
+            "text": "Nice upgrade thermostat to the builder grade I had. I like that it's amazon compatible which is convenient when you're not close by to the unit to change the temperature.",
+            "author": "Madi",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"SmartThermostat\"",
+            "rating": 5,
+            "date": "11/01/2018",
+            "recommended": true,
+            "text": "Product worked great. Evidently it was a returned item with the mounting hardware missing. Store should have identified this and discounted it.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great thermostat with nice features\"",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "If you are not comfortable with Electrical work, get an electrician to put it in, but otherwise, super easy to install. Love the phone app.",
+            "author": "Gobbo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Lots of options and flawless operation\"",
+            "rating": 5,
+            "date": "09/21/2018",
+            "recommended": true,
+            "text": "This is my first \"smart\" thermostat.  For the price, it has many programming options and a customizable screen.  A rare product with quality instructions and links to straightforward video How-Tos.  My system did not have a power wire, but the workaround was simple and well-described in the install sheet and videos.  The only thing you lose if you need to \"borrow\" power from another wire is the ability to just run the fan without heat or A/C.  That is not a function I have ever used, so there was no downside for me.  And overall, the product looks great and classy.The weather data is also a nice feature available with the wifi connection - it is something I glance at several times throughout the day.  I also have an independent indoor/outdoor thermometer and the temperatures correlate very well with this unit on both measures.  The ability to control the unit remotely from my phone from anywhere is a plus also.  And the app is pretty decent as well.Save some money unless you've already invested in the Nest ecosystem or another.  This unit will provide all the features that a vast majority of people will want for a significantly lower cost.",
+            "author": "DaveShep",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Works great\"",
+            "rating": 4,
+            "date": "09/29/2018",
+            "recommended": true,
+            "text": "Instructions and phone support did not help with completing installation. Needed a HVAC house call to find the right wires in the furnace.",
+            "author": "Lou",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Awesome\"",
+            "rating": 5,
+            "date": "11/14/2018",
+            "recommended": true,
+            "text": "Online had for a few months, but this is wonderful, can heat my home before I get home, and control the comfort any where in the world, .",
+            "author": "Vell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "11/27/2018",
+            "recommended": true,
+            "text": "Control the temp from the office o my bed if I need it. Did some research on line to swap the old thermostat and is great",
+            "author": "OCG",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 3,
+            "date": "05/08/2019",
+            "recommended": false,
+            "text": "I will have to update this later, but I haven't gotten it to work yet and I have an hvac guy coming to see what and why.",
+            "author": "Red",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Works as advertised\"",
+            "rating": 5,
+            "date": "11/19/2018",
+            "recommended": null,
+            "text": "Great product and easy to install. I was able to install and connect to home internet in less than 30 minutes.",
+            "author": "JWatts",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Few bugs on app\"",
+            "rating": 4,
+            "date": "02/09/2019",
+            "recommended": true,
+            "text": "Honeywell is great brand but still needs little work on app, it just updated so now everything works remotely.",
+            "author": "Greg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Better than E Learning Nest\"",
+            "rating": 5,
+            "date": "03/29/2019",
+            "recommended": true,
+            "text": "I have several Nests but actually enjoy this one the most as it does not always think for me like the Nest.",
+            "author": "cmy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "This is a great investment.very accurate and easy to use.love the ability to control it from everywhere.",
+            "author": "BigMike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Best thermostat\"",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "I love using us for the Lakehouse and I'm able to regulate the temperature from my phone in the City",
+            "author": "Pascrub",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Convenience of remote access to thermostat\"",
+            "rating": 5,
+            "date": "08/24/2018",
+            "recommended": null,
+            "text": "Nice product, relatively easy to install.  Works well after call to tech support while installing.",
+            "author": "EW",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Honeywell\"",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "The product works great and was quickly installed by a certified vendor. The app is easy to use.",
+            "author": "Satch67",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Honeywell smart thermostat\"",
+            "rating": 5,
+            "date": "05/24/2019",
+            "recommended": true,
+            "text": "Love this. I have it connected with Alexa. So convenient, informative, and easy to use.",
+            "author": "Sherry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Excellent Wi-Fi Thermostat!\"",
+            "rating": 5,
+            "date": "11/27/2018",
+            "recommended": true,
+            "text": "The 'Best' thermostat we have ever had!  Easy to set-up, easy to use and easy to see!",
+            "author": "Doug",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Honeywell WiFI thermostat\"",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "Easy to install, program and works great.  Love the app as it's very easy to use.",
+            "author": "AJH",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"WiFi thermostat\"",
+            "rating": 5,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "Easy to install and set up for different types of HVAC systems. Looks good too.",
+            "author": "NHLJD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Fantastic Thermostat\"",
+            "rating": 5,
+            "date": "10/07/2018",
+            "recommended": false,
+            "text": "Cant say enough...exaclty what I wanted. Has everything I need in a wifi stat!",
+            "author": "TJakes",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/28/2018",
+            "recommended": true,
+            "text": "Very easy to setupHave tried several and this is by far the. Easiest to use",
+            "author": "Richie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/26/2019",
+            "recommended": true,
+            "text": "I followed the directions and everything worked as printed. I like it.",
+            "author": "chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great unit\"",
+            "rating": 5,
+            "date": "09/21/2018",
+            "recommended": true,
+            "text": "The unit was easy to install and easy to use. Good price as well",
+            "author": "Katie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Connected Honeywell\"",
+            "rating": 5,
+            "date": "03/20/2019",
+            "recommended": true,
+            "text": "Easy to use menus, easy to connect to HVAC system. Love it!!",
+            "author": "AHS82Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Terry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Alan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Adri",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/31/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/05/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "TECO",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Alexey",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Daniel",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/13/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Twocobrar",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cory",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/18/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "2Kids",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/22/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/04/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "THRILLER",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Boo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Leah",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jamesf",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/18/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "TimO",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/04/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Don",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Yvonne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "D",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tony",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Frank",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 122,
+        "percentRecommended": "84",
+        "averageStars": "4.5",
+        "starCounts": {
+            "five": 93,
+            "four": 14,
+            "three": 3,
+            "two": 5,
+            "one": 7
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Does light stay on constantly or can it be in sleep mode until screen is touched?\"",
+            "author": "Anonymous",
+            "date": "11/28/2018",
+            "answers": [
+                {
+                    "author": "Matt",
+                    "date": "06/01/2019",
+                    "text": "There is an option to dim the backlight so it is not fully bright all of the time.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/03/2018",
+                    "text": "The backlight will stay on constantly.",
+                    "helpful": {
+                        "yes": 10,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/30/2018",
+                    "text": "Hi there! The Resideo Honeywell Home Silver Wi-Fi Color Thermostat has a Backlight setting that allows you to adjust the idle brightness of the thermostat. The settings range from 1-10, with 1 being the dimmest. The screen will not go completely black unless the thermostat has lost power. We hope this helps!",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Two wire heat only connectivity?\"",
+            "author": "Anonymous",
+            "date": "11/21/2018",
+            "answers": [
+                {
+                    "author": "kjw2001",
+                    "date": "01/10/2019",
+                    "text": "You need 4 wires: 2 wires supply 24 volts a.c. from your zone panel relay and connect to terminals C & RC of the thermostat. 2 wires from terminals TT of your zone panel connect you terminals R & W. As you are using both terminals R & RC you will need to remove the factory installed jumper next to terminal R. This install could be so much easier if Honeywell would just Supply a wiring schematic and explain what the different terminals do.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/26/2018",
+                    "text": "No, not directly, as this model is WiFi it requires a C-wire.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 2
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/23/2018",
+                    "text": "Hey there! This thermostat will work with a 2-wire heat only application as long as you have a separate 24V transformer to power the thermostat. Thank you!",
+                    "helpful": {
+                        "yes": 9,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does it have tenperature offset capability?\"",
+            "author": "Danpoet",
+            "date": "06/28/2019",
+            "answers": [
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "07/01/2019",
+                    "text": "Hi Danpeot, the Wi-Fi Smart Color Thermostat does have an option for temperature display offset. This feature can be found in the Settings, Preferences, and Advanced Preferences. I hope this helps.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "07/01/2019",
+                    "text": "No, it doesn't have temperature offset capability.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Could you be more specific regarding what an extreme temperature is. If I set the thermostat at 50° because I'm out of town when will I get an alert?\"",
+            "author": "Anonymous",
+            "date": "01/10/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "01/18/2019",
+                    "text": "Yes, you would get an alert according to the temperatures you set.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "01/11/2019",
+                    "text": "Hi there! Using the My total Connect Comfort website and Total Connect Comfort free app you will be able to set high and low specific temperatures for the extreme temperature alerts, so you can set it to send you an alert once the temperature is below 50 or above 70, for instance. Have an excellent day!",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Winter I dont want the heater to run all nite. Can I set the temp to 67 and then a lower point of 62 so that it doesnt turn on at 1 degree temp change\"",
+            "author": "Anonymous",
+            "date": "01/08/2019",
+            "answers": [
+                {
+                    "author": "kjw2001",
+                    "date": "01/10/2019",
+                    "text": "What your asking is can you set a range or min/max, i.e.: Set the temperature to 67° and not cycle on until the room cools to 62° at which point the system will call for heat and run again until the room warms to 67°. If that's your question, no. It keeps things within 1° of temperature setting.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "01/09/2019",
+                    "text": "Yes this thermostat does allow for you to preform this, hope this helps! -Joey",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you lock others from adjusting temperature?\"",
+            "author": "Mouse",
+            "date": "12/23/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/27/2018",
+                    "text": "The the thermostat can be partially or fully locked. In order to do this, First, touch Menu and select Security setting. Select Change Lock Mode. Then Select which way you prefer to lock it. Partially Locked means only the temperature can be changed, Fully Locked means no access allowed.",
+                    "helpful": {
+                        "yes": 8,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "12/24/2018",
+                    "text": "Hi Mouse, the Wi-Fi Smart Color Thermostat can be locked to limit changes on the thermostat. The thermostat can have a partial lock only allowing temperature changes or fully locked, not allowing changes made on the thermostat. If you have additional questions about the lock modes feel free to reach out to us at 1-855-733-5465",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this thermostat support external hardwired temperature sensors? If so, how many?\"",
+            "author": "Anonymous",
+            "date": "11/20/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/26/2018",
+                    "text": "No, this unit does not support external sensors.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/23/2018",
+                    "text": "Hey there! The RTH9585WF series thermostat does not support any sensors. Thank you!",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you track daily usage of when the system runs and if it runs the heat pump or aux. heat?\"",
+            "author": "Anonymous",
+            "date": "11/10/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/16/2018",
+                    "text": "No, this unit does not provide daily usage report.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/12/2018",
+                    "text": "Hello there! This Silver Wi-Fi Smart Color Thermostat will not show you daily usage of you HVAC equipment. Once the thermostat is registered for remote access and after 1 month, you might receive an energy report email for that month showing daily usage, however this information will not be available at the thermostat or app/website. Have an excellent week! - Maria",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Do you need 4 or 5 wirer's? Can you use a jumper? Thanks\"",
+            "author": "Rich",
+            "date": "11/04/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/09/2018",
+                    "text": "Yes, the installation can be accomplished using either 4 or 5 wires depending on the system.",
+                    "helpful": {
+                        "yes": 8,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/06/2018",
+                    "text": "Hi Rich, thanks for reaching us out! The thermostat could use 4 or 5 wires depending on your system type. What we recommend is to verify is that one of the wires is a \"C\" or common wire. This wire provides a constant 24 VAC power supply. To be sure that thermostat will be compatible, you require that C wire. Please, let us know if you have additional questions at 1-855-733-5465, reference case #00915842. We will be happy to work with you!",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Are you able to turn the fan “on” without a call for heat or cool?\"",
+            "author": "Anonymous",
+            "date": "11/02/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/07/2018",
+                    "text": "Yes, this product may be switched to fan only without heat or cooling.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "bf349db8-4ac8-55b0-b584-8f92b94f1975",
+                    "author": "Honeywell Support",
+                    "date": "11/05/2018",
+                    "text": "Hello there! With the Silver Wi-Fi Smart Color Thermostat you will be able to set the fan to \"On\" which will have the fan running 100% of the time, \"Auto\" which will have the fan running only when heat/cool is running or \"Circ\" which will have the fan running 35% of the off time; all these fan settings independently from the heat/cool mode and settings. Have a great week! - Maria",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

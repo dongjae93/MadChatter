@@ -1,0 +1,415 @@
+{
+    "descriptions": {
+        "list": [
+            "Powerful WhisperWind motor quietly generates optimal airflow using 3-speeds with reverse feature providing year round comfort",
+            "3-speed remote control included with full-range light dimming with wall cradle; doesn't include blade direction reversing",
+            "Hunter offers a limited lifetime motor warranty on all ceiling fans; with a 1-year warranty on all parts (excluding bulbs)",
+            "Reversible drifted oak/medium oak blades included that operate on a 13° pitch for maximum performance",
+            "18-watt light fixture using two 9-watt medium base (E-26) dimmable LED bulbs included; must be installed with light kit",
+            "Can be installed using the provided 2-in or 3-in downrod for low or standard ceiling heights and also on a longer downrod for higher ceilings; can accommodate angled ceilings up to 34°",
+            "ETL Damp Listed for use in covered porches, patios and sunrooms"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "Lantern Bay LED"
+        },
+        {
+            "title": "Fan Diameter (Inches)",
+            "spec": "54"
+        },
+        {
+            "title": "Downrod Length (Inches)",
+            "spec": "3.0"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "5"
+        },
+        {
+            "title": "Reversible Blades",
+            "spec": 1
+        },
+        {
+            "title": "Blade Finish",
+            "spec": "Drifted Oak/Medium Oak"
+        },
+        {
+            "title": "Housing Color/Finish",
+            "spec": "Onyx Bengal Bronze"
+        },
+        {
+            "title": "Light Kit",
+            "spec": "Included"
+        },
+        {
+            "title": "Number of Bulbs Required",
+            "spec": "2"
+        },
+        {
+            "title": "Number of Lights",
+            "spec": "1"
+        },
+        {
+            "title": "Light Bulb Base Type",
+            "spec": "Medium base (E-26)"
+        },
+        {
+            "title": "Recommended Light Bulb Shape",
+            "spec": "A19"
+        },
+        {
+            "title": "Maximum Bulb Wattage",
+            "spec": "9.0"
+        },
+        {
+            "title": "Bulb Type",
+            "spec": "LED"
+        },
+        {
+            "title": "Remote Control Included",
+            "spec": 1
+        },
+        {
+            "title": "High Speed Electricity Use (Watts)",
+            "spec": "52"
+        },
+        {
+            "title": "Mounting Options",
+            "spec": "Downrod or close mount"
+        },
+        {
+            "title": "Reverse Air Flow",
+            "spec": 1
+        },
+        {
+            "title": "Motor Type",
+            "spec": "AC Motor"
+        },
+        {
+            "title": "Angle Mount Capable",
+            "spec": 1
+        },
+        {
+            "title": "Dual Fan Heads",
+            "spec": 0
+        },
+        {
+            "title": "Wattage Equivalent",
+            "spec": "120"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Remote Control",
+            "spec": "Handheld"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Light Kit Type",
+            "spec": "Integrated"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Residential"
+        },
+        {
+            "title": "ENERGY STAR Certified",
+            "spec": 0
+        },
+        {
+            "title": "Airflow (CFM)",
+            "spec": "4027.0"
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 0
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 0
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Minimum Height (Inches)",
+            "spec": "15.7"
+        },
+        {
+            "title": "Maximum Height (Inches)",
+            "spec": "16.7"
+        },
+        {
+            "title": "Number of Speeds",
+            "spec": "3"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "40101600"
+        },
+        {
+            "title": "Fixture Color Family",
+            "spec": "Bronze"
+        },
+        {
+            "title": "Glass Type",
+            "spec": "Clear glass"
+        },
+        {
+            "title": "Style",
+            "spec": "Coastal"
+        },
+        {
+            "title": "Outdoor Usage Rating",
+            "spec": "Damp location"
+        },
+        {
+            "title": "Shade Material",
+            "spec": "Glass"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor/Outdoor"
+        },
+        {
+            "title": "Suggested Room Size",
+            "spec": "Large Room (up to 400 sq. ft.)"
+        },
+        {
+            "title": "Fixture Finish",
+            "spec": "Matte"
+        },
+        {
+            "title": "For Use in Bathrooms",
+            "spec": 0
+        },
+        {
+            "title": "Oscillating",
+            "spec": 0
+        },
+        {
+            "title": "Bulb Installation Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "For Use in Bedrooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Dining Rooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Kitchens",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Living Rooms",
+            "spec": 1
+        },
+        {
+            "title": "Frosted Glass",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "1dc229e6-cd88-510e-9dad-b205ec812937",
+                    "largeName": "c4c087d7-2738-5721-9e0c-47f080bfd9b8"
+                }
+            ],
+            "title": "\"Decent fans\"",
+            "rating": 4,
+            "date": "06/19/2019",
+            "recommended": true,
+            "text": "First Lowe's. These fans did not have a sale tag on them showing 15% off. They rang up correctly But I'm glad I looked on line as I would have not bothered. This happens a lot at our Lowe's. The fans are good. To balance you have to reverse but since they are indoor outdoor you have to remove the light cover to make the switch. The remotes feel cheesy but they work. Overall happy with the air flow.",
+            "author": "Jamtracy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent product\"",
+            "rating": 4,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "We bought two of these for our back porch. Excellent quality all around . The included instructions were actually helpful , as opposed to many other products . Installation was a breeze. Only disappointment was the length of the included downrod - about 4 \" long . Had to go back to the store to get 12\" downrods to install properly on our ceiling - otherwise would have given 5 stars",
+            "author": "Budman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Beautiful!\"",
+            "rating": 5,
+            "date": "03/21/2019",
+            "recommended": true,
+            "text": "We have purchased these fans twice now for some of our new construction homes, they are beautiful and great quality.",
+            "author": "TK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice looking but lacks features for a $200 fan.\"",
+            "rating": 3,
+            "date": "07/03/2019",
+            "recommended": false,
+            "text": "While I like the fan it lacks a little from engineering standpoint. To change the direction of the fan you have to remove the light fixture cage. That gets a little involved when standing on an 8 foot ladder. The other issue is the light itself. Using LED's is great but only 2 small bulbs doesn't provide much light when mounted 9-10 ft. above the floor. Also the instructions say do not use any higher output/wattage bulbs.",
+            "author": "Sam",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Al",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Csd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 6,
+        "percentRecommended": "83",
+        "averageStars": "4.3",
+        "starCounts": {
+            "five": 3,
+            "four": 2,
+            "three": 1,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Does the remote control have dimming options for light or/and fan?\"",
+            "author": "Anonymous",
+            "date": "03/15/2019"
+        },
+        {
+            "question": "\"Can I use my military discount\"",
+            "author": "Anonymous",
+            "date": "06/07/2019"
+        },
+        {
+            "question": "\"can someone say what the blades are made of? Are the made of plastic or wood composition?\"",
+            "author": "sylvia777",
+            "date": "05/11/2019"
+        },
+        {
+            "question": "\"Can I use Hue bulbs in this fan? They are 10 watt bulbs and this fan says 9 watt.\"",
+            "author": "Anonymous",
+            "date": "04/24/2019"
+        },
+        {
+            "question": "\"Could you increase the wattage of the LED lights? Say, to a 19 watt per fixture? Or how could you? Take out the glass and use decorative Edison style?\"",
+            "author": "Anonymous",
+            "date": "04/08/2019"
+        },
+        {
+            "question": "\"can the blade direction be reversed?\"",
+            "author": "Anonymous",
+            "date": "02/15/2019"
+        },
+        {
+            "question": "\"How many lumens is this light?\"",
+            "author": "Anonymous",
+            "date": "01/22/2019"
+        },
+        {
+            "question": "\"Can it be used on A covered open po arch ceiling and 5 foot enclosed with 4-5 foot screened poarch not glassed in in winter in NC usa\"",
+            "author": "Anonymous",
+            "date": "12/18/2018"
+        }
+    ]
+}

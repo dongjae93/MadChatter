@@ -1,0 +1,771 @@
+{
+    "descriptions": {
+        "overview": "The TOTO UltraMax II One-Piece Elongated 1.28 GPF Universal Height Toilet with CeFiONtect projects TOTO’s mark of excellence: People Planet Water. The TOTO UltraMax II features a sleek, one-piece design that will immediately beautify the appearance of your bathroom. The one-piece design is not only aesthetically pleasing, but also offers the benefit of being easier to clean versus a two-piece toilet. By removing the gap between the tank and bowl, we eliminate the hiding place for dirt and debris. An additional benefit of the one-piece toilet is that there is no threat of leaks from bolts or gaskets that can occur in two-piece toilets. The TOTO UltraMax II features TOTO’s Tornado Flush™, a hole-free rim design with dual-nozzles that creates a centrifugal washing action that assists in rinsing the bowl more efficiently. This version of the TOTO UltraMax II includes CeFiONtect, a layer of exceptionally smooth glaze that prevents particles from adhering to the ceramic. This feature, coupled with Tornado Flush, assists to reduce the frequency of toilet cleanings, minimizing the usage of water, harsh chemicals, and time required for cleaning. The TOTO UltraMax II is designed in TOTO’s Universal Height, which allows for a more comfortable seat position across a wide range of users. The UltraMax II is ADA compliant and meets the standards for EPA WaterSense®, and California’s CEC and CALGreen requirements. The TOTO UltraMax II has a left-hand chrome trip lever and an included TOTO SoftClose® seat.",
+        "list": [
+            "Elongated one-piece toilet, easier to maintain versus a two-piece toilet",
+            "1.28 gallons per flush Tornado Flush™ system with a powerful centrifugal rinse",
+            "CeFiONtect™ glaze gives the bowl a lubricious quality that prevents particles from adhering",
+            "SoftClose® seat included",
+            "ADA, WaterSense®, CALGreen, and CEC compliant",
+            "12-in Rough-in",
+            "Tornado Flush™ system, high-efficiency (1.28GPF/4.8LPF)",
+            "Elongated front bowl with SoftClose® seat (SS114)",
+            "Chrome trip lever"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Type",
+            "spec": "1-piece"
+        },
+        {
+            "title": "Toilet Kit",
+            "spec": 0
+        },
+        {
+            "title": "Collection Name",
+            "spec": "Ultramax II"
+        },
+        {
+            "title": "Bowl Height",
+            "spec": "Chair height"
+        },
+        {
+            "title": "Bowl Height with Seat",
+            "spec": "17-1/4-in"
+        },
+        {
+            "title": "Bowl Height without Seat",
+            "spec": "16-1/4-in"
+        },
+        {
+            "title": "ADA Compliant",
+            "spec": 1
+        },
+        {
+            "title": "High Efficiency",
+            "spec": 1
+        },
+        {
+            "title": "Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "Rough-In Size",
+            "spec": "12-in"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "White"
+        },
+        {
+            "title": "Lined Tank",
+            "spec": 0
+        },
+        {
+            "title": "Flush Lever Location",
+            "spec": "Left side"
+        },
+        {
+            "title": "Assembled Depth (Inches)",
+            "spec": "28.375"
+        },
+        {
+            "title": "Assembled Width (Inches)",
+            "spec": "16.625"
+        },
+        {
+            "title": "Assembled Height (Inches)",
+            "spec": "28.75"
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "100"
+        },
+        {
+            "title": "WaterSense Labeled",
+            "spec": 1
+        },
+        {
+            "title": "Flush Type",
+            "spec": "Single"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "Deodorizing",
+            "spec": 0
+        },
+        {
+            "title": "Night Light",
+            "spec": 0
+        },
+        {
+            "title": "Remote Control",
+            "spec": 0
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Cotton White"
+        },
+        {
+            "title": "Flush Lever Included",
+            "spec": 1
+        },
+        {
+            "title": "Maximum Flush Rate",
+            "spec": "1.28 GPF (4.85 LPF)"
+        },
+        {
+            "title": "Portable",
+            "spec": 0
+        },
+        {
+            "title": "Gallons Per Flush",
+            "spec": "1.28"
+        },
+        {
+            "title": "Trapway Size",
+            "spec": "2-1/16-in"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30181500"
+        },
+        {
+            "title": "Hardware Color Family",
+            "spec": "Chrome"
+        },
+        {
+            "title": "Bowl Shape",
+            "spec": "Elongated"
+        },
+        {
+            "title": "Installation Type",
+            "spec": "Floor mounted"
+        },
+        {
+            "title": "Outlet Location",
+            "spec": "Floor outlet"
+        },
+        {
+            "title": "Flush Technology",
+            "spec": "Gravity fed"
+        },
+        {
+            "title": "Bidet Function",
+            "spec": 0
+        },
+        {
+            "title": "Corner Installation",
+            "spec": 0
+        },
+        {
+            "title": "Heated Seat",
+            "spec": 0
+        },
+        {
+            "title": "Mounting Bolts Included",
+            "spec": 0
+        },
+        {
+            "title": "Rimless",
+            "spec": 0
+        },
+        {
+            "title": "Rubber Bumpers Included",
+            "spec": 0
+        },
+        {
+            "title": "Self-Cleaning",
+            "spec": 0
+        },
+        {
+            "title": "Skirted",
+            "spec": 0
+        },
+        {
+            "title": "Supply Lines Included",
+            "spec": 0
+        },
+        {
+            "title": "Wax Ring Included",
+            "spec": 0
+        },
+        {
+            "title": "Hardware Finish",
+            "spec": "Polished"
+        },
+        {
+            "title": "Material",
+            "spec": "Vitreous china"
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        },
+        {
+            "title": "Seat Included",
+            "spec": 1
+        },
+        {
+            "title": "Seat Secure",
+            "spec": 1
+        },
+        {
+            "title": "Slow Close Feature",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Flushes Like Commercial Toilet\"",
+            "rating": 5,
+            "date": "12/01/2017",
+            "recommended": true,
+            "text": "Very Powerful flush.  Ready to Flush once more immediately (never needed).  Secret Tip:  If for some reason you want a longer flush, hold the handle down.  This is chair height.  Great Toilet.  This is our second one.",
+            "author": "MARC",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 52,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Toilet !!!\"",
+            "rating": 5,
+            "date": "09/12/2017",
+            "recommended": true,
+            "text": "I've heard so many good things about TOTO toilets, so I decided to replace my 20+ year old toilet.  The TOTO Ultramax II appeared to be top-of-the-line for TOTO.  This was a special order from Lowes, but it only took a week to get the toilet delivered - well worth the wait.  I also received 5% off using my Lowes credit card.  I had my plumber install the toilet, which was easy.The flushing action of this toilet is perfect - virtually impossible to clog even though it only uses 1.28 GPF.  It's also very quiet.  The only thing to note is that this toilet uses a proprietary flush valve (called a flush tower - not a flapper).  You can buy replacement flush parts on the Internet, but don't plan on getting replacement parts in you local retail hardware store.  These special TOTO parts work together to form the perfect flushing action.  Buy this toilet - you won't be disappointed !!!",
+            "author": "BobK",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 87,
+                "no": 14
+            }
+        },
+        {
+            "title": "\"Never thought I'd review a toilet\"",
+            "rating": 5,
+            "date": "12/21/2017",
+            "recommended": true,
+            "text": "Thought a toilet was just one of things you had to have.  As the gpf decreases, the plungers get bigger. Glad I was wrong... with only 1.28 gpf, this thing works great!!",
+            "author": "WhatCanISay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 33,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great but expensive toilet\"",
+            "rating": 3,
+            "date": "12/18/2018",
+            "recommended": null,
+            "text": "This toilet replaced a 30+-year-old toilet one that no longer functioned, so any working commode would be a delight in comparison!  That said, the one piece structure is nice, and makes cleaning easier.  The quick flush and far lesser usage of water are wonderful aspects, although getting seat removed to tighten the bolts has been a challenge - it's clearly made to stump even the handiest of us!  I am not sure it was worth it to spend SO much more money for all the basics and am looking forward to finding a cheaper venue before buying more of these (which I plan to do at some point down the road).",
+            "author": "HH",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Toto Ultramar II\"",
+            "rating": 5,
+            "date": "12/06/2017",
+            "recommended": true,
+            "text": "I like everything about it except that it is difficult to raise the seat and lid because there is no room for your fingers to get under it. Great flushing ability, easy to clean, comfortable, easy install, and looks good!",
+            "author": "Rod",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 23,
+                "no": 3
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "9f825648-2129-58de-9549-af178b30746c",
+                    "largeName": "0b165005-ebd8-5d86-9f1d-9ccef7d17edf"
+                }
+            ],
+            "title": "\"Potty seat!\"",
+            "rating": 4,
+            "date": "03/22/2018",
+            "recommended": null,
+            "text": "Bought for our 1/2 bath and the elongated bowl is more comfortable for my husband. The surprise was the little potty lid that is magnetic to the regular lid. It would be great for little ones!",
+            "author": "Jay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"good toilet worth the extra cost\"",
+            "rating": 4,
+            "date": "08/04/2018",
+            "recommended": true,
+            "text": "We had Toto Ultramax for many years in two of our bathrooms for years.  We've never had any problem with the toilet and it's easier to clean and keep them in good condition.  The special coating on the surface keeps the toilet as if it's new all the time.  The chair height is also ergonomically good for most people, even for short people.  One piece toilet makes it easier to clean.  You can spend far less for a toilet but considering how much use it gets, never clogs, it's a good investment to get a quality toilet.  The Lowe's price was competitive and it's good to know that if there's any problem, you can deal with it at your local Lowe's store instead of dealing with a company that's far away and involving shipping a very heavy object back.  I highly recommend this toilet.  If you want to splurge, purchase a Toto bidet to go with this toilet.",
+            "author": "Sera",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "cb834408-a58c-5e42-9412-a22a2afe9b2d",
+                    "largeName": "08302fb7-5aba-5ccc-95d6-07fdc33ca96b"
+                }
+            ],
+            "title": "\"received a defective product\"",
+            "rating": 2,
+            "date": "11/12/2017",
+            "recommended": false,
+            "text": "I purchased three. One came with a permanent black mark (see picture). Since I don't have time to return and re-purchase, I accepted it, but was very disappointed. Furthermore, this set does NOT include the toilet seat. I will have to find a matching toilet seat now. They should have made this clear in the product description. I would have purchased a different set with the toilet seat.",
+            "author": "Min",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 17,
+                "no": 52
+            }
+        },
+        {
+            "title": "\"Love me some Toto\"",
+            "rating": 5,
+            "date": "05/21/2018",
+            "recommended": true,
+            "text": "I love this toilet, exactly what I expected. One piece, tall and sleek. Easy to clean, quiet, powerful and economical flush. Can't wait to add the Toto bidet to it.",
+            "author": "LittleTinkle",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"If this were golden I would be a king!\"",
+            "rating": 4,
+            "date": "06/26/2018",
+            "recommended": true,
+            "text": "Only separate issue is that it doesn't come with floor flange bolts and Lowe's does not carry 1.5\" brass toilet bolts, only 2\" and longer.",
+            "author": "AlB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Caution\"",
+            "rating": 2,
+            "date": "11/12/2018",
+            "recommended": false,
+            "text": "Brand new toilet out of the box would not work. Hired a plumber to install this product, but when he did the fill valve would not work. The plumber had to go to the store to purchase a replacement and I ended up with a $350 plumbing bill. This is the second of this exact model we have installed and our 4th Toto toilet. First time we have this kind of issue, but extremely disappointed because at that point it was installed and would have cost us more to return it. The only compensation Toto will provide is a spare replacement valve, which hopefully we won't need.",
+            "author": "Julie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3b654c57-2b81-5cf3-90cf-a40159a4614f",
+                    "largeName": "991b2455-3d6a-5f60-bf77-0f81b0d11dad"
+                }
+            ],
+            "title": "\"Good choice\"",
+            "rating": 5,
+            "date": "09/29/2018",
+            "recommended": true,
+            "text": "After much research decided on this one. Definitely would recommend.",
+            "author": "Toto2",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "afbabb76-affb-59f9-9154-25a539949075",
+                    "largeName": "cae34f18-47b5-540a-bb32-3463eb293476"
+                }
+            ],
+            "title": "\"A great toilet with newer technology and surface\"",
+            "rating": 5,
+            "date": "05/09/2019",
+            "recommended": true,
+            "text": "We added a TOTO S550e Washlet bidet seat that was a perfect fit...",
+            "author": "Jon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Fabulous toilet\"",
+            "rating": 5,
+            "date": "11/10/2018",
+            "recommended": true,
+            "text": "Water saving technology takes nothing away from this toilet's performance.  So far so great!",
+            "author": "Leslie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 3,
+            "date": "02/20/2019",
+            "recommended": false,
+            "text": "Does not worth the price. Flushing is not great like any cheap toilet.",
+            "author": "Simon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very Good Toilet, Very Poor Seat\"",
+            "rating": 4,
+            "date": "06/19/2019",
+            "recommended": true,
+            "text": "The toilet came packaged very well.  It is a quality product.  Finished well and has worked great for the last 6 weeks.  It flushes efficiently and is quiet.  It stays much cleaner that the old builders model it replace.  The only complaint is the self closing seat.  It closes well but the hinge pins are not very close tolerances.  Consequently the seat moves from side to side approximately 3/8 inch when you are sitting on it and move your weight.  I contacted Toto service and they promptly send a new seat.  The seat has exactly the same problem.  Went to a Toto showroom and all their current self closing seats have the same problem.  I have an inexpensive toilet from Water Ridge with a self closing seat and it does not move.  For the price of this item Toto needs to engineer and build a seat that does not move around when you sit on it.",
+            "author": "JimS",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Comfortable seating area for reading...\"",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "This throne is the perfect height, in fact after using it for the last week or so, other thrones feel like I'm about to fall on the floor. I like that to clean it I depress the handle with a quick touch and it cleans completely. I don't have to hold the handle down and wait (failure to wait resulted in the queen not being happy) as I did with the previous seating arrangement.",
+            "author": "TxHobo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Toto Toilets Rock!\"",
+            "rating": 5,
+            "date": "02/03/2019",
+            "recommended": true,
+            "text": "We love the Toto brand. This Ultramax is an ADA (comfort) height toilet and has a great look. It flushes well and we'll probably never need a plunger!",
+            "author": "Nuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/12/2017",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tillie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/11/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "pwb600",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/11/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "pwb600",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Andrew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 22,
+        "percentRecommended": "72",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 14,
+            "four": 4,
+            "three": 2,
+            "two": 2,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Is it taller than standard toilets?\"",
+            "author": "Anonymous",
+            "date": "02/05/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "02/22/2019",
+                    "text": "No, the bowl height with the seat included is 17-1/4-inches.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "02/06/2019",
+                    "text": "Hello, The Ultramax II has a rim height of 16-1/8 inches. This is taller than a standard toilet that would typically have a rim height around 14-1/2 or 15 inches. The seat height with the accompanying seat will be around 17-1/4 inches form the floor. You can view spec sheets for all models on the TOTO USA website. I hope this helps and thank you for choosing TOTO!",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this toilet seat come with a potty seat for children as one person showed in a picture, or is that sold separately?\"",
+            "author": "Anonymous",
+            "date": "01/13/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "01/24/2019",
+                    "text": "No, this product does not come with a potty seat.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "01/14/2019",
+                    "text": "Hello, The Ultramax II includes a regular seat. A child's seat will need to be purchased separately. I hope this is helpful and thank you for your interest in TOTO!",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What material is the seat made of?\"",
+            "author": "Bwindom",
+            "date": "03/03/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/07/2018",
+                    "text": "The seat is plastic.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "03/06/2018",
+                    "text": "Hello Bwindom, The seat is made of polypropylene plastic with a few other smaller pieces of various materials like stainless steel. I hope this helps and thank you for choosing TOTO!",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I measured 11.5 inches from the wall to the middle of the bolt cap. Will this toilet work for this rough in?\"",
+            "author": "LARRY",
+            "date": "12/09/2017",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "12/11/2017",
+                    "text": "Hello LARRY, For a true 12 inch rough-in (center of outlet to the wall, not including baseboard), there will be about 3/4 inches of space between the back of the tank and the wall. I hope this is helpful and thank you for your interest in TOTO!",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/09/2017",
+                    "text": "This toilet uses a 12 inch rough-in measurement.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does it have the SanaGloss finish?\"",
+            "author": "Teri",
+            "date": "07/18/2017",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "07/19/2017",
+                    "text": "Hi Teri, Yes. The Ultramax II comes with TOTO's special glaze called CeFiONtect (formerly known as SanaGloss). It is the same formula, designed to make the surface more slick to help reduce particles from adhering. The Ultramax II also has Tornado Flush which will help rinse everything away more effectively than traditional rim holes. I hope this helps and thank you for considering TOTO!",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "07/19/2017",
+                    "text": "No, this toilet does not have that feature.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is cotton white a bright white?\"",
+            "author": "Anonymous",
+            "date": "07/08/2019",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "07/08/2019",
+                    "text": "Hello, Cotton White is TOTO's brightest white. Colonial White is a bit softer. If you'd like to compare colors you can get a set of swatches to see them in person. Please contact our Technical Support team for help in getting these swatches. They can be reached at techsupport@toto.com or call 1-888-295-8134 between 8am - 8pm EST Mon-Fri and press 4 when prompted. We also have live chat on the TOTO USA website. I hope this helps and thank you for choosing TOTO!",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Would this elongated seat be comfortable for a small, petite woman?\"",
+            "author": "Anonymous",
+            "date": "05/12/2019",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "05/13/2019",
+                    "text": "Hello, The width of this toilet seat is a very typical width of 14 inches across. The elongated seat provides an additional 2 inches in the front. Please take a look at the reviews to see what people are saying about the comfort of the seat. If you need additional assistance, please reach out to us directly. Our Technical Support team is standing by to take your call. They can be reached at techsupport@toto.com or call 1-888-295-8134 between 8am - 8pm Mon - Fri EST and press 4 when prompted. We also have live chat on the TOTO USA website. I hope this helps and thank you for choosing TOTO.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the depth really 28.375 in? Most elongated toilets are 30 in.\"",
+            "author": "Anonymous",
+            "date": "05/12/2019",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "05/13/2019",
+                    "text": "Hello, The Ultramax II toilet is 28-3/8 inches from the front of the bowl to the back of the tank. You can view spec sheets for all TOTO models on the TOTO USA website. I hope this helps and thank you for your interest in TOTO!",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is this TOTO Ultramax Ii Cotton White WaterSense Elongated Chair Height available in Round seat?\"",
+            "author": "Anonymous",
+            "date": "05/12/2019",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "05/13/2019",
+                    "text": "Hello, This version of the Ultramax is only available in an elongated seat. Please take a look at the MS853113E toilet for a similar option in round. I hope this helps and thank you for your interest in TOTO!",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"The slow close seat that came with the toilet is very wiggly. I cannot remove the plastic lid that covers the toilet set bolts. Please explain how!\"",
+            "author": "Anonymous",
+            "date": "12/17/2018",
+            "answers": [
+                {
+                    "badgeName": "79522c3e-cb17-5dc0-b0fc-5c9f4883680e",
+                    "author": "TOTO USA Ambassador",
+                    "date": "12/18/2018",
+                    "text": "Hello, I am sorry that you are having trouble with the SoftClose seat. The tabs that cover the bolts can be lifted with a flat head screwdriver or knife. If you need additional assistance, please reach out to us directly. Our Technical Support team is standing by to take your call. They can be reached at techsupport@toto.com or call 1-888-295-8134 between 8am - 8pm Mon - Fri EST and press 4 when prompted. We also have live chat on the TOTO USA website. I hope this helps and thank you for choosing TOTO.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

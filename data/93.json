@@ -1,0 +1,727 @@
+{
+    "descriptions": {
+        "list": [
+            "Strong composite material",
+            "Looks like rope but is more durable",
+            "Frost resistant",
+            "Indoor/outdoor"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Assembled Width (Inches)",
+            "spec": "14.75"
+        },
+        {
+            "title": "Assembled Height (Inches)",
+            "spec": "18.5"
+        },
+        {
+            "title": "Assembled Depth (Inches)",
+            "spec": "14.75"
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "16.6"
+        },
+        {
+            "title": "Weight Capacity (lbs.)",
+            "spec": "240"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Abaca with Black Rim"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Residential"
+        },
+        {
+            "title": "Assembled Diameter (Inches)",
+            "spec": "14.75"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "56101600"
+        },
+        {
+            "title": "Type",
+            "spec": "Barrel"
+        },
+        {
+            "title": "Material",
+            "spec": "Ceramic"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor/Outdoor"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Multiple colors/finishes"
+        },
+        {
+            "title": "Theme/Design",
+            "spec": "N/A"
+        },
+        {
+            "title": "Style",
+            "spec": "Rustic"
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "7b481af8-3a11-5550-ae9b-d1028ebfd710",
+                    "largeName": "32279626-56c4-5b1f-9a1c-3a425698aaef"
+                }
+            ],
+            "title": "\"Nice Stool!\"",
+            "rating": 5,
+            "date": "04/16/2018",
+            "recommended": true,
+            "text": "I placed this stool on my front porch next to a bench.  I bought an Allen + Roth planter to place on it and I like the look.  Because the stool is decorative with the faux rope and the planter is blue, I decided to keep the plant simple and planted White Knight.  The stool is very durable and looks nice with my Rope Planter on the other side of my porch!",
+            "author": "JulieF",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8d95deb3-a987-5cd9-a084-4a9f32a415f5",
+                    "largeName": "6c78d118-3747-517e-ac09-f3e9b3f87c4b"
+                }
+            ],
+            "title": "",
+            "rating": 5,
+            "date": "04/26/2018",
+            "recommended": true,
+            "text": "This garden stool was the perfect addition to my outdoor space!  This stool is well made and high quality!!  Love it in my space!",
+            "author": "Judy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Sticker on top was hard to remove\"",
+            "rating": 4,
+            "date": "05/25/2018",
+            "recommended": true,
+            "text": "The unit looks nice overall. However, they used a fairly large price and barcode sticker on the top of the stool. The sticker has a very aggressive adhesive that was difficult to remove. I had to use a hair drier to heat it up to remove it. It still left a light mark. Alcohol and window cleaner helped, but you can still see where the sticker was. Why use such an aggressive label? And why put it on the slate top? Should have been placed on the plastic wrapper. I'm deducting a star for that.",
+            "author": "Dano",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 17,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Sturdy and stylish\"",
+            "rating": 5,
+            "date": "04/11/2018",
+            "recommended": true,
+            "text": "I'm in love with this stool! It's a great addition to my gardening station, it's the perfect height for kneeling next to a bag of dirt and potting on. It's comfortable to sit on, especially with an outdoor pillow on top. The stool is heavier than expected, but that's nice because it prevents it from getting tipped over on accident or in a storm.",
+            "author": "Elizabeth",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/19/2018",
+            "recommended": true,
+            "text": "I just bought 2 of these yesterday @ Lowes in Arnold. They are perfect as a table next to my new rubbed bronze patio lounger! Simply beautiful!!",
+            "author": "Doris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Price was wonderful\"",
+            "rating": 5,
+            "date": "05/22/2018",
+            "recommended": true,
+            "text": "I saw this item in a few different places with price range from $45 (Lowes) to $120 (same item)very strong and sturdy, can be used as an end table or extra seating. I picked up from my local store the same day I ordered it online.Very happy with this purchess.",
+            "author": "Jaymom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "eb5b13a7-9284-5ae6-810b-7ae1f78b1ca0",
+                    "largeName": "1bdfe8e8-7922-5a05-9a28-2a8df6b1fc37"
+                }
+            ],
+            "title": "\"The Perfect Compliment\"",
+            "rating": 5,
+            "date": "02/22/2019",
+            "recommended": true,
+            "text": "This was the perfect compliment to our new porch furniture. It' works well as a good sturdy table.",
+            "author": "Eddy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Rope stool\"",
+            "rating": 4,
+            "date": "06/08/2019",
+            "recommended": true,
+            "text": "Liked overall appearance, but have to say looks a bit better in photo.I am using it as a side table on my porch. It is a bit low for that purpose, but it works. It is weighted so unlikely to tip over.Have to agree with the review stating they wished Lowe's had not placed sticker directly on surface of item.I used Goo Gone to remove it and was successful. I would recommend this item.",
+            "author": "Cindy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cute for side table\"",
+            "rating": 5,
+            "date": "11/14/2018",
+            "recommended": true,
+            "text": "It's a unique piece seems like it will hold up.  Not very tall wouldn't work at the end of a couch. I have them beside a small sette. Went back and purchased a second one and had to pay double. But I ended up needing two  to get the look I needed.",
+            "author": "Blessedmom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "I bought one of these barrels and loved it so much I bought 2 more a couple weeks later. They look so real and I get lots of positive comments on them. I love that they are weather resistant and will store very easily in the winter.",
+            "author": "Beth",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cool idea, too cold\"",
+            "rating": 4,
+            "date": "10/07/2018",
+            "recommended": true,
+            "text": "The chairs are awesome when the weather is hot of mold. As soon as it started getting cold, they're too cold to sit in. We don't spend as much time outside when it's cold, so it doesn't affect us much.",
+            "author": "Ian",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Faux Rope Stool\"",
+            "rating": 4,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "This is a very nice item and is exactly as described.  I would advise people to pay attention to the fact that these are very breakable as they are made of some type of ceramic material.",
+            "author": "GQ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "09/14/2018",
+            "recommended": true,
+            "text": "Very cute . I use it as indoor end table for my family room . Works really well for tight spaces.. since it's a stool, it's sturdy to sit on it as well. Totally loving it!!",
+            "author": "Vk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect for side table or to set a plant\"",
+            "rating": 5,
+            "date": "09/01/2018",
+            "recommended": true,
+            "text": "This stool makes a great side table for a recliner without taking a lot of room.  I bought two and the price is very reasonable. Also good for setting plants on them.",
+            "author": "Lowesrus",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Faux Rope Stool\"",
+            "rating": 5,
+            "date": "03/16/2019",
+            "recommended": true,
+            "text": "Though this is meant to be a stool my wife uses it for a plant stand which gives her plantthe extra height needed to be displayed properly",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Sturdy Stool\"",
+            "rating": 5,
+            "date": "09/20/2018",
+            "recommended": true,
+            "text": "I wanted two of these stools at the end of the summer sale, only one was left.  Well worth the $$$ spent!  Perfect for what I needed.",
+            "author": "Deej",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great little table!\"",
+            "rating": 5,
+            "date": "02/24/2019",
+            "recommended": true,
+            "text": "These tables are nice. The thing I really like is they have a little weight to them so they won't blow over.",
+            "author": "Sadie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Addition to our Deck\"",
+            "rating": 5,
+            "date": "09/17/2018",
+            "recommended": true,
+            "text": "This has been a great addition to our deck area and matches our furniture.  Would recommend!!!",
+            "author": "Geoffrey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Makes a great end table\"",
+            "rating": 5,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "This barrel table is vert sturdy, and makes the perfect end table for our sunroom.",
+            "author": "Linda",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Grea addition\"",
+            "rating": 5,
+            "date": "06/06/2019",
+            "recommended": true,
+            "text": "This was agreat addition to add to our front porch.   Glad my hsband found it.",
+            "author": "Pam",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Quality control\"",
+            "rating": 3,
+            "date": "09/19/2018",
+            "recommended": false,
+            "text": "Surface scratched, ordered 2 but finishes did not match - 1 Matt, 1 semigloss.",
+            "author": "Zopilote",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Indoor/outdoor stool\"",
+            "rating": 4,
+            "date": "10/26/2018",
+            "recommended": true,
+            "text": "Durable and sturdy with good quality of build.Makes good end table.",
+            "author": "dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"BETTER THAN EXPECTED\"",
+            "rating": 5,
+            "date": "09/25/2018",
+            "recommended": true,
+            "text": "Very very nice for the price. Great on the lani weather proof",
+            "author": "Joecool",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/14/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Philip",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Daniel",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "BJS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/14/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/01/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "CG",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "momma",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "DominicG",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/19/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "MsRascal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Claire",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/30/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "carrie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Momleber",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gabe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Fitz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/19/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "CD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Vonchi",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 39,
+        "percentRecommended": "94",
+        "averageStars": "4.8",
+        "starCounts": {
+            "five": 31,
+            "four": 7,
+            "three": 1,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Is this stool open on the bottom? Or is the bottom completely covered/closed?\"",
+            "author": "Anonymous",
+            "date": "06/03/2018",
+            "answers": [
+                {
+                    "author": "sherri",
+                    "date": "08/20/2018",
+                    "text": "I turned mine upside on a rug-upside down and hide my gardeb hose in it.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "06/03/2018",
+                    "text": "Hi, the Stool is open bottom. Please don't hesitate to reach back out with any additional questions.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the top color black or brown?\"",
+            "author": "Anonymous",
+            "date": "06/28/2019",
+            "answers": [
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "06/28/2019",
+                    "text": "The Black Rim Stool has a Black top.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will rain damage this product? How weather proof is it?\"",
+            "author": "Anonymous",
+            "date": "05/29/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "05/29/2019",
+                    "text": "No, the rain will not damage it since it is weather resistant.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does the top one off? Can it be used for storage ?\"",
+            "author": "Anonymous",
+            "date": "04/20/2019",
+            "answers": [
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "04/21/2019",
+                    "text": "Hi, the stool top does not come off and it has an open bottom. It can be used as a side table, foot stool, plant stand or for extra seating.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Hi, I bought 2 of these stools and the top is faded that the top looks white. Please HELP me! Thank you\"",
+            "author": "Anonymous",
+            "date": "04/11/2019",
+            "answers": [
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "04/11/2019",
+                    "text": "Hi, sorry to hear about your issue. Please email photos of your Stool and the problem you are having to allison.sutton@pebatandem.com so we can learn more and get this issue resolved.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the barrel made of? Steel?\"",
+            "author": "Anonymous",
+            "date": "09/09/2018",
+            "answers": [
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "09/09/2018",
+                    "text": "It is a composite clay material, reinforced by fiber glass matting.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can I use this as a flowerpot? I would love to put the leg of my gazebo in it and fill it with rocks and then uses a flowerpot\"",
+            "author": "Anonymous",
+            "date": "07/12/2018",
+            "answers": [
+                {
+                    "badgeName": "89f86d10-7c08-560a-8773-134f8abe666a",
+                    "author": "allen + roth Team",
+                    "date": "07/12/2018",
+                    "text": "Hi, yes you can if you choose to. You would likely need to drill a drainage hole in the bottom for drainage.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

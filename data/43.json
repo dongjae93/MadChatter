@@ -1,0 +1,2603 @@
+{
+    "descriptions": {
+        "list": [
+            "Built by John Deere in Greeneville, TN, USA",
+            "20-HP, V-Twin, choke-free Ready Start™ John Deere Branded engine for tough mulching, mowing, and bagging conditions (up to 1 acre)",
+            "It’s not how fast you mow. It’s how well you mow fast™ with the 42-in Accel Deep™ Mower Deck, process tall grass at faster speeds",
+            "Heavy-duty, dual hydrostatic transmission with 1-in axles for power and durability, maximum speed 7 mph steer using motion control levers, effective over long, level tracks of land or around trees, shrubs and flower beds",
+            "Comfortable 15-in back seat with lumbar support adjusts for different heights, with a cup holder and storage compartment on each side 2.1-gal fuel tank features a low-fuel level light on the control panel, so you don’t have to remove the cap",
+            "42-in bagger (709138), 42-in mulch kit (777835), tow-behind cart (317783), attachment bar/hitch (451980), weight bracket (451982)",
+            "Oil (48763), oil filter (228877), air filter (336262), 42-in mower blades (698349), 42-in mower belts (712121)",
+            "Hassle Free Ownership: John Deere 2-year bumper to bumper warranty; local John Deere dealer support - conducts a 10-Point Pre-Delivery Inspection prior to sale; one-stop contact for John Deere service",
+            "Register your warranty at www.johndeere.com/warrantyregistration and receive a FREE John Deere Owner’s Edition hat"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Ammeter",
+            "spec": 0
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "491"
+        },
+        {
+            "title": "Attachment Compatible",
+            "spec": "Rear"
+        },
+        {
+            "title": "Bagger Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Blade Engagement Type (PTO)",
+            "spec": "Electric"
+        },
+        {
+            "title": "California Air Resources Board Compliant",
+            "spec": 0
+        },
+        {
+            "title": "Cruise Control",
+            "spec": 0
+        },
+        {
+            "title": "Cut Width (Inches)",
+            "spec": "42"
+        },
+        {
+            "title": "Cutting Range/Yard Size (Acres)",
+            "spec": "1-2"
+        },
+        {
+            "title": "Deck Gauge",
+            "spec": "12"
+        },
+        {
+            "title": "Differential",
+            "spec": "Standard"
+        },
+        {
+            "title": "Discharge Location",
+            "spec": "Side"
+        },
+        {
+            "title": "Engine Brand",
+            "spec": "John Deere Branded"
+        },
+        {
+            "title": "Engine Displacement (Cu. Centimeters)",
+            "spec": "656"
+        },
+        {
+            "title": "Engine Horsepower (HP)",
+            "spec": "20"
+        },
+        {
+            "title": "Engine Oil Capacity (oz.)",
+            "spec": "64"
+        },
+        {
+            "title": "Engine Oil Included",
+            "spec": 1
+        },
+        {
+            "title": "Engine Series",
+            "spec": "John Deere Branded"
+        },
+        {
+            "title": "Engine Type",
+            "spec": "V-twin"
+        },
+        {
+            "title": "Front Axle",
+            "spec": "Cast iron"
+        },
+        {
+            "title": "Front Wheel Size",
+            "spec": "11-in"
+        },
+        {
+            "title": "Fuel Capacity (Gallons)",
+            "spec": "2.1"
+        },
+        {
+            "title": "Grease Fittings",
+            "spec": 0
+        },
+        {
+            "title": "Hour Meter Type",
+            "spec": "Meter only"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Maximum Cutting Height (Inches)",
+            "spec": "4"
+        },
+        {
+            "title": "Maximum Forward Speed (MPH)",
+            "spec": "7"
+        },
+        {
+            "title": "Maximum Reverse Speed (MPH)",
+            "spec": "3.5"
+        },
+        {
+            "title": "Minimum Cutting Height (Inches)",
+            "spec": "1"
+        },
+        {
+            "title": "Mulching Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "2"
+        },
+        {
+            "title": "Number of Deck Positions",
+            "spec": "16"
+        },
+        {
+            "title": "Number of Deck/Anti-Scalp Wheels",
+            "spec": "2"
+        },
+        {
+            "title": "Oil Filter Type",
+            "spec": "Spin-on"
+        },
+        {
+            "title": "Operator-Controlled Mow-in-Reverse",
+            "spec": 0
+        },
+        {
+            "title": "Overall Length (Inches)",
+            "spec": "72.2"
+        },
+        {
+            "title": "Overall Width with Deck (Inches)",
+            "spec": "51.9"
+        },
+        {
+            "title": "Rear Wheel Size",
+            "spec": "18-in"
+        },
+        {
+            "title": "Recommended for Terrain Type",
+            "spec": "Flat with obstacles"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Seat Type",
+            "spec": "Mid-back"
+        },
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Steering Type",
+            "spec": "Dual lap bar"
+        },
+        {
+            "title": "Transmission Type",
+            "spec": "Dual hydrostatic"
+        },
+        {
+            "title": "Type",
+            "spec": "Zero-turn"
+        },
+        {
+            "title": "Warranty",
+            "spec": "2-year limited or 120 hours"
+        },
+        {
+            "title": "Headlight(s)",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "8c5af80e-d37c-526c-9734-ce543cc01606",
+                    "largeName": "f82042cc-6770-531d-96ea-8929253f5743"
+                }
+            ],
+            "title": "\"John Deere Z335E, An Amazing machine!\"",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "I dont know where to begin... This machine is awesome! It is a very comfortable machine to use weekly, i enjoy cutting my grass with the Z335E. It is very easy to do a nice pattern and can be done quickly. This machine has alot of different cutting heights which is super nice when you need to cut low or keep it long. Also i haven't scalped my lawn even though it is very uneven in spots, i like to think its due to the nice deck which keeps an even cutting height. Also i did buy the brush attachment to give my yard some beautiful stripes!(part #LP63763) Overall i love this machine and would recommend it to any one!",
+            "author": "CJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 10,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "097c6eb6-8708-51fe-ae55-4e58c8bd6d2b",
+                    "largeName": "37dcbd65-d914-5057-a0b8-9177ab29a60e"
+                },
+                {
+                    "smallName": "852de388-bc36-5d4c-9df8-ae869d0d7f98",
+                    "largeName": "6ce5bf35-29c2-5a52-9e14-db237f0de43d"
+                }
+            ],
+            "title": "\"nice mower\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "I had another mower but i was tired of going in circles.  i have had a zero turn mower before and it was time to get one. After moving the seat and a few minor adjustments it was good to go. Good size even for a big guy. Started on the first try. Had to figure out the position for the levers and parking break to get it started and running. Cuts nice, fairly quiet, easy to find controls and levers. I like it.",
+            "author": "dvm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 40,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"Worth it!!\"",
+            "rating": 5,
+            "date": "03/25/2018",
+            "recommended": true,
+            "text": "I bought this mower after careful consideration, and weeks of thinking I should be more frugal and go with a traditional riding lawn mower. After mowing with this thing, I absolutely do not regret spending the additional 5-600 dollars. I have slightly more than 1/2 acre to mow, with some slopes and dips in the yard. This Z335 made the task easy. I had been dreading this chore, but now I find it quite enjoyable. The flexibility of maneuvering with a zero turn radius mower can't be overstated. This is a time saving, fun to use, and robust machine. Everything about it feels sturdy, and of quality unlike some others I sat on at Lowes. I'm 6 foot, 280 pounds and found this to fit nicely.",
+            "author": "simpson943",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 100,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Solid Machine, Excellent Residential Mower\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "I own 2 commercial zero turn mowers for my real estate business.  These machines do not stay at my home and I wanted a residential zero turn mower and finally purchased this model at my local Lowes store.  First, the mower comes with a written manual and it resides under the seat for safe keeping.  I found the mower easy to understand and simple to operate.  I have mowed my 1/2 acre 3 times already.  The mower is fast and the cut is excellent.  The machine is well built and not far from commercial grade.  I was not used to this style of steering and I was cautious for the first two mowings.  The steering is easy to learn and I am very satisfied with its safety.  5 Stars",
+            "author": "Stephen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 23,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Zero turn\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "This is the first zero turn we have had. We will never go back to a regular riding lawn mower. It make mowing our acreage so fast and easy. It turns so smoothly like gliding across a skating rink and is very comfortable and smooth while riding and going over bumpy areas. It's easy to use and best of all my 13 yr old loves mowing with it! That's a win for sure. We love John Deer products so that was an easy choice for us. It fits through the areas we need it to and goes up the ramp smoothly for storage. All in all this is a great product that I would recommend to anyone looking to buy one.",
+            "author": "JSchilreff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 10,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Happiest lawn equipment purchase I've ever made\"",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "Great mower...  pretty much what I expected. This is the baseline version without many bells or whistles. Great bang for the buck on a ZTM. I have a huge reputation of John Deere and love that I now own a machine. My biggest concern is that their quality could slip as they expand aggressively into the lower margin lawn equipment arena. So far, so good...   machine feels very solid and controls are responsive.  The truth relative to JD quality will be know in the next few years. I have high expectations that the company can leverage their best practices and efficiencies learned on tractors and combines into smaller equipment.",
+            "author": "rvh95",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best purchase ever!!\"",
+            "rating": 5,
+            "date": "04/08/2017",
+            "recommended": null,
+            "text": "This is my first ride on mower and this thing is amazing. It has 2 latches located in the rear that can be put it into neutral. If it's not letting you steer than you need to check these and lock them in place. I cut my lawn without even breaking a sweat. Nice, clean, wide lines in my yard. Everything is easily accessible for routine maintence. Owned it for a year now and I haven't had any issues. The air inlet is in a tight little spot on the front 2 tires but you get use to it. Runs great with plenty of horse power to cut some of the steep hills I have in my backyard.",
+            "author": "Andrew",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 173,
+                "no": 40
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f93dd66d-9260-55a0-bee7-21cba7f67094",
+                    "largeName": "7198185b-6769-5c2f-84d8-c973bed3125c"
+                }
+            ],
+            "title": "\"Excellent Machine\"",
+            "rating": 5,
+            "date": "04/13/2017",
+            "recommended": true,
+            "text": "This is the first week after I took delivery. Did not receive an owners manual but this is the age of the internet and its easily pulled down and saved. I'm a tough consumer as I've got a 1/2 acre lot with a retention pond that I need to maintain. I looked at the other two manufacturers one of which I trust the other I did not. I settled on the John Deere because the unit felt more solid. Just moving the handle bars tells you alot. They were Quiet and Smooth where the other manufactures were clanky and jolting at the touch. I guess JD has the pneumatic's figured out. I go 230lb not a tanker but could stand to drop a few. Needless to say the 20hp was not a problem going up 30 degree inclines, with speed. Plenty of levels for the deck and I liked the fact that I could mow in reverse, some cant do that. Didn't bother with the mulch kit but may look at that again. Was amazed at the ability to crawl around my flower beds to make sure I didn't rip any of my edging. This was the first Zero Turn Unit I've ever driven. Takes about 20 minutes to get comfortable then you pretty much own the driving it. Best of all it fit in-between my Old Jeep when I had both cars in the Garage. After tackling the job I called a friend I haven't seen in about 5 months. He laughed when I told him how much I liked the Z335E unit. Why? Because he bought the same mower 2 years ago and loves it too.",
+            "author": "pickypat",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 190,
+                "no": 43
+            }
+        },
+        {
+            "title": "\"The Super John Deere Z335E 20-HP 42-in Zero-turn\"",
+            "rating": 5,
+            "date": "08/17/2018",
+            "recommended": true,
+            "text": "I bought the Zero-turn on 7/26/18, received it 8/1/18, began cutting my lawn on 8/2/18 and was immediately impressed. Because I have a small lawn I was throwing grass clipping into all my flower beds and into the street.  My mulch kit arrived soon after and was installed by the local John Deere dealer, now I am a totally satisfied customer.  For the short time I have owned this mower I find it so much easier to use than my riding mower.  It does a great job and is comfortable to use.  I would say it cuts my mowing in half. I would definitely recommend this mower.",
+            "author": "Varambler",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/23/2017",
+            "recommended": true,
+            "text": "The service at the point of sale was wonderful as was the service at the point of delivery.  It is important for potential buyers that the John Deere z335e lawn mower does not come with an operator's manual.  I was flabbergasted to find this out.  It is not a simple system.  You can get it on line and print it out.  For the life of me I do not understand why the mower does not come with a service manual.  If I had known I would have demanded a service manual at the point of sale.  It may prove to be the best mower, but the lack of concern towards the owners need for a manual is mind boggling.",
+            "author": "Summerdog",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 58,
+                "no": 35
+            }
+        },
+        {
+            "title": "\"Very Nice Upgrade\"",
+            "rating": 4,
+            "date": "06/06/2018",
+            "recommended": true,
+            "text": "After about 4-5 hours of research I decided to purchase this lawn mower.  Price was right (the $350 gift card rebate was a nice touch).  This mower is an upgrade from a zero turn that was over 20 years old so my review obviously isn't geared towards other current products.What I like:Mows fast - cut about a half hour off previous total mow timeControls - do not need to 'force' the control - smooth operationHour Read Out - along with maintenance scheduleComfortableOne dislike - due to speed and not using a bagging attachment the mower really kicks up the grass at high speeds.  This is probably more of a dislike due to not being use to the speed / power of a mower.Overall very proud of the purchase.  Seem well built.  Hope this is my mower for the next 15 years with proper maintenance.",
+            "author": "Dan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Not engineered to mow yards with trees\"",
+            "rating": 1,
+            "date": "05/02/2019",
+            "recommended": false,
+            "text": "The second time I mowed my yard with the John Deere Z335E, I hit a small root or stump which bent the blade, the spindle and the entire mower deck.  It cost $350 to repair damage that my craftsman mower handled for over 10 years without any damage. Because it is impossible to visually inspect everything under leaves or in they yard, the John Deere Z335E is not suitable for a yard with trees as you never know when a root will surface.I called John Deere and explained the how the damage occurred, and they would not assume any responsibility for their defective John Deere Z335E.  So, beware of this mower if your yard has trees, it is not adequate for the job.",
+            "author": "Johnt0148",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 27,
+                "no": 47
+            }
+        },
+        {
+            "title": "\"John Deere and a Set of Chains\"",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "When I die, bury me with a John Deere and a set of chains. There is no hole, or hill, this mower can't conquer. Compared to a lawn tractor this mower wins hands down. Blows away the competition with reliable starting, mowing, tire grip, responsive steering, and comfort. This mower is placed on the low budget price listings for JD, but winner winner, chicken dinner. I live in Iowa and have an acre to mow; 30 minutes with no effort. I planted new trees from mail-order (twigs would be a better term) and this mower has no issues mowing up close and around these 12\" tall twigs. I have a hill which makes my yard tractor grown, but this mower zips up like a trooper. The engine sounds like a JD \"ᗷ\". We call it the Johnny Pop (people familiar with JD will understand :^) ).",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Solid Machine, Excellent Residential Mower\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "I own 2 commercial zero turn mowers for my real estate business.  These machines do not stay at my home and I wanted a residential zero turn mower and finally purchased this model at my local Lowes store.  First, the mower comes with a written manual and it resides under the seat for safe keeping.  I found the mower easy to understand and simple to operate.  I have mowed my 1/2 acre 3 times already.  The mower is fast and the cut is excellent.  The machine is well built and not far from commercial grade.  I was not used to this style of steering and I was cautious for the first two mowings.  The steering is easy to learn and I am very satisfied with its safety.  5 Stars",
+            "author": "Stephen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Hard to use when the tires come off\"",
+            "rating": 2,
+            "date": "06/30/2018",
+            "recommended": false,
+            "text": "We went from absolutely thrilled with the performance of our Z335E lawn mower to frustrated the third time we cut the lawn. The left rear tire came off of the rim stranding the mower for two weeks in the yard. Calls to John Deere (for that bumper to bumper warrantee service) were not helpful. Lowes promised to replace the tire (that was a month ago) but never came through. I finally used the car jack to remove the tire and drove it into a local John Deere dealer. 45 minutes and $10 later the team of techs reinflated the tire. Got home and put the tire back on....first time out the same tire comes off the rim again (flat and going straight) and we have a $2500 lawn ornament again. The 7-year old Sears push mower gets 5-stars.",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 36,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Z335 E Mower\"",
+            "rating": 5,
+            "date": "05/13/2017",
+            "recommended": true,
+            "text": "I bought this a couple years ago and it runs great and mows perfect. I also bought the lift to jack it up in the front to change the blades, makes it so easy to change them out. The only issue with the 42 inch cut is when you try to circle tight around a tree the rear wheels get stuck on the tree. If you have objects that are small to get around you would need a 48 or 52 inch cut mower. This mower is great and gets the job done fast.",
+            "author": "Dave",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 68,
+                "no": 16
+            }
+        },
+        {
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "04/10/2017",
+            "recommended": true,
+            "text": "I bought this mower to cut my yard. My yard is a half acre and it is flat with some obstacles.  The mower does an awesome job.  This my first zero turn so I don't have anything to compare it against, but I really like it.  I like the fact that a local John Deere dealer goes to Lowes to assemble the unit and test each one out.  I got mine home and it worked perfectly. Lowes would have delivered it for free, but I needed it that day and I had a trailer so I just picked it up.  The Lowes staff was knowable and helpful, and a pleasure to work with.  I was able to use a 10% off coupon, get 24 months no interest, and a $200 mail in rebate, so I felt like I got a great deal on the unit.  I was looking at some used units on the local classified's and they wanted just as much for those, as I paid for the new one.I thought the mower was pretty roomy, I am 6' tall and weigh 275 pounds and it fit me great.  It comes with a 2 year bumper to bumper warranty through your local JD dealer.  I can't speak to the longevity of the unit as I just got it, but it seems like a quality product.  I will update this if my opinion should change.",
+            "author": "Bubba",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 251,
+                "no": 34
+            }
+        },
+        {
+            "title": "\"Hubby is in heaven.\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "We expected quality from the John Deere name and weren't disappointed. My husband double checked everything before he started it up, and it fired up immediately. I dithered between the 20 h.p. vs the 22 and quite frankly, I'm glad I saved a few bucks and bought the 20. Plenty of power and enough speed to get kind of scary, lol. The steering takes a little getting used to, but zero turn is definitely zero turn. If I had to criticize, I'd say the operator's manual could be a little more detailed, but at least it was hard copy and not digital. All in all, we both think it was a great purchase.",
+            "author": "KatB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Z335e\"",
+            "rating": 4,
+            "date": "06/20/2017",
+            "recommended": true,
+            "text": "Got this mower 3 wks ago everything was great until i noticed one of the nuetral rods were out of place then it started flooding out had to take the plugs out and clean them numerous times to get it to start back called lowes they come got it the guy tht picked it up said they should replace the mower i agree thts alot of money for something thats brand new and have these problems so now im waiting on lowes who knows how long that will take i will update on what happens",
+            "author": "Jake",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 64,
+                "no": 24
+            }
+        },
+        {
+            "title": "\"Excellent Mower\"",
+            "rating": 5,
+            "date": "05/10/2017",
+            "recommended": true,
+            "text": "This mower is awesome.  I'm leaving this review after using the mower twice for about four hours so far.  This is the first zero turn I have owned.  I'm the type of guy that just keeps getting used traditional mowers and just working on them.  I finally got tired of that but I run a small business so its hard for me to spend this type of money.  When I decided to purchase one, I was choosing between this mower and another one that had a 24hp engine with a 54\" deck but it would cost another $600.  Well I choose this one and could not be any happier.  I have a yard that takes almost five hours to mow with a traditional mower and with this mower I did it in less than two.  The first time I mowed the grass was over a foot high and thick, the second time I mowed it was a little wet.  This mowers engine did not struggle one bit, I am extremely impressed so far.  I have an uneven yard that's also bumpy because our horses are on it a lot and this mower doesn't struggle at all.  No concerns about its power whatsoever.On another note:  I have a torn rotator cuff in my shoulder and a bulging disk in my lower back.  Its torture on a normal mower.  On this mower I have no pain at all.  Your more relaxed in the seat and your arms aren't turning a steering wheel.Very Happy Customer",
+            "author": "Curt",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 184,
+                "no": 24
+            }
+        },
+        {
+            "title": "\"Day One Z335E\"",
+            "rating": 2,
+            "date": "06/05/2018",
+            "recommended": false,
+            "text": "Mower arrived a day earlier than promised and the delivery guys were polite and on time. Received phone calls the day before and on day of delivery.Delivery guys gave brief explanations of basic operation of mower. It was noted the negative terminal of battery was not connected. Delivery guys leave and I gas up for first start. Battery is low and had to use booster box to turn over. Mower doesn't start noted vacuum tube to fuel pump is disconnected. Reconnect and mower starts. As mower is running air cleaner cover falls off as it is missing the 2 screws that hold it on. It was also noted the mower was dirty from sitting outside. Did test mow and it operated as advertised and did a good job. The lawn was wet and I noted there was a lot of wheel slippage especially on minor slopes.",
+            "author": "CB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 29,
+                "no": 14
+            }
+        },
+        {
+            "title": "\"Dirtiest mower I ever drove!\"",
+            "rating": 1,
+            "date": "09/16/2018",
+            "recommended": false,
+            "text": "When I use this mower I look like a coal miner. I owned a lawnmower shop many years ago and I have never driven a mower this dirty to operate. I have two other riding tractors and I hate to use this product. We even bought the bagging attachment with the front wheel weights and it sits in my garage because I hate it. \n\nI wear a face mask and goggles when operating and I have my wife blow me off with a leaf blower before entering the house. Then I head straight to the shower and am amazed at how much dirt goes down the drain. This was one big mistake that I plan on never repeating. I will trade it for any conventional riding tractor!",
+            "author": "Fisheye",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"zero turn\"",
+            "rating": 1,
+            "date": "07/29/2017",
+            "recommended": false,
+            "text": "I purchased this mower in feb it now has less than 15 hours on it and has been in the shop 2 times and now waiting for the 3 rd after it quit while mowing its upsetting to spend this kind of money only to have it in the shop this much in its first season i want my money back this is the last jd product i buy the ready start is junk im glad i bought the extended service plan im hoping lowes will make this right i would not recomend buying this mower",
+            "author": "don",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 77,
+                "no": 42
+            }
+        },
+        {
+            "title": "\"Better than expecte!\"",
+            "rating": 5,
+            "date": "03/14/2018",
+            "recommended": true,
+            "text": "Mower has exceeded my expectatons on hills and creek bottoms. I mowed my uneven acre lot by saving 20 minutes as compared to conventional mower. The hydrostatic transmission is more aggressive and powerful from earlier models of zero turns. The mower deck does a great job in picking up grass for an even cut. Overall, this mower has made mowing an enjoyable and efficient endeavor.",
+            "author": "ANDREW",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Making My Lawn Great Again\"",
+            "rating": 5,
+            "date": "03/30/2017",
+            "recommended": true,
+            "text": "After 10+ years of having professionals mow and maintain my lawn, this was the year for me to take it back and maintain it to my standards. Purchased the Z335E using my Lowes credit and received a 3 year interest rate of 3.9%. Purchased the mower with the tow add-on. Also purchased a new 4-cycle weed eater with blower and steel blade edger attachments. My first outing on the JD was to low-cut, dethatch and plug the lawn with my tow equipment. Then overseed (I had already put out Dimension pre-emergent weeks ago and also put out Dimension weed and feed recently. All of which was easier than ever before. Since that time I've enjoyed 3 mows as I like to cut my lawn once or twice a week during the growing season. Purchased the 42\" because it would fit through two gated areas and each mow has taken me no more than 20 minutes to mow 1.5 acres. Responsive, comfortable and exacting cut is how I would describe this mower. Just ordered the mulching kit for the deck and when I get that installed will have a mowing dream machine as far as I'm concerned. So I say Go Deere or go home.",
+            "author": "Bennett",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 191,
+                "no": 62
+            }
+        },
+        {
+            "title": "\"Great deal.\"",
+            "rating": 5,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "By utilizing my Lowe's Military discount and the manufacturer's rebate, I was able to get Deere quality at the same cost as a discounted brand at other stores.  The Z335E's 42\" deck fits through the tight areas around my yard, and its 20 H.P. power plant handles even the tall areas that haven't been mowed in a while, and is zippy enough to reduce my mowing time almost in half.",
+            "author": "Firedog",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"z335e\"",
+            "rating": 5,
+            "date": "04/23/2017",
+            "recommended": true,
+            "text": "I purchased this mower for my new home. I tried it out on a part of my current yard that had not been mowed this season. the grass was about 12 inches tall. the mower did flawless. I didnt' even have to mow over any of it again. I was thoroughly impressed.",
+            "author": "Kabar85",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 68,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 5,
+            "date": "07/30/2017",
+            "recommended": true,
+            "text": "Just bought this riding lawn mower yesterday really love it not loud cuts amazing top notch cuts smooth great price I was very luck somebody bought it didn't like it I got it for 500 less than the original price at Lowe's was so happy !!! Customer care on the other hand different story they employees didn't now much about the product they are selling",
+            "author": "Josh",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 5,
+            "date": "05/04/2017",
+            "recommended": true,
+            "text": "Been mowing with a tractor style mower for 12 years and wanted to try a zero turn. Read reviews for several weeks and decided to go with the John Deere. Received the mower and it was filthy ( but that is another story this is about the mower itself ). After cleaning and going thru the make ready instructions, setting the blade height from side to side and front to back, adjusting the wheel height on the deck wheels I was ready to go. I connected the battery (charged), filled with fuel and the unit started right up, checked the safety features and everything worked as designed. After making a few test laps around the yard to get use to the controls ( I had to adjust the control arms so it would track straight which was very easy to do, just use the wrench provided and adjust the screws for the control arms )I was ready to see how it mowed. Fantastic, mowed the yard in half the time of using the tractor mower. The only issue I found was if you have raised flower beds that are circular or trying to real close around trees you cannot get as close as I would like because the rear wheels stick out as far as the 42\" deck and want to rub. Maybe a little more practice will help with this issue, other than that a great mower.",
+            "author": "Mark",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 88,
+                "no": 25
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "220682ff-9cc2-51cb-86a1-d1f256465da1",
+                    "largeName": "3bc96719-bc6e-5200-81be-724bb6595e77"
+                }
+            ],
+            "title": "\"John Deere Z335E\"",
+            "rating": 5,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "Very happy with this purchase, while the engine displacement is the same as my Troy Built it is replacing.  It appears to be much more powerful.  Mowed very tall grass without a hint of slowdown and at 2/3 throttle is was twice as fast at my old Troy Built.",
+            "author": "OlderButWiser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere z335e\"",
+            "rating": 5,
+            "date": "05/16/2017",
+            "recommended": true,
+            "text": "Had this mower for a month now and love it!!! Mows AWESOME and stripes good right out of the box. I've owned John Deeres for 12 years and this one is the BEST!!",
+            "author": "Adam",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 39,
+                "no": 14
+            }
+        },
+        {
+            "title": "\"DO NOT BUY THE Z335E\"",
+            "rating": 1,
+            "date": "06/11/2017",
+            "recommended": false,
+            "text": "After only mowing our .75 acre lot 6 times, and only on hr # 20... this mower broke the mower belt.. also called the drive belt.  I tried to get a belt at Lowe's in Watertown,NY but none in stock.  I had bought it from there so I thought it would make sense to go back to the source. I was told to go to the local John Deere, Cazenovia Eqp.  They also were not stocked.  The sales associate said they were not able to get them.  This seemed strange.  It is a brand new model, why does no one stock the belt???  Also, the belt should not have broke at only 20 hours!  Now I am very upset because I can not get a replacement from either place.  I went online to order one and found one on Lowe's.  Was shocked I wax not offered this in store, but soon found it didn't matter.  I went ahead and ordered the belt.  When I went to pick it up, I was told it was canceled by their vendor and I would have to reorder again.  I was very mad but I had no choice but to try again.  Came back to pick it up a few days later... no belt and it was back ordered till god knows when, because they could tell me a definitive date.  Apparently they don't make the belt or so many are breaking they can't stock enough.  Either way... big FAIL by John Deere and Lowe's.  In the end I had it out with Lowe's and demanded they refund me, even though it was past the 90 day return.  They finally did this but now I am without a zero turn and the grass is long! DO NOT BUY THIS OR ANY OTHER JD BRAND WITHOUT CHECKING TO SEE IF THE PARTS ARE READILY AVAILABLE !!!!",
+            "author": "Nautibutnice",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 207,
+                "no": 86
+            }
+        },
+        {
+            "title": "\"Good product bad location of purchase\"",
+            "rating": 3,
+            "date": "07/18/2017",
+            "recommended": true,
+            "text": "Purchased the mower and they home owners manual before delivery date. Owners manual was soaking wet, moldy could not read anything. Asked for a replacement manual when mower was delivered. They sent me the wrong manual for the wrong style. Delivered the mower did not show me how to engage The drive system could not figure it out for a bout a half hour because I did not have the correct owners manual. Ended up calling the John Deere implement had them Order a new manual which cost me $30. Other than that the mowers been great.",
+            "author": "Scoot",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 36
+            }
+        },
+        {
+            "title": "\"Check the battery before taking it home!!!\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": false,
+            "text": "After 10 years and 1000+ hours, my Z225 gave out. Being extremely happy with JD, I decided to purchase this mower. When I got home, the battery was dead. It was pulled from the back and had the already in it, and the key was left in the on position. I was worried that the life of battery cells might have been degraded, so made Lowes exchage for a new one which they did without question.  It was just fristrating and could have been prevented if I checked by bumping the engine or checked the hour meter prior to loading it and taking it home.",
+            "author": "Grayghost",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Perfect for hills\"",
+            "rating": 5,
+            "date": "12/28/2018",
+            "recommended": true,
+            "text": "We have very hilly back yard and it works perfect for going up and down them while still feeling safe. Great for big back yard like ours that is over 1.5 acres",
+            "author": "Lauren",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice machine\"",
+            "rating": 5,
+            "date": "06/13/2017",
+            "recommended": true,
+            "text": "I just got this puppy today!  A week ago they delivered a D130 Deere tractor.  Although I wanted a zero turn, I was concerned about the slope on each side of my house, so I went with the tractor.  I cut my lawn once with the D130, which was faster than my beloved Toro Personal Pace mower.  But, maneuvering was not so simple, due to the overly engineered RIO (reverse in operation) button on the D130 tractor.  Although, I could have 'jury-rigged' a bypass for the button.  My heart really wanted a zero turn.  So I took advantage of the 30 day satisfaction guaranteed policy and got the Z335E delivered and the D130 picked up at no additional charge, thanks to the free shipping deal.  Overall, I am a very happy customer, especially considering the $250 rebate and 10% off for first Lowes Credit Card Purchase.Just remember to check the deck height before your 1st mow!!  Before my joy ride/mow, I used to keep the grass high, but I was so excited I took a little too much off the top!  Fortunately, I have a some fertilizer and wet weather forecasted for the next few days.  Happy Fathers Day to me!.",
+            "author": "Mcstwrt",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"Great Mower!\"",
+            "rating": 5,
+            "date": "08/26/2018",
+            "recommended": true,
+            "text": "I purchased this unit to replace a John Deere LT155 that had provided 12 years of great service.  The zero turn has been a great change, making cutting corners and going around fixed objects much easier.  It took a little getting used to the steering, but after an hour I felt pretty comfortable.  I added the mulching kit, which was easy to install and works well, making it easy to switch from mulching to side discharge when I'm ready to clear the sidewalk and driveway of grass clippings.",
+            "author": "HandyMan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"JD zero turn\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "I know 2 other people who bought this same model which is why I bought it. It's a fantastic mower an I would recommend it to anyone.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Transmission Dis-engaged\"",
+            "rating": 2,
+            "date": "05/07/2018",
+            "recommended": true,
+            "text": "Upon bringing the machine home, I found that it would not move.  I found in the troubleshooting section that the bypass levers might not be engaged.  I called John Deere customer service to help.  They could not even point me to the \"levers.\"  They were useless.  (Don't waste your time giving them information - they most likely cannot help.)  The local dealer was great.  He pointed me in the right direction.  They are at the rear of the machine - one on each side near the wheels.It would seem that this is a common problem (especially with low quality dealers like Lowe's).  Since the machine is shipped without fuel, the transmission needs to be disengaged in order to manually push the unit off the truck and around the sales area.  Of course, no one ever re-engaged the levers.  Hopefully, this will help someone else.I acknowledge that this is more a problem with the dealer and less so with John Deere, but their performance was not much better.",
+            "author": "steve11951",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 37,
+                "no": 25
+            }
+        },
+        {
+            "title": "\"Best mower I've owned\"",
+            "rating": 5,
+            "date": "05/30/2018",
+            "recommended": true,
+            "text": "Have an acre of lawn with plenty of obstacles, amazing how much faster it is to mow. Have had this for about a year now, added mulch, bumper/hitch kits.. Mower has been flawless",
+            "author": "Bill",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Why did I wait so long?\"",
+            "rating": 5,
+            "date": "08/06/2018",
+            "recommended": true,
+            "text": "I've always used John Deere self-powered push mowers and was completely satisfied with them.  My wife says I'm too old to be pushing a mower, so she ordered this one for me.  I've got to admit, I was crazy for waiting until I'm 74 to finally get a riding mower.  Now I can mow my and my neighbor's yard in less than half the time it took me to mow just one yard before.",
+            "author": "Boogiegirl5678",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love It!\"",
+            "rating": 5,
+            "date": "07/30/2017",
+            "recommended": true,
+            "text": "I am clearly not a riding lawn mower connoisseur. I pushed my mower in the burbs for the prior 20 year or so. Just over a year ago, we moved to seven aces in the country. The mowing was clearly going to increase, but I was not ready to spend $5000 on a mower, especially with not knowing much about them. I bought this one, which was on sale, reasonably priced, had good ratings, and it was a name brand. I have been amazed at what this mower can handle. We have some areas of our acreage that had never been mowed (or it had been a long time) that we wanted to clear out for an orchard. This mower went through like a hot knife through butter. The mower flies, not literally, but I can feel my hair blowing in the wind on a windless day while I mow. Yes, it is loud, but I thought they all were. I were earplugs and cover up with noise reducing headphones and listen to music, against advice from the owners manual. I feel a little nervous on a couple of hills, going down and across, but it can definitely go up with ease. I have had it for over a year now and can say I would have bought it again.  In fact, if I can get ten years out of this (I already have over 50 hours on it), I will probably buy another. Changing the oil is a little tricky. I wish the tube to get rid of the old oil was a little longer as it is difficult getting it into a container. Otherwise, I have had no problems with it and the upkeep is minimal. Just change the oil every 50 hours, maybe change the blades every year or two,  and grease it every now and then. Overall, as noted i the title, I love it!  I especially loved the price, which was about half of what I could get at the John Deere implement.",
+            "author": "Andy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 31,
+                "no": 10
+            }
+        },
+        {
+            "title": "\"Product has one GLARING fault\"",
+            "rating": 2,
+            "date": "06/02/2018",
+            "recommended": false,
+            "text": "Owned this mower for a little over a year and cut approximately 2 acres once a month during mowing season. I love the operation and the maneuverability - however - it has ONE GLARING FAULT! I am getting ready to get down and dirty to change the belt tensioning spring for the THIRD TIME. Changed the last one yesterday - did not even finish the front acre today before the hook snapped AGAIN! I have to say, I am not impressed with the John Deere Parts Quality Control! On the other hand, I also own a John Deere D100 and a John Deere 2023 Tractor and am EXTREMELY PLEASED with both machines!",
+            "author": "TheSandman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Smooth cutting\"",
+            "rating": 5,
+            "date": "05/16/2019",
+            "recommended": true,
+            "text": "This mower provides an excellent, even cut and is a smooth ride for the operator. We love how professionally cut our lawn looks afterwards.",
+            "author": "Dtreadway",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome\"",
+            "rating": 5,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "Great mower cuts super even sometimes it's hard with a riding lawnmower but this mower cuts great",
+            "author": "BigD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"5 STARS\"",
+            "rating": 5,
+            "date": "05/02/2019",
+            "recommended": null,
+            "text": "I have purchased the John Deere lawn mower from Lowes  5 years back and it worked great with no issues. My son needed a mower and we gave it to him and purchased this new zero turn. It is amazing! My husband has problems with his health and now can mow the lawn with this mower house and works wonderful for him. The yard looks amazing!!!",
+            "author": "Becky",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "9b717b79-61ab-58a3-a651-6eb705da793a",
+                    "largeName": "30587d24-e95f-505b-85bb-92517310b8b7"
+                }
+            ],
+            "title": "\"John Deere Zero Turn\"",
+            "rating": 5,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "I have enjoyed this since the day I bought it. Completely changed how I viewed mowing my lawn. Would recommend. The 42 inch is the perfect size for my truck.",
+            "author": "Josh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "c0e59e52-c35e-587d-bd28-df13fcd39d1a",
+                    "largeName": "5c751719-1df5-5543-a72d-03b5bbe80b80"
+                }
+            ],
+            "title": "\"Very pleased\"",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "My grandfather has owned a model of this mower for over 5 years with no issues so choosing a mower when it was time to buy one was an easy choice. my son loves driving it also.",
+            "author": "Brandon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"JD zero turn\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "I know 2 other people who bought this same model which is why I bought it. It's a fantastic mower an I would recommend it to anyone.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Poor quality mower and customer care by John Deere\"",
+            "rating": 1,
+            "date": "06/09/2019",
+            "recommended": false,
+            "text": "Owned this mower for only 1 month with only 5 hrs of machine use and the deck belt comes off. John Deere customer service wasn't helpful at all in resolving this issue even though it was an obvious manufacturer defect and even after their Custer service rep stated that this was a known issue with their mowers. Overall extremely disappointed with John Deere as a company and in the products they sell. Thankfully Lowe's was able to rectify the issue. Do not buy this mower!",
+            "author": "FG",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Mower!\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "I have used it once since it was delivered. I am highly impressed with it so far, it mowed excellent and cut my mowing time in half.  I guess the commercial is correct - Its not how fast you mow but how well well you mow fast.  Its true.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love this mower.\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "This is my second John Deere mower. Had the first one for fourteen years. Never had a problem. Gave it to my stepson. Wish I would have bought a zero turn sooner. Great mower. Many really nice features. Mulching kit works very well.",
+            "author": "Snickman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "ba120ff9-347b-5ed8-8fba-423608c906ad",
+                    "largeName": "6ee4c255-4006-57ba-a93b-16ac62135ef5"
+                }
+            ],
+            "title": "",
+            "rating": 5,
+            "date": "04/25/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "KD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"This thing was exactly what I was looking for\"",
+            "rating": 5,
+            "date": "09/17/2018",
+            "recommended": true,
+            "text": "Found this at a local store for a really good deal. Originally I was looking for a 50” zero turn but this showed up at a deep discount as it was ordered wrong for another customer. The deep discount is the only thing tat attracted me at first. But once I got it home I found it to be a beast of a mower. It swam through my yard faster and with a better cut than the Mustang I had been borrowing from a friend. I would recommend this to anybody with a decent sized residential type lot.",
+            "author": "Bcorley007",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Makes mowing fun and fast\"",
+            "rating": 5,
+            "date": "05/13/2019",
+            "recommended": true,
+            "text": "This is my first zero-turn mower so I can't compare to others, but this is meeting my expectations. My sons have mowed twice now with it and it has done very well. We'll see how it fares throughout the summer.",
+            "author": "matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome Machine!\"",
+            "rating": 5,
+            "date": "05/23/2019",
+            "recommended": true,
+            "text": "This is my first ZTR to own and it is awesome!  Easy to control and easy to operate!  I researched mowers prior to buying this one and it came out ahead in all areas!",
+            "author": "Deborah",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Machine\"",
+            "rating": 5,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "What can I say except for this is a great mower.  Doesnt have all the bells and whistles such as foot pedal for adjusting blade height, etc.  But I cut my cross with ease now.  One down fall is that the back tire sticks out further than the blade lenght so when trying to get close to something you hit it with the back tire.  After getting use to this the mower works fantastic and is fast and cuts all lengths of grass.",
+            "author": "whawkins",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Piece of Cake\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "Loads of fun! Easy to start and maneuver especially for a beginner to the zero-turn mower and a lawn more than a 1/4 acre.  And did I mention loads of fun?!?!",
+            "author": "Bobbie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So much faster Plenty of Power\"",
+            "rating": 5,
+            "date": "05/24/2019",
+            "recommended": true,
+            "text": "I've been using a tractor for years. I wish I had bought a zero turn a long time ago. I'm no longer tired after mowing my half acre lot.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So Far So Good\"",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Have had the mower for over a week and have mowed the 2 acres we have twice. It is a speedy machine that really zips through the yard. We have mostly hybrid Bermuda and regular Bermuda with some wild grasses, but we've had a lot of rain and the grass is growing quickly and fairly high. This mower has no problem. It took me a while to figure out how to use it without mowing things down, especially getting up close on the left side without running the back wheel up things (we have only had a tractor mower before this). But after getting used to it and figuring out some tricks to operating it, I am very pleased. Takes me about 2/3 of the time it does with the tractor. It is too soon to know anything about durability, etc. but so far so good.",
+            "author": "CarlAustin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great deal!\"",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "This tractor is very impressive. Simple to operate, easy to maintain, and it does a great job on my lawn. Exactly what I expected.",
+            "author": "Dukie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/16/2019",
+            "recommended": true,
+            "text": "I am very satisfied with the z335E zero turn mower, I can mow my lawn in half the time that it took with my JD 130.",
+            "author": "Al",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 4,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "Rides and handles well. Shorter mowing deck allows access to tighter spaces. Wish they put lights on it.",
+            "author": "Rick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Quality and Dependable\"",
+            "rating": 4,
+            "date": "05/21/2019",
+            "recommended": true,
+            "text": "Works just as advertised and my yard has never looked better",
+            "author": "Spencer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Sweet ride!\"",
+            "rating": 4,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "First off the Lowes delivery crew was horrible. They basically dropped the mower and ran, no instruction whatsoever. You'd think that when you spend 2500 on a mower they would at least tell you that you need to disengage two small levers on the back of the mower before you can get forward motion. As for the mower all I can say is wow! I love it, especially with the mulch kit that i had to buy and install?? Overall I'm happy....with the mower.",
+            "author": "Jason",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Great Machine\"",
+            "rating": 5,
+            "date": "07/07/2019",
+            "recommended": true,
+            "text": "I'm very happy with my purchase of the Z335E. Does an excellent job. I found the owners manual under the seat in a compartment.I also purchased the grass catcher system. I do have to say the instructions were very poor. I would highly recommend the Z335E",
+            "author": "Carl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent mower, Great cut, easy to use\"",
+            "rating": 5,
+            "date": "11/18/2016",
+            "recommended": true,
+            "text": "I have roughly 1/2 to 3/4 of an acre to cut and was paying someone to maintain the lawn every week, cut and trim. The cost of the E335, the functionality, and easy of use made this a clear choice. \n\nI have owned the 335 for about 3 months. I added the mulch kit and am very happy with the purchase. It takes a time or two of use to get used to the functions and turning. Once you have it down it is a great tool and definitely worth the investment. \n\nI would recommend this mower to anyone with an acre or so to cut.",
+            "author": "Cruzin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"New mower less than month old. In shop twice. Cut grass once\"",
+            "rating": 1,
+            "date": "03/12/2018",
+            "recommended": false,
+            "text": "New mower, less than 1 month old. Upon attempting to cut grass for first time mower stopped and would not restart. Dealer picked up and changed solenoid. After first repair, cut grass fine for the first time and easy to use. The next week I started the mower and the engine stopped and would not restart again. It is currently back with the dealer for repair. The dealer has been wonderful considering everything. At the same time my father-in-law bought a cheaper competitors product and has cut his grass 4 times within the same time period with no problems. The frequency of use is monthly because that is the only frequency I can get the mower run. I can't give a higher overall rating of POOR because I don't have enough time with the mower operating properly to give a higher rating.",
+            "author": "DMG2",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The Hole Truth\"",
+            "rating": 3,
+            "date": "05/22/2019",
+            "recommended": false,
+            "text": "I purchased a new tractor. Then I purchased a zero turn. I use both of them. I have a never ending lawn service. The truth is as with all hardware stores is you buy a product that is made cheaper then the product at a store that deals in that field of business. It's like going into a strip mall. You get what you pay for. Know what your looking at. Due your studies online before you buy the product. Best thing I can tell you? Haste makes waste. For a normal yard? It's good enough. If you plan on doing 2 acres or more over time. Chances are unfortunately it won't last 10 years. Regarding maintenance, every time you used that mower you must fuel, grease and insure ALL hardware is tight. After usage? Clean deck, under and over. Foliage on the top deck will insure a quick and expensive replacement of your Belts. A zero turn requires much more attention to details if you intend on using it year after year. Check all bearings in the wheels, pulleys and whatever else to insure that you have no problems while mowing. If your mower doesn't have grease fittings. See to it that you have that changed. Life time bearings are for the time of the bearings, not the mower. I hope this helps those in search of a better life. That's The Hole Truth!",
+            "author": "Bullit",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"42\" z trak\"",
+            "rating": 1,
+            "date": "03/31/2017",
+            "recommended": false,
+            "text": "Mower delivered with no gas. Fill the mower up and spend 3 hours trouble shooting only one wheel spins. Now we are returning the mower to the store with no telling the lead time of the replacement mower. John deer need to check their mower and leave a little gas for the lowes guy to show you how to use it!",
+            "author": "Andrew",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 94,
+                "no": 337
+            }
+        },
+        {
+            "title": "\"Mean Green Machine\"",
+            "rating": 5,
+            "date": "08/28/2018",
+            "recommended": true,
+            "text": "small little mower, with plenty of power (20 hp) and a great cut. bought this little guy to save me time. Took me close to an hour and a half to push mow my yard. This mower knocks it out in about 15-20 minutes. well worth the money!",
+            "author": "GoIrish02",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "I purchased this for my husband whom just had open heart surgery and isn't allowed to do much outside work this summer. He loves this mower and has mowed with it twice and is very pleased with it",
+            "author": "Pms64",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Prebroken on purpose?\"",
+            "rating": 2,
+            "date": "06/16/2019",
+            "recommended": false,
+            "text": "I've had mine 3 weeks cut grass.once. I have recently heard that JD sends out New equipment with intentional malfunctioning parts. There iz.a bad safety switch that suits down my mower when I give to.move it. I called Lowe's ( I know don't whip me) then I called the closest dealer.. Now they expect me to.somehow load it.on a trailer cast deliver it to them.  This is as heavy.machine and i.am disabled. I am going.to.taken it back for a refund. Disgusting John Deere",
+            "author": "Rick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Amazingly Fast\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "It normally takes me about 2 hours to mow the whole yard on my ride on mower.  The first time using my zero-turn Z335E....WOW...I was finished in 35 minutes tops.  Amazing time saver!!!!",
+            "author": "Dana",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Mower!\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "The size is perfect. Fits in the third bay of my garage nicely with plenty of room. The seat is comfortable and the cut is great. Easy to maneuver and operate.",
+            "author": "Zach",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere Z335E mower\"",
+            "rating": 5,
+            "date": "09/18/2018",
+            "recommended": true,
+            "text": "Didn't think I would like the zero turn but I love it. Saves so much time. Would not go back to regular lawn tractor.",
+            "author": "Gram",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Wish my grass would grow quicker\"",
+            "rating": 5,
+            "date": "05/24/2019",
+            "recommended": true,
+            "text": "I love this mower.  It has a nice even cut, incredible power, easy to maneuver, and is simple to work on.",
+            "author": "Frankeyboy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Mower\"",
+            "rating": 4,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "Upgraded from D110, which worked fine when I had 1/2 acre to mow. Added a rental house with almost another acre so really took a toll on the small mower. The z is faster and a more uniform cutting machine. \n\nOnly thing I didn't take into account is the weight difference. If I get this one struck in the rain ditch, I pull it out with the truck, no longer able to lift the back end and move it around. \n\nWould like to see a add on gas gauge to replace the filler cap.",
+            "author": "phwrd",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Fast Cut Grass\"",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "This mower saved me 30 minutes on cutting my grass.  Money worth spent.",
+            "author": "Nomad462",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"z335e\"",
+            "rating": 1,
+            "date": "05/29/2018",
+            "recommended": false,
+            "text": "This was the worst engineered mower I ever owned. It was dirty, heavy, poor catching system, and could not handle large or wet grass.",
+            "author": "jt",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 14,
+                "no": 32
+            }
+        },
+        {
+            "title": "\"Love it!\"",
+            "rating": 5,
+            "date": "06/07/2018",
+            "recommended": true,
+            "text": "I am a 60+ female and I enjoy mowing with this machine. The first couple times it was a bit like Mario Kart until I learned the proper handling, but it was still fun. Now I can get both front and back yard mowed in 40-45 minutes. Clean up is easy with a hose. I love that I can adjust mower height on the fly. \n\nI've used it for about a year now. I've had no issues with its operation. My only concern is how to get regular maintenance as I can't haul it anywhere.",
+            "author": "OKGma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower..\"",
+            "rating": 5,
+            "date": "06/09/2017",
+            "recommended": true,
+            "text": "I had been mowing with a riding mower and decided to buy a zero turn...I could not be happier, love it. On the old mower it took me 2 and half hours most of the time but on this zero turn 45 min.\nAnd yes you do have to get use to it..Even cut, looks professional.\nI have an acre and what a relief this has been using this wonderful mower. I can not say enough about it...mower has passed all expections for me. so far so good...what more could I say. I love it.",
+            "author": "Linda47",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mowing in style, comofort, safety, ease, peace\"",
+            "rating": 5,
+            "date": "03/01/2019",
+            "recommended": true,
+            "text": "Great machine, comfortable, and fast. I love the Zero Turn, it's my first, and this machine makes grass cutting a breeze and fun. Just an old man with a new toy, making outdoors more fun. Offers great 2-year bumper to bumper warranty, and extended, if you want to purchase that. Cutting is smooth, and has set up for all kinds of attachments.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Z335E for the win!\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "My lawn guy was push mowing my half acre and two others. It took all day. With the Deere, he can knock it out in a fraction of the time,  with perfectly smooth results and zero effort. Perfect for my property with lots of obstacles to work around. Love it!",
+            "author": "Bettyg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower for the Money\"",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "I gave this mower a 5 star even though it was delivered with a flat tire. It had a staple in it. We were able to get it fixed. The mower works great for us. We do not have a really large yard but bigger than for a push mower. We have only used it a couple of times but so far so good.",
+            "author": "Donna",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"The Best Mower I've Ever Owned\"",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "My Z335E is a dream machine!  It is all I ever wanted in a lawn maintainer.  It is easy to operate, fast, accurate, great handling, and sooooo quiet!  I am truly going to enjoy owning this great machine.  I owned a John Deere lawn tractor for 20 years previously, but this model puts it in the shade!  I have told all my friends that they should \"treat\" themselves to one.  It's the perfect Father's Day gift!",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Beau",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "So I purchased this about a month ago and I love it. It does great on hills and steep driveways. Takes a little to get used to it. Never used a zero turn before. I enjoy mowing.",
+            "author": "Medic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great machine, happy husband!\"",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": true,
+            "text": "My husband has been wanting a zero turn for years. I surprised him with this one and he couldn't be happier. Perfect size, great cut, easy to drive.",
+            "author": "Tina",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Satisfied Customer\"",
+            "rating": 5,
+            "date": "04/28/2019",
+            "recommended": true,
+            "text": "So far loving our new zero turn!! The only negative I have found so far is my husband and I are fighting over who gets to cut the grass!",
+            "author": "Outdoorsgal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Love it!\"",
+            "rating": 5,
+            "date": "06/07/2018",
+            "recommended": true,
+            "text": "I am a 60+ female and I enjoy mowing with this machine. The first couple times it was a bit like Mario Kart until I learned the proper handling, but it was still fun. Now I can get both front and back yard mowed in 40-45 minutes. Clean up is easy with a hose. I love that I can adjust mower height on the fly. \n\nI've used it for about a year now. I've had no issues with its operation. My only concern is how to get regular maintenance as I can't haul it anywhere.",
+            "author": "OKGma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower..\"",
+            "rating": 5,
+            "date": "06/09/2017",
+            "recommended": true,
+            "text": "I had been mowing with a riding mower and decided to buy a zero turn...I could not be happier, love it. On the old mower it took me 2 and half hours most of the time but on this zero turn 45 min.\nAnd yes you do have to get use to it..Even cut, looks professional.\nI have an acre and what a relief this has been using this wonderful mower. I can not say enough about it...mower has passed all expections for me. so far so good...what more could I say. I love it.",
+            "author": "Linda47",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mowing in style, comofort, safety, ease, peace\"",
+            "rating": 5,
+            "date": "03/01/2019",
+            "recommended": true,
+            "text": "Great machine, comfortable, and fast. I love the Zero Turn, it's my first, and this machine makes grass cutting a breeze and fun. Just an old man with a new toy, making outdoors more fun. Offers great 2-year bumper to bumper warranty, and extended, if you want to purchase that. Cutting is smooth, and has set up for all kinds of attachments.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Z335E for the win!\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "My lawn guy was push mowing my half acre and two others. It took all day. With the Deere, he can knock it out in a fraction of the time,  with perfectly smooth results and zero effort. Perfect for my property with lots of obstacles to work around. Love it!",
+            "author": "Bettyg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower for the Money\"",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "I gave this mower a 5 star even though it was delivered with a flat tire. It had a staple in it. We were able to get it fixed. The mower works great for us. We do not have a really large yard but bigger than for a push mower. We have only used it a couple of times but so far so good.",
+            "author": "Donna",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"The Best Mower I've Ever Owned\"",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "My Z335E is a dream machine!  It is all I ever wanted in a lawn maintainer.  It is easy to operate, fast, accurate, great handling, and sooooo quiet!  I am truly going to enjoy owning this great machine.  I owned a John Deere lawn tractor for 20 years previously, but this model puts it in the shade!  I have told all my friends that they should \"treat\" themselves to one.  It's the perfect Father's Day gift!",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Beau",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "So I purchased this about a month ago and I love it. It does great on hills and steep driveways. Takes a little to get used to it. Never used a zero turn before. I enjoy mowing.",
+            "author": "Medic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great machine, happy husband!\"",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": true,
+            "text": "My husband has been wanting a zero turn for years. I surprised him with this one and he couldn't be happier. Perfect size, great cut, easy to drive.",
+            "author": "Tina",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Satisfied Customer\"",
+            "rating": 5,
+            "date": "04/28/2019",
+            "recommended": true,
+            "text": "So far loving our new zero turn!! The only negative I have found so far is my husband and I are fighting over who gets to cut the grass!",
+            "author": "Outdoorsgal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Z335E with 42-inch Deck\"",
+            "rating": 5,
+            "date": "04/18/2018",
+            "recommended": true,
+            "text": "Purchased from John Deere dealer. \nWas set up and ready to use\nand delivered by dealer. \nI had this mower a week cut my yard runs good. \nso far been doing well I own a 2017 model. \nI had to fell it up more than once.\nfuel tank is to small its a 2 gal tank needs to be a 5 gal\n need a upgrade kit for 2 to 4 gal tank or 5 gal \nand a Fuel Cap Gauge.",
+            "author": "MattA",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/19/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Good entry level mower\"",
+            "rating": 4,
+            "date": "09/23/2018",
+            "recommended": true,
+            "text": "We have several acres of rough terrain with lots of trees, hence, we needed a 42\" mower. The Z335E has served us well for two seasons. I just replaced my first belt due to gravel along out road. Starts great every time. Yes, it is dusty, but so is our D-series lawn tractor. For the price, this mower is equal or better than the others on the market.",
+            "author": "HFarm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Zero Turn Mower\"",
+            "rating": 5,
+            "date": "10/02/2018",
+            "recommended": true,
+            "text": "Mower is nice and was at a reasonable price. Mowed the lawn today and enjoyed the experience.",
+            "author": "Lowell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere Z335E\"",
+            "rating": 5,
+            "date": "12/01/2018",
+            "recommended": true,
+            "text": "First zero turn I have owned. Leaves area looking manicured like a golf course. Love it",
+            "author": "Dee",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Super Productive!\"",
+            "rating": 5,
+            "date": "02/16/2017",
+            "recommended": true,
+            "text": "I LOVE THIS MOWER! IT HANDLES LIKE A SPORTS CAR, AND HAS CUT MY WEED EATING TIME BY 65%. THE Briggs & Stratton engine is a beast and provides incredible speed and power. Yes, it does like gas but I don't mind given the speed and quality of cut. I mow an acre with tons of trees and the Z335 performs flawlessly! Give one a try you'll love it.",
+            "author": "JD77",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "So I purchased this about a month ago and I love it. It does great on hills and steep driveways. Takes a little to get used to it. Never used a zero turn before. I enjoy mowing.",
+            "author": "Medic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Zero Is Hero\"",
+            "rating": 5,
+            "date": "04/16/2019",
+            "recommended": true,
+            "text": "Works beautifully.  We've used it twice, hope it is as durable as it's reputation.",
+            "author": "William",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Awesome Machine\"",
+            "rating": 5,
+            "date": "05/22/2017",
+            "recommended": true,
+            "text": "I bought my first ZTR as a retirement present to me :) This is the second summer using it! I love the ride,and it maneuvers really ell. I can mow through really heavy grass and the engine barely changer tone! I do wish the deck stuck out past the rear wheels but overall I love it!! I have nearly an acre and it cuts my mow time in half!!",
+            "author": "Sirmikey3111",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Mower!\"",
+            "rating": 5,
+            "date": "03/30/2019",
+            "recommended": true,
+            "text": "A great mower at a great price!  Runs like a Deere!!!",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"!st Z track mower I bought\"",
+            "rating": 5,
+            "date": "01/30/2017",
+            "recommended": true,
+            "text": "I've had my Z-track mower for almost a year now. I absolutely love it. It serves my purpose, and it's nice to help my neighbors when in a pinch.\nFun to ride.\nJ.C.",
+            "author": "JimmyTheArm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Z335E Zero-turn Mower\"",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Overall this is a great mower.  Offers a clean cut all the time.  However, it does slip when mowing on an incline.  Overall very pleased with this purchase.",
+            "author": "Drake",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Z335E great cutting mower, easy to use.\"",
+            "rating": 5,
+            "date": "05/14/2017",
+            "recommended": true,
+            "text": "Purchased from John Deere dealer. Was set up and ready to use and delivered by dealer. Very comfortable.Lots of accessories available, but a little pricey.",
+            "author": "Orioles8",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"GREAT mower\"",
+            "rating": 5,
+            "date": "07/13/2017",
+            "recommended": true,
+            "text": "Great everything except. If you are mowing and it is a little windy ALL the grass blows all over you and the mower otherwise GREAT MOWER",
+            "author": "johnnybegood",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Z335e\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "This mower is great! its easy to handle! fun to drive.makes getting around things alot quicker.The mulch on demand feature great!!",
+            "author": "djjoe27",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Thing thing is AWESOME!!!\"",
+            "rating": 5,
+            "date": "10/09/2016",
+            "recommended": true,
+            "text": "This mower makes yard work a breeze. I actually have to fight with my wife and kids about who gets to mow the lawn. Too funny.",
+            "author": "RICK1967",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So far, so good!\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "We haven't had the mower for very long, but we love it so far. It handles well, cuts to our expectations, and is easy to use.",
+            "author": "Tom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"First Zero Turn Mower!\"",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "Love this mower, we just bought a new house with a much larger lawn and this mower zipped through it with no problems!",
+            "author": "Jade",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere - nuf said\"",
+            "rating": 5,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "Great financing, quick delivery, and great product so far!",
+            "author": "Charlie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "This a high quality product and mows great! Would recommend to anyone looking for great zero turn lawnmower!",
+            "author": "Len",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"!st Z track mower I bought\"",
+            "rating": 5,
+            "date": "01/30/2017",
+            "recommended": true,
+            "text": "I've had my Z-track mower for almost a year now. I absolutely love it. It serves my purpose, and it's nice to help my neighbors when in a pinch.\nFun to ride.\nJ.C.",
+            "author": "JimmyTheArm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Z335E Zero-turn Mower\"",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Overall this is a great mower.  Offers a clean cut all the time.  However, it does slip when mowing on an incline.  Overall very pleased with this purchase.",
+            "author": "Drake",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Z335E great cutting mower, easy to use.\"",
+            "rating": 5,
+            "date": "05/14/2017",
+            "recommended": true,
+            "text": "Purchased from John Deere dealer. Was set up and ready to use and delivered by dealer. Very comfortable.Lots of accessories available, but a little pricey.",
+            "author": "Orioles8",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"GREAT mower\"",
+            "rating": 5,
+            "date": "07/13/2017",
+            "recommended": true,
+            "text": "Great everything except. If you are mowing and it is a little windy ALL the grass blows all over you and the mower otherwise GREAT MOWER",
+            "author": "johnnybegood",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Z335e\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "This mower is great! its easy to handle! fun to drive.makes getting around things alot quicker.The mulch on demand feature great!!",
+            "author": "djjoe27",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Thing thing is AWESOME!!!\"",
+            "rating": 5,
+            "date": "10/09/2016",
+            "recommended": true,
+            "text": "This mower makes yard work a breeze. I actually have to fight with my wife and kids about who gets to mow the lawn. Too funny.",
+            "author": "RICK1967",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So far, so good!\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "We haven't had the mower for very long, but we love it so far. It handles well, cuts to our expectations, and is easy to use.",
+            "author": "Tom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"First Zero Turn Mower!\"",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "Love this mower, we just bought a new house with a much larger lawn and this mower zipped through it with no problems!",
+            "author": "Jade",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere - nuf said\"",
+            "rating": 5,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "Great financing, quick delivery, and great product so far!",
+            "author": "Charlie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "This a high quality product and mows great! Would recommend to anyone looking for great zero turn lawnmower!",
+            "author": "Len",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Cuts mowing time in half or more",
+            "author": "Tom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"It's fast\"",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "It cuts a wide swath fast!",
+            "author": "Frankie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/29/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "FJordan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Cut once.....\"",
+            "rating": 5,
+            "date": "03/27/2019",
+            "recommended": true,
+            "text": "Enhoyed",
+            "author": "Zach",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 5
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "HL",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Shawn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "KK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Billy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Fredd",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Keith",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "JB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "mk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lily",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/05/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rico",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Nico",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Derek261",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/10/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "lauri",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/30/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glenn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "DJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ervin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jamesc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gail",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sheryl",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Huh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 157,
+        "percentRecommended": "89",
+        "averageStars": "4.6",
+        "starCounts": {
+            "five": 130,
+            "four": 12,
+            "three": 2,
+            "two": 5,
+            "one": 8
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Will I get a 10% military discount on this mower?\"",
+            "author": "Anonymous",
+            "date": "04/28/2019",
+            "answers": [
+                {
+                    "author": "fuller01",
+                    "date": "06/08/2019",
+                    "text": "its not an in store purchase so I was told NO.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "boomer",
+                    "date": "05/26/2019",
+                    "text": "I was told you do get the discount, signed up for it today.",
+                    "helpful": {
+                        "yes": 10,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/29/2019",
+                    "text": "Thank you for contacting the Lowe's website. We recommend you contact the Lowe's Customer Support line. You can call them at: 1 (800) 445-6937.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 8
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can the handles be adjusted for a larger perso\"",
+            "author": "Anonymous",
+            "date": "05/06/2019",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "05/07/2019",
+                    "text": "Thank you for contacting the Lowe's website. Yes, the motion-control levers can be adjusted to two height settings and nine fore-aft settings for a total of 18 different positions.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "05/07/2019",
+                    "text": "Yes, the handles can be adjusted for a larger person.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does mower have anti scalping on deck\"",
+            "author": "Anonymous",
+            "date": "02/26/2019",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "02/27/2019",
+                    "text": "Thank you for visiting the Lowe's website. Yes, the Z335E Zero-turn Lawn Tractor has adjustable mower wheels, positioned just above ground level for reduced scalping.",
+                    "helpful": {
+                        "yes": 13,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "02/26/2019",
+                    "text": "No, this mower doesn't have anti-scalping on deck.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Who makes the engine for John Deere\"",
+            "author": "Anonymous",
+            "date": "04/20/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/25/2018",
+                    "text": "The engine is manufactured by Briggs & Stratton.",
+                    "helpful": {
+                        "yes": 90,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/23/2018",
+                    "text": "Thank you for visiting the Lowe's website. The Z335E features an engine manufactured by Briggs & Stratton for John Deere.",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this mower have cups holders\"",
+            "author": "Lacey",
+            "date": "03/29/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/03/2018",
+                    "text": "Yes, this model has a cup holder on each side.",
+                    "helpful": {
+                        "yes": 30,
+                        "no": 2
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/02/2018",
+                    "text": "Thank you for contacting the Lowe's website. Yes, the Z335E has a cup holder.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Where are the greese fitings\"",
+            "author": "Richard",
+            "date": "03/17/2018",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "03/19/2018",
+                    "text": "Thank you for visiting the Lowe's website. Please see the section \"Service Lubrication\" in your Operator's Manual. You can find many Operator's Manuals online at manuals.deere.com.",
+                    "helpful": {
+                        "yes": 16,
+                        "no": 57
+                    }
+                },
+                {
+                    "author": "jhunter34",
+                    "date": "03/18/2018",
+                    "text": "There are no grease fittings on this model.",
+                    "helpful": {
+                        "yes": 21,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does the mower use a key?\"",
+            "author": "roo",
+            "date": "01/19/2018",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "01/22/2018",
+                    "text": "Thank you for visiting the Lowe's website. Yes, the Z335E does use a key to turn on the ignition. The unit will come with two keys, one with the unit and one in the bag with the Operator's Manual.",
+                    "helpful": {
+                        "yes": 53,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "01/20/2018",
+                    "text": "Yes, this mower uses a key to turn on the ignition.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Do you finance?\"",
+            "author": "Anonymous",
+            "date": "07/06/2019",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "07/06/2019",
+                    "text": "Thank you for contacting the Lowe's website. We recommend you contact the Lowe's Customer Support line. You can call them at: 1 (800) 445-6937.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this mower allow for a sun screen cover\"",
+            "author": "Anonymous",
+            "date": "07/05/2019",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "07/07/2019",
+                    "text": "Thank you for contacting the Lowe's website. Yes, the compatible Sun Canopy for the Z335E is part LP66974.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If I get the bar/hitch attachment, is this mower strong enough to pull a 5x8 trailer full of yard waste?\"",
+            "author": "Anonymous",
+            "date": "06/23/2019",
+            "answers": [
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "06/24/2019",
+                    "text": "Thank you for contacting the Lowe's website. The total towed weight of the Z335E must not exceed combined weight of pulling machine, ballast, and operator. Use counterweights or wheel weights as described in the Operator's Manual.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 7
+                    }
+                }
+            ]
+        }
+    ]
+}

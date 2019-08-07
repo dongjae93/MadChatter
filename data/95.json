@@ -1,0 +1,514 @@
+{
+    "descriptions": {
+        "overview": "Bird house is functional and decorative for use in your yard or home décor. It is weather-resistant. The bird house has a hinged bottom for easy cleaning. The attached hook and chain allow installation anywhere.",
+        "list": [
+            "Functional and decorative birdhouse for your yard or home decor",
+            "This bird feeder is highly functional and durable and holds a variety of seed types",
+            "Hinged bottom door for easy cleaning",
+            "The attached hook and chain allow installation anywhere",
+            "Great gift giving item"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Type",
+            "spec": "Decorative"
+        },
+        {
+            "title": "Attracts What Bird Types",
+            "spec": "Variety"
+        },
+        {
+            "title": "Number of Perches",
+            "spec": "0"
+        },
+        {
+            "title": "Capacity (Cu. Feet)",
+            "spec": "0.32"
+        },
+        {
+            "title": "Entrance Size (Inches)",
+            "spec": "1.18"
+        },
+        {
+            "title": "Predator Proof",
+            "spec": 0
+        },
+        {
+            "title": "Height (Inches)",
+            "spec": "8.5"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "8.125"
+        },
+        {
+            "title": "Depth (Inches)",
+            "spec": "8"
+        },
+        {
+            "title": "Team Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Team/League",
+            "spec": "N/A"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "White"
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "10131500"
+        },
+        {
+            "title": "Finish",
+            "spec": "Painted"
+        },
+        {
+            "title": "Material",
+            "spec": "Synthetic wood"
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Sturdy little house\"",
+            "rating": 4,
+            "date": "12/01/2017",
+            "recommended": true,
+            "text": "Birdhouse is built very well. Has an opening to clean out old nests. Metal roof is good quality. The problem I had with it was, the chain is held to the top with a very flimsy ring and it came apart (probably high winds) and the house fell. I had to run a wire under the point of the roof and bent loops on each end & attached a chain & hook to it. It has held up great & so far that has taken care of the problem. Otherwise a very nice  house.",
+            "author": "Scs105",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "ea0ecf46-0cdb-519f-a917-7c665f41b89b",
+                    "largeName": "bba57e0c-f962-5820-891b-e157292774b6"
+                }
+            ],
+            "title": "\"Horrible\"",
+            "rating": 1,
+            "date": "05/20/2019",
+            "recommended": false,
+            "text": "Bought this bird house and after a week of being in the shade of my tree, I noticed the  corrugated metal roof starting to separate from the wood. I reinforced with 2 screws and seemed fine. A family of house finches moved in and as soon as nesting started the base cracked and the bird house broke. Do not recommend.",
+            "author": "Billy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"For the Birds\"",
+            "rating": 4,
+            "date": "03/17/2018",
+            "recommended": true,
+            "text": "I really think we should ask the birds to give their opinion about this house. Seems nice enough to me, but then I'm not a bird. To tell you the truth, I haven't seen any birds checking it out yet but will keep watching and listening for that first peep of affirmation.",
+            "author": "Wayne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Blue Bird Delight\"",
+            "rating": 5,
+            "date": "04/05/2019",
+            "recommended": true,
+            "text": "Have set up our \"Backyard Glory Bird House\" near our garden in the backyard to welcome visiting Blue Birds. My wife and I have seen a couple of blues looking for a spring home and we're hoping they'll settle down with us. We love Lowe's beautiful gardening ideas as well as home improvement projects. In fact, we visit Lowe's at least once weekly to see and purchase what's new for our lawn and garden. Being a retired military man, I also enjoy a special military discount for serving my country. Thank you Lowe's for being so thoughtful to our military personnel. We'll continue to support Lowe's Of Wilson, our favorite place to shop for all our home and garden needs.",
+            "author": "Kick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cute Birdhouse\"",
+            "rating": 5,
+            "date": "07/24/2018",
+            "recommended": true,
+            "text": "We love this birdhouse!! It was so much fun watching the birds use this as their home for their new family. Love the design! Think I will go buy another one!",
+            "author": "Buddy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Bird House\"",
+            "rating": 5,
+            "date": "08/08/2018",
+            "recommended": null,
+            "text": "It didn't take but a few days for the House Wrens to take up residence, which led us to buying an additional one!",
+            "author": "num1gatorfan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "61930ea6-6929-537a-9bcb-b593d4ce2771",
+                    "largeName": "18658781-6644-5454-ae06-790a6243a513"
+                }
+            ],
+            "title": "\"Nice house and amenities,\"",
+            "rating": 1,
+            "date": "05/28/2018",
+            "recommended": false,
+            "text": "Roof coming off the house, and thought it was on sale so I bought it only to find out that when I got home I had been charged regular price (I spent over $400.00) I live 47 miles from the nearest Lowe's but it looked good so I did not complain...",
+            "author": "Jch",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"Birdhouse\"",
+            "rating": 5,
+            "date": "10/03/2018",
+            "recommended": true,
+            "text": "We already have a nest in It! Somebirdie loves it besides me",
+            "author": "Deb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Came apart!!\"",
+            "rating": 1,
+            "date": "05/13/2018",
+            "recommended": null,
+            "text": "We bought the bird house for my daughter for Easter. We finally got birds building a nest on Thursday. Well Saturday and Sunday we got some heavy rain, we live in PA. And one of the walls fell off! Yes fell off, the bird house was still hanging in the tree, just one of the walls was on the ground.  My husband went to nail it back on and as soon as he started moving it the rest of the bird house started falling apart!",
+            "author": "Cathy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Bird House\"",
+            "rating": 5,
+            "date": "06/19/2018",
+            "recommended": true,
+            "text": "Product is well made and very attractive. Birds love it.",
+            "author": "Mikef",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Compact nesting unit.\"",
+            "rating": 5,
+            "date": "08/13/2018",
+            "recommended": true,
+            "text": "Birds have shown interest in the nesting unit, but I think we bought it at the end of the nesting season so it probably won't get used until next spring.",
+            "author": "Bernie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Garbage\"",
+            "rating": 1,
+            "date": "01/24/2019",
+            "recommended": false,
+            "text": "Bought this for my 93yr old mom.  Put it up and 1 wk later the back and bottom fell off.  This bird house is put together with glue. No metal fasteners.  Nails would be helpful but I guess that would eat into the profits.  Save your money.",
+            "author": "Joeec",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love this cute little birdhouse!\"",
+            "rating": 5,
+            "date": "05/06/2019",
+            "recommended": true,
+            "text": "I purchased one of these houses several years ago.  We needed another birdhouse in the yard for a new persistent wren.  I was glad to see they still had them. They are easy to clean out and the other one we own has held up so well. Hung this up and within a day our new wren was settled in!",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Little Bird House\"",
+            "rating": 5,
+            "date": "11/04/2018",
+            "recommended": true,
+            "text": "This was a gift for a friend who had several birdhouses destroyed in the recent hurricane. This one is well-crafted and attractive, with a copper-colored metal roof and a small door in the back for cleaning it if necessary.",
+            "author": "Ken",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Super Cute and Great Quality\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "Loved the look of this and it's a great quality with sealed paint to withstand the weather. I also loved that it had a hook to hook anywhere on a branch rather than having to loop it through a branch.",
+            "author": "Ashley",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"piece of junk\"",
+            "rating": 1,
+            "date": "06/05/2018",
+            "recommended": false,
+            "text": "completely fell apart after one week",
+            "author": "barn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Well constructed bird house\"",
+            "rating": 5,
+            "date": "10/24/2018",
+            "recommended": null,
+            "text": "This bird house is perfect for the small birds in our yard.  The sturdy construction and beautiful looks are all a plus!  Can't go wrong with the bird house.",
+            "author": "Bentonranger",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Babies in nest roof started falling off\"",
+            "rating": 1,
+            "date": "06/22/2019",
+            "recommended": false,
+            "text": "Luckily, I saw the problem in time. I had to carefully/quietly duct tape around the whole birdhouse- after birds fly, I'm bringing this back for a refund.",
+            "author": "LizZ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Super cute birdhouse!\"",
+            "rating": 5,
+            "date": "02/04/2019",
+            "recommended": true,
+            "text": "This is a super cute birdhouse! It's a good price and is well made. Although I haven't had any birds move in yet, I am sure they will soon!",
+            "author": "GerryM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Exactly what I needed.\"",
+            "rating": 5,
+            "date": "03/09/2019",
+            "recommended": null,
+            "text": "Hole fits a wren perfectly.  It's been rained on twice and endured high winds.  Dry inside and still in one piece.",
+            "author": "birdman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice touch to the yard.\"",
+            "rating": 5,
+            "date": "03/11/2019",
+            "recommended": true,
+            "text": "The product was well made and easy to hang. We've been enjoying watching the birds explore it. Cute design too.",
+            "author": "Liz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So cute!\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "I love this birdhouse!! We already have a momma and babies in there!!",
+            "author": "Laurie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice bird house\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "Great product overall looks nice in the background",
+            "author": "Dee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "mlkovo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marla",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "stan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "ECUPirate",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/21/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/05/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rachael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 29,
+        "percentRecommended": "68",
+        "averageStars": "4.0",
+        "starCounts": {
+            "five": 19,
+            "four": 4,
+            "three": 0,
+            "two": 0,
+            "one": 6
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Does it come assembled?\"",
+            "author": "Anonymous",
+            "date": "12/14/2018",
+            "answers": [
+                {
+                    "badgeName": "1000120705",
+                    "author": "Galway Customer Service",
+                    "date": "12/14/2018",
+                    "text": "Thank you for contacting Galway Co. Yes the birdhouse does come fully assembled. We appreciate your business. Sincerely, Sarah K. Dall Galway Co.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I have only had this Bird house for 2 weeks and the roof is separating from the house help!\"",
+            "author": "Anonymous",
+            "date": "05/28/2018"
+        }
+    ]
+}

@@ -1,0 +1,3324 @@
+{
+    "descriptions": {
+        "list": [
+            "Find the edges of wood or metal studs behind walls up to 3/4-in deep to securely hang pictures, mirrors, and shelves",
+            "New \"Ready\" light indicates when calibration has successfully completed",
+            "SpotLite Pointer shines a bright arrow to clearly indicate stud edge",
+            "Patented \"over-the-stud\" indication alerts you to scan in a new location should scanning begin over a stud"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Automatic Operation",
+            "spec": 0
+        },
+        {
+            "title": "Sound Indicator",
+            "spec": 1
+        },
+        {
+            "title": "Battery Size",
+            "spec": "PP3 (9V)"
+        },
+        {
+            "title": "Battery Required",
+            "spec": 1
+        },
+        {
+            "title": "Scan Depth (Inches)",
+            "spec": "0.75"
+        },
+        {
+            "title": "Case Included",
+            "spec": 0
+        },
+        {
+            "title": "Material",
+            "spec": "Plastic"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "27111800"
+        }
+    ],
+    "reviews": [
+        {
+            "images": [],
+            "title": "\"Pay the extra to get the next model up\"",
+            "rating": 3,
+            "date": "12/13/2017",
+            "recommended": false,
+            "text": "This model requires calibration, but there is no indication when the calibration is complete, so you really never know whether or not it is properly calibrated.  I would find a stud but when I moved the device a few inches up or down the wall to confirm that I had found one, it would not detect it.  There are two potential explanations I can think of: 1) I never got the unit calibrated properly, or 2) the walls were thicker than this model can handle.  Without some indication from the device that it was properly calibrated, I had no way of knowing why it was not finding the studs properly.  I should have paid a few bucks more and got the next model up.",
+            "author": "Dobie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"horrible decisions\"",
+            "rating": 1,
+            "date": "12/11/2010",
+            "recommended": false,
+            "text": "I have made horrible decisions in my life and this is defenitely another one. This product is absolutely worthless. This product is not worth the cheap price of $9.99. It would be a good toy for a 5 year old, but the price would have to be dropped to $4.99. I cannot even get the device to calibrate. It beeps constantly. I tried this on every wall in my house just to see if I could get it to calibrate at all. I will never by anything by this manufacturer again.",
+            "author": "sandman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"extra holes\"",
+            "rating": 1,
+            "date": "01/27/2013",
+            "recommended": false,
+            "text": "The job was a simple handrail for the basement stairs. After about an hour and drilling four bad holes, I dont think this unit could find a stud if it was nailed directly to one. The directions are simple to follow, so operator errror ? After powering unit and letting it initialize, i would move it across the wall and within 2-3 inches it would beep rapidly and I would have to start over, now I have to patch and touchup the paint as well.",
+            "author": "mr-clyde",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Low Cost Solution Works Perfectly\"",
+            "rating": 5,
+            "date": "11/11/2011",
+            "recommended": true,
+            "text": "I had no real problems with this device and it found my studs flawlessly. The 9 volt battery will go in the wrong way; this causes no harm, you just have to take it out and flip it over. Once the battery is in the calibration is simple, you just push the power button while holding the unit against the wall and remain still until the \"ready\" light comes on. If you are unlucky enough to try and calibrate over a stud the unit beeps and flashes. All of this is explained clearly in the instructions. I guess some people have very rough or thick walls, or they did not understand how to operate the thing.",
+            "author": "David",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Works great for me.\"",
+            "rating": 5,
+            "date": "05/15/2011",
+            "recommended": true,
+            "text": "I guess I hit the Zircon stud-finder lottery, because this little guy works perfectly. I assume that most of the negative reviews come from people whose walls require a more expensive finder. Drilled 13 out of 13 screws through drywall straight into a stud. Keep in mind that this finder is not made for thick walls and I am sure it works best on dry wall. Perhaps if your walls are wooden, brick, stucco, plaster, thick dry wall, or whatever else walls are made of then you need to invest in a more expensive finder. But if you are like me and you have normal dry wall and you can't find the studs, then don't hesitate to get this one. At my Lowe's they even had a neat display where you could try this model out and one of the heavy-duty models. The display model seemed to work great for finding the edges of studs, and the one I bought is 100% on target so far.",
+            "author": "Luke",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 27,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Don't buy this product.\"",
+            "rating": 1,
+            "date": "11/17/2011",
+            "recommended": false,
+            "text": "I purchased this to use over 1/2\" sheetrock to find my studs, and it is absolutely worthless. I followed the directions provided, and the unit will not reliably find the edge of the studs. So as a result I have several holes in the sheetrock to patch. Do not waste your money on this product. Instead, pay a bit more to get a more quality stud finder that you can reliably use.",
+            "author": "Bryan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 14,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"This Product has too Many False Readings\"",
+            "rating": 1,
+            "date": "03/26/2011",
+            "recommended": false,
+            "text": "I tested this product somewhere I knew there was a stud and it did not read anything. I moved to another location with no stud and it read as a stud. While trying to find studs to install a drop ceiling I made seven holes around the stud and finally just gave into the knocking and screwing method. It kept saying that the studs were very close together and sometimes it was off by a foot. It was ridiculous! I have never had this many problems with such a simple product. I read the directions multiple times and there was nothing for the problems. The product was taking forever to recahrge and was wasting my time. It took me at least an hour to find six studs. I would not recommend this to anyone. The price was outrageous for the quality and it needed to be free. Later it tried a better model by the same manufacturer and it did not work either. I think this manufacturer cannot be trusted when it comes to stud finders. I do not know about any other products they might produce. I do not reccomend this for anyone.",
+            "author": "Sophie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 53,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"Great tool - but there is a hitch\"",
+            "rating": 5,
+            "date": "07/18/2018",
+            "recommended": true,
+            "text": "I recently tried to use the Zircon Stud Finder but could not get it to work correctly.  Checked with a neighbor who is a contractor and he was not able to get it to work either.  I then called Zircon for advise and received excellent customer service.  I was getting the green ok light but it wasn't lighting up red for the stud edge.  I was advised I needed a fresher battery and although it was good enough to operate the go light it was not fresh enough to operate the stud finder function.  Also learned that batteries have a date on them.  Once I installed a battery with expiration day 2022, the stud finder worked perfectly.  Who would have figured?",
+            "author": "Handylady",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Worthless\"",
+            "rating": 1,
+            "date": "06/27/2013",
+            "recommended": false,
+            "text": "Bought this thing to find only a few studs but i only found frustration and anger that such a worthless stud finder could be sold. Spend more money and get something better that actually works.",
+            "author": "Supuall",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"biggest piece of blank\"",
+            "rating": 1,
+            "date": "06/11/2011",
+            "recommended": false,
+            "text": "followed instructions to the t in my apartment and my house make more holes and never found stud cant believe they sell this junk on market",
+            "author": "unclejimmy1",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"for the money you cant find a better unit,\"",
+            "rating": 4,
+            "date": "07/06/2011",
+            "recommended": true,
+            "text": "This unit was the least expensive in the product line, but it works great, no false readingd. it reviels the edges of the studs and its indicating light shows exactly where the edge is located. Great addition for the week end project worker",
+            "author": "wfisher3",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Not Accurate\"",
+            "rating": 1,
+            "date": "12/06/2013",
+            "recommended": false,
+            "text": "Purchased this at a special price on black friday. Played with it on the walls and it identified a different point for the stud edge each time and sometimes didn't detect at all. Tried to use it to hang a light in the garage. Used to detect the joist in the ceiling so the light hooks would be secure. Ending up with several holes in the ceiling because it did not detect accurately. I ended up having to go in the attic and measure from there. Not such a bargain after all. Will return to get a better model.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"A piece of garbage.\"",
+            "rating": 1,
+            "date": "02/08/2011",
+            "recommended": false,
+            "text": "I have holes all in my wall. It didn't find the first stud. It would beep and I would go straight through sheet rock.",
+            "author": "kc",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 10,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"A stud finder that didn't find studs\"",
+            "rating": 1,
+            "date": "06/17/2013",
+            "recommended": false,
+            "text": "No matter what I did, after moving it an inch or so it went into a series of beeps due to calibration issues. Never found a stud. Returned unit",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Stud Finder - not the best\"",
+            "rating": 2,
+            "date": "08/14/2013",
+            "recommended": false,
+            "text": "This stud finder I purchased had to be rigged in order the work. It takes a 9 volt battery but due to the poor design it doesn't maintain a good contact wtih the metal piece inside that allows it to work. I had to wedge a small scrap piece of plastic in there to maintain a solid contact for the battery and it worked fine. You shouldn't have to rig a brand new out of the box device though.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Stud Finder? More like Dud Finder\"",
+            "rating": 1,
+            "date": "08/20/2015",
+            "recommended": false,
+            "text": "I bought this Stud Finder a while back and it didn't give any readings. I exchanged it for another one thinking that it was broken and had pretty much the same issue. It would randomly light up but not consistently. Even when I found a stud using a magnet and then tried to 're-find' it using this stud finder, it wouldn't give a reading. I ended up buying a CH Hanson 03040 Magnetic Stud Finder elsewhere and it works perfectly. It's under $10, which is cheaper than the Zircon L20 #which doesn't even include the couple of bucks you'll have to spend on a 9 volt battery for this thing#. I highly recommend the Hanson stud finder over this. No batteries, easy to use, a very strong magnet, and doubles as a bubble level.",
+            "author": "Shane",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "70e2d177-4436-5895-94a2-ca6556754c26",
+                    "largeName": "d398ec11-0c7f-5383-8379-944164f0c5c6"
+                }
+            ],
+            "title": "\"Stus sensor edge review.\"",
+            "rating": 1,
+            "date": "12/10/2018",
+            "recommended": false,
+            "text": "Worthless product. Always will give results but false readings. A waist of time & money. Good luck to anyone who gives it a work out try!",
+            "author": "Scooby",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "514f8742-21a1-50c6-baa7-9a590cbb777c",
+                    "largeName": "ae6c6d00-9aa6-5f12-90ed-770534ca3619"
+                }
+            ],
+            "title": "\"Used full for finding edges of studs\"",
+            "rating": 4,
+            "date": "03/20/2019",
+            "recommended": true,
+            "text": "Needed a fast solution to anchoring a hand rail to stud.  The stud finder worked great",
+            "author": "Eric",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Doesn't work. I mean, at all.\"",
+            "rating": 1,
+            "date": "08/13/2014",
+            "recommended": false,
+            "text": "First of all, the quality is so bad that the battery will only make a connection when the thing is held upside down. Doesn't work at all right side up. Second, I don't know what this thing thought it was finding, but based on where it told me the studs were, I had 6 holes I didn't need (not anywhere close to the studs. I ultimately pulled a photo I'd taken of this wall before the sheetrock when up and located the studs that way. I asked the Lowe's employee for advice on a good, all purpose stud finder to get, and this is what he picked. I will be returning it.",
+            "author": "Linky",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"A Stud Dud!\"",
+            "rating": 1,
+            "date": "11/16/2013",
+            "recommended": false,
+            "text": "Bought one, tried it out, nothing. Exchanged it for the same one, tried it, nothing. Tried swapping batteries both times. Nothing. Light came on but I received no beeping in my attempts to find a simple drywall stud. This thing is a stud dud.",
+            "author": "bsblack11",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good purchase\"",
+            "rating": 5,
+            "date": "11/08/2013",
+            "recommended": true,
+            "text": "My son had the previous tool that worked similarly. I had bought it about five years ago. I did not know he had borrowed it so I went to get a new one. I was impressed by the placement of the red arrow on the wall by this unit. I'm sure the aspects of the other models produced by this company are great, but this was all I needed and it did just fine. In my first application for it, I needed to know where the studs were for some work I was doing on a crown molding I had installed a couple of years ago. It showed them to me with no problem at all.",
+            "author": "Beaker",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Don't buy this\"",
+            "rating": 2,
+            "date": "12/11/2014",
+            "recommended": false,
+            "text": "Had to use a bit of paper to make the battery stay in so the unit will work.",
+            "author": "Lacy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Worthless, I have the holes in my wall to prove it\"",
+            "rating": 1,
+            "date": "10/26/2017",
+            "recommended": false,
+            "text": "Don't buy this piece of junk. It does not work. It'll start beeping randomly telling me it needs to be recalibrated or something, then it will find a “stud” which is the length of the entire wall. Great product Zircon. You wanna come patch the extra holes in my drywall?",
+            "author": "Corey",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Zircon Scan Depth Stud Finder\"",
+            "rating": 5,
+            "date": "04/13/2018",
+            "recommended": true,
+            "text": "This product worked well for me during a recent remodel. It is easy to use and found all the hidden 2x4's behind the drywall. It even penetrated a combination of wainscot and drywall making it easy to me to make secure connections in mounting trim boards and shelving.",
+            "author": "Dodie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Wall Stud Finder\"",
+            "rating": 4,
+            "date": "02/22/2018",
+            "recommended": true,
+            "text": "Should have bought this decades ago.  Made curtain rod installation much easy because I could fairly easily find the wall studs.  I always double checked in a different spot to make sure I found the wall stud, though on one occasion it indicated a wall stub was there but it wasn't. It didnt matter because I would have used that spot anyway, so I used a toggle bolts instead of screwing into a wall stud.",
+            "author": "VBJack",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Didn't work on my walls\"",
+            "rating": 1,
+            "date": "03/03/2014",
+            "recommended": false,
+            "text": "I bought this item because it was small and would fit my hand without being too heavy. I couldn't get it to work at all. It does not state on the outside of the package or on the main instruction panel that it doesn't work on plaster/lathe walls, you have to read the fine print on the small instruction paper inside the pkg. So I used the old fashioned way of knocking on the wall with my knuckles and found the studs I needed to hang my pot racks and returned this item.",
+            "author": "DIYfarmgirl",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"inconsistent\"",
+            "rating": 2,
+            "date": "04/25/2018",
+            "recommended": false,
+            "text": "lots of interference and harder to use than i thought it would be",
+            "author": "Gary",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works great!\"",
+            "rating": 5,
+            "date": "03/04/2011",
+            "recommended": true,
+            "text": "I don't understand the negative reviews. If you read the instructions this little thing works perfectly. It even comes with a How-To Guide that goes well beyond the instruction manual, particularly for a $10 tool.I dunno about the negatives. Mine works great. Read the instructions.",
+            "author": "Danno",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"still learning\"",
+            "rating": 4,
+            "date": "08/31/2016",
+            "recommended": true,
+            "text": "I love the looks , the glass top is good..although I have noticed a small niche in it. I' m still having a little trouble with the timer. I have to press so hard to get the controls to turn on...for the oven... I hope soon to have it down so I don't have to reprogram every time I need to change the time. I bake alot..made a cheery pie with the convection bake. It turned out great. Meat loaf last night it was good too.... I'm learning!!!",
+            "author": "Wendy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good basic tool\"",
+            "rating": 3,
+            "date": "08/21/2013",
+            "recommended": true,
+            "text": "Buy this if you want a basic stud finder. It seems to work best if you start searching for a stud well away for the stud. Tap on your drywall with the handle end of a screwdriver and listen for a hollow sound then activate the stud finder. Once you find the first one you will find the next studs faster if you know how the wall was constructed (e.g. 16\" apart). This tool delivers what I expected for the $10.97 I paid for it.",
+            "author": "Kolby",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Dud\"",
+            "rating": 1,
+            "date": "07/21/2014",
+            "recommended": false,
+            "text": "I am annoyed I have to give this any stars. This is totally useless. I used it for stud finding behind drywall. It was never accurate when it claimed there were stud edges--wandering consistently, which isn't comforting when the stud is only 1.5 inches wide. Finally with the best determination using the device, there was no stud where it claimed. I wish that I would have read all the negative reviews before I purchased this--I wouldn't have bothered. But it was not expensive, and I thought that the technology would have advanced since the old stud finder from years ago that I was used to that actually worked. Obviously it hasn't. Considering that a few of the reviewers were happy with their purchase, this indicates a severe failure in quality control to me, rather than a total failure of design (I'm an aerospace design engineer). Lowes should pull this from the shelves.",
+            "author": "Jeff",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"You get what you paid for\"",
+            "rating": 4,
+            "date": "05/13/2016",
+            "recommended": true,
+            "text": "This stud finder is less than perfect. Sometimes the signal goes off from start of scan, then one has to lift and start again. Other times it gives a signal and then doesn't at same spot. So a few passes are needed.\nThe anti-scratch pads are only good on smooth surface. On popcorn/textured wall or ceiling they get snagged.\nBut, if you only need it once in a while and don't want to spend much, it does the job.",
+            "author": "Naor",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Waste of $11+\"",
+            "rating": 1,
+            "date": "05/31/2019",
+            "recommended": false,
+            "text": "I put a brand new Duracell battery in it, and all it does is beep constantly (which mfgr says indicates low battery!). When I get it to stop beep beep beeping, I still can't find a stud anywhere with any confidence at all. (Now it shows up, now it doesn't). Useless as a screen door on a submarine. I would say it's a joke except it isn't funny. I guess I'll resort to \"tap tap tap\" with a hammer handle. SMH",
+            "author": "Joe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Solid Product\"",
+            "rating": 4,
+            "date": "12/16/2013",
+            "recommended": true,
+            "text": "This product works really well and is relatively inexpensive . Normally, you get what you pay for. However, this product gives you want you really need. A stud finder for an inexpensive price. So, you really get a lot of bang for your buck..",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Look else where\"",
+            "rating": 1,
+            "date": "06/22/2014",
+            "recommended": false,
+            "text": "How do you make something so simple that simple just does not work? Do these things even go through any kind of QA before being packaged and sent to the store because obviously if they did they would know that their product is no good. Not only did this product not find a stud but it didn't work on anything.Look else where and definitely do not buy one from this company.Returned as fast as possible.",
+            "author": "Zach-M",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Absolutely worthless piece of garbage\"",
+            "rating": 1,
+            "date": "02/26/2017",
+            "recommended": false,
+            "text": "This flat out doesn't work. It gives all sorts of false readings, will occasionally find a stud, then 5 seconds later not be able to find it. You press the button to use it, and after a few seconds it will error out and start beeping constantly. Tapping on the wall is far more reliable and accurate than this piece of junk, which will be going back to Lowe's as soon as they open tomorrow.",
+            "author": "Chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 1,
+            "date": "11/27/2015",
+            "recommended": false,
+            "text": "This did not work as designed. I spent several minutes trying to locate two studs and would mark it each time. It kept telling me that the studs were in different locations. I ended up putting 5 holes in the wall before finding the actual studs. Before putting the first hole I changed the battery twice just to make sure that wasn't the problem, but the results were still inconsistent.",
+            "author": "Uh-oh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"You get what you pay for.\"",
+            "rating": 1,
+            "date": "11/05/2013",
+            "recommended": false,
+            "text": "When I located a stud and mark the point, I would then confirm the location, never did the points match up when I tried to confirm. The sensor had studs every two inches. I ended up taking a small nail and punching in the wall each time the sensor indicated that was a stud. Good thing I was cutting a whole in the wall because I had a lot of small hold. Had to do things the old way.",
+            "author": "Glow",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"I think it was confsued.\"",
+            "rating": 1,
+            "date": "10/05/2013",
+            "recommended": false,
+            "text": "No matter where I out the stud finder and moved it this thing would and not go off where there was a stud..I lifted the device off the wall and tried again/ Thus time I would gete a long beep stating it found a stud so I marked the spot and placed my screw only to be a huge miss. After going through these beeps and slarms and misses I gave up. What a disappointment.",
+            "author": "Lennie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"cool gadget\"",
+            "rating": 5,
+            "date": "06/27/2013",
+            "recommended": true,
+            "text": "The guy who works in tool area showed me how to operate this gadget, and it was very easy to use.helped me find the stud so I could hang a towel bar.",
+            "author": "keepitsimple",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Unreliable junk\"",
+            "rating": 1,
+            "date": "02/03/2018",
+            "recommended": false,
+            "text": "Takes at least five times before it indicates where the wall studs are. Have to make passes over and over to get any kind of reading.",
+            "author": "NoSlack",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"The Magical Randomly Beeping Machine\"",
+            "rating": 1,
+            "date": "01/03/2016",
+            "recommended": false,
+            "text": "This stud finder has alerted us to fact that our walls are, in fact, blessed with magical studs. You see, according to the L20, our wall studs randomly appear, disappear, or move half an inch with each scan! If you like below-average reliability/accuracy for finding studs so your TV mount doesn't rip off half the wall, then this stud finder is for you.",
+            "author": "Redwallflower24",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good value\"",
+            "rating": 5,
+            "date": "11/08/2018",
+            "recommended": true,
+            "text": "This is the light duty and least expensive of the one they make. As advertised, it good to locate studs behind up to 1/2” Sheetrock . Nice, compact and easy to use. I love the laser-  makes it easier to mark the wall. I also have their more expensive model which does deep scan and wire location. If that is what you need, buy the more expensive one.",
+            "author": "BillS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Stud finder\"",
+            "rating": 5,
+            "date": "10/30/2016",
+            "recommended": null,
+            "text": "Going to purchase this stud finder. Borrowed this one from a friend and worked well. I did have to double check a few areas. But you know the old saying, measure twice cut once. Well i checked twice and screwed once. I stsrted in a area i knew that there was no stud and slowly slid it along the wall in till it beeped the marked with a pencil. After that i took it off the wall and moved it a few inches ti the other sife and brought it towards the pencil mark intill it started beeping again and marked it with a pencil then i knew that was the stud.  I will confess i did have to make about six extra drill holes in the wall tring to screw into the studs. Once i firgured that the studs were marked correctly and my tape measure skills were off about half an inch due to not factoring in the side wall of the cabnet i was able to screw into the studs where my marks were on the wall. I have found over the years most issues are operator and not the tool.",
+            "author": "1am",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great value for money\"",
+            "rating": 5,
+            "date": "01/18/2015",
+            "recommended": true,
+            "text": "This was the least expensive in the range of this brand of stud edge sensors. I purchased it as I was installing baseboards and had a really heavy painting to hang. This was excellent at finding the studs so i could nail the baseboards in securely and hang the picture on screws drilled into the studs. This was excellent at finding the studs.",
+            "author": "Tony",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Unuseable\"",
+            "rating": 1,
+            "date": "02/11/2014",
+            "recommended": false,
+            "text": "This product only works half the time. One pass it might find a stud and the next three passes in the same spot nothing. Some areas I went over ten times before it found a stud.Sometimes it will lock on a stud and still be lock on when I have moved three feet across the wall.My next trip to Lowe's I will be returning this item.",
+            "author": "Zaubern",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Poor Quality\"",
+            "rating": 1,
+            "date": "09/14/2014",
+            "recommended": false,
+            "text": "When I opened the package the battery cover fell out. After installing the 9 volt battery the cover would not close and the entire unit did not work. Obviously I returned the product to the store for a full refund. If you need a stud sensor you should look at the more expensive units as you always get what you pay for.",
+            "author": "Pete",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Horrible!!!\"",
+            "rating": 1,
+            "date": "04/03/2017",
+            "recommended": false,
+            "text": "Guess the saying is true: \"you get what you pay for\"...this product is TRASH! My husband managed to cut 3 holes because this thing marked the edge of the studies...we used to mount our TV, so I hope to god our TV does not collapse. I dare say i want to get a better one just to be sure we mounted the TV correctly!",
+            "author": "Bngonz01",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Terrible product\"",
+            "rating": 1,
+            "date": "06/20/2016",
+            "recommended": false,
+            "text": "My home has 3/8\" drywall and standard wooden studs. This device finds studs that are not there and fails to detect the ones that are. I bought this as a replacement to one I've had for years that I lent to someone who never returned it. That one worked 100% of the time for me for 20+ years. This one is garbage.",
+            "author": "Dave",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good value for the $\"",
+            "rating": 4,
+            "date": "08/19/2016",
+            "recommended": true,
+            "text": "It works well, small, fits a small hand. Only issue I have is that it doesn't work well in corners. Will not indicate a stud is there, but has to be for Sheetrock to nail to. So, I just assume there is a stud there. I like the fact it shows the center very clearly, so I don't nail on the outer edge of stud.",
+            "author": "Guido",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Basic\"",
+            "rating": 3,
+            "date": "01/07/2015",
+            "recommended": true,
+            "text": "The StudSensor Edge Stud Finder does it's job. Easy to use. The main issue I had with the product is that the battery didn't want to stay in place which cut the power on and off. Had to stick a piece of paper folded up inside battery compartment to keep it connected. Once that was done it worked just fine.",
+            "author": "stew62",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"This is an excellent stud finder for the price.\"",
+            "rating": 5,
+            "date": "10/29/2013",
+            "recommended": true,
+            "text": "Lowe's consistently delivers by proving a great product at a reasonable price. See the same product on a promotion at another store for less? No problem--within 30 days Lowe's will match it AND take another 10% off. Now that is \"come shop at Lowe's, we value our customers every day\". I like that.",
+            "author": "George",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"stud finder\"",
+            "rating": 5,
+            "date": "08/28/2013",
+            "recommended": true,
+            "text": "do not take the back off first, read the directions on how to put the battery in! My guy went ahead with out reading and took the whole back off before I got my hands on the directions, lol so it was a pain to put the 9 volt in and all. Once that fiasco was over, this little gadget is awesome!",
+            "author": "cric",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"DEAD OUT OF THE PACKAGE\"",
+            "rating": 1,
+            "date": "08/27/2017",
+            "recommended": false,
+            "text": "This stud finder was reasonably priced and we'd had good experience with other low priced stud finders in the past so we thought we'd be fine with the low cost model.  WRONG.  We installed a brand new 9 volt battery but got nothing out of this unit--no green light--nothing.  Had to return it.",
+            "author": "SanO",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great little stud finder\"",
+            "rating": 5,
+            "date": "10/30/2013",
+            "recommended": true,
+            "text": "This is a very good and inexpensive stud finder. It does the job simply and easy. Don't spend more for just a simple stud finder, this works great for finding the edge of studs so you can mark them easily. Knowing where the edges are will ensure that you hit the center with nails or screws.",
+            "author": "Robert",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Would not work for me\"",
+            "rating": 2,
+            "date": "01/29/2014",
+            "recommended": false,
+            "text": "I tried to find the rafter crossmembers through 1/2 inch drywall and could not get a reading in several attempts. I then tried to find studs through 3/8 inch particle board and had the same results. I tried finding studs through plasterboard and paneling and still could not get a reading.",
+            "author": "Carl",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"stud finder\"",
+            "rating": 1,
+            "date": "06/24/2015",
+            "recommended": false,
+            "text": "This is the worst product that i have ever purchased. It is supposed to find the edges, and then you mark the middle. But when i would find the edge and double check it would not be there. i began to notice that it would alert me that the stud was located evertime i pressed the button..",
+            "author": "ernestlang22",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Tried 2 different models, didn't do the job\"",
+            "rating": 1,
+            "date": "07/04/2015",
+            "recommended": false,
+            "text": "Tried the top end unit & the low end unit, couldn't find wood stud edges or centers through 1/2 inch sheet rock, repeat tries resulted in 1 to 3 inches difference's from previous wall marks. Very frustrating. Went back to the hammer & small finish nails method to locate edges & centers.",
+            "author": "Notrod",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Zircon 0.75in Scan Depth Finder\"",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "Ah yes, this stud finder did the trick. On well painted walls, we were able to effortlessly find the studs with absolute precision. This is another techno marvel that makes life easier. The directions are easy to understand so this instrument passes the test of time. Thanks again.",
+            "author": "Charlys",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Touchy item\"",
+            "rating": 2,
+            "date": "12/09/2018",
+            "recommended": false,
+            "text": "Like most cheaper stud finders this one doesn't identify the stud as easily as advertised. Not to say that the brand is bad I would just say it would be more worth your dime and time to purchase a more expensive one. This is a perfect case of “you get what you pay for”.",
+            "author": "Taylor",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works like a charm\"",
+            "rating": 5,
+            "date": "07/23/2016",
+            "recommended": true,
+            "text": "I needed a new stud finder so I could install the wire shelving in a storage closet. This worked better than the old stud finder I had. I think this detected through thicker sheet rock than my old one. Anyway, worked great and my shelves are up and full of boxes now!",
+            "author": "Laura",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cheap piece of garbage\"",
+            "rating": 1,
+            "date": "08/08/2016",
+            "recommended": false,
+            "text": "I thought the brand name would stay true with this product even though it was the bottom of the line. Not so. It told me by entire wall was full of studs, that there was nothing there, or did not work no matter how steadily I held it. It simply does not find studs.",
+            "author": "JP",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"bad product\"",
+            "rating": 1,
+            "date": "10/27/2014",
+            "recommended": false,
+            "text": "That product I couldn't get it work. Gave mixed messages on the studs. Never was able to find the stud even by putting a screw were it said there was one. I will not buy it again.But also had a not so good experience with the person at Lowe's return desk.",
+            "author": "Geneva",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Depth Finder\"",
+            "rating": 3,
+            "date": "11/14/2018",
+            "recommended": false,
+            "text": "Studfinder.  Not that great.  I bought the cheapest one in the line and had to turn it back in.  Then I bought the middle of the line version and it worked slightly better.  There might be better ones out there, but I think Lowes only carries this line.",
+            "author": "Norman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Finds studs where they ain't at\"",
+            "rating": 1,
+            "date": "12/10/2016",
+            "recommended": false,
+            "text": "This stud finder finds studs that aren't in the wall. It beeps and beeps, I have to reset it multiple times because it doesn't calibrate. Drilled holes where it said there was a stud and I hit straight drywall 4 times. Not an efficient product.",
+            "author": "Benenz",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Should have spent more money on a better brand\"",
+            "rating": 2,
+            "date": "11/24/2016",
+            "recommended": false,
+            "text": "Don't buy this L20 model because it does not work well at all.  For almost 10 years I had a Stanley that got lost during moving.  I thought this cheaper model would be sufficient and I was wrong.  My advice, spend more money on a better brand.",
+            "author": "BPrince",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"a decent product\"",
+            "rating": 3,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "purchased the cheapest depth finder that Lowe's had. Don't know if the depth finder was not that good or if the walls of the older rented townhouse that I am in makes it difficult to find the studs. Was not very pleased with the performance.",
+            "author": "Chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"didn't work for me\"",
+            "rating": 2,
+            "date": "06/03/2013",
+            "recommended": false,
+            "text": "used it on the painted sheet rock in my garage. couldn't tell where the stud edges were. must have been some of that thick sheet rock. how are you going to know how thick your sheet rock is? i gambled on the cheap stud sensor and lost.",
+            "author": "pete",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"It Will Drive You Nuts\"",
+            "rating": 1,
+            "date": "11/19/2016",
+            "recommended": false,
+            "text": "After trying in vain to locate studs in an indoor wall, we put in a new battery and took it outside to our garden shed. The shed has exposed studs on the inside. The sensor couldn't even find the exposed studs half the time.",
+            "author": "Homeowner",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"cheap option\"",
+            "rating": 3,
+            "date": "01/23/2014",
+            "recommended": true,
+            "text": "Stud finder works okay if user is patient and if plasterboard is thin. It claims to sense up to 3/4 in, but I think it is reliable only for 1/2 in. deep detection. Probably should have gotten the more expensive one.",
+            "author": "Joey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Returned. Did NOT work out of tge box.\"",
+            "rating": 1,
+            "date": "11/05/2018",
+            "recommended": false,
+            "text": "Bought this item and brought it home. Installed batteries and it would not locate a stud in any wall we tried. Changed batteries, still did not work. Returned for refund and used a borrowed one which worked fine.",
+            "author": "Jason",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Save your money.\"",
+            "rating": 1,
+            "date": "08/27/2016",
+            "recommended": false,
+            "text": "This unit was useless for finding studs anywhere in the house. I should have researched stud sensors online first and probably would have spent a little more and purchased a better rated unit in the first place.",
+            "author": "Nick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"SS Edge Works as Advertised\"",
+            "rating": 5,
+            "date": "03/30/2014",
+            "recommended": true,
+            "text": "I've never used a stud finder before, let alone hang a 46\" flat screen TV and a 4'X6\" whiteboard. But I did it with the help of the SS Edge. One wall was drywall and the other was half inch plywood. Great value.",
+            "author": "8087SURFA",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very hard to put together.\"",
+            "rating": 2,
+            "date": "06/16/2018",
+            "recommended": false,
+            "text": "It took me at least 1/2 hour to get it to work. I almost gave up but was able to get it going and it works fine. I hope the company who makes this product will figure out a better way to install battery.",
+            "author": "WR",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"I got what I paid for\"",
+            "rating": 2,
+            "date": "06/02/2018",
+            "recommended": false,
+            "text": "Purchased this for hanging pictures etc. and it works ok. Since the 3rd time I used it I can't locate a stud half the time. Don't know if any of the others are better but this one isn't very reliable.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Works Great !!!\"",
+            "rating": 5,
+            "date": "12/11/2015",
+            "recommended": true,
+            "text": "This stud finder works great! I would recomend it to most everybody! It finds the edge of the stud perfectly for hanging pictures or mirrors or anything heavy. And the price is right-on! A good buy!",
+            "author": "Shellbelly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"works fine for the price\"",
+            "rating": 4,
+            "date": "10/28/2013",
+            "recommended": true,
+            "text": "Though it likes to act up and you have to go over the same spot a few times to get a decent read, it does find the stud, thus does what it's supposed to do. You get what you pay for but it works.",
+            "author": "Darci21",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Get what you pay for..\"",
+            "rating": 4,
+            "date": "05/31/2013",
+            "recommended": true,
+            "text": "Quality was fine. Bought this for use my stepdaughter and her husband to use in a rental. Is fine with that level of use. Didn't come with a 9V battery and wasn't marked well that it needed one.",
+            "author": "FrequentLowesBuyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best inexpensive stud finder\"",
+            "rating": 5,
+            "date": "03/18/2019",
+            "recommended": true,
+            "text": "Simple reliable and inexpensive, I had one of these for many years and when it finally died, replaced it with the same thing. Not all the fancy bells and whistles, but it does what it says.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"It just plain works!\"",
+            "rating": 5,
+            "date": "07/16/2018",
+            "recommended": true,
+            "text": "It found a \"phantom\" stud that was \"hiding\" from my old magnetic stud finder. It also confirmed 3 other studs that the magnetic stud finder found. Great value and addition to my tools.",
+            "author": "MJ12",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/08/2013",
+            "recommended": true,
+            "text": "Very simple easy to use product. Works just as described in instructions. Good value. There are a lot of more expensive stud finders on the market but this did exactly what I needed.",
+            "author": "Chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"False negatives - so we returned it\"",
+            "rating": 2,
+            "date": "03/21/2018",
+            "recommended": false,
+            "text": "We kept getting false negatives but would light up one time, but not consistent. Maybe we were suppose to buy the more expensive unit for this to work, I don't know. We returned it.",
+            "author": "Gene",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/13/2016",
+            "recommended": true,
+            "text": "The product served its purpose for what I needed it for, & before coming to the store I called & the employee was very helpful & told me exactly where it was, meaning took the time.",
+            "author": "Monty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Old house didn't work\"",
+            "rating": 2,
+            "date": "06/17/2018",
+            "recommended": false,
+            "text": "Our house is very old and I'm not sure if this stud finder is able to detect anything or not. The walls maybe just not studded but it wouldn't find anything. Not recommended.",
+            "author": "Dawnbigg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Stud finder\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": true,
+            "text": "Stud finder is made well. It is very easy to use. My husband uses it all the time for projects. He even told me to find a stud for him, I found it to be very easy& accurate.",
+            "author": "Patty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"it worked\"",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "I needed it to find the studs to have a very heavy picture on the wall.  I found the studs with this with no problem, picture looks great and I am happy with my purchase.",
+            "author": "Bell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Product\"",
+            "rating": 5,
+            "date": "12/04/2017",
+            "recommended": true,
+            "text": "Worth every penny on this Stud Finder. I've used it over 3 years now and it has not let me down once. I would recommend this product to anyone in any line of work.",
+            "author": "TNOB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"A Darn good stud finder!\"",
+            "rating": 5,
+            "date": "09/13/2018",
+            "recommended": true,
+            "text": "Work well on Sheetrock, plywood and stucco surfaces. Was able to find some stud that were deeper than the advertised  .75 “. Purchased at a very reasonable price.",
+            "author": "Lou",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Broken in Package\"",
+            "rating": 1,
+            "date": "01/05/2018",
+            "recommended": true,
+            "text": "Purchased in a hurry, had been repackaged. I know better, should have checked, will be returning. Aggravated that products are restocked without being checked.",
+            "author": "Legend",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great for quick stud finding\"",
+            "rating": 4,
+            "date": "06/24/2014",
+            "recommended": true,
+            "text": "The stud finder works well but times out if you do not find a stud in 5 seconds or so. I wish it would go at least 10 seconds but overall it got the job done.",
+            "author": "Engineer2011",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Product did not work\"",
+            "rating": 1,
+            "date": "11/12/2013",
+            "recommended": false,
+            "text": "Brought product home, installed new battery and it did not work. Tried another battery with same results.No red light, no beep. It will not initialize.",
+            "author": "teejay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it more than the older one I've been using.\"",
+            "rating": 5,
+            "date": "12/23/2014",
+            "recommended": true,
+            "text": "I had just moved and lot of my tools were packed away, so I needed one of these to put up shelves in a closet right away. Great product for the money.",
+            "author": "TomG",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent quality and reasonably priced!\"",
+            "rating": 5,
+            "date": "03/09/2019",
+            "recommended": true,
+            "text": "The depth finder worked really well!  The price and quality are both excellent.  I would recommend it to anyone needing a depth (wall stud) finder!",
+            "author": "Cowboy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good enough for price\"",
+            "rating": 4,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "You get some false detections and there is a warning beep for that, so if you adhere to the instructions it works well. Good product for the price",
+            "author": "D",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Older home with plaster walls ...... nope\"",
+            "rating": 3,
+            "date": "09/18/2018",
+            "recommended": false,
+            "text": "I have a older home with plaster walls and this stud finder could only find the stud about 50% of the time. But I guess you get what you pay for.",
+            "author": "Tw",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Bad battery contact\"",
+            "rating": 1,
+            "date": "07/14/2018",
+            "recommended": false,
+            "text": "I couldn't get the product to work. There is not a snap on attachment for the 9V. It just jiggles around in the space provided for the battery.",
+            "author": "Jo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"What a friend\"",
+            "rating": 5,
+            "date": "01/31/2018",
+            "recommended": true,
+            "text": "This tool is greater than a tape measure. It takes the work out of looking for a stud. My 9 year old grandson ha a great time finding studs.",
+            "author": "Naptown",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Does the job\"",
+            "rating": 4,
+            "date": "06/30/2011",
+            "recommended": true,
+            "text": "Purchased this today to find a few studs in my house and it did the job so far. Haven't had any problems so far. You get what you pay for.",
+            "author": "Justin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Frusssssstrating!\"",
+            "rating": 1,
+            "date": "07/06/2017",
+            "recommended": false,
+            "text": "Definitely spend the money to get the L50. At least. This stud finder is amazingly frustrating to use. It rarely works without issue.",
+            "author": "Tim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works well\"",
+            "rating": 4,
+            "date": "08/09/2018",
+            "recommended": null,
+            "text": "I used this while hanging up two TV and it worked great.  The only reason I did not give it five is it beeps sometimes for no reason.",
+            "author": "Roda",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Neat item\"",
+            "rating": 5,
+            "date": "10/11/2018",
+            "recommended": true,
+            "text": "Took a minute to figure out how to use it, but after I learned how to use the stud finder, it worked great for what I needed it for!",
+            "author": "Trisha",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works great at perfect price!\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "Wanted something inexpensive for a small project at the house, didn't need anything fancy. Worked great and didn't break the bank!",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Defective right out of the box\"",
+            "rating": 1,
+            "date": "07/31/2016",
+            "recommended": false,
+            "text": "This thing couldn't find a stud if it were thrown onto a pile of playgirl mags.  Spend the extra money and get the next model up.",
+            "author": "Joey",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"works great on 1/2 inch wallboard\"",
+            "rating": 5,
+            "date": "07/25/2011",
+            "recommended": true,
+            "text": "went to the garage where the walls aren't finished and the studs are obvious. found 10 out of ten with no incorrect indications.",
+            "author": "chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 3
+            }
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "08/08/2013",
+            "recommended": true,
+            "text": "It seems to work fine if you're using it on a smooth surface. If you're using it against a textured surface it's not so good.",
+            "author": "msg40026",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Item\"",
+            "rating": 5,
+            "date": "07/29/2018",
+            "recommended": true,
+            "text": "This item is so easy to use... I thought it would be hard to use due to the lack of a display but it was super easy to use.",
+            "author": "Evony",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The L20 is a great value!\"",
+            "rating": 5,
+            "date": "04/15/2017",
+            "recommended": true,
+            "text": "The L20 is both accurate and affordable...It is certainly powerful enough to  detect studs behind plasterboard/sheetrock!",
+            "author": "Ken",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Stud Finder\"",
+            "rating": 4,
+            "date": "02/24/2019",
+            "recommended": null,
+            "text": "Used this to find studs in closet walls while hanging cabinets. Worked okay. Would recommend this considering the price.",
+            "author": "Linn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Could have been better\"",
+            "rating": 3,
+            "date": "04/13/2014",
+            "recommended": false,
+            "text": "The stud sensor works fine, but it's a little disappointing to have to make a separate purchase for the 9 volt battery.",
+            "author": "fotz45",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Broke changing the battery\"",
+            "rating": 1,
+            "date": "03/31/2018",
+            "recommended": false,
+            "text": "Terminal broke off when changing the battery. Never really got the chance to use it. Lightweight junk is all this is.",
+            "author": "Rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Junk\"",
+            "rating": 1,
+            "date": "09/16/2018",
+            "recommended": false,
+            "text": "This one is very inconsistent. Hammer and a nail will cause you less frustration. Makes a good toddlers toy though.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Make sure to get the 1.5 inch depth one\"",
+            "rating": 5,
+            "date": "01/15/2017",
+            "recommended": true,
+            "text": "I bought the least expensive one that did not work at all.  I returned it and bought L20 and it worked amazingly.",
+            "author": "Pastorman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"doesn't find studs\"",
+            "rating": 1,
+            "date": "12/16/2018",
+            "recommended": false,
+            "text": "False readings where there are no studs and no readings where there are studs.  Can't get any worse than that.",
+            "author": "Ssailor",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great Buy!\"",
+            "rating": 5,
+            "date": "10/15/2015",
+            "recommended": true,
+            "text": "My first time to purchase a stud finder. Very pleased with the price and ease of this one. Works well for me!",
+            "author": "Sandy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Replacement finder\"",
+            "rating": 4,
+            "date": "03/02/2018",
+            "recommended": true,
+            "text": "Replacement for older Zircon stud finder which became inaccurate.  Works very well, glad I went with Zircon.",
+            "author": "RA255",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"works as was expected\"",
+            "rating": 4,
+            "date": "09/09/2014",
+            "recommended": true,
+            "text": "have had 3 of these stud finders. all worked as expected. they just can not be dropped. will stop working.",
+            "author": "Tusker",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"cheap product\"",
+            "rating": 1,
+            "date": "07/07/2014",
+            "recommended": false,
+            "text": "Battery rattled and no connection. I needed to insert a spacer at end of battery to make the product work.",
+            "author": "chickee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"nothing finder\"",
+            "rating": 1,
+            "date": "02/27/2019",
+            "recommended": false,
+            "text": "Literally does nothing. No matter how thick the wall is or how new the battery is it detects nothing.",
+            "author": "Justin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"No More Guess Work!\"",
+            "rating": 5,
+            "date": "06/06/2015",
+            "recommended": true,
+            "text": "Very accurate, easy to read and fits in my hand comfortably! It gets the job done on the first try.",
+            "author": "Zman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"If you rarely need it, its a fair deal.\"",
+            "rating": 3,
+            "date": "07/23/2014",
+            "recommended": true,
+            "text": "Sometimes you have to go over the same spot 2 or 3 times to make sure you have marked it right.",
+            "author": "Maddog",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Did nothing\"",
+            "rating": 1,
+            "date": "07/31/2016",
+            "recommended": false,
+            "text": "Green and red light stayed laminated. I knew where stud was at outlet was and it did nothing.",
+            "author": "Palu",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Depth finder for home use\"",
+            "rating": 4,
+            "date": "06/08/2019",
+            "recommended": true,
+            "text": "Product is simple to use and accurate. Powered by a 9 volt pattern.  Fits easily into a hand.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very Easy To Use\"",
+            "rating": 5,
+            "date": "10/20/2013",
+            "recommended": true,
+            "text": "Sales people were very helpful and nice even if I needed something demonstrated. Love Lowes!",
+            "author": "Veteran",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect upgrade\"",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "I needed to upgrade since I've owned my previous one for 10 years. This device is excellent!",
+            "author": "Maine",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works like a charm\"",
+            "rating": 5,
+            "date": "10/28/2018",
+            "recommended": true,
+            "text": "Read the instructions, put battery in and it worked just like instructions said it would.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Did the job\"",
+            "rating": 5,
+            "date": "04/04/2014",
+            "recommended": true,
+            "text": "This product did exactly what we purchased it for. It was easy to operate and understand.",
+            "author": "Pleased",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Zircon 0.75 Scan Depth Finder\"",
+            "rating": 1,
+            "date": "11/26/2018",
+            "recommended": false,
+            "text": "This so called wall beam \"finder\" did not work at all. So I returned it for full credit.",
+            "author": "Fritzie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"In scan depth finder\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "Used the tool for framing. A very useful tool. I would recommend this tool for building.",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Effective\"",
+            "rating": 5,
+            "date": "11/05/2018",
+            "recommended": true,
+            "text": "This “stud finder” is helpful and economical. Use it carefully and you'll be satisfied.",
+            "author": "Bjames",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not bad for an inexpensive tool\"",
+            "rating": 4,
+            "date": "02/08/2015",
+            "recommended": true,
+            "text": "Very easy to use, no complicated digital screen and most of all... Gets the job done.",
+            "author": "Lanceinla",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Stud finder\"",
+            "rating": 1,
+            "date": "09/28/2018",
+            "recommended": false,
+            "text": "Did not work - bought the next better one which penetrates deeper - that one worked",
+            "author": "Bull",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Zircon Stud Sensor\"",
+            "rating": 1,
+            "date": "01/10/2019",
+            "recommended": false,
+            "text": "Works poorly, have to scan area several times and hope marker light comes on.",
+            "author": "RB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/27/2013",
+            "recommended": true,
+            "text": "This is a very basic unit that works great. Great to have around the house.",
+            "author": "CMed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"False Readings\"",
+            "rating": 3,
+            "date": "08/19/2018",
+            "recommended": false,
+            "text": "This stud finder is ok for the money but many times gives false readings.",
+            "author": "Brad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great tool for the price!\"",
+            "rating": 5,
+            "date": "08/27/2018",
+            "recommended": true,
+            "text": "Every home should have this stud finder. It was easy to use and accurate.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very helpful\"",
+            "rating": 5,
+            "date": "10/02/2018",
+            "recommended": true,
+            "text": "Came in handy when I was remodeling a bathroom. Works great every time.",
+            "author": "Dad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Not Effective\"",
+            "rating": 1,
+            "date": "08/04/2016",
+            "recommended": false,
+            "text": "You can get a different reading each time its passed over the same spot",
+            "author": "mark",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Basic and easy to use\"",
+            "rating": 5,
+            "date": "10/24/2018",
+            "recommended": true,
+            "text": "Huge light up arrow when you hit a stud. Easy to use another the house",
+            "author": "Josh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"easy to use for anyone\"",
+            "rating": 5,
+            "date": "12/19/2015",
+            "recommended": true,
+            "text": "this is so very easy to use, a child could use it! price is right too.",
+            "author": "Bearcookie1",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good Tool\"",
+            "rating": 5,
+            "date": "03/23/2015",
+            "recommended": true,
+            "text": "Of all the stud sensors I have ever used, this is the easiest to use.",
+            "author": "Tommy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"scan depth\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "Works very well, picks up the studs in the wall, pitched my old one.",
+            "author": "Marty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Inconsistent\"",
+            "rating": 2,
+            "date": "07/24/2018",
+            "recommended": false,
+            "text": "This device is inconsistent and does a poor job of indicating studs.",
+            "author": "BTJ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great for budget\"",
+            "rating": 4,
+            "date": "06/14/2019",
+            "recommended": true,
+            "text": "Decent basic stud finder. For the price, this one is fairly accurate",
+            "author": "Pops",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Handy  good price\"",
+            "rating": 5,
+            "date": "11/07/2018",
+            "recommended": true,
+            "text": "I purchased this tool for the family to use. Easy to use, accurate.",
+            "author": "Anthony",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good value\"",
+            "rating": 4,
+            "date": "08/10/2018",
+            "recommended": true,
+            "text": "This product is a basic stud finder but is reliable for the price.",
+            "author": "JA",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works well on basic walls (Drywall)\"",
+            "rating": 4,
+            "date": "04/29/2013",
+            "recommended": false,
+            "text": "Worked well on drywall but I couldn't use it on a wall with panel.",
+            "author": "Anonymous",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 1,
+            "date": "10/16/2015",
+            "recommended": false,
+            "text": "Put batteries in and it stayed lit all the way across the wall.",
+            "author": "Cloudy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Do not buy\"",
+            "rating": 1,
+            "date": "08/22/2017",
+            "recommended": false,
+            "text": "Very poor design. Failed right out of the package. Junk status.",
+            "author": "Customer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Works!\"",
+            "rating": 5,
+            "date": "10/17/2018",
+            "recommended": true,
+            "text": "Great for Hanging pictures, mirrors, and tv in our new home",
+            "author": "Dani",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"I returned this one for the L40 or 1 1/2 in one.\"",
+            "rating": 3,
+            "date": "03/18/2019",
+            "recommended": false,
+            "text": "1 1/2 L40 model works much better. does job 5 times better.",
+            "author": "be",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Stud finder\"",
+            "rating": 5,
+            "date": "12/27/2018",
+            "recommended": true,
+            "text": "It does exactly what you would expect it to. Good product!",
+            "author": "Colton",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Hate it!\"",
+            "rating": 1,
+            "date": "07/23/2013",
+            "recommended": false,
+            "text": "Gives false reading or none at all..useless to work with !",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"stud finder\"",
+            "rating": 4,
+            "date": "09/13/2018",
+            "recommended": true,
+            "text": "The back falls off very easy. It is still a good product.",
+            "author": "marie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Only $10\"",
+            "rating": 3,
+            "date": "06/18/2014",
+            "recommended": false,
+            "text": "For what it is, a $10 gizmo, it works. Not the greatest.",
+            "author": "BunsenHoneydew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Zircon stud finder\"",
+            "rating": 4,
+            "date": "12/15/2018",
+            "recommended": true,
+            "text": "Works as well as any other stud finder on the market.",
+            "author": "Teddy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Stubborn\"",
+            "rating": 2,
+            "date": "03/08/2019",
+            "recommended": false,
+            "text": "Gives a beep when between the studs and hard to use.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 3,
+            "date": "12/08/2014",
+            "recommended": true,
+            "text": "Does not work the best with plaster and lathe walls.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Do not buy!\"",
+            "rating": 1,
+            "date": "06/24/2016",
+            "recommended": false,
+            "text": "Spend the extra money get one that actually works!",
+            "author": "D",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Works sometimes\"",
+            "rating": 2,
+            "date": "08/23/2015",
+            "recommended": false,
+            "text": "Not exact, it works sometimes but not most times.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works fine\"",
+            "rating": 5,
+            "date": "07/17/2014",
+            "recommended": true,
+            "text": "Worked well as promised. Thanks.",
+            "author": "Kenny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Che",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/24/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "gadget-queen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/21/2013",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "06/17/2017",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sav",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/29/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Doodle",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/05/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "DT",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/22/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ron",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/21/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Buck",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/21/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Buck",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "jane",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gustavo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "09/02/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "bk",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/13/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Alex",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/13/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jared",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/22/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Craig",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/22/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ron",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Roger",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "10/21/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sean",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Wes",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Aswonav",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Zorba",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/25/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gwen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/06/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "08/06/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lisa",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/16/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "trax",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "08/28/2013",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "RSJo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ryan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/28/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "WOOF",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/01/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Woody",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/18/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Michael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/05/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rbarn",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "08/27/2013",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "George",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "02/09/2016",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "LVT1",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/02/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dodie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "02/08/2017",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "buggsym",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Works great!\"",
+            "rating": 5,
+            "date": "12/02/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jaci",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/31/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ugghh",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/05/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rbarn",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/17/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "jimmy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "05/07/2015",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Suzi",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "08/27/2013",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "George",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/28/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "WOOF",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "02/09/2016",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "LVT1",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/20/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kevy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/11/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rebel",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/27/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kaz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Susan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/11/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/25/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Blee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "03/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Berdine",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "02/15/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jim1967",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "09/11/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Luna",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/14/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "steve",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/14/2014",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/20/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "08/29/2017",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "artiejoe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "10/18/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "CLJGerry",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glenn",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "05/07/2017",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lwilson",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/04/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "cindyr",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "06/01/2015",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "au5902",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/30/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chomom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/14/2014",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/26/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "nelsonv7769",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/20/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "08/29/2017",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "artiejoe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/30/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chomom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/04/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "cindyr",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dustin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "PS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Norman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Anthony",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "None",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cindy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "KillingTheWeeds",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "11/26/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "MLZ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 245,
+        "percentRecommended": "59",
+        "averageStars": "3.4",
+        "starCounts": {
+            "five": 103,
+            "four": 38,
+            "three": 20,
+            "two": 17,
+            "one": 67
+        }
+    },
+    "questions": [
+        {
+            "question": "\"what type of battery is needed\"",
+            "author": "nicky",
+            "date": "03/07/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/09/2018",
+                    "text": "This product requires a PP3 (9V) battery.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "362389fd-f0ee-5106-a73c-68c545360fd7",
+                    "author": "Zircon Customer Service",
+                    "date": "03/08/2018",
+                    "text": "Hello. Zircon stud sensors use 9 volt alkaline batteries. Thank you",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How are the batteries set in the studsensor?\"",
+            "author": "Anonymous",
+            "date": "10/27/2015",
+            "answers": [
+                {
+                    "author": "robertmiller",
+                    "date": "10/15/2016",
+                    "text": "Easy and it takes a 9 volt battery.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "362389fd-f0ee-5106-a73c-68c545360fd7",
+                    "author": "Zircon Customer Service",
+                    "date": "10/29/2015",
+                    "text": "The tool requires one 9-volt battery. If the negative (-) and positive (+) sides are aligned correctly, it should fit in perfectly. If you need further instructions, you can call us at 800 245-9265, or look at battery installation instructions on our website at http://www.zircon.com/howto/battery.html .",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I need undersdable operating instructions\"",
+            "author": "Anonymous",
+            "date": "01/20/2019",
+            "answers": [
+                {
+                    "badgeName": "362389fd-f0ee-5106-a73c-68c545360fd7",
+                    "author": "Zircon Customer Service",
+                    "date": "01/21/2019",
+                    "text": "Hello. The instructions for your L20 can be found on the Zircon website. Thank you.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does it help find pipes\"",
+            "author": "Anonymous",
+            "date": "09/20/2018",
+            "answers": [
+                {
+                    "badgeName": "362389fd-f0ee-5106-a73c-68c545360fd7",
+                    "author": "Zircon Customer Service",
+                    "date": "09/20/2018",
+                    "text": "Hello. No, the L20 can't be used to find pipes. Thank you.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"My studfinder is not reading studs but it lights up why?\"",
+            "author": "Nicki",
+            "date": "12/06/2016",
+            "answers": [
+                {
+                    "badgeName": "362389fd-f0ee-5106-a73c-68c545360fd7",
+                    "author": "Zircon Customer Service",
+                    "date": "12/07/2016",
+                    "text": "Hello Nicki. This sounds like a classic case of a low battery. Many name brand batteries have expiration dates printed on them. Please replace the battery with a brand new 9V alkaline battery with an extended expiration date a few years out. Stud finders require adequate voltage to power the sensing mechanism inside the tool. If you try this and are still having issues, please contact us. We offer toll free support by phone at (800) 245 9265 during normal business hours Mon. thru Fri. 8:00am to 5:00pm PST, as well as email. We also maintain a 24/7 interactive online knowledge base on our web site. Thanks",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

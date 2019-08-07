@@ -1,0 +1,227 @@
+{
+    "descriptions": {
+        "list": [
+            "Predator scent has long been known to trigger the fight or flight response in small animals of prey",
+            "The larger the predator the larger the animal of prey that can be intimidated by the scent",
+            "Fox scent is particularly frightening to many animals and scares them off quickly",
+            "Place around the yard in areas where small unwanted pests are an annoyance",
+            "Repeat the application every couple of weeks or after heavy rains"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "Red Fox Urine"
+        },
+        {
+            "title": "Unit of Measure",
+            "spec": "Fluid ounce(s)"
+        },
+        {
+            "title": "Pest Control Type",
+            "spec": "Repellent"
+        },
+        {
+            "title": "Unit of Measure Quantity",
+            "spec": "16"
+        },
+        {
+            "title": "Application Method",
+            "spec": "Squeeze bottle"
+        },
+        {
+            "title": "Delivery System",
+            "spec": "Liquid"
+        },
+        {
+            "title": "Concentrated/Ready-to-Use",
+            "spec": "Ready-to-use"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Outdoor"
+        },
+        {
+            "title": "Natural",
+            "spec": 1
+        },
+        {
+            "title": "Odorless",
+            "spec": 0
+        },
+        {
+            "title": "Recommended for Gophers",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Mice",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Moles",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Rats",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Rodents",
+            "spec": 1
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "EPA Registration Number",
+            "spec": "N/A"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "Primary Usage",
+            "spec": "Animal repellent"
+        },
+        {
+            "title": "Primary Active Ingredient",
+            "spec": "Predator Urine"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "10191700"
+        },
+        {
+            "title": "Maximum Coverage Area (Sq. Feet)",
+            "spec": "16"
+        },
+        {
+            "title": "Duration of Effectiveness",
+            "spec": "30 days"
+        },
+        {
+            "title": "Safer For Kids",
+            "spec": 1
+        },
+        {
+            "title": "Safer For Pets",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "ba6e932a-f2ff-5c45-b292-68c1b108a9e7",
+                    "largeName": "f3902d2f-e1e3-544b-9c90-09410e882f84"
+                }
+            ],
+            "title": "\"Squirrels on the porch\"",
+            "rating": 5,
+            "date": "06/22/2019",
+            "recommended": true,
+            "text": "A little keeps the squirrels off the porch. This is were the squirrels have emptied the bird feeders. Now the birds get all the seed.",
+            "author": "Rabbit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Safe pest control\"",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "Racoons were digging the mulch up looking for grubs every single night, as well as eating bird suets and draining humming bird feeder. We put this out and they stay away now. Security camera records racoons coming into the yard as usual, roaming around briefly and then running away. Success!",
+            "author": "Val",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/10/2017",
+            "recommended": true,
+            "text": "This product has been the most effective tactic in keeping the squirrels out of our gardens.",
+            "author": "RK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 100,
+                "no": 22
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 3,
+        "percentRecommended": "100",
+        "averageStars": "5.0",
+        "starCounts": {
+            "five": 3,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Does it smell bad to humans?\"",
+            "author": "Anonymous",
+            "date": "03/14/2019"
+        },
+        {
+            "question": "\"Will this work for Skunks?\"",
+            "author": "Anonymous",
+            "date": "07/31/2018"
+        },
+        {
+            "question": "\"Will it repel cats and or opossums away from my greenhouse?\"",
+            "author": "Anonymous",
+            "date": "06/02/2018"
+        },
+        {
+            "question": "\"Is red fox urine safe to use in the attic?\"",
+            "author": "Lynn",
+            "date": "06/30/2017"
+        },
+        {
+            "question": "\"Is this good to keep foxes out your yard?\"",
+            "author": "Anonymous",
+            "date": "07/02/2019"
+        },
+        {
+            "question": "\"Does this work for raccoons? If not, any recommendations? Trying to deter raccoon from pooping at top of deck stairs each day.\"",
+            "author": "Anonymous",
+            "date": "06/09/2019"
+        },
+        {
+            "question": "\"Does it work well on voles and moles\"",
+            "author": "Anonymous",
+            "date": "05/29/2019"
+        },
+        {
+            "question": "\"Is this useful for groundhogs?\"",
+            "author": "Anonymous",
+            "date": "05/24/2019"
+        },
+        {
+            "question": "\"Will this also work with frogs living in plants?\"",
+            "author": "Anonymous",
+            "date": "01/02/2019"
+        },
+        {
+            "question": "\"need something to repel fox\"",
+            "author": "Anonymous",
+            "date": "08/18/2018"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "descriptions": {
+        "overview": "All plungers are not created equal, this 6 In. diameter plunger cup with flange is designed to work in all toilets. Designed with a classic wooden handle, this plunger will clear even the toughest clogs.",
+        "list": [
+            "All plungers are not created equal, this 6-in diameter plunger cup with flange (extra ring of rubber at the bottom of the cup) is designed to work in all toilets",
+            "Classic wooden handle",
+            "Plunging tips: 1. ensure plunger head is partially submerged in water 2. position flange in drain trap to create seal 3. gently push down to release air, then pull up to fill with water begin plunging with up and down motion",
+            "Designed to clear even the toughest clogs"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Plunger Handle Material",
+            "spec": "Wooden"
+        },
+        {
+            "title": "Plunger Head Material",
+            "spec": "Rubber"
+        },
+        {
+            "title": "Plunger Head Diameter (Inches)",
+            "spec": "6"
+        },
+        {
+            "title": "Storage Caddy Included",
+            "spec": 0
+        },
+        {
+            "title": "Handle Length (Inches)",
+            "spec": "17"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "47121800"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Multiple colors/finishes"
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"best plunger for the money\"",
+            "rating": 5,
+            "date": "08/22/2018",
+            "recommended": true,
+            "text": "The flange allows the plunger to cup the bowl which allows a tight seal so you can plunge away the clog.",
+            "author": "Nancy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 36,
+                "no": 5
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Worst plunger I have ever owned\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This plunger is useless. The second you use any force at all, the whole thing pancakes and becomes decidedly un-plungerlike.  I have had more luck clearing clogs with a bucket of water from a few feet up than with this plunger.",
+            "author": "RSJ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Works fine\"",
+            "rating": 5,
+            "date": "05/25/2019",
+            "recommended": true,
+            "text": "Simple but effective for minor clogs. Actually performed better than the fancier plunger for me.",
+            "author": "Flipper",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 3,
+        "percentRecommended": "66",
+        "averageStars": "3.7",
+        "starCounts": {
+            "five": 2,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 1
+        }
+    },
+    "questions": []
+}

@@ -1,0 +1,761 @@
+{
+    "descriptions": {
+        "overview": "The Master Lock M930XDLJ solid body padlock features a 2-1/2 in. (64 mm) wide solid steel body for maximum strength and reliability. The 7/16 in. (11 mm) diameter octagonal shackle is 2 in. (51 mm) long and made of Tough-Cut boron-carbide, 50% harder than hardened steel, offering maximum resistance to cutting and sawing. The 5-pin cylinder prevents picking and the dual locking ball bearings provide maximum resistance against prying and hammering. The covered keyway offers maximum weather protection, and reinforced body bumper protects against scratches. The lifetime guarantee provides peace of mind from a brand you know and Can trust.",
+        "list": [
+            "Indoor and outdoor padlock; maximum security padlock with Tough-Cut octagonal boron-carbide shackle is best used as a gate lock, shed lock, and storage locker lock",
+            "Lock features solid steel construction for increased strength and security, with a protective bumper for scratch resistance, and keyway cover for weather protection; removable cylinder provides ability to rekey your lock",
+            "Five-pin cylinder and dual ball bearing locking mechanism provides maximum pick and pry resistance; Tough-Cut octagonal boron-carbide shackle is 50% harder than hardened steel",
+            "2-1/2 in. (64 mm) wide lock body; 7/16 in. (11 mm) diameter shackle with 2-1/2 in. (64 mm) length, 15/16 in. (24 mm) width; extended shackle for application flexibility",
+            "One padlock, two keys"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Lock Type",
+            "spec": "Keyed padlock"
+        },
+        {
+            "title": "Dial Count",
+            "spec": "N/A (keyed lock)"
+        },
+        {
+            "title": "Combination Type",
+            "spec": "N/A (not combination)"
+        },
+        {
+            "title": "Shrouded Shackle",
+            "spec": 0
+        },
+        {
+            "title": "Number of Pins",
+            "spec": "5"
+        },
+        {
+            "title": "Contractor Grade",
+            "spec": 1
+        },
+        {
+            "title": "Weatherproof",
+            "spec": 1
+        },
+        {
+            "title": "Keys Included",
+            "spec": 1
+        },
+        {
+            "title": "Rust Protection",
+            "spec": 1
+        },
+        {
+            "title": "Thickness (Inches)",
+            "spec": "1.32"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "2.5"
+        },
+        {
+            "title": "Height (Inches)",
+            "spec": "5.15"
+        },
+        {
+            "title": "Adjustable",
+            "spec": 0
+        },
+        {
+            "title": "Shackle Diameter (Inches)",
+            "spec": "0.416"
+        },
+        {
+            "title": "Shackle Width (Inches)",
+            "spec": "0.931"
+        },
+        {
+            "title": "For Use with Luggage",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Bikes",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Laptops",
+            "spec": 0
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Silver"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Silver"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Lock Material",
+            "spec": "Steel"
+        },
+        {
+            "title": "Shackle Height",
+            "spec": "2-1/2-in"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "46171500"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor/Outdoor"
+        },
+        {
+            "title": "TSA Accepted",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Heavy Duty Lock!\"",
+            "rating": 4,
+            "date": "09/29/2013",
+            "recommended": true,
+            "text": "This lock has incredible heft to it. It appears to be a very solidly built lock and should make all but the most determined thieves look elsewhere. After all, if there's a will, there's a way. If I were to complain about anything, it would be the rubber weather seal at the base of the lock. This is the only design flaw in its outer appearance. If it gets caught or pulled at the corner, it will separate from the body of the lock. This said, it does not appear to affect the overall effectiveness of the lock. I would still recommend its purchase to anyone.",
+            "author": "LongHaulTrucker",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Does the job well\"",
+            "rating": 5,
+            "date": "02/08/2014",
+            "recommended": true,
+            "text": "Extremely strong padlock for outside use. The protected keyway is very good. This lock is exposed to all the weather and seems to be working well.",
+            "author": "Skip",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"great lock, wish it was rekeyable.\"",
+            "rating": 4,
+            "date": "05/23/2014",
+            "recommended": true,
+            "text": "I bought eight of these locks all together in the beginning from three different Lowes stores. four that all keyed out of the same box, then two, and then the final two. after taking them to a locksmith to have them all keyed the same I found out that they are not rekeyable. in fact the locksmith destroyed one of them in the process and had to pay me for it. so I returned the other three to Lowes leaving me the original four. I had the folks in hardware call master lock to see about ordering me another set, and that was a dead end too. as far as the locks themselves go the are very stout solidly built locks. I have no doubt that these will not be hacked picked or pried easily at all. all together a good purchase for anyone who is serious about security, so long as no more then four keyed alike are required.",
+            "author": "wolf",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 8,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Lock is failing after about a year\"",
+            "rating": 2,
+            "date": "04/13/2015",
+            "recommended": false,
+            "text": "Solid build and worked good for about a year. Now I'm having a tough time opening the lock. I have to play with key in the lock many times to turn the tumbler to release the lock. Both keys are original and only one of the keys was used regularly. The other key is still like new. Oiling didn't help either. I'll have to contact Master for service.",
+            "author": "GADirtroads",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Fell apart after 6 months\"",
+            "rating": 1,
+            "date": "12/14/2017",
+            "recommended": false,
+            "text": "The rubber piece on the bottom of the lock got damaged very quickly because it was not properly fastened to the bottom of the lock and after about 6 months one of the internal screws came loose and it literally fell apart locking onto a vehicle we own and it had to be cut off...",
+            "author": "ccr",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Trailer\"",
+            "rating": 4,
+            "date": "06/21/2017",
+            "recommended": true,
+            "text": "Salesperson said would work on tongue of camper and mowing trailer. It won't. The shank is too big. Good lock for other use. Heavy duty",
+            "author": "Jillybean",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Can't get a extra key made\"",
+            "rating": 2,
+            "date": "12/13/2018",
+            "recommended": null,
+            "text": "Went to Lowe's to have a extra key made for this lock that I bought at Lowe's and was told that they didn't have a blank to fit it, true value does not have a blank to fit it and wal mart was out of a blank that fit it.",
+            "author": "Lewy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great Product & fine purchase.\"",
+            "rating": 5,
+            "date": "08/10/2014",
+            "recommended": true,
+            "text": "I think Lowe's stores great and easy to maneuver around,clean & nit.Though friendliness is not enough & needs to be push on more.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 9
+            }
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "06/25/2013",
+            "recommended": false,
+            "text": "The rubber weather protector over the key hole came off and it is not possible to reattach. Poor design. The lock still works but for the money this was not a good deal.",
+            "author": "Jerry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"peace of mind\"",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "Nothing beats having peace of mind, and this Master lock delivers at least some peace of mind in an increasingly dangerous world. Having security means everything, and the best that Master lock delivers really helps.",
+            "author": "nick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Padlock and Shed\"",
+            "rating": 1,
+            "date": "04/27/2017",
+            "recommended": false,
+            "text": "This padlock popped up when I ordered the Shed online, so I assumed they went together. The padlock does not fit through the hole in the shed so I have to spend time returning it.",
+            "author": "Sue",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 17
+            }
+        },
+        {
+            "title": "\"A truly master lock\"",
+            "rating": 5,
+            "date": "02/26/2019",
+            "recommended": true,
+            "text": "We bought this lock due to its #8/10 rating for weather ability and strength. Previous cheaper locks had started to rust outdoors, so it was time to invest in something better.",
+            "author": "Frank",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Does what it was purchased for perfectly.\"",
+            "rating": 5,
+            "date": "01/04/2019",
+            "recommended": true,
+            "text": "This lock is strong enough and long enough to pass through several layers of chain, and the keys at cover keeps rain out of the mechanism well too.",
+            "author": "Mitch",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Maximum Security\"",
+            "rating": 5,
+            "date": "05/05/2019",
+            "recommended": true,
+            "text": "When the lock's appearance deters those thinking about breaching, the size and weight will convince a thief to go elsewhere to a easier target.",
+            "author": "Huntjaiyen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Master magnum lock\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": null,
+            "text": "Perfect for the U-Haul I used and now my shed. Definitely think my stuff is safe with this lock!",
+            "author": "Dillon",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"No keys\"",
+            "rating": 2,
+            "date": "07/09/2018",
+            "recommended": false,
+            "text": "Item was on the shelf.  Upon getting home I discovered that there were no keys in the package.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Master Lock\"",
+            "rating": 5,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "Not your father's padlock.This thing is built like a tank but operates smoothly.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Lock\"",
+            "rating": 5,
+            "date": "11/21/2018",
+            "recommended": true,
+            "text": "Great lock to secure with a chain or other application.   Very heavy duty!",
+            "author": "seaczar",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth the trouble\"",
+            "rating": 1,
+            "date": "08/24/2017",
+            "recommended": false,
+            "text": "Bought the lock, went to put it on, wouldn't lock , wouldn't move at all.",
+            "author": "Grunt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Master lock magnum\"",
+            "rating": 5,
+            "date": "01/09/2019",
+            "recommended": true,
+            "text": "This is a wonderful heavy duty padlock. Very tough and rugged.",
+            "author": "Jake",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Strong lock\"",
+            "rating": 4,
+            "date": "01/19/2019",
+            "recommended": true,
+            "text": "Seems solid and strong. Sticks a little on opening",
+            "author": "Ace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent\"",
+            "rating": 5,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Can't cut this one their!!!",
+            "author": "Security",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent\"",
+            "rating": 5,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Can't cut this one their!!!",
+            "author": "Security",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sparky",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/05/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cheryl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Fred",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Davidamelson",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Junebug5",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Master lock magnum\"",
+            "rating": 5,
+            "date": "01/09/2019",
+            "recommended": true,
+            "text": "This is a wonderful heavy duty padlock. Very tough and rugged.",
+            "author": "Jake",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Strong lock\"",
+            "rating": 4,
+            "date": "01/19/2019",
+            "recommended": true,
+            "text": "Seems solid and strong. Sticks a little on opening",
+            "author": "Ace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent\"",
+            "rating": 5,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Can't cut this one their!!!",
+            "author": "Security",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent\"",
+            "rating": 5,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "Can't cut this one their!!!",
+            "author": "Security",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sparky",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/05/2013",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cheryl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Fred",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Davidamelson",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Junebug5",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 40,
+        "percentRecommended": "75",
+        "averageStars": "4.3",
+        "starCounts": {
+            "five": 28,
+            "four": 5,
+            "three": 0,
+            "two": 4,
+            "one": 3
+        }
+    },
+    "questions": [
+        {
+            "question": "\"How many keys come with the lock?\"",
+            "author": "Anonymous",
+            "date": "04/08/2013",
+            "answers": [
+                {
+                    "author": "Debbie",
+                    "date": "06/19/2014",
+                    "text": "2 keys come with it",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "carrieinwi",
+                    "date": "12/25/2013",
+                    "text": "two keys come with the lock",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "LongHaulTrucker",
+                    "date": "09/29/2013",
+                    "text": "2 keys come with the lock.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "PSully",
+                    "date": "06/28/2013",
+                    "text": "3",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will this lock hold up to bolt cutters?\"",
+            "author": "Anonymous",
+            "date": "06/15/2014",
+            "answers": [
+                {
+                    "author": "Debbie",
+                    "date": "06/19/2014",
+                    "text": "yes",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Debbie",
+                    "date": "06/19/2014",
+                    "text": "yes it will as per specs",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 6
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will this lock fit the door on pens keep rental truck\"",
+            "author": "Skippy",
+            "date": "06/20/2016",
+            "answers": [
+                {
+                    "badgeName": "7d96d728-1db5-5464-8651-0c0a3a3b1903",
+                    "author": "MasterLockCompany",
+                    "date": "06/20/2016",
+                    "text": "The shackle diameter for this product is 7/16in (11mm). Please contact your rental truck company to find out the diameter of the door latch.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this lock be keyed to match a key I furnish?\"",
+            "author": "Anonymous",
+            "date": "09/29/2018"
+        }
+    ]
+}

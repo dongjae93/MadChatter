@@ -1,0 +1,874 @@
+{
+    "descriptions": {
+        "list": [
+            "Know who’s knocking: get an alert and talk to visitors at your door from anywhere",
+            "HD video with HDR: delivers bright, crisp images day or night, even in challenging lighting conditions",
+            "Intelligent alerts: smart enough to detect a person, then alert you even if they don't ring the bell",
+            "HD talk and listen: hear visitors loud and clear"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Wireless",
+            "spec": 0
+        },
+        {
+            "title": "Push Button Included",
+            "spec": 1
+        },
+        {
+            "title": "Sound Type",
+            "spec": "Chime"
+        },
+        {
+            "title": "Transformer Included",
+            "spec": 0
+        },
+        {
+            "title": "Bell Wire Included",
+            "spec": 1
+        },
+        {
+            "title": "Doorbell Material",
+            "spec": "Plastic"
+        },
+        {
+            "title": "Batteries Included",
+            "spec": "N/A"
+        },
+        {
+            "title": "Push Button Material",
+            "spec": "Plastic"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Multiple colors/finishes"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "Doorbell Voltage",
+            "spec": "16 to 24"
+        },
+        {
+            "title": "Doorbell Height (Inches)",
+            "spec": "4.6"
+        },
+        {
+            "title": "Doorbell Width (Inches)",
+            "spec": "1.7"
+        },
+        {
+            "title": "Doorbell Depth (Inches)",
+            "spec": "1"
+        },
+        {
+            "title": "Warranty",
+            "spec": "2-year limited"
+        },
+        {
+            "title": "Built-In Speakers",
+            "spec": 1
+        },
+        {
+            "title": "Built-In Camera",
+            "spec": 1
+        },
+        {
+            "title": "Series Name",
+            "spec": "Hello Video Doorbell"
+        },
+        {
+            "title": "Doorbell Extender Included",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "App Compatibility",
+            "spec": "App required"
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 1
+        },
+        {
+            "title": "Works with Android",
+            "spec": 1
+        },
+        {
+            "title": "Product Type",
+            "spec": "Doorbell"
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 1
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 1
+        },
+        {
+            "title": "Works with Insteon",
+            "spec": 0
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "Volume Control",
+            "spec": 1
+        },
+        {
+            "title": "Decibel Rating (Decibels)",
+            "spec": "80"
+        },
+        {
+            "title": "Facial Recognition",
+            "spec": 1
+        },
+        {
+            "title": "Night Light",
+            "spec": 1
+        },
+        {
+            "title": "Number of Sound Selections",
+            "spec": "1"
+        },
+        {
+            "title": "Operating Range (Feet)",
+            "spec": "3"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "46171600"
+        },
+        {
+            "title": "Power Source",
+            "spec": "Hardwired"
+        },
+        {
+            "title": "Visual Indicator Type",
+            "spec": "LED; Strobe"
+        },
+        {
+            "title": "Portable",
+            "spec": 0
+        },
+        {
+            "title": "Mute Timer",
+            "spec": 1
+        },
+        {
+            "title": "Visual Indicator",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Nice added Security and Convenience\"",
+            "rating": 4,
+            "date": "01/03/2019",
+            "recommended": true,
+            "text": "The Nest Hello doorbell is a nice added security device.  My only complaint is that notifications when a person comes to the door (i.e. package delivery), the Hello Doorbell is too slow to alert.  For example, someone could take something from our porch and while they will be recorded, I'm not alerted soon enough to speak to the person via the doorbell.  They are gone by the time the video is displayed on my phone.  The Google Home Hub takes a little bit to get completely setup to maximize its use.  I didn't have a Google account and didn't use google services; so to get everything up and running has been a little bit of work.",
+            "author": "Patrick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 21,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Safe and Secure\"",
+            "rating": 5,
+            "date": "01/02/2019",
+            "recommended": true,
+            "text": "I purchased the Google Home Hub along with the Nest Hello doorbell originally for novelty purposes after my initial purchase of the Nest Thermostat but soon came to realize these are very helpful tools for the whole family and an added feeling of safety and security in our home. From anywhere on earth I can see what lurks at my front door entryway, adjust the thermostat, and also sitting at home in my favorite easy chair I can ask Google who's at the front door. It really has simplified our lives a great deal and my family enjoys all the added features as well. 5 STARS all the way!",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b89edc5c-8800-5247-9afe-5ce6834c5645",
+                    "largeName": "b1277c81-53af-562d-9663-528fe0b4fe8d"
+                }
+            ],
+            "title": "\"So easy to install\"",
+            "rating": 5,
+            "date": "12/31/2018",
+            "recommended": null,
+            "text": "I decided to diy install this and am so glad I did. The instructions are straight forward, the wiring is incredibly simple, and there's lots of support for questions. It's been installed for a week and so far I'm very happy with it. The picture is crisp and clear, even at night. The notifications of movement/activity are helpful without being too intrusive on my phone. I paired the Nest Hello with the Google Home Hub and they interact seemlessly.",
+            "author": "Cindy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "947c7409-eac6-574c-8b3c-e1ec82227abf",
+                    "largeName": "91937fde-f492-52fd-a174-fe99244f0dcf"
+                }
+            ],
+            "title": "\"Hub and Doorbell\"",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "I think this is the most awesome thing yet.  I actually gave it as a gift and the receiver tells me they feel sooo secure now and so much less worry.  They actually send me video of them going in and out.  (Nice to know the family is safe) as I live so far away.  They have several Nest items and the Hub allows them to handle everything in one spot.  the picture is so clear and it was an easy install.  Again, totally awesome, amazing and affordable for what peace of mind it gives my family and myself.  Thank you.",
+            "author": "Cindy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "c00543dc-905f-54e9-b53b-da15692431b4",
+                    "largeName": "2deca31a-bc40-5ac2-a93d-eb35600f4a4e"
+                },
+                {
+                    "smallName": "8e7df759-f1e7-5025-ac3d-08a0a6ba3af2",
+                    "largeName": "323addaa-b73f-537b-88e7-6a95df294ace"
+                }
+            ],
+            "title": "\"Great Products Combo.! Must Buy.!\"",
+            "rating": 5,
+            "date": "01/12/2019",
+            "recommended": true,
+            "text": "It was a good decision to get one of this.! Very clear image from Nest Camera.Google Home is the way to go for Smart Home..loving it.!",
+            "author": "Ronak",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Hello Nest come on in!\"",
+            "rating": 3,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "My nest seems to be having connectivity issues.  The door bell rings sometimes and sometimes it does not. Maybe I should have had a professional install it.  Seemed simple enough, but I'm having some issues.",
+            "author": "DYE",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 11,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Some things are great, some things are not\"",
+            "rating": 3,
+            "date": "02/06/2019",
+            "recommended": true,
+            "text": "We'll start with the Google Home Hub. We linked it to our Nest doorbell and a Nest camera in our home that's used as a baby monitor.  The Home Hub often acts glitchy and will stop streaming the baby's camera.  It often has problems connecting to the internet when nothing else in our house is struggling. I really hate that it says it links to your Netflix account, but then says it's not capable of streaming Netflix.  That's a serious oversight.  Another serious oversight is that it doesn't have an internal rechargeable battery, so you can't unplug it and move it somewhere in the room with you.  If it's going to cost as much or more than a tablet, you'd think it could have some of the basic capabilities of a tablet.  I think I'd rather have a nice tablet than this Google Home Hub.The good things about it are: the basic stuff you'd expect.  You can ask it questions to look up on Google.  You can watch YouTube videos on it.  You can check your commute in advance of leaving to plan your drive and timing.  You can check the weather forecast easily.  When it's not lagging, then it's good for announcing when the doorbell rings.  It just seems like it could have a lot of great qualities that just weren't included in it.  I'm overall a bit disappointed at the things it lacks for the price and how glitchy it has been.Now for the Nest doorbell.  I like the doorbell video quality.  I hate that you pretty much HAVE to pay for a \"Nest Aware\" subscription to really make it worth it.  I thought that paying for a subscription would cover both of my Nest cameras, but came to find out that you have to pay for a new subscription for EACH camera.  That's a big disappointment that they don't cover you through your loyalty to their products.  So we're only paying for the subscription for the doorbell and not the indoor camera that we use as the baby monitor.  Sometimes the doorbell is laggy and takes awhile to register and sometimes it's not. For the most part, the camera quality is good.  The facial recognition has a lot to be desired.  I can't believe how often it can't recognize a face and that's part of what I'm paying extra for with the subscription...so that frustrates me. I like the security of it, I like that my Nest products (doorbell, indoor camera, thermostat, and temperature sensors) can all be monitored in one place on their app.  There are some capabilities with the doorbell that I'm surprised it doesn't have that I expected it would have.  During a snowstorm last night, it was constantly recording saying their was \"Sound\" and \"Motion,\" but then once in the middle of the night during that storm, it said it spotted a \"Person in Zone 1.\"  Well, I checked the video feed it recorded and there was never a person there.  But it certainly worried me needlessly that there was someone trying to approach our house in the middle of the night (even though there wasn't).  Anyway, to sum up, both products have a long way to go in the kinds of capabilities you'd expect from the technology of today...especially with the high price tag, but overall, I do like having the products.  I've never tried other video doorbells, so I'm not sure how they compare.  I'm saying I'd recommend these products overall, but I feel I'd have to explain the caveats in my recommendations to any friends or family and see if the high price tag is worth it to them based on the things these two products are lacking.",
+            "author": "Nicole",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 13,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Slow to respond\"",
+            "rating": 4,
+            "date": "01/09/2019",
+            "recommended": true,
+            "text": "It takes 6-10 secs to notify  my phone when someone is caught on the camera. Unless they ring the doorbell.Video is good and sound it good",
+            "author": "Wayne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Works ok, works better with upgraded video service\"",
+            "rating": 4,
+            "date": "01/01/2019",
+            "recommended": true,
+            "text": "Fairly easy to install; works well, but playback is slow and lagged unless you pay for the upgraded video service.",
+            "author": "Ald",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent combo\"",
+            "rating": 5,
+            "date": "01/02/2019",
+            "recommended": true,
+            "text": "The nest doorbell is really amazing and is easy to set up if you have a wired doorbell. The Google home hub is a new way to visualize the responses from Google. It can also show you the video feed from the Nest Hello doorbell as well",
+            "author": "xdc7",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome\"",
+            "rating": 4,
+            "date": "12/30/2018",
+            "recommended": true,
+            "text": "Nest delivers a solid product and easy to install. We were able to install at night without issues! Alerts come as they should, images and sound are great and the only issue I've seen is the disconnects from the WiFi.",
+            "author": "SuperStar",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Just works - Easy to install. Great video.\"",
+            "rating": 5,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "Love the Nest Hello. Very easy install. Great video. Recognizes people, dogs, etc. Name people. We have Google Home(s) & Chromecasts - play video on any of the TVs or displays. Good stuff.",
+            "author": "George",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great purchase\"",
+            "rating": 5,
+            "date": "01/04/2019",
+            "recommended": true,
+            "text": "Great product ! Extremely easy to use ! Very reliable ! Easy to setup ! I'm ready to buy my parents one also",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Nest doorbell cam\"",
+            "rating": 5,
+            "date": "01/12/2019",
+            "recommended": true,
+            "text": "I have the August pro bell at the moment but it has poor video and audio. I will be replaceing it with the nest doorbell cam as I have seen a working one and it is superior so I will use the other on the back porch instead.",
+            "author": "Ray",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Choice\"",
+            "rating": 4,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "These devices worked exactly as desired.  Easy install and awesome app support.",
+            "author": "teachingraff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Awesome Product: Way better than I expected!\"",
+            "rating": 5,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "I love the Nest doorbell and the Home Hub is the perfect companion for it. A match made in electronic heaven!!",
+            "author": "Ernie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Nice doorbell and Hub\"",
+            "rating": 4,
+            "date": "03/08/2019",
+            "recommended": true,
+            "text": "Setup is pretty much straight forward. Be sure you have at least a 16v transformer on your doorbell now. Did have issues with notifying the Hub when the doorbell rang as very many others did as well. Software variations made it even more difficult. Spent a couple days hunting around and finally found the area I needed in the software notifications. Very happy with the results though. Plan on picking up a couple cameras but wanted to try this first.",
+            "author": "Kevinj",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product, easy DIY install.\"",
+            "rating": 5,
+            "date": "01/11/2019",
+            "recommended": true,
+            "text": "I have a nest camera, thermostat and security system, the doorbell was the last item to add to round out the complete NEST smarthome setup. Google Hub is great, I also bought a Google Mini and Alexa is no longer with us! Google hub is much better at recognizing commands and answering questions than Alexa. Only knock is no sonos integration but they are working on that apparently. Happy with these products and always happy with anything by NEST.",
+            "author": "Auburn317",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Exceptional Front Door Security\"",
+            "rating": 5,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "The Nest Hello door bell is much more than a door bell with the added security features of motion and noise sensing, zooming, panning, and face recognition all with HD quality.The Google Home Hub (part of this low cost bundle) was a nice perk.  With the hub, you can view the front door with the ring of the door bell, view any security camera, control speakers in the house, control the displays or play music on my Android TV's, get or set the thermostat temperature.  I can even ask to play a certain genre of music, show a camera on my TV, play a specific show or movie on Netflix, adjust TV or speaker volume, and turn a TV on or off.Overall, this is a great package deal.  It is well worth the money.  Also, if you do decide to get a $5/month subscription, Nest will store 5 days worth of recorded video/sound for a running 5 days.  For security purposes, I like the small limited subscription.",
+            "author": "George",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Replaced my Ring doorbell\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": true,
+            "text": "My Ring doorbell was becoming more and more unreliable.  The video was slow to load on my phone and whenever it go really hot out (we live in South Texas), it would shut down completely.  We replaced it with the Nest doorbell and got the Google Home Hub as a bonus.  We are very pleased with our new doorbell.  It works like our Ring never did!!",
+            "author": "Lynn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Home Hub/Nest Hello\"",
+            "rating": 5,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "I got this right before Christmas and have loved it since I put it in.  The picture on the Hello is amazing and if I hadn't had a multichime doorbell that needed constant power, the wiring would have been easy.  The Home Hub was easy to setup and works great with the doorbell.",
+            "author": "Brian",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Simple & Secure!\"",
+            "rating": 5,
+            "date": "01/31/2019",
+            "recommended": true,
+            "text": "Super simple to install with no prior electrical or handyman experience required. Offers an instant sense of security by alerting you anytime someone or something comes into view. User friendly mobile app with live video feed and history of notable events.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excited\"",
+            "rating": 5,
+            "date": "12/17/2018",
+            "recommended": true,
+            "text": "Cannot wait to get this installed and watch the fun begin!",
+            "author": "Excited",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 18
+            }
+        },
+        {
+            "title": "\"Great products\"",
+            "rating": 5,
+            "date": "01/16/2019",
+            "recommended": true,
+            "text": "This is our second Google Home hub but our first door bell.  Super easy to install the doorbell.  We did it ourselves no tech needed.  Works great and the clarity and sound are amazing! Definitely recommend both items!",
+            "author": "Gotfrenchies",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great combo\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "I'm a fan of Google products and this was a great addition to my new house. You may want to get a multi meter for installation of the doorbell. I ended up frying my first doorbell bell and had to get another one.",
+            "author": "SeanB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"As advertised\"",
+            "rating": 4,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "Once installed it is awesome.  The install is easy if your doorbell transformer is the right voltage.  If not the install gets more complicated.  So make sure you have a 16V transformer to your voicemail.",
+            "author": "Alex",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Door bell\"",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "Bought the nest as a present for my wife.  It was easy to install. The hardest part was drilling holes into the brick to install the door bell.  The wiring was easy.  Step by step instructions.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nest is Awesome\"",
+            "rating": 5,
+            "date": "01/13/2019",
+            "recommended": true,
+            "text": "My Nest doorbell is Awesome. No longer do I need to Wonder..”Who is At My Door”...”Should I Open the Door, or Peep Out First”...the Nest has Already made My Nest..Safer!",
+            "author": "Danney",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Product and Easy Install\"",
+            "rating": 5,
+            "date": "01/14/2019",
+            "recommended": true,
+            "text": "Great product, excellent quality picture. Install was very easy, took about 15 minutes with minimal tools needed.  Would definitely recommend.",
+            "author": "Martini",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"A great deal bundling these great items!\"",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "I'm very happy with my purchase. Lowes made it easy to find exactly what I needed and install it right away.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"My helper\"",
+            "rating": 5,
+            "date": "05/25/2019",
+            "recommended": true,
+            "text": "This for my mom, best thing in the world for her, when I'm not home this her security, love it",
+            "author": "Brittney",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Price!\"",
+            "rating": 5,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "Great price! Haven't installed this yet but have heard great things about it!",
+            "author": "Rebecca",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nest hello\"",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": true,
+            "text": "I highly recommend the Nest Hello with the Google Hub pairing.",
+            "author": "CB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "HammerheadJKU",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jerbear51",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jerbear51",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "BRUCE",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/16/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Doug",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Wally",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Wroz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bart",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joseph",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "marvlrose",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 44,
+        "percentRecommended": "95",
+        "averageStars": "4.8",
+        "starCounts": {
+            "five": 35,
+            "four": 7,
+            "three": 2,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"why is the bundle $378; if bought separately its total is only $298 ($199 for doorbell & $99 for google home hub)\"",
+            "author": "Anonymous",
+            "date": "05/04/2019",
+            "answers": [
+                {
+                    "author": "sharon",
+                    "date": "05/22/2019",
+                    "text": "The regular price for the door bell is $229 (item 884373) and the Hub is $149 (item 1152798) = $378",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What color is in the bundle?\"",
+            "author": "Anonymous",
+            "date": "12/09/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/13/2018",
+                    "text": "This set has a white finish for the exterior, except for the doorbell front, which is black.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will Alexa notify you is someone is at the door or do you need the hub for that?\"",
+            "author": "Anonymous",
+            "date": "05/22/2019"
+        },
+        {
+            "question": "\"I ordered the nest hello but I don't have a doorbell how do i wire it should I return it\"",
+            "author": "Anonymous",
+            "date": "05/19/2019"
+        },
+        {
+            "question": "\"what if I don't have an existing door bell ,how do I wire it?\"",
+            "author": "Anonymous",
+            "date": "03/04/2019"
+        },
+        {
+            "question": "\"Is this first or second generation of Nest Doorbell\"",
+            "author": "Anonymous",
+            "date": "03/03/2019"
+        },
+        {
+            "question": "\"What does Monitoring / cloud storage cost?\"",
+            "author": "jim",
+            "date": "02/16/2019"
+        },
+        {
+            "question": "\"cell phone connect\"",
+            "author": "Anonymous",
+            "date": "02/16/2019"
+        },
+        {
+            "question": "\"Nest bell do u install\"",
+            "author": "Anonymous",
+            "date": "12/11/2018"
+        },
+        {
+            "question": "\"What is included in this package? Also what is that screen display pictured next to the doorbell?\"",
+            "author": "Anonymous",
+            "date": "12/09/2018"
+        }
+    ]
+}

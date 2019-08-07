@@ -1,0 +1,2776 @@
+{
+    "descriptions": {
+        "overview": "The 44-in Mazon fan combines modern style and performance in compact package. The Mazon fan is perfect for small room applications and is designed to complement today’s décor trends. The integrated light kit is dimmable and includes an integrated 18-watt LED module to provide ample illumination. The flush mount design is ideal for rooms with low ceilings. The Mazon includes a 3-speed reversible motor controlled by a convenient remote control (wall cradle included).",
+        "list": [
+            "Brushed nickel finish ceiling fan from the Mazon collection features 3 updated reversible blades in silver and espresso finishes to complement today's design trends",
+            "Light kit includes a matte opal glass lens and a replaceable integrated 18-watt LED light source with dimming feature (cannot be installed without light kit)",
+            "Light kit produces 600 lumens when set to its highest level and the color temperature is 3,000K",
+            "44-in fan with 16 degree blade pitch provides airflow up to 2,845-CFM, making it ideal for small rooms up to up to 225 sq ft",
+            "3-speed settings make it easy to maintain the ideal comfort level, average airflow CFM is 2,069",
+            "Remote control with wall cradle included, so you can operate the fan and light from anywhere in the room, remote control allows you to change the fan speed without needing to reach for a pull chain",
+            "Remote control includes learning feature to allow the hand held remote to communicate with the fans remote control receiver (if the remote stops working properly follow the learning process found in the instruction manual)",
+            "Manual reverse air flow switch included and allows you to change the fan's blade direction setting seasonally, so cool air is pushed down or warm air is distributed evenly, reducing energy usage year-round",
+            "Mounting options include hugger/flush mount only which is ideal for low ceilings, when mounted the distance from the ceiling to the bottom of the light kit is 12 inches"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "Mazon"
+        },
+        {
+            "title": "Fan Diameter (Inches)",
+            "spec": "44"
+        },
+        {
+            "title": "Downrod Length (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "3"
+        },
+        {
+            "title": "Reversible Blades",
+            "spec": 1
+        },
+        {
+            "title": "Blade Finish",
+            "spec": "Silver and Espresso"
+        },
+        {
+            "title": "Blade Color",
+            "spec": "Dark brown"
+        },
+        {
+            "title": "Housing Color/Finish",
+            "spec": "Brush Nickel"
+        },
+        {
+            "title": "Light Kit",
+            "spec": "Included"
+        },
+        {
+            "title": "Number of Bulbs Required",
+            "spec": "0"
+        },
+        {
+            "title": "Number of Lights",
+            "spec": "1"
+        },
+        {
+            "title": "Light Bulb Base Type",
+            "spec": "LED"
+        },
+        {
+            "title": "Recommended Light Bulb Shape",
+            "spec": "No bulb"
+        },
+        {
+            "title": "Maximum Bulb Wattage",
+            "spec": "18"
+        },
+        {
+            "title": "Bulb Type",
+            "spec": "N/A"
+        },
+        {
+            "title": "Remote Control Included",
+            "spec": 1
+        },
+        {
+            "title": "High Speed Electricity Use (Watts)",
+            "spec": "58"
+        },
+        {
+            "title": "Mounting Options",
+            "spec": "Flush mount"
+        },
+        {
+            "title": "Reverse Air Flow",
+            "spec": 1
+        },
+        {
+            "title": "Motor Type",
+            "spec": "AC Motor"
+        },
+        {
+            "title": "Angle Mount Capable",
+            "spec": 0
+        },
+        {
+            "title": "Dual Fan Heads",
+            "spec": 0
+        },
+        {
+            "title": "Wattage Equivalent",
+            "spec": "60"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Remote Control",
+            "spec": "Handheld"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Light Kit Type",
+            "spec": "Integrated"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Residential"
+        },
+        {
+            "title": "ENERGY STAR Certified",
+            "spec": 0
+        },
+        {
+            "title": "Airflow (CFM)",
+            "spec": "2845"
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 0
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 0
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Maximum Height (Inches)",
+            "spec": "12"
+        },
+        {
+            "title": "Minimum Height (Inches)",
+            "spec": "12"
+        },
+        {
+            "title": "Number of Speeds",
+            "spec": "3"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "40101600"
+        },
+        {
+            "title": "Fixture Finish",
+            "spec": "Brushed"
+        },
+        {
+            "title": "Glass Type",
+            "spec": "Etched glass"
+        },
+        {
+            "title": "Shade Material",
+            "spec": "Glass"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor"
+        },
+        {
+            "title": "Bulb Installation Type",
+            "spec": "Integrated LED"
+        },
+        {
+            "title": "Style",
+            "spec": "Modern/contemporary"
+        },
+        {
+            "title": "Outdoor Usage Rating",
+            "spec": "N/A"
+        },
+        {
+            "title": "Fixture Color Family",
+            "spec": "Nickel"
+        },
+        {
+            "title": "For Use in Bathrooms",
+            "spec": 0
+        },
+        {
+            "title": "Oscillating",
+            "spec": 0
+        },
+        {
+            "title": "Suggested Room Size",
+            "spec": "Small Room (up to 100 sq. ft.)"
+        },
+        {
+            "title": "For Use in Bedrooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Dining Rooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Kitchens",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Living Rooms",
+            "spec": 1
+        },
+        {
+            "title": "Frosted Glass",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "874b4060-ec04-5e18-b0d7-eaa35ef8607a",
+                    "largeName": "2ddbf9f6-f3c4-519a-ad66-61d9a1214951"
+                },
+                {
+                    "smallName": "04c0ce7d-eb79-5774-a8a3-2bf22c881198",
+                    "largeName": "1aa17a83-d9f7-592f-9abf-7d01e0d06ced"
+                },
+                {
+                    "smallName": "1d65c9d4-6f6e-5151-b3ea-cc105697bf51",
+                    "largeName": "0c5b6ebf-86d0-53a6-b87a-90a8abb5ae73"
+                },
+                {
+                    "smallName": "5101895c-f08f-5e8f-8aea-8329fb7355c9",
+                    "largeName": "1bebd8e6-f620-5b1d-9a6d-de5a55dee1b8"
+                }
+            ],
+            "title": "\"Replacing 2 Harbor Breezes with 2 different ones.\"",
+            "rating": 5,
+            "date": "01/22/2019",
+            "recommended": false,
+            "text": "When we bought our old (new) house we bought 2 Harbor Breezes for the kitchen and laundry room. After a few years Lois (my wife) decided they didn't have the right look (I liked them).  Anyway, she wanted a more modern look and finally decided on 2  Mazons as replacements. I finally relented and bought 2 of the units. Not that the old Harbor Breezes looked bad but the Mazons did give the 2 rooms a special touch. They were reasonably priced and went up without a problem. I love a happy wife. The only bad thing is I have 2 good (used) fans in a box. I'm thinking of Habitat for Humanity. My sister wants one but they are a matching pair and I hate to separate them. Wish I had a picture of those mounted. I'll take a few pictures. Don't min the mess; I'm doing the laundry.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 26,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "25b2e4d3-ee50-5fc3-a7e8-3663c4a3d604",
+                    "largeName": "d911f937-c5f3-5e5d-849f-d78e5df3619f"
+                },
+                {
+                    "smallName": "d1b10416-ca48-5317-8ba1-7695950672ad",
+                    "largeName": "091165fc-eeb1-5b3e-a0da-a36dd3626efe"
+                },
+                {
+                    "smallName": "9c2706db-de89-550b-a6ad-327003b04576",
+                    "largeName": "0e18090a-8408-5348-be15-f01d7850487c"
+                },
+                {
+                    "smallName": "43f3d0cf-ef76-5f42-8033-dd1959462d2a",
+                    "largeName": "f66aa858-eb0e-53a1-adfa-0c76396b4a78"
+                }
+            ],
+            "title": "\"great look\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "I bought two of these and we love them! Easy to install and they look great. The LED light is very bright, too. The only complaint is the color of the remote control... it looks like a very yellowed white. Why such an ugly color? Also, if both fans are on (which are in separate rooms across the hall from each other), the remote will also turn the fan or light in the other room on or off!",
+            "author": "loweslover",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 10,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6c6c01dc-ae3a-5bb3-ac18-47ad558b79b7",
+                    "largeName": "74a1372a-1d09-50e9-87ba-37ef366447d3"
+                },
+                {
+                    "smallName": "dc36bcb0-cc25-53df-a5b2-1b80f4f554da",
+                    "largeName": "d8545c98-9cb9-5256-bfc8-56c346e6be2d"
+                },
+                {
+                    "smallName": "42fb3f4d-fa77-5707-af2f-a20d9ce4c9dc",
+                    "largeName": "34f4e3a6-6121-58f2-ba69-4c01742cc65c"
+                }
+            ],
+            "title": "\"Not a fan...\"",
+            "rating": 2,
+            "date": "02/06/2019",
+            "recommended": false,
+            "text": "What an amazingly beautiful fan! Clean lines, streamline, very modern look! The finish is impeccable, and with the multifunction remote and it's settings how can you go wrong? Well that does it for all the good things I have to say. Now to what's important… I purchased a house which was flipped in 2016, October. After seeing the before pictures of this house, all of the ceiling fans in the house were removed and they only replaced them with one and that was the master bedroom. They replaced it with this beautiful fan from Lowe's/Harbor Breeze. I enjoyed it for all of about a year when the fan stopped responding to the remote.  It was stuck on the second speed, and no light.  Easy enough must be the remote battery right? I get a new battery for the remote ... nothing changed. Not long after that something woke me out of my sleep, like a loud snap. I woke up looking around like what the heck was that? Then I realized that the fan was not spinning. It wasn't responding to the main switch on the wall now, except a little beep that comes on when you turn the switch on.  After calling Harbor Breeze customer support, owned by Lowe's, the only way this can be replaced is to take the entire fan into Lowe's with the receipt in exchange for a new one. Obviously I don't have the receipt, and I'm probably going to be out of luck. Lowe's too, since I wanted to match the other two bedrooms with the same fan.  I get it, I don't have the receipt, but this is not really acceptable for a fan that was installed in 2016 barely over two years ago. I now have a fan in my family room from Hunter, it's about 10 years old and this is the second house it's been in. And it's running like a charm. Lowes if you're listening… I'll be happy to try your fans one more time if you replace this one.  I'd like to give you a second chance.  I realize I don't actually have the receipts but you know this is your product, and I'm sure you don't want it just “hanging” around! I'll be sure to update this rating if you do good by me. Thank you so much and have a great day!",
+            "author": "Kev",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 12,
+                "no": 13
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "c7e9a099-bfb0-5931-9194-b097bbdc0234",
+                    "largeName": "360435ed-3732-58f1-be98-39a9a45b7e21"
+                }
+            ],
+            "title": "",
+            "rating": 2,
+            "date": "03/18/2019",
+            "recommended": false,
+            "text": "We bought this fan memorial day weekend 2018 and we are still waiting for the LED replacement light from this company. For a time frame reference it's now March of 2019. I'm pretty sure it's not coming and even though the fan itself was the perfect look for our room  I wish at this point we would have gone with a more reliable company. The only thing they tell us when we call is sorry it's backordered. (we're never getting that light)  so...... if you're looking for a small quiet dark fan. get this one.... if you would like light in your room.... get another one.",
+            "author": "sonya",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Convenient, cool, and energy efficient\"",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "I bought this to replace an older unit with four light bulbs that shorted out.  It was easy to install, looks cool, runs quietly, and moves a lot of air.  I prefer the flush mount for a room of normal height because it doesn't wobble, although fan blades should be balanced after installation anyway.  I like the convenient  remote control that allows adjusting the light level.  The light is not real bright, but adequate.  I've converted all my household lights to energy efficient LEDs, and prefer lights with integrated LED panels (like this one) instead of LED bulbs, which do not work well with many household light switches.  Overall it is a great fan/light combination, and I am highly satisfied with it.",
+            "author": "homebody52",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 16,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6ebc9bef-6c7f-531c-bd80-20fb2b6f1abf",
+                    "largeName": "c87469eb-366d-5362-bdc3-1ccc23903e3a"
+                }
+            ],
+            "title": "\"Perfect in our kitchen\"",
+            "rating": 5,
+            "date": "02/13/2019",
+            "recommended": true,
+            "text": "We're remodeling our kitchen and wanted to put a smaller ceiling fan in for extra circulation.  this fan is not only beautiful but was a breeze to install.",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4462c3d2-0c4e-5a0e-a888-0a3df835ece3",
+                    "largeName": "19d13f2d-1027-54d5-a05e-14461d58509e"
+                }
+            ],
+            "title": "\"Smooth\"",
+            "rating": 5,
+            "date": "01/27/2019",
+            "recommended": true,
+            "text": "This is a wonderful fan. We bought 2 for our family room. They work great together. We chose to work together or we could have worked them separately. They are awesome.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 13,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Finally!\"",
+            "rating": 5,
+            "date": "03/04/2019",
+            "recommended": true,
+            "text": "For the price, you can not beat this fan! Installation couldn't be simpler. Attach main mounting bracket and the housing hangs from a hook to make connecting electric a piece of cake. If you've ever had to hold up a ceiling fan while trying to do this you know what i mean! Then it's just a matter of plugging in motor and lights. There's more than enough space to fit wiring into housing- once again, if you've ever had to jam wires into a housing and try to get it to fit you know what i mean. Fan does have a slight hum, but nothing real noticable. LED light is bright enough for a 14x12 room. For those claiming the light is not bright enough, adjust the dimmer on the remote. When it is turned all the way up it is very bright. Easiest fan i've ever installed, can be done by one person in about a 1/2hr.",
+            "author": "Gary",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Harbor Breeze Fan\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "I purchased this fan for our master bedroom. Installation was relatively simple - it is most important to read the instructions carefully and consider the installation sequence. I was pleasantly surprised with the quality of manufacturing and engineering of this product. Runs quietly - my wife loves it! The remote is very easy to use but the light has only one setting - on or off rather than a range of light intensity.",
+            "author": "Handyguy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "d04f498e-ae67-5110-bbdd-5f5afb9d7100",
+                    "largeName": "29e84f78-58cd-5f9b-ace2-f9d463bdbc4b"
+                }
+            ],
+            "title": "\"Love it !\"",
+            "rating": 5,
+            "date": "02/23/2019",
+            "recommended": true,
+            "text": "This fan was a great choice for my husband's den.  It's sleek and modern and looks great !",
+            "author": "Tammy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Fan\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "I purchased this fan for our master bedroom. Installation was relatively simple - it is most important to read the instructions carefully and consider the installation sequence. I was pleasantly surprised with the quality of manufacturing and engineering of this product. Runs quietly - my wife loves it! The remote is very easy to use but the light has only one setting - on or off rather than a range of light intensity.",
+            "author": "Handyguy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Difficult to pair multiple fans\"",
+            "rating": 1,
+            "date": "05/22/2019",
+            "recommended": false,
+            "text": "If you have multiple of these fans on same circuit that are not on switches then it is impossible to pair individual remotes with individual fans without actually cutting the hard wiring.  This is because the pairing is dependent on power being one to one and only one fan at a time.  There is no power button on the fans so if they're on the same circuit you're out of luck.  Called customer support and they were basically belligerently unhelpful, suggesting I go back in time and wire the circuit differently.  Poor engineering and rude customer support.",
+            "author": "GSO1427",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Looks great.\"",
+            "rating": 4,
+            "date": "01/20/2019",
+            "recommended": true,
+            "text": "Looks great however there is a slihjt hum in the motor. Tried two of them and both had a hum that was noticeable when whole house was very quiet.DK",
+            "author": "DK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "491a79a7-e81d-5a48-be09-4aebd715d313",
+                    "largeName": "431dfadd-8b5d-517b-b4cc-15fbc49e6c7a"
+                }
+            ],
+            "title": "\"Fan looks great, light is VERY dim\"",
+            "rating": 2,
+            "date": "05/19/2019",
+            "recommended": false,
+            "text": "The fan looks and works well for our Master Bedroom. However, the light is very dim. We have 2 additional lamps in the room which have to be on the same time as this to provide adequate light to the room. The light kit does not use light bulbs so you cannot just add brighter bulbs. I am trying to find a replacement disk but am not having any luck.",
+            "author": "Chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Excellent product\"",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "We actually purchased three to put in our guest bedrooms and bonus room.  The rooms look like the house was just built with their addition.  Also quite easy to install.",
+            "author": "Hayden",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Looks Good for $$ but You Get What You Pay For\"",
+            "rating": 1,
+            "date": "05/12/2019",
+            "recommended": false,
+            "text": "We bought two Mazon ceiling fans for bedrooms across a large 6' hallway. Remotes control both fans which is a problem. Both remotes are connected to both fans and one press of the button in either remote operates both fans. NOT GOOD.  Installation was standard. One hums, one doesn't. Hum is loud and high pitched. Very noticeable. Mounting bracket was checked and all screws are the right tightness. It's the fan motor. If you decide to buy you have a 50% chance or getting one that will hum. Unfortunately, we will be returning. The hum coupled with the added frustration of someone turning on the light with the opposite fan's remote while someone is sleeping cannot be remedied. I give it 1 star. I bought this fan based on research and reviews. It shouldn't be a 4-star rating. One fan is adequate. The other has a terribly  distracting hum. It's a gamble to purchase this fan regardless of the reviews. Very disappointed.",
+            "author": "S",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "63736fa7-6558-59e4-8fcd-353c5fa213af",
+                    "largeName": "c4e1f740-51f6-5c72-bbc2-cc26c276c5bb"
+                }
+            ],
+            "title": "\"DISAPPOINTED\"",
+            "rating": 3,
+            "date": "03/20/2019",
+            "recommended": false,
+            "text": "Bought and installed this fan yesterday. It replaced an outdated looking fan which is the reason for the purchase.  It got the rating it did because it hummmms on any speed and the light is dim and bulbs can't be replaced without replacing the whole light. This must be an upgrade the manufacturer thinks is a good idea. Its not.",
+            "author": "flaOma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Looks great easy install\"",
+            "rating": 4,
+            "date": "02/13/2019",
+            "recommended": true,
+            "text": "looks great. light is dim, can only use the light as maybe a night light , but I have recessed lighting so not a problem, remote is nice feels a little cheap and crazy beige color, fan has a slight hum but nothing serious",
+            "author": "Russell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"too noisy for a bedroom\"",
+            "rating": 2,
+            "date": "05/10/2019",
+            "recommended": false,
+            "text": "Purchased two of these fans for new bedrooms we added onto our house.  They look amazing, but that is about it.  One is for my twins nursery and it is too loud for a baby's room.  We cannot put it any higher than a 1 while they are sleeping.  Very annoying.  Also I was looking forward to the dim feature.  The bright isn't bright enough and the dim, isn't dim enough.  Very disappointing.  We are taking them down and replacing them immediately.  If you are installing them in a room other than a bedroom, the fan may not be a bad choice. Also cannot be wired to wall switches separately for light and fan.",
+            "author": "Gbrinke",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "67d85795-c44e-5eca-81df-a17f82240b6f",
+                    "largeName": "bd89220d-368b-57e3-b903-6d53e8288e94"
+                }
+            ],
+            "title": "\"Better than expected\"",
+            "rating": 5,
+            "date": "06/06/2019",
+            "recommended": true,
+            "text": "Looks very sharp and clean. Love it. Was pretty simple to install too. Hopefully they update it and give more of a daylight color and maybe a tad brighter, but that's just nitpicking.",
+            "author": "JamesZ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Worst Fan EVER\"",
+            "rating": 1,
+            "date": "06/19/2019",
+            "recommended": false,
+            "text": "Remote stopped working. Changed the battery. Battery works for one day. Went to Lowes to buy a two pack of A23 batteries. Change the battery again. Same problem. Problem is not due to the remote losing the connection, although I've cut the power in the house to attempt to reset -- not the issue, light doesn't come on. Now on battery #3; we'll see what happens tomorrow. There's no way to turn the fan or the light on manually. Not wired to a switch (will never do that again).First time in 40 years to have a problem with a ceiling fan. Would never buy this model again.",
+            "author": "FanHell",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Fan, super quiet\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "Love this fan, got 3 so far for all my bedrooms. Very attractive and quiet.",
+            "author": "Vic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Light Too Dim/Bulb Burned Out Quickly\"",
+            "rating": 2,
+            "date": "03/21/2019",
+            "recommended": false,
+            "text": "I loved this fan when it was first installed in my kitchen \"working\" area. The look and size were perfect however the light was so dim even on highest setting. Even though it says = 60 watts I think the frosted cover causes loss of brightness. Regardless, it is rediculously dim.  I always had to have 3 other additional lights on to see well enough even directly underneath it. Unfortunately, the \"LED bulb\" actually sort of fell apart inside the fan and obviously no longer worked. It was very tedious trying to even get to the bulb fixture and when I did it the casing around the bulb was chipped. Have no idea how that randomly happened.  I only have had this fan for 2 years. Finding a new bulb is rediculous as well. Too bad because the style and size were perfect for my kitchen decor. Until it wasn't.",
+            "author": "Adrienne",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8ae99737-b0d1-57a6-b21a-7adf7e8868fe",
+                    "largeName": "3e2ee6d3-fa58-57a8-a582-68641bd792d5"
+                }
+            ],
+            "title": "\"Great Fan\"",
+            "rating": 5,
+            "date": "06/04/2019",
+            "recommended": true,
+            "text": "This is a fan that works very well in small rooms. Setup was very easy, the hardest part was getting the blades lined up to be secured into place. The light is part of the fan, and shouldn't ever need replacing according to the box. The only draw back is that you need to have the remote in order to change the fan speed. Otherwise, it's a solid fan, easiest one i've had to install yet.",
+            "author": "emc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Do not waste you time or money.\"",
+            "rating": 1,
+            "date": "04/27/2019",
+            "recommended": false,
+            "text": "It's a beautiful fan, but completely unreliable. I purchased this fan in April 2017. About a year and a half later the light stopped working. We bought a new light bulb and it didn't work. Bought a new control and again it did not work. Bought a new control and receiver and of course it did not work. My husband worked as an electrician and he could not get it going. I had high hopes, but this was a complete waste of money and time.",
+            "author": "Ashley",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Easy install\"",
+            "rating": 5,
+            "date": "02/08/2019",
+            "recommended": true,
+            "text": "Very easy install.  Air flow is excellent, even in slow speed.  Light bright.  I would recommend this fan to anyone.",
+            "author": "DS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice fan\"",
+            "rating": 3,
+            "date": "05/18/2019",
+            "recommended": false,
+            "text": "Great look & use but I'm only giving it 3 stars because I bought multiple fans like this one(on separate occasions) 1 for each bedroom to keep it consistent, but the remotes can control all fans at once. If I turn light on or off or change fan speeds in one room it will do the same or opposite in the other room.",
+            "author": "Mary",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b7c5fc6e-52b7-5ccd-8542-7a0911fd85fe",
+                    "largeName": "eea7fce8-b076-5689-8ddd-4e7df5d908cd"
+                }
+            ],
+            "title": "\"Sleek and efficient\"",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "This fan is very sleek, efficient And easy to install. It is one of the quietest fans I have ever found good great value",
+            "author": "Allen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "efdfb537-807c-573c-a8a4-dc46e1c7c7d4",
+                    "largeName": "a2a3cf3a-52c9-5c85-9af1-fdb4509b474f"
+                }
+            ],
+            "title": "",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Mazon 44-in Brush Nickel Indoor Fan\"",
+            "rating": 4,
+            "date": "03/16/2019",
+            "recommended": true,
+            "text": "Very nice looking fan. Do not like the fact that all modern fans use LEDs as I like the warm incandescent look. Great for small to mid-size rooms like a kitchen of bedroom.",
+            "author": "Skeer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"nice fan\"",
+            "rating": 5,
+            "date": "02/15/2019",
+            "recommended": true,
+            "text": "Great looks and function. Had to replace the light kit and their customer service was very helpfull. Have it for couple years. Overall very happy",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Awesome Ceiling Fan\"",
+            "rating": 5,
+            "date": "02/17/2019",
+            "recommended": true,
+            "text": "This is a perfect fan for a new home...modern & sleek.  Bought 3 for my new townhome, and they were very easy to install.",
+            "author": "Norm",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good change\"",
+            "rating": 4,
+            "date": "03/03/2019",
+            "recommended": true,
+            "text": "This fan is a nice change to a more contemporary look. I do wish the light were brighter.  It's not much use as and overhead light. So far, the fan, although smaller than my other ones, seems to create enough breeze. The remotes are great, of course.  I bought four fans. I'll write another review if things change.  I haven't really lived with the fans yet as they are part of a remodel due to a fire.",
+            "author": "nptexas",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Perfect for our application\"",
+            "rating": 5,
+            "date": "03/20/2019",
+            "recommended": true,
+            "text": "Attractive and functional. Perfect for our application,",
+            "author": "Dennis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Fan is dependent on remote...remote is garbage\"",
+            "rating": 1,
+            "date": "05/08/2019",
+            "recommended": false,
+            "text": "These fans depend on the remote to work. The remote uses a 23A 12 volt battery. It chews through these batteries for fun. Just about every time you go to use the remote, the battery is dead. Absolutely useless.  I've resorted to rubber banding the battery to the outside of the remote and putting it in, then removing it.",
+            "author": "slon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Good luck ever getting replacement parts\"",
+            "rating": 1,
+            "date": "02/18/2019",
+            "recommended": false,
+            "text": "My son broke one of the blades off of this fan, so I'm thinking, no big deal, I'll call the company and get a new blade sent out.  I call them and they say \"We can only sell new blades to you in a pack of 3.\"  I figure ok, that's dumb but whatever.  They tell me it's going to cost something like $15, and then another $15 for shipping, so $30 total, so at that point I'm annoyed it's going to cost so much (1/4 of the total fan cost just because I need to replace one blade) but heck I need to get it fixed so I'm ready to pay the $30.  Then they say \"We don't have it in stock, you'll need to call back in 6-8 weeks and we should have it in stock and can sell to you.\"  Now I'm thinking, ok this has got to be the worst customer service I've ever heard of.  I double check that they're serious and there's no other way to get it, put it in my calendar to call in another 6 weeks, and wait.  6 weeks roll around, I call, and again I'm told \"We don't have them in stock, you missed it and will need to try calling more frequently since it's done on a first come first serve basis and we don't put your name on a list or anything like that.\"  So now I guess I'll call once a week hoping to miraculously call when they get a delivery in, so I have the privilege of paying $30 to be able to use my fan again.  WILL NEVER BUY THIS BRAND AGAIN.",
+            "author": "Barrett",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Easiest fan I've ever installed\"",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": false,
+            "text": "Not joking, from opening the box to turning it on took less the 30 minutes - and that includes removing the old light fixture.  Whoever designed the mounting plate that screws to the electrical box deserves a raise; it's much easier to work with and attach the fan to than the mounting brackets that come with most fans.  This was the perfect size for our small guest bedroom, and looks nice once it's up.  Only real complaint is the remote - hate the color. It's a biscuit/cream/off-white kinda color.  I'd prefer white.",
+            "author": "DeClercq",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Mazon 44\" Brush Nickel Ceiling Fan w/light\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": true,
+            "text": "Purchased partially because liked the idea of three blades (less to clean) and not needed for a large room.  It is a very nice, easy to install fan.  You can dim it from the remote, not as bright as our regular LED lights but not needed to be very bright.  Would recommend.",
+            "author": "sawa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great bedroom fan\"",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "Love the look of the fan. It took my husband and I a year to figure out that you can brighten the LED light by holding the light button, while it slowly brightens. This made a huge difference, because the default light setting is very dim.",
+            "author": "Jenn",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Review - Harbor Breeze Mazon 44-in Ceiling Fan\"",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "I am very happy with the \"Harbor Breeze Mazon 44-in Brush Nickel Indoor Flush Mount Ceiling Fan with Light Kit and Remote (3-blade)\" from the detailed step by step installation instructions to the quiet operation of the ceiling fan.  The center light is surprisingly bright and the controller adjusts the speed of the fan and the brightness of the light.  I intend to purchase other Harbor Breeze ceiling fans in the future.  I believe the price of the fan justifies the quality of the ceiling fan.",
+            "author": "Christopher",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice\"",
+            "rating": 4,
+            "date": "03/05/2019",
+            "recommended": true,
+            "text": "Definitely agree with others that it has a slight hum but nothing we cant live with. The remote is great but the color is UGLY! But it works great even on low speed. Will be getting another at this price.",
+            "author": "Ss",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Mazon 44-in Brush Nickel Indoor Flan\"",
+            "rating": 5,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "This is our 3rd Harbor Breeze Mazon Ceiling Fan. The styling very sleek, stylish and contemporary.The quality is impressive at a great price. Also love the remote control feature.",
+            "author": "Wisconsinite",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"motor hums loudly at higher speed\"",
+            "rating": 3,
+            "date": "03/19/2019",
+            "recommended": false,
+            "text": "The fan looks nice and it does a fine job moving air around. It was also pretty easy to install. However, the motor makes such a loud humming noise on higher speeds I thought it must be broken. After reading other reviews that mention humming, I'm afraid this is just the way it is. The other downside is that the light is quite dim. I can see to move around the room but I doubt I could read by it.",
+            "author": "tma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze 3 blade fan\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "Easy to install. Very quiet in it's operation. Extremely handy remote means no more reaching over bed to change functions. I'll give it a 10 out 10 with 2 thumbs up!",
+            "author": "B-Rad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Not great\"",
+            "rating": 2,
+            "date": "05/09/2019",
+            "recommended": false,
+            "text": "Looks good but that's about it.Light bulb gets hot and doesn't give much light.Doesn't push that much air. Taking it down and putting fan up that takes regular bulbs",
+            "author": "MM",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan!\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "Loved this fan so much we have 2! First one bought over a year ago, good working fan, puts out good airflow!!",
+            "author": "Yvette",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Terrific fan\"",
+            "rating": 5,
+            "date": "02/28/2019",
+            "recommended": true,
+            "text": "This A great fan, with good features. I'm very,very pleased! I highly recommend it.",
+            "author": "Andy1",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"44-in fan\"",
+            "rating": 5,
+            "date": "02/24/2019",
+            "recommended": false,
+            "text": "great ceiling fan for smaller room with lower ceiling.  easy to install",
+            "author": "mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Modern look\"",
+            "rating": 4,
+            "date": "03/31/2019",
+            "recommended": true,
+            "text": "Nice clean look. Easy install light could be brighter",
+            "author": "Fan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Karen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Only works with remote switch has to be on all tim\"",
+            "rating": 3,
+            "date": "05/27/2019",
+            "recommended": false,
+            "text": "Will only work with remote no switch on it to turn on so if connected to wall switch you need to have it on all the time!   And my remote only worked twice thought battery was low bought a new one still will not work so now it's useless until I order a new remote then I'm sure will have to program somehow who knows if that will work but the couple times it worked was nice! Lol anyway would not buy it again even though I love the look of it",
+            "author": "Russ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Dull lights and only operate with remote\"",
+            "rating": 2,
+            "date": "05/11/2019",
+            "recommended": false,
+            "text": "I would have never bought these fans if I had of known they only operate with a remote. When walking into a room, hunting down a remote is not an option. Even where they are mounted to the wall, it's still a pain. We spent a great amount of money putting in new better quality light switches only to have them over ruled by a stupid fan remote. When I want a light, I want a light, not a remote. Not to mention an ugly remote at that. Yes, Lowes, we all may see the picture of the remote, but online it's not baby poo yellow, so your defense of this is getting old!There are 9 LED bulbs inside these lights, but my 5 gallon aquarium has brighter light than these do. Using the lights on these fans is like going outside on a dark, moonless, night and using only a flashlight. I have always used the overhead in my sewing room when I make my orders for the day, but now, I might as well work in the dark. The moonlight though closed curtains is more light that these provide.Our goal was to change out the whole house to a bulbless lifestyle. And we did wonderful...until we bought this style fan/light. If you will never use the light, go for it. The fans are modern looking and put out a lot of air without being noisy. If you're ever going to need the light...you know, when you change sheets, clean, work, or do anything...buy a different light! I want to remove and return. I understand that my husband doesn't want to take down the fans, but this is worthless. I can only hope that these will die as soon as other people's fans so I can get something better!",
+            "author": "judye80",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Looks good but motor is a bit noisy\"",
+            "rating": 4,
+            "date": "04/10/2019",
+            "recommended": false,
+            "text": "After reading a few reviews to see if other have had similar observations, i concluded that the fan likely is supposed to have a slight hum. The sound is a bit higher pitched, so the sound of the blades do not drown it out as well. I would say that a few of my other fans make about the same amount of noise just at a different pitch. I took the advice given to other owners and made sure the mounting bolts were fully secured and not allowing additional vibration. This did not remove the humming. The lights are slighy dim on the standard setting but can become very bright if you hold down the light button. That was very easy to figure out and adjust to my preference. I agree that the remote seems very poor quality and has an ugly color, but its just a remote. The fan itself overall seems to be high quality and  is able to move air efficiently. This will be a great addition ti my guest bedroom.",
+            "author": "Sprinting",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Contemporary and Superb!\"",
+            "rating": 5,
+            "date": "07/05/2019",
+            "recommended": true,
+            "text": "An absolute great and superb ceiling fan with all the features that makes any room stand out.  Quality with the outstanding ability to change and control all its features via remote control - I would recommend this fan, which is well priced for its appearance, performance and features.",
+            "author": "Goru",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jessica",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"looked good at store but motor hum and light not.\"",
+            "rating": 1,
+            "date": "05/11/2019",
+            "recommended": false,
+            "text": "the motor hum is irritating.  the built in led is not so bright and you cant use a second wall switch for the light.",
+            "author": "ssf",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan, easy to install\"",
+            "rating": 5,
+            "date": "03/14/2019",
+            "recommended": true,
+            "text": "Installed this myself (first solo fan install), in about 40 minutes.  Works great in a small room.  Pretty quiet.",
+            "author": "MattW",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Light went out in less than 6 months\"",
+            "rating": 1,
+            "date": "05/15/2019",
+            "recommended": false,
+            "text": "We bought 2 of these fans less than 6 months ago, 1 is still working,  the other one's light has already gone out. Both used about the same,  not sure why one light already gave out. Still looking for my receipt,  hope I can get a replacement bulb and cross my fingers it works as other reviews here said theirs didn't after bulb replacement.",
+            "author": "Veronica",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Do not buy this fan\"",
+            "rating": 1,
+            "date": "05/29/2019",
+            "recommended": false,
+            "text": "This is the worst fan I've ever experienced. We purchased our home with these installed and we've replaced all of them because the design and the hardware are terrible. To start, you can't replace the light bulbs for brighter bulbs. The bulbs that it comes with are special for the fan, and yes they are LED, but when turned on don't make the room any brighter than it was before and I wish that was an exaggeration. Every room in the house with these fans have needed extra lighting. We even looked at Lowe's and online for brighter options, and there are zero. Second, you can only control the fan and the light from the remote, so if you are wanting to turn the fan or the light on, there is no switch and you have to have the remote. Which, thirdly, is made worse by the fact that you cannot get batteries for the remotes anywhere. The batteries are a special size that are not common, so when your remotes die there is no way to turn the fan on and off, and you have to rely on the switch for the light. I can't find batteries for it anywhere. The fans are tacky and bulky, and so dim and difficult to use that I wouldn't recommend them to anyone. Just buy a normal looking fan with normal switches and normal bulbs and save yourself the trouble.",
+            "author": "TaylorP",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"PUTS OUT HORRIBLE LIGHTING\"",
+            "rating": 3,
+            "date": "05/05/2019",
+            "recommended": false,
+            "text": "The light is so dim and gloomy you will have to have a very bright lamp in the room.  I have a very plain light with cover in the bedroom before i purchased this fan....even though i like the fan, i miss the light i had.  If your looking for a good light and nice fan, this fan is not the one, especially at this price point.",
+            "author": "tb",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Absolutly no customer support\"",
+            "rating": 1,
+            "date": "07/02/2019",
+            "recommended": false,
+            "text": "Made exclusively for Lowe's.  I have been trying to get technical help for almost 3 hours.  You get transferred over and over, get hung up on more than once, then repeatedly get the message, \"Due to heavy call volume, try your call again later\".  Might be a great fan, but who would know?",
+            "author": "jhaa207",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Harbor Breeze Mazon 44 inch\"",
+            "rating": 1,
+            "date": "03/02/2019",
+            "recommended": false,
+            "text": "The light in this fan is like having a candle lit in the room. Terrible! The fan seems to run fine and we liked the looks but does not have sufficient light.",
+            "author": "Amelia",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 9
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cool but only worked 1yr\"",
+            "rating": 2,
+            "date": "06/18/2019",
+            "recommended": false,
+            "text": "We purchased our home in 2016 all the rooms had these ceiling fans. We absolutely love them but after a year the one in the master bedroom stopped working! I surely don't think it should have stopped working after a year!!! It's a great look but don't know the motherboard if this fan is good!",
+            "author": "Chipotlequeen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"flush mount fan/remote\"",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": true,
+            "text": "This fan is very quiet and is a good size for my sitting room(adjacent to master bedroom), which is approximately ten ft. by ten ft. It looks great as well, and I like the ability to dim the fan light using the remote. I am pleased with the purchase.",
+            "author": "winder2",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Quiet and perfect for our guest bedroom\"",
+            "rating": 5,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "We've been looking for a quiet and simple fan to install in our guest bedroom. We actually saw this exact fan at a friend's home and it so so quiet that it convinced us to buy it ourselves. Very good fan for a very good price. We love it!",
+            "author": "Jasmine",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"poor light\"",
+            "rating": 3,
+            "date": "04/20/2019",
+            "recommended": false,
+            "text": "The fan is great. Remote included. I put it above my dinette table. I am going to take it down and put it in a bedroom. The led light is only 600 lumens.  I wish I had read the box before I purchased. This light has less than a 50 watt bulb.",
+            "author": "DJ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"great fan\"",
+            "rating": 5,
+            "date": "04/18/2019",
+            "recommended": true,
+            "text": "This is the easiest fan I have ever installed, and it works great also. 3 blades are plenty to move the air with a dimmer light included and remote. I have bought and installed 3 of them in my home so far and will install 2 more.",
+            "author": "Buddy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Noisy clicking\"",
+            "rating": 1,
+            "date": "06/30/2019",
+            "recommended": false,
+            "text": "This fan is stylish but it is constantly making clicking noises when it goes to the medium and high speeds. It's so obnoxious that I don't want to use it.",
+            "author": "Erin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great looking product, good price.\"",
+            "rating": 4,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "The only problem is the fan is brushed nickel, and the remote control is tan and cheap looking. The manufacturer should have made it silver or gray at least.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"LED light is extremely dim.\"",
+            "rating": 3,
+            "date": "06/19/2019",
+            "recommended": false,
+            "text": "I like the fan, the way it looks and the remote.  But, the LED light is way to dim for even a 11 x 11 room that I put it in.  I would not by this fan again.",
+            "author": "BillC",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "07/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "kb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "We purchased two of these fans for our garage and they are perfect size and they blend perfect with our garage.  And on sale makes it even better.",
+            "author": "Kris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Stylish fan\"",
+            "rating": 5,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "Fan is both stylish and practical.  Installed it in a small office and it looks great, functions well and was a snap to install.",
+            "author": "Smith",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "07/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Coy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [],
+            "title": "\"Live the fan\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "The light is very bright but has dinner for desired brightness, easy to install and very quite.",
+            "author": "Tmathiowetz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Kitchen fan\"",
+            "rating": 5,
+            "date": "06/30/2019",
+            "recommended": true,
+            "text": "Very nice attractive fan choice 2 blade colors.Love remote east to use.",
+            "author": "Eb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"great fan\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "This fan looks great in our kitchen and was easy to install                 1",
+            "author": "5",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great fan\"",
+            "rating": 4,
+            "date": "04/02/2019",
+            "recommended": true,
+            "text": "Easy install. Great output. Adds beautiful look to the room.",
+            "author": "Enzo1122",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great looking fan!\"",
+            "rating": 5,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "The 4th one I'm getting. Works well and looks very nice!",
+            "author": "Peach",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jesse",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Djlaw",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Beth",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Julianne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "MArp",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mark",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/25/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Shelly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dukeb4",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ma",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "none",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jeremy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rentogen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/11/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "webetops",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mac",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/05/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Stan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Pmac",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Sas",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "MJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "SEllis7417",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "01/31/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bruce",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 104,
+        "percentRecommended": "69",
+        "averageStars": "3.9",
+        "starCounts": {
+            "five": 59,
+            "four": 16,
+            "three": 7,
+            "two": 8,
+            "one": 14
+        }
+    },
+    "questions": [
+        {
+            "question": "\"The lighting is not bright enough was wondering if I could convert to a incandescent light bulb. What would be the equivalence to the 18W led max\"",
+            "author": "Anonymous",
+            "date": "02/17/2019",
+            "answers": [
+                {
+                    "author": "MattW",
+                    "date": "03/14/2019",
+                    "text": "I had the same first reaction - light was comically dim, i then realized that it is dimmable, controlled by remote.",
+                    "helpful": {
+                        "yes": 8,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Gary",
+                    "date": "03/04/2019",
+                    "text": "Make sure you adjust the dimmer on the remote, when first turned on it's only about half the brightness.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "02/22/2019",
+                    "text": "Unfortunately, the light kit on this fan cannot be converted.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/18/2019",
+                    "text": "Hello and Thanks for your question. Sorry, the light kit on this fan cannot be converted. The 18watt LED produces 600 lumens when set on its brightest setting. 600 lumens is similar to the performance from a 60watt incandescent bulb.",
+                    "helpful": {
+                        "yes": 10,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Are there any replacement bulbs that work with Amazon Alexa?\"",
+            "author": "Anonymous",
+            "date": "04/10/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/11/2019",
+                    "text": "Hello and Thank you for your question. Sorry, there are no other LED module options available for this fan.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/10/2019",
+                    "text": "No, there are no bulbs that will work with Amazon Alexa.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is this unit dimmable out of the box, or do I have to buy a separate dimmer light switch too?\"",
+            "author": "Anonymous",
+            "date": "03/26/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/27/2019",
+                    "text": "Hello and Thanks for your question. Yes, the fan comes with its own dimming function. This function is activated by holding down the light button on the remote control. Release the button when light is at desired level.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/26/2019",
+                    "text": "Yes, this unit is dimmable out of the box.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is this fan compatible with Leviton and Google home if I want to hook it up to WiFi\"",
+            "author": "Anonymous",
+            "date": "03/09/2019",
+            "answers": [
+                {
+                    "author": "MattW",
+                    "date": "03/14/2019",
+                    "text": "I have it set up on my Leviton wifi switch (DW6HD-1BZ) and it works fine.  Obviously, you are going to control both the fan and the light when you flip the switch, but the good news is that the fan remembers your fan and light preference, so it will power on the same way next time.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/11/2019",
+                    "text": "Hello and Thanks for your question. This fan was designed to be operated with use if the hand held remote control transmitter only.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can a down rod be used with this fan?\"",
+            "author": "Anonymous",
+            "date": "02/12/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "02/22/2019",
+                    "text": "No, this unit does not have a downrod installation option.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/13/2019",
+                    "text": "Thanks for your question. No, this fan cannot be mounted with use of a downrod. It is designed as a hugger ceiling fan. For more details you can reference the install video or any of the different documents available within the Guides & Documents section on the product page on lowes.com.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"When I turn on the wall switch, there is a 2 to 3 second delay before the light comes on. I have to wait to enter a dark room. What could it be?\"",
+            "author": "Anonymous",
+            "date": "02/07/2019",
+            "answers": [
+                {
+                    "author": "MattW",
+                    "date": "03/14/2019",
+                    "text": "Mine does the same - I think it is a feature of it being a dimmable LED light.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/08/2019",
+                    "text": "Hello and Thanks for your question. For more technical help you can call the manufactures customer service center at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I broke one of the blades for this fan and can't find the exact blades, do you sell the replacement blades for this kit?\"",
+            "author": "Anonymous",
+            "date": "07/05/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "07/08/2019",
+                    "text": "Replacement parts are obtained by calling Lowes customer service at 1-800-643-0067.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Where can i get a manual i lost mine?\"",
+            "author": "Anonymous",
+            "date": "07/04/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "07/05/2019",
+                    "text": "You can download the products instruction manual from within the Guides & Documents section while on the product page on lowes.com.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Where can I get a replacement remote?\"",
+            "author": "Anonymous",
+            "date": "06/27/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "07/05/2019",
+                    "text": "Yes, replacement parts including the remote are obtained by calling Lowes customer service at 1-800-643-0067.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What kind of batteries do I get for the remote. The batterie lasted 2 years and needs replacing . Can you please advise\"",
+            "author": "Anonymous",
+            "date": "06/22/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "06/24/2019",
+                    "text": "Hello and Thanks for your question. The remote control uses an A23 battery. These can be found in our stores merchandised along with the other batteries. The Lowes Item number for the battery is 360028.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can light be operated when you enter the room from the wall switch or is everything operated from the remote---as in the wall switch is now obsolete??\"",
+            "author": "Anonymous",
+            "date": "06/19/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "06/20/2019",
+                    "text": "Thanks for your question. The fan is designed so that all of its functions are controlled with use of the hand held remote control. If the fan is wired to a ON/OFF switch located on the wall the switch would operate the power going to the fan. The fan comes with a memory function, so every time power is restored to the fan by use of a wall switch the fan will go back to its original settings prior to the fans power being turned off with the wall switch. This means if the fans light is ON and you use the wall switch to turn power to the fan OFF, when you use that same wall switch to restore power to the fan the light will come ON automatically without use of the hand held remote control.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"We bought 2 MAZON fans and installed them in rooms next to each other.\nNow each remote controls both the fans! So now both on or off! Solution?\"",
+            "author": "Anonymous",
+            "date": "06/07/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "06/10/2019",
+                    "text": "Thanks for your question. You will need to program one of the remotes. More details can be found in the product instruction manual or the warranty guide. Both of these can be downloaded from within the guides & documents section on the product page on lowes.com. Or you can call the manufactures customer service center at 1-866-473-4537 and they can walk you through the steps over the phone.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"how many watts is the fan without the led light?\"",
+            "author": "Anonymous",
+            "date": "06/06/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "06/06/2019",
+                    "text": "Hello and Thanks for your question. This fan can only be installed with the light kit.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this work with the Harbor Breeze Off-White Wall-Mount Universal Ceiling Fan Remote Control (model # 41180)?\"",
+            "author": "Jeff",
+            "date": "06/02/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "06/03/2019",
+                    "text": "Hello Jeff, No. For replacement parts you can contact our customer service department at 1-800-643-0067.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"is the light replacement avaialble for the fan  in cool white? Is there any other way to change to cool white light ?\"",
+            "author": "arvin",
+            "date": "05/29/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/30/2019",
+                    "text": "Hello Arvin, Sorry there are no other options for this fan to change the color temperature of the light kit.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I can still see the light glowing after I turn it off at night is this normal. I have other fans of the same model that don't do that\"",
+            "author": "Anonymous",
+            "date": "05/27/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/29/2019",
+                    "text": "Thanks for your question. No, once you turn off the fan the light should turn off. For more technical help you can call the manufactures customer care center at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I just installed the fan and there is a dim light from the bulb that I can only see when it's pitch dark even though the power is off. Is this normal\"",
+            "author": "Anonymous",
+            "date": "05/27/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/27/2019",
+                    "text": "Thanks for your question. If the light seems dim make sure it is set at its highest setting. To activate the dimming feature hold down the light button on the remote control. Release the button once the light is at its brightest setting.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this light be installed outside?\"",
+            "author": "Anonymous",
+            "date": "05/18/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/20/2019",
+                    "text": "Hello and Thanks for your question. No, this fan is designed to be installed indoors only.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Hi, How do I get the light to stop turning on by itself? Is it a remote control setting? It has turned on twice while we were sleeping.\"",
+            "author": "Anonymous",
+            "date": "05/17/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/17/2019",
+                    "text": "Hello and Thanks for your question. If you have the most recent Mazon fan that includes a oval shaped remote with only 3 speeds the LED light on the fan should not be turning on by itself. To trouble shoot that version fan, you can try to re-program the remote by following these three steps. Go to the room where the fan is installed and turn off the power going to the fan. (If you have the fan wired to an ON/OFF wall switch use the switch to turn the power off) If you have any other additional Mazon fans installed in your home make sure the power to all of them are turned OFF. Once the fan is turned Off with use of the wall switch use the wall switch and turn the fan back ON. Within 30 seconds of restoring the power to the fan you need to press the black learn button located inside the battery compartment. This will re-program the remote to the fan with efforts to eliminate any type of interference issue that could be causing the light to turn on by itself. If the light continues to turn on by itself call 1-800-643-0067 (Lowes customer service) and order a replacement hand held remote control. If you need more technical help call the manufactures customer care center at 1-866-473-4537 and they can walk you through the trouble shooting steps to insure your fan is working properly.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can a ceiling fan wall switch be used to operate the light and fan while still keeping the remote operational? OR is it a one or the other situation?\"",
+            "author": "Anonymous",
+            "date": "05/10/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/13/2019",
+                    "text": "Hello and Thanks for your question. This fan is designed so that both its motor speeds and light kit functions are controlled by use of the hand held remote control. The fan can be wired to a standard wall mounted on/off switch to control the power going to the fan.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I lost the remotes. How/where can I buy a replacement?\"",
+            "author": "Anonymous",
+            "date": "05/08/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/09/2019",
+                    "text": "Thanks for your question. For replacement parts call our customer service department at 1-800-643-0067. You can also find more details by looking at the products instruction manual and/or warranty guide that can be found within the Guides & Documents section while visiting the product page on lowes.com.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Where can one go to buy the replacement bulb?  What is the name of the bulb.  What is the size of the bulb?\"",
+            "author": "Anonymous",
+            "date": "05/05/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/06/2019",
+                    "text": "Hello and Thanks for your question. Replacement parts for this fan are obtained by calling Lowes customer service at 1-800-643-0067. For more details you can download the Warranty Guide, or the products instruction manual that are found within the Guides & Documents section while visiting the product page on lowes.com. The fan that is selling in the stores comes with a replaceable LED module instead of a actual light bulb. If you have an older version Mazon fan that has a small single light bulb, then it is a 75watt Halogen type E-11 frosted light bulb. Note that if you have an older model fan that uses the Halogen bulb, it is not compatible with the new LED module.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can I get replacement blades that are longer to make this fan a 52” fan? Or even a 48” fan? Thanks, Mike\"",
+            "author": "Anonymous",
+            "date": "05/05/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/06/2019",
+                    "text": "Hello Mike and Thanks for your question. No, the fans motor was designed to be used with 44\" blades only. The manufacture does not offer different length blades. The design of this fan is intended for installation in small rooms.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"where are the switches located in the fan to match up with the remote switches?\"",
+            "author": "Anonymous",
+            "date": "05/04/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "05/05/2019",
+                    "text": "Thanks for your question. The single dip switch is located inside the battery compartment on the hand held remote control. If you need to change the dip switch in the remote control due to a potential interference issue, first turn off the power going to the fan. If you have more than one Mazon fan make sure all of them are turned off first. Then slide the dip switch to your choice of either up or down -- the factory setting is up. Then restore power going to the fan & within 30 seconds of turning the fan's power on, press and hold the “Learn” button inside the battery compartment for 1 second. Once the receiver has detected the set frequency, the light of the fan will blink twice. Replace the battery cover. To confirm the remote control and receiver have paired successfully press any of the fan speed control buttons on the remote control. There is no need to have more than one dip switch due to the fans design. Every time you use the learn button feature the fan automatically chooses a new electronic code to pair with that specific fan so that the remote control operates that fan correctly. There are literally thousands of codes, so that more than 2 Mazon fans can be installed in the same home and can be operated with the remotes independently from each other. If you need more help call the manufactures customer care center at 1-866-473-4537. Page 11 on the products instruction manual shows more details. If you need a manual one can be downloaded on the product page on lowes.com from within the Guides & Documents section while on the product page.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Why was model #00724 discontinued and replaced with this? What are the differences between them?\"",
+            "author": "Anonymous",
+            "date": "04/29/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/29/2019",
+                    "text": "Hello and Thanks for your question. Model number 00724 was replaced with 00728 due to a product design change. Model no. 00728 comes with dual finish (reversible) blades as seen in the images on Lowes.com when searching for Lowes Item no. 807421.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I lost the remote to my fan. Can I buy a replacement? If so, where. Thanks.\"",
+            "author": "Anonymous",
+            "date": "04/27/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/29/2019",
+                    "text": "Hello and Thanks for your question. Replacement parts for the Mazon fan can be obtained by calling Lowes customer service at 1-800-643-0067.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the diameter of the ceiling plate?\"",
+            "author": "Anonymous",
+            "date": "04/20/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/22/2019",
+                    "text": "Hello and Thanks for your question. The diameter of the fans mounting plate is 9.25-inches in diameter.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"is there an available lens in a more clear color?\"",
+            "author": "Anonymous",
+            "date": "04/13/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/15/2019",
+                    "text": "Hello and Thanks for your question. No, there is not any other lens options available for the 44-inch small room Mazon ceiling fan.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will this fan be big enough for a room 12x12 as far as air flow?\"",
+            "author": "Anonymous",
+            "date": "04/11/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/12/2019",
+                    "text": "Hello and Thanks for your question. Yes, due to the fans 44-inch design it is ideal for small rooms up to up to 225 sq ft.. 12ft. x 12ft. = 144 total sq ft. so this fan should have sufficient airflow for your room.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be turned on and off with out the remote via light switch for fan and light? My current fan is operated via wall switch.\"",
+            "author": "Slaus",
+            "date": "04/07/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/08/2019",
+                    "text": "Hello and Thanks for your question. This fan is designed so that it can be wired to a wall switch to control the power going to the fan. Use the hand held remote control transmitter to operate the fans motor speeds and light kit dimming function. For more details you can download the fans instruction manual that is located within the Guides & Documents section while visiting the product page on Lowes.com.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Where can I buy a replacement led light for this fan and is there a part# ?\"",
+            "author": "Anonymous",
+            "date": "04/07/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/08/2019",
+                    "text": "Hello, replacement parts are obtained by calling our customer service department at 1-800-643-0067. If you need more help you can email the manufacture directly at support@chienluen.com.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How long does the led light last can it be replaced?\"",
+            "author": "Anonymous",
+            "date": "04/04/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/05/2019",
+                    "text": "Hello and Thanks for your question. Yes, the module can be replaced if it stops to work properly by ordering a replacement part through our customer service department. The phone number to order parts is 1-800-643-0067. More details regarding replacement parts can be found on the instruction manual. We have also included a Warranty Guide that can be downloaded within the Guides & Documents section located on the product page on Lowes.com.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"hello, is there another color of light for the Fixture light? because the Led is very yellow and I look for a whiter light.\"",
+            "author": "Anonymous",
+            "date": "04/03/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/04/2019",
+                    "text": "Hello and Thanks for your question. No, there are no other LED options for the Mazon ceiling fan. The only option is 3,000K that comes with the fan.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Fan is wonderful. The remote is an ugly off white.  Very yellow. It doesnt match the style of the fan. Are other remotes available?\"",
+            "author": "eric",
+            "date": "04/02/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/03/2019",
+                    "text": "Hello Eric, Thanks for your question. The manufacture of this ceiling fan does not offer a different hand held remote control.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I have 2 in the same house and the remote controls both so if I'm in my room and I turn my light off it control the room as well. It's so frustrating.\"",
+            "author": "Anonymous",
+            "date": "03/30/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/01/2019",
+                    "text": "Hello, to insure your two fans are working properly call the manufactures customer service center at 1-866-473-4537. To fix this situation you will need to re-program one of the fans so that it works independently with use of the remote control.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I already own one of these, just purchased 30 days ago, my kids lost the remote. If I buy another fan for another room, will that remote work on both?\"",
+            "author": "Anonymous",
+            "date": "03/28/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "04/01/2019",
+                    "text": "Hello and Thanks for your question. Each Mazon fan was designed to be operated by its own remote control. If one remote operates more than one fan this is corrected  by following the learning process as found in the instruction manual. For more help call 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"The remote control will turn on the light, but will not activate the fan blade speed.  What can I do to fix the issue?\"",
+            "author": "Anonymous",
+            "date": "03/20/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/21/2019",
+                    "text": "Hello and Thanks for your question. Troubleshooting Tip: If your remote control is not operating the fan properly, it could be due to the hand-held remote control has lost communication with the remote-control receiver. To fix this you need to follow the learning procedure found in the instruction manual. Before starting the learning process, make sure that power going to the fan is turned off by use of a wall mounted power switch, or circuit breaker. Once you restore power going to the fan you have 30 seconds to press and hold the “Learn” button on the remote control for 1 second. Once the remote-control receiver has detected the new set frequency, the light of the fan will blink twice. If you have multiple Mazon fans installed in your home make sure the power is also turned off on them prior to starting the learning process so they do not inadvertently get re-programmed to the new set frequency. If you need more technical help call the manufactures customer service center at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"the glass cover for the lights is not bright enough to the desk where i can't read well  its a led lights  I took the glass cover off its is bright\"",
+            "author": "Anonymous",
+            "date": "03/19/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/20/2019",
+                    "text": "Hello and thanks for your comments regarding our 44-inch Mazon fans designed to be installed in small rooms up to 225 sf. The fans design includes a dimming feature that is controlled by using the hand held remote control. To decrease or increase the light output press and hold down the light button on the remote. Release the button at the desired level of light. When the light kit is set at its highest setting the light coming from the frosted glass lens is 600 lumens.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does Lowe's offer a replacement light shade? If so what size?\"",
+            "author": "Anonymous",
+            "date": "03/17/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/18/2019",
+                    "text": "Hello and Thanks for your question. Replacement parts are obtained by calling our customer service department at 1-800-643-0067. If you need more help you can contact the manufacture directly by emailing support@chienluen.com.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can the fan be controlled from\nA light switch instead of the remote?\"",
+            "author": "Anonymous",
+            "date": "03/06/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/07/2019",
+                    "text": "Hello and Thanks for your question. This fan was designed so that its 3-speed functions and light kit with built in dimmer can be operated by use of the hand held remote control. You are able to wire this fan to a standard ON/OFF wall mounted switch so that you have the ability to control the power going to the fan by flipping the wall mounted ON/OFF switch. Included in the fans design is a memory function. This memory function is activated every time you turn the power to the fan OFF by use of the wall mounted ON/OFF switch. Once you return power to the fan with the wall switch the fan will go back to its settings (both fan blade speed and light setting) that you had prior to the fan being turned off. If you need more technical information you can call the manufacture directly at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I have an earler Allen & Roth fan that is the same as the Harbor Breeze Mazon model.  Can the LED module replace the incandesant bulb?\"",
+            "author": "Anonymous",
+            "date": "02/28/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "03/01/2019",
+                    "text": "Hello and Thank you for  your question. No, the LED module cannot replace previous version Mazon fans that use the 75watt Halogen bulb.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If I put 2 in the same room, can I control both simultaneously with either remote?\"",
+            "author": "Anonymous",
+            "date": "02/20/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/20/2019",
+                    "text": "Hello and Thanks for your question. The fans were not designed so that multiple fans can be controlled from a single hand held remote control.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If I have 2 of these in the same room, can they be set to different channels so that I can control them individually from the individual remotes?\"",
+            "author": "Anonymous",
+            "date": "02/20/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/20/2019",
+                    "text": "Hello and Thanks for your question. Yes, you are able to change the hand held remote controls frequency by following the learning process that is shown in the products instruction manual. The remote has literally thousands of random codes that can be set to allow multiple fans to be installed in the same home and each one of the fans can be controlled by use of the remote independently from each other. If you need more technical help you can call the manufactures customer service center at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How to replace the light ... can't find online\"",
+            "author": "Anonymous",
+            "date": "02/07/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/08/2019",
+                    "text": "Hello and Thanks for your question. If you are looking for directions on how to obtain replacement parts, or directions on how to install the light kit on this fan you can reference the warranty guide or the products instruction manual. Both of these documents can be found within the guides and documents section when visiting the product page on Lowes.com. Replacement parts are obtained by calling our customer service department at 1-800-643-0067. If more technical help is needed you can call the manufacture customer service team at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 6
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"The remote isn't working and the light is stuck on. Is there a manual switch?\"",
+            "author": "Anonymous",
+            "date": "02/03/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "02/04/2019",
+                    "text": "Hello and Thanks for your question. If the remote is not working properly, it is likely that the hand held remote stopped communicating with the built in remote control receiver. To fix this issue follow the learning procedure as shown on page 11 in the products instruction manual. If you do not have a manual one can be downloaded from the product page on lowes.com. The steps are easy, start by going to the room where the fan is installed and hold the hand held remote. While in the room remove the battery cover from the back of the remote and turn the power to the fan OFF. Within 30 seconds of turning the fan's power on, press and hold the “Learn” button on the remote control for 1 second. Once the receiver has detected the set frequency, the light of the fan will blink twice. Replace the battery cover. To confirm the remote control and receiver have paired successfully press any of the fan speed control buttons on the remote control. If you need more technical help you can contact the manufactures customer service department by calling 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What if I want a daylight spectrum light?\"",
+            "author": "Anonymous",
+            "date": "01/27/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "01/28/2019",
+                    "text": "Hello and Thanks for your question. The only light kit option for this fan includes an LED that performs at 3,000K, 90 CRI and a nominal lumen output of 600 lumens.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the maximum wattage for the light bulb?\"",
+            "author": "Anonymous",
+            "date": "01/20/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "01/21/2019",
+                    "text": "Hello and Thank you for your question. This Mazon fan does not come with light bulbs. Instead it comes with a replaceable 18-watt/600 lumen LED module that plugs into two wires coming from the fans motor.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can I buy replacement blades?\"",
+            "author": "Anonymous",
+            "date": "01/18/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "01/21/2019",
+                    "text": "Hello and Thanks for your question. If you need replacement parts they can be obtained by calling our customer service department at 1-800-643-0067.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this fan offer an option for a light unit that produces light greater than 600 lumens?\"",
+            "author": "Anonymous",
+            "date": "01/17/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "01/17/2019",
+                    "text": "Hello and Thanks for your question. Sorry, there are no other options for a different light kit for this fan that offers additional light output.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"We have two Harbor Breeze Mazon ceiling fans.  One remote was lost.  We cannot find the correct replacement for it, as it is different than the one on\"",
+            "author": "Anonymous",
+            "date": "01/12/2019",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "01/14/2019",
+                    "text": "Hello and Thanks for your comments. For replacement parts call our customer service department at 1-800-643-0067. To insure the customer service representative identifies the correct part, make sure to have the correct Lowes Item Number, or factory model number for your fan. If you need more technical information you can call the manufactures customer care center at 1-866-473-4537.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"We have 2 of these fans in our house and would like to buy a 3rd. Can we adjust the remote so that the operation doesn't interfere with other two?\"",
+            "author": "Anonymous",
+            "date": "12/09/2018",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "12/12/2018",
+                    "text": "Dear Valued Lowe's customer, Thanks for your question. Yes it is possible to program each remote control to any specific Mazon fan so that it does not interfere with other Mazon fans. This procedure is found in the products instruction manual. There is a Learning/Pairing procedure to follow. If you need more technical help you can call the manufactures customer service center at 1-866-473-4537 for more help.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I don't know how to get the lightbulb out of my harbor breeze fan to replace it I need instruction manual or instructions\"",
+            "author": "Anonymous",
+            "date": "09/17/2018",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "09/18/2018",
+                    "text": "Hello and Thanks for your question. If you need an instruction manual one can be downloaded within the Guides & Documents section once you are on the product page on Lowes.com.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I'm worried the light won't be bright enough for a home office. my current ceiling fan has 4-60W bulbs- will this lighting kit be enough??\"",
+            "author": "Anonymous",
+            "date": "09/05/2018",
+            "answers": [
+                {
+                    "badgeName": "40bd1b3c-74cb-51a0-b31b-99df383fea9e",
+                    "author": "Harbor Breeze Team",
+                    "date": "09/06/2018",
+                    "text": "Hello and Thanks for your question. The 18-watt LED module produces 600 lumens coming from its light kit and was designed this way to provide ample illumination for rooms up to 225-Sq Ft.. Your current fan with 4 x 60watt bulbs may produce more light depending on the overall design of its light kit.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 2
+                    }
+                }
+            ]
+        }
+    ]
+}

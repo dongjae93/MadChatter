@@ -1,0 +1,3576 @@
+{
+    "descriptions": {
+        "list": [
+            "Built by John Deere in Greeneville, TN, USA - The Most Comfortable Tractor in Its Class",
+            "E130 features redesigned operator station, enhanced layout of controls and adjustable in-seat controls (coverage up to 1 acre)",
+            "John Deere Easy Change™ 30-Second Oil Change System allows anyone to easily change their tractor oil with no hassles and no mess",
+            "This 22-HP, V-Twin, choke-free Ready Start™ John Deere Branded engine has plenty of power and torque for the E130 to handle tough mulching, mowing, and bagging conditions – most suitable for a flat and uneven terrains up to 1 acre",
+            "The E130 also includes a front bumper, cruise control, a side-by-side foot pedal system for easy forward and reverse maneuverability, a hydrostatic transmission and a frame made of full-length welded, 12-gauge steel for reliability",
+            "The 42-in two blade Edge™ Cutting System has a deep deck design and manual PTO blade engagement to provide superior performance and even cuts with 1-in to 4-in cut height selections in 1/4-in increments",
+            "42in bagger(623859),42in mulch kit(228462),tow-behind cart (317783),lawn sweeper(538134),front blade (232032),snow blower(876847),canopy(896901),cover (227861), Easy Change (924091),air filter (336262),42in blades (228460),42in belts (228871)",
+            "Hassle Free Ownership: John Deere 2-year bumper to bumper warranty; local John Deere dealer support - conducts a 10-Point Pre-Delivery Inspection prior to sale; one-stop contact for John Deere service",
+            "Register your warranty at www.johndeere.com/warrantyregistration and receive a FREE John Deere Owner’s Edition hat"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Ammeter",
+            "spec": 1
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "438"
+        },
+        {
+            "title": "Attachment Compatible",
+            "spec": "Front and rear"
+        },
+        {
+            "title": "Bagger Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Blade Engagement Type (PTO)",
+            "spec": "Manual"
+        },
+        {
+            "title": "California Air Resources Board Compliant",
+            "spec": 0
+        },
+        {
+            "title": "Cruise Control",
+            "spec": 1
+        },
+        {
+            "title": "Cut Width (Inches)",
+            "spec": "42"
+        },
+        {
+            "title": "Cutting Range/Yard Size (Acres)",
+            "spec": "Less than 1"
+        },
+        {
+            "title": "Deck Gauge",
+            "spec": "13"
+        },
+        {
+            "title": "Differential",
+            "spec": "N/A"
+        },
+        {
+            "title": "Discharge Location",
+            "spec": "Side"
+        },
+        {
+            "title": "Engine Brand",
+            "spec": "John Deere Branded"
+        },
+        {
+            "title": "Engine Displacement (Cu. Centimeters)",
+            "spec": "724"
+        },
+        {
+            "title": "Engine Horsepower (HP)",
+            "spec": "22"
+        },
+        {
+            "title": "Engine Oil Capacity (oz.)",
+            "spec": "89.6"
+        },
+        {
+            "title": "Engine Oil Included",
+            "spec": 1
+        },
+        {
+            "title": "Mower Deck Width (Inches)",
+            "spec": "42"
+        },
+        {
+            "title": "Engine Type",
+            "spec": "V-twin"
+        },
+        {
+            "title": "Front Axle",
+            "spec": "Cast iron"
+        },
+        {
+            "title": "Front Wheel Size",
+            "spec": "15-in"
+        },
+        {
+            "title": "Fuel Capacity (Gallons)",
+            "spec": "2.4"
+        },
+        {
+            "title": "Grease Fittings",
+            "spec": 1
+        },
+        {
+            "title": "Hour Meter Type",
+            "spec": "Meter only"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Maximum Cutting Height (Inches)",
+            "spec": "4"
+        },
+        {
+            "title": "Maximum Forward Speed (MPH)",
+            "spec": "5.5"
+        },
+        {
+            "title": "Maximum Reverse Speed (MPH)",
+            "spec": "3.2"
+        },
+        {
+            "title": "Minimum Cutting Height (Inches)",
+            "spec": "1"
+        },
+        {
+            "title": "Engine Series",
+            "spec": "John Deere Branded"
+        },
+        {
+            "title": "Mulching Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "2"
+        },
+        {
+            "title": "Number of Deck Positions",
+            "spec": "16"
+        },
+        {
+            "title": "Number of Deck/Anti-Scalp Wheels",
+            "spec": "2"
+        },
+        {
+            "title": "Oil Filter Type",
+            "spec": "Easy Change"
+        },
+        {
+            "title": "Operator-Controlled Mow-in-Reverse",
+            "spec": 1
+        },
+        {
+            "title": "Overall Length (Inches)",
+            "spec": "73.25"
+        },
+        {
+            "title": "Overall Width with Deck (Inches)",
+            "spec": "54.9"
+        },
+        {
+            "title": "Rear Wheel Size",
+            "spec": "20-in"
+        },
+        {
+            "title": "Recommended for Terrain Type",
+            "spec": "Flat with obstacles"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Seat Type",
+            "spec": "High-back"
+        },
+        {
+            "title": "Series Name",
+            "spec": "E130"
+        },
+        {
+            "title": "Steering Type",
+            "spec": "Standard wheel"
+        },
+        {
+            "title": "Transmission Type",
+            "spec": "Side by side foot pedal hydrostatic"
+        },
+        {
+            "title": "Turning Radius (Inches)",
+            "spec": "18"
+        },
+        {
+            "title": "Type",
+            "spec": "Riding lawn mower"
+        },
+        {
+            "title": "Warranty",
+            "spec": "2-year limited or 120 hours"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "21101700"
+        },
+        {
+            "title": "Headlight(s)",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "ffc3aa33-2b8b-52e2-9799-c92ed1d54112",
+                    "largeName": "0a8cc6a2-98fa-5327-bb17-82e67ed9768e"
+                },
+                {
+                    "smallName": "dc827f5c-a17e-5868-8a0b-a6a87fc52726",
+                    "largeName": "66ee24ab-b440-5db2-9855-e2bfd850f217"
+                },
+                {
+                    "smallName": "07cc7635-27b0-55b7-ac29-e6a9ee2d0141",
+                    "largeName": "7ee65d81-793b-5626-bd2a-bb902e61fdd4"
+                },
+                {
+                    "smallName": "58a08134-db23-5b0f-8c0c-2febabf35273",
+                    "largeName": "51359964-9d65-5829-8a03-ccb8000320c3"
+                },
+                {
+                    "smallName": "13dc770f-d475-5587-af24-1236eb12b70d",
+                    "largeName": "baa6e046-ec18-50aa-9813-a94a5ae2df90"
+                }
+            ],
+            "title": "\"My Deere put be shot\"",
+            "rating": 2,
+            "date": "04/04/2018",
+            "recommended": false,
+            "text": "Purchases a John Deere E130 June 2017 and it didn't run like a deer. It coughed, smoked and didn't run right. Lowe's manager graciously had his truck pick it up even though I hadn't bought the extended warranty (foolish me). It had 4 hours of use on it when it got to John Deere service. I was told only an adjustment was made, but they had they had it 3 months and put 5 more hours of service on it. Deere charged me $54 for a \"mandatory\" 8 hours of run time oil and filter change to keep the warranty. They got it with 4 hours and sent it back with 9 hours. They supposedly ran it more than I did and charged me the $54. and it came back filthy with gravel and dirt everywhere. All this for a minor adjustment.  Lowes yes, Deere No.",
+            "author": "Cecil",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 148,
+                "no": 84
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "d7058596-4518-5918-ab1c-dd6124fce74f",
+                    "largeName": "a237366f-1ef0-5d6f-9d20-374d5453e463"
+                },
+                {
+                    "smallName": "1b050530-22be-5887-8276-10700f13f438",
+                    "largeName": "0db10886-60a0-5ce1-b1a4-533a982cc9e6"
+                },
+                {
+                    "smallName": "0c7f2cc5-1353-590d-b486-79faaaaef7cd",
+                    "largeName": "c6322eb5-78b9-5205-acd5-d402d7a4097e"
+                },
+                {
+                    "smallName": "f7e33cf8-e859-5bb6-8c28-343e66747c11",
+                    "largeName": "2334ce40-6743-58a3-8863-ffcaff843d16"
+                },
+                {
+                    "smallName": "02433888-ad6a-5a10-9320-cd6aa5605157",
+                    "largeName": "dcb0238d-c01b-5749-8ba3-b447a2b399bd"
+                }
+            ],
+            "title": "\"Perfect for my one acre property!\"",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "It's does a beautiful job on my lawn  and it looks great!",
+            "author": "Shirla",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "56baccf2-e33a-5620-9aa6-70279d0f7a22",
+                    "largeName": "16fb62b5-4dec-5e9f-9399-5185f2d4ba00"
+                },
+                {
+                    "smallName": "5d6edc4f-b873-568a-a601-2808a1619066",
+                    "largeName": "20e23d09-8287-5943-93dd-bae3796f5aec"
+                },
+                {
+                    "smallName": "17747707-f40a-5644-a6f7-e2acdae1ea32",
+                    "largeName": "d3f78eaf-84d0-5c89-acd5-05816b1dc95f"
+                }
+            ],
+            "title": "\"Very Solid\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "With it being early spring in northern Michigan I've only got a chance to use it once so far, but I'm so excited to cut more grass! Never thought I'd say that. lol Can't understate how comfortable the seat is! Nice clean cut after one pass, and having just over an acre it's the perfect size. It's not a zero turn of course, but it turns very sharply! Overall, Love it!",
+            "author": "Stew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 34,
+                "no": 5
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "fd5475de-65e5-569d-b4a0-1fa47204647c",
+                    "largeName": "998e688b-7046-5279-b171-f3f1787a6bc5"
+                }
+            ],
+            "title": "\"John Deere D130\"",
+            "rating": 2,
+            "date": "04/21/2019",
+            "recommended": false,
+            "text": "Purchased this mower brand new from Lowe's. First season mower did fine. Second season compression bleeder on startup failed just after warranty. The engine had to be manually turned through the compression stroke to be started. Also second season a blade spindle failed, deck brackets that attach the deck developed cracks and finally snapped off completely. Twice that season the brackets and associated cracks in deck had to be reworked. Which brings us to the beginning of season three. Mower picked up a vibration on first use. Appeared to be another bad spindle but was actually use deck disintegration where the spindle connects. The deck is useless.",
+            "author": "Dave",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 50,
+                "no": 14
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "2bbc05a5-7323-55f2-aa9d-9c0226bb25c4",
+                    "largeName": "57a79fd2-4297-57dc-8b1c-43a6adb2a09c"
+                },
+                {
+                    "smallName": "13c41c92-3d36-5c60-aa9b-a960fa8c9f89",
+                    "largeName": "0dbb8954-7ba4-5ddb-895b-9e4c7784fcbb"
+                }
+            ],
+            "title": "\"Great 22hp v-twin.  Very quiet engine.\"",
+            "rating": 5,
+            "date": "05/12/2019",
+            "recommended": true,
+            "text": "I would purchase again.  30 second oil change and quiet engine makes it the best combo.  Strong 22hp engine and large 2.5gal fuel tank.  Larger rear tires than the E120 so traction is better.  Easy ride and controls.  There is a choke on the lever but it is not needed.  Just start and go.",
+            "author": "Silverfun",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 23,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4e39aee6-8451-52b5-a996-97c01441925a",
+                    "largeName": "19a525b8-c519-5dae-907e-fc46d18bbcb3"
+                }
+            ],
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "05/10/2019",
+            "recommended": true,
+            "text": "I bought mine in March, and have mowed 5 times already with it. It took an extra day or so to get as it wasn't assembled yet. John Deere won't allow Lowes to assemble them, but I am highly pleased with it thus far. It's my first John Deere, the one I had to retire was a Snapper zero turn that was given to me. Only thing I have had to do was drill a small hole in the discharge chute so I can use a strap to hold it up that way it'll fit in my shed. I check the oil everytime I use it, and stays right within the hash marks without having to add any. I love having it, and if ever I'm in the market for another mower, or know anyone needing one, I'll definatly recommend a John Deere.",
+            "author": "Launchpad",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 21,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "72649fbd-85a1-59be-b520-0f52dee49e7b",
+                    "largeName": "2d91d5e2-b61c-5d2d-b48e-fc94e7c4f428"
+                },
+                {
+                    "smallName": "52ec7dcc-2c1a-5105-8a88-e398f6ed73eb",
+                    "largeName": "886ca423-ca0f-55c3-9da2-5734adea4c51"
+                }
+            ],
+            "title": "\"Nothing like a Deere\"",
+            "rating": 5,
+            "date": "05/11/2018",
+            "recommended": true,
+            "text": "I've been waiting for two years to get my first riding mower for my 1 acre property with slopes, trees and various other obsacles, and boy did I make the right choice.  The mower rides smooth, cut my mow time by 60 percent and frankly makes me want to mow more than I ever have.  The sales process was a bit frustrating, but par for the course when dealing with Big Box Store staff... delivery was smooth and easy, dropped right off in my driveway. I did have a minor moment of panic as I did a quick inspection, fired it up and tried to move and the machine just sat there, refusing to move in any direction.  Turns out there is a small silver metal bar in the back that you pull out when you want to move the mower without using the mower (pushing it).  The moving guys, aware of this, pulled the pin to push it up my driveway, but left it out and didn't mention to me that this pin existed.  After some quick Google searches, I figured out what was going on and and I was on my way.The seat is comfortable, the drive is easy, turning radius is good, and it's much quieter than I expected.  Overall, I'd say this is a great purchase and has made this middle age dad one happy camper!!",
+            "author": "Jason",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 189,
+                "no": 20
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "99bb8b52-54e7-56c4-be4a-92830d0edbf7",
+                    "largeName": "3b660f1b-71eb-5f3a-90d7-8abc66a030d6"
+                },
+                {
+                    "smallName": "3ab68bda-2b8b-556d-ac43-8d563f8e0f00",
+                    "largeName": "9c24a064-6448-5716-b703-5e6f6a1df7aa"
+                }
+            ],
+            "title": "\"Solid Rider...John Deere Green\"",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "I recently transferred and bought a home with a 2/3 acre lot that I push mowed most of the summer in Coastal NC.  I decided that a rider would best use of all the time I was loosing pushing that mower. I knew I was either going to go with a Cub Cadet (consumer reports top pick) or John Deere.  I decided to go green...likely because it was green ( I was hoping I didn't make a mistake).  I choose the E130 because it had good power and was highly ranked among consumers.  When I picked up the machine at Lowes, I was immediately concerned because the tank was loose...I wanted to walk until I did some quick research that this was standard on all JD E-Series mowers as it helps with accurate fuel gauge readings...honestly I don't buy it and think it's a horrible R and D flaw...how did anyone in JD marketing (or senior leadership) think that anything loose on a new machine is a good idea?!?!  Outside of the stupid fuel tank/gauge, I absolutely love this machine.  The seat is comfortable, the gauges, controls and PTO are all ergonomically sound.  The cutting quality is top notch and the machine has plenty of power.  In order to cut in reverse you have to mash a yellow button on the console, this is slightly annoying but got used to it at the end of the first day.  I love the deck-wash function and a 30 second oil-filter change is great.  I recently purchased a large dump cart for it and after Hurricane Florence destroyed the area, the cart was loaded with heavy debris...the JD pulled it with ease.  Very happy owner so far...glad I purchase it over the Cub Cadet.",
+            "author": "BravoZuluBadger",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 38,
+                "no": 6
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "76cdbbaf-7aa8-5c7a-85f0-32f5e61898d8",
+                    "largeName": "e9c4ade9-2380-5c29-ab35-fcd61068123e"
+                },
+                {
+                    "smallName": "f7804956-2083-57f5-a829-56b6d898f924",
+                    "largeName": "ce6e7a60-c0d7-5a80-b6ac-5f90efe377d2"
+                },
+                {
+                    "smallName": "99b37197-fbae-541f-a088-318035624655",
+                    "largeName": "8a5fc577-f549-57ce-af2e-bd7a7c01772c"
+                }
+            ],
+            "title": "\"The introduction could have been better.\"",
+            "rating": 3,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "This is about John Deere E130 V-Twin 22HP / 42” deck riding mower, compared to Husqvarna V-Twin 24HP / 48” deck that recently became a submarine in a hurricane and flood in N.C.A note at the start, You would be wise to presume there is no grease, oil, gas or proper air inflation of the tires. The Box stores DO NOT add these items. You MUST check these items yourself.The John Deere E130 has a few things that are improvements over the Husqvarna V-Twin 24HP / 48”. Principal among these are the fuel level indicator which is easy to read on JD E130 and nearly impossible to view on Husqvarna V-Twin 24HP / 48”. The Forward and reverse Pedals are easier to use on JD E130, on Husqvarna V-Twin 24HP / 48” the reverse pedal is difficult to operate while seated.First time out on the yard JD E130 ran for 1.5 hours on a tank of fuel. Husqvarna V-Twin 24HP / 48” ran for 2.4 hours on a tank, Got more grass cut in Husqvarna V-Twin 24HP / 48”.JD E130 has 30 second easy oil change filter, $45.00 an oil change, Husqvarna V-Twin 24HP / 48” has the standard spin on filter, $10.00 an oil change.JD E130 has a kit to revert  to the spin on filter for those that think changing all of the oil is beneficial, as opposed to replacing some of the spent oil with a small amount of new oil.JD E130 has a manual PTO to deck lever, Husqvarna V-Twin 24HP / 48” has an electric PTO to deck button.Beyond the above mentioned items the Mowers are remarkably similar.JD E130 was less expensive than Husqvarna V-Twin 24HP / 48” by a few hundred dollars.P.S. First day out in the yard with JD E130 the drive belt for the mower deck broke. $40.00 plus for a belt and $45.00 plus for an “oil change” let me think about that.",
+            "author": "SSilver",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 5,
+            "date": "05/10/2019",
+            "recommended": true,
+            "text": "I bought this mower because, besides being a John Deere, it had some great options. The first one was the oil change feature. All you have to do is change the filter. The oil gets sucked up into it and you just put the new one on. It has a 42” mowing deck that works perfectly for my yard because I have a lot of trees, and it's easy to maneuver in between. The 22HP engine has more than enough power to put it into high gear and take care of the long grass runs in the back yard. There are separate petals for reverse and forward, and the blade engaging lever is right next to the steering wheel. I love this mower.",
+            "author": "RonT",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 20,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great Lawn Tractor\"",
+            "rating": 5,
+            "date": "07/10/2018",
+            "recommended": true,
+            "text": "I took delivery of my E130 Lawn Tractor early this morning and could not be happier with it.  The assembly and setup by  Brookside Equipment was perfect, no issues.  All I had to do was fill it will gasoline and I was in business.  The Hydrostatic drive is amazing, from barely moving to top speed with no shifting and complete control of speed.  The controls are very well laid out and easy to use.  The steering radius is almost like a zero-turn mower, made it so easy to mow.  I was amazed at how smoothly and quietly the 22 HP V-Twin engine operates. Even though I was still learning how to operate it, I was able to mow my entire yard in 30 minutes - took me at least 45 with my Snapper 28\" rear engine rider.",
+            "author": "Wayne",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 64,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"E-130\"",
+            "rating": 5,
+            "date": "09/09/2018",
+            "recommended": true,
+            "text": "This mower performed as well or better than expected. I ran it through my 2 foot tall pasture with no stalling and no problems. I then took it to the wet grass around my house...again, no problems and no stalling. My old mower (Husqvarna) would always stall and \"choke up\" in tall grass and I could never cut even damp grass with it. I am waiting on the tire chains I ordered to tackle a bank that the Husqvarna always had problems with...even with chains. I will be selling my Husqvarna and using my new John Deere E-130!",
+            "author": "Chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 34,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Overall I would recommend plenty of power.\"",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": null,
+            "text": "Received my E130 from Lowes delivery on time, the following Saturday during my first use I felt a bump bump and loud momentray noise as though I hit a rock or large tree limb. Look back and see that the front bumper completly damaged which fell off and I had driven right over. Less than 1.5 hours used with re-assmbly flaw. Called Ellington Agway \"John Deere service provider\" who assembled the E130. Ellington Agway stated for me to contact Lowes \"there was nothing they could do\". Lowes did not hesitate in replacing the tractor. Two days later I received my replacement \"new\".",
+            "author": "Rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 10,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good Choice\"",
+            "rating": 5,
+            "date": "05/01/2018",
+            "recommended": true,
+            "text": "I was considering the cub cadet (liked my friends). My son asked me to purchase another John Deere to support made in the USA. I was happy with my last Deere but I had a issue with it mowing uneven, but lasted 10 years without any major problems. I decided to speed 200 more to get the E130, and a very glad I stayed with the new Deere (and went with the E130). It mows great, turning ratio is great, and is comfortable for mowing for awhile. Yard look great when done. Would buy a Deere again......",
+            "author": "Jay",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 154,
+                "no": 12
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "5769f9be-ba02-5c5a-b21b-707b8245ff70",
+                    "largeName": "93a1733d-6250-5036-8431-8f0ddb74efb2"
+                },
+                {
+                    "smallName": "8fe419b3-5cc3-553c-a925-594cfaa24ac7",
+                    "largeName": "32627c47-b340-50f5-8503-b5a9f1fe77e5"
+                }
+            ],
+            "title": "\"Excellent lawn tractor\"",
+            "rating": 5,
+            "date": "07/06/2019",
+            "recommended": true,
+            "text": "My John Deere E130 was delivered to my home right on schedule and in perfect condition. The deck had been accurately leveled, the tires properly inflated and the tractor started right up and runs like a top: smooth and powerful. Lowes had even installed the separately purchased mulch cover and with the cover in place the grass clippings are practically invisible. All accessories and documentation were also delivered. Having previously owned a Deere tractor, I was not surprised by the build quality. But this was my first experience with a Lowes delivery and I was very impressed. The delivery crew was punctual, friendly and knowledgeable. One note: unlike earlier Deere tractors, the E130 has a \"floating\" gas tank by design, so don't be surprised when you first add gasoline and the gas tank moves a bit in its compartment under the seat.",
+            "author": "MikeM",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4ef7c8c4-b5bc-58d2-a877-31c35e30341b",
+                    "largeName": "43c4f43c-6a28-5942-80e7-61587f0ab600"
+                }
+            ],
+            "title": "\"Awesome Machine\"",
+            "rating": 5,
+            "date": "07/18/2018",
+            "recommended": null,
+            "text": "This is my first riding mower.  It's so easy to use and turns are really tight.  Super glad to have this.  I ordered it online and it arrived the very next day.  Super impressed!",
+            "author": "Sandie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"HAPPY WITH PURCHASE\"",
+            "rating": 5,
+            "date": "06/28/2018",
+            "recommended": true,
+            "text": "At the beginning of the season, I purchased a Husqvarna, it was on sale, but the JD was not, what a mistake that was, I mowed one time and then the Husqvarna wouldn't start.  At that point in time, the JD was on sale and I swapped the two out...should have gone with the JD in the beginning.  A great mower, starts right up and does the job.",
+            "author": "Margaret",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 75,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"so far so good\"",
+            "rating": 5,
+            "date": "06/25/2018",
+            "recommended": true,
+            "text": "I am about 3 weeks into a new E130 - so take this review for what it is worth.  So far the mower is performing as expected.   We got off to a rocky start when lowes delivered the mower and used a fork lift to get it off a flat bed trailer.  They put the forks under the mower guard for lifting - I'm sure it is not designed to be picked up that way.  Delivery was free, so I guess you get what you pay for with that.  Next, the mower would not start.   The local lowes was receptive to my phone call, and were prepared to swap batteries out, but it was clear that they did not do any pre-delivery check, cleaning or start up.  I used a battery trickle charger and got it started.  No further issues and it mows well.   I think if I did it again, I would go to the local JD vendor and buy directly from them.",
+            "author": "VaMower",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere E130 22-HP V-twin\"",
+            "rating": 5,
+            "date": "08/23/2018",
+            "recommended": true,
+            "text": "Bought the John Deere manual shift first and took it back and got the John Deere E130 22-HP V-twin and just love it!!!! It has two pedals one for forward and one for backwards and runs and cuts great. Would not want another brand and can not say enough about this tractor except I also love the new gas gauge they put in these. The best place too buy these tractors are at Lowes because they help with everything including filling out the registration and loading it etc. with great customer service. thank you!!!!!!!!!!",
+            "author": "mack51",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 15,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Completly Happy with this Purchase\"",
+            "rating": 5,
+            "date": "07/06/2018",
+            "recommended": true,
+            "text": "Had it Delivered last week and after checking everything was tight and checked fluids and air pressure in tires (which was all was good) I also nstalled the grass catcher which took about an hour and added non ethanol gasoline and then i put it to work.  Cuts grass nicely, Easy to maneuver around obstacles, Very Comfortable to drive and all the controls are placed nicely.. I'm really liking my new Deere :)",
+            "author": "JSE",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 23,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The Good, the Bad, and the Expensive !\"",
+            "rating": 3,
+            "date": "05/01/2018",
+            "recommended": false,
+            "text": "I bought this unit from my local lowes. During the Summer of 2017, I mowed my law each week. During that time, I used this unit to spread weed killer, fertilizer, irrigate, and thatch my law. It worked GREAT !!! Until it decided, it was done. One week, I tried to start and the motor would not even try to engage; the battery died and the tires flattened, over time. I took it into the local certified dealer to have the warranty work completed, nothing was covered and I had to pay just over $475 to have it fix. Buyer beware, Excellent equipment while it works, expense when it does not. John Deere does not honor their homer obligations ! Kubota maybe my next option is John Deere is unwilling to honor my warranty complaint.",
+            "author": "riteye",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 81,
+                "no": 41
+            }
+        },
+        {
+            "title": "\"Right choice\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "Took some time reviewing mowers.  Came down between the cub cadet and the E130 JD.  I went with the deere.  Felt that overall the e130 was a perfect size and the 22 hp engine was ideal for my yard.  Cuts well and the quick change oil feature is nice, plus grease fittings are not to difficult to get to for maintenance (use JD recommended grease; don't mix grease types).  Pretty good on turn radius and cuts well.  I put on the mulching cover and does well with the 3in1 blades.  Also, spend a couple extra dollars and fill your tractor with the blue handle gas (ethanol free) with some stabilizer. Trust me it will pay off in the long run.",
+            "author": "FLJDMan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Did I get a lemon?\"",
+            "rating": 1,
+            "date": "04/16/2019",
+            "recommended": false,
+            "text": "I had the E130 delivered last Wednesday and tried to use it the very next day.  Only one lap around my back yard and the mower belt broke.  The Lowes store where I purchased it has terrible phone customer service so I took the belt and the receipt for the mower to see customer service in person.  The girl who was very unsure of what to do gave me a replacement belt.  I put it on according to the users manual but it seemed loose.  I just tried to use it and it slipped off when I engaged the blades.  I'm very disappointed with this “upgrade”. My L115 Automatic's belt tension could be adjusted but no where can I find out to adjust the E130. If I had someway to haul it back to the store right now for a refund, I would!",
+            "author": "gardengirl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 21,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"John Deere E-130\"",
+            "rating": 1,
+            "date": "05/09/2019",
+            "recommended": false,
+            "text": "Lots of power.  I wanted 42 in, tight maneuver.  All that is fine.  Starts too.  BUT ... the tires are horrible.  Soft.  Go flat running over pebbles and sticks.  And when they go flat the mower drops on the mower deck and won't move an inch.   So walk back and get tools and work out in the open.  Carry tire to bench for repair.   The worst and cheapest tires I've ever experienced on a riding mower. John Deere Ain't What She Used to Be. Highly recommend for marketing purposes and customer satisfaction that Lowes immediately stop selling these John Deere products until suitable tires are supplied.",
+            "author": "Smedley",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"John Deere E130 Lawn Tractor\"",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "I purchased the E130 after a lot of research on the web and can say that I am extremely happy with my purchase. I have used twice and like it more each time. I purchased the mulching kit and think that it does a very good job. The machine is easy to handle and I am very impressed with the turning radius as it is easy to go around trees and other obstacles. The engine is smooth and has plenty of power. The hydrostat drive is perfect and it easy to control. The tractor was delivered by Lowes and I had no problems with delivery or confirmation of what time it would be delivered. I would recommend this rider to anyone who has a reasonable size yard and wants a great quality machine.",
+            "author": "Satisfied",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "473e3884-e5ee-50c3-b321-0c70718a32cf",
+                    "largeName": "e251c544-aa8d-5aad-a720-4d85c8956c80"
+                }
+            ],
+            "title": "\"My 1st John Deere\"",
+            "rating": 5,
+            "date": "09/28/2018",
+            "recommended": true,
+            "text": "I've used it only once, but what attracted me to it was the 30 second oil change feature. I haven't mowed a lawn in 20 years, as I have just bought my first house. I mowed lawns when I was a teenager and lawn tractors were different then. You had to stop and press the clutch in and switch speeds and gears ⚙️. Lawn tractors have come a long way, especially with the hydrostatic engine. I love how there is no switching gears, but just press and go. Great tractor. I plan to take care of it and hope it lives up to its name.",
+            "author": "Randothecomando",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "dc62ab54-ce29-588f-b84c-bee3e3528777",
+                    "largeName": "11a0a6d9-2c30-5ca9-a030-8e00096709b4"
+                }
+            ],
+            "title": "\"John deere mower\"",
+            "rating": 4,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "Drives great, easy to turn, cuts mowing time by 75%. great investment. I would have given review 5 stars, but ordered brand new mower and got a mower with 2 big scratches and looks slightly faded in color.",
+            "author": "freefresh",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome\"",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": true,
+            "text": "This tractor has made my life so much easier. I own 10 acres in the country and mow about 1-2 of it.   I went with the narrower deck as our terrain is very hilly with a lot of obstacles.   The small turning radius and powerful v-twin motor have cut hours off my mow time. I also like the fact it has a front bumper, like i said because of hills and obstacles.  The Easy change oil system is great and it seems to be fairly fuel efficient.  It mows so smooth and evenly even when on an incline, I love it!",
+            "author": "HawkEye1Seven",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Great reliable mower so far!!\"",
+            "rating": 5,
+            "date": "05/20/2019",
+            "recommended": true,
+            "text": "I got it delivered, put some gas in it (takes unleaded gas like your car) and it started right up. I have about an acre of grass and the 2 gallons that this thing holds was enough to cover it. It has the 30 second oil change system which you can always \"convert\" back to a regular oil change system to save money. Just Google it. It is a great mover nevertheless and very comfortable. I'm thinking about getting a seat cover since that yellow attracts dirt. Remember to go in reverse, you have to hold down the button on the left of the steering wheel then press the right gas pedal. The driver and I had trouble figuring that part out but we got it to work. Hopefully this mower can last the test of time!",
+            "author": "Mark",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "ace7dd1f-fb81-515f-83a1-719fda438f40",
+                    "largeName": "f5a7a776-ef95-5e87-838c-36ff629aa5f6"
+                }
+            ],
+            "title": "\"John Deere E130\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": false,
+            "text": "I have had my JD E130 for two weeks now and I love it. Tons of power cutting grass. I can tell this is a high quality mower that will last a long time.",
+            "author": "Charles",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"AWESOME MACHINE\"",
+            "rating": 5,
+            "date": "07/15/2018",
+            "recommended": true,
+            "text": "This Machine runs great! It does everything in the description perfectly. It fired right up  the first turn of the key. The turn radius is excellent and the ride is very comfortable. There's plenty of power to go up small hills and around obstacles. The transmission was quick and responsive.  A little gas seems to go a long way.I was worried that the side chute would not throw grass far enough (because of a YouTube video comparing Husqvarna), but it did an EXCELLENT job.The machine was a little dirty when I picked it up, but a little water goes a long ways and it cleaned up great. There was a slight mixup about a 4th of July rebate and the manager at my local Lowes did a great job in rectifying the problem, she was very professional!!!  My neighbor said our yard looks line a golf course and has now hired my son to cut their lawn. My family absolutely loves this machine, do yourself a favor and buy one of these great machines!",
+            "author": "BuckeyesTheRealDeal",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 22,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"My JD D130, old ver. of E-130 is fantastic!!!\"",
+            "rating": 5,
+            "date": "04/02/2018",
+            "recommended": true,
+            "text": "First, let me say I was NOT compensated in any way for this review - I just LOVE my John Deere!!!My John Deere D-130 is nearly the same as the E-130; 22hp Briggs&Stratton engine, 42” deck, hydrostatic drive.I bought it from Lowes in August of 2013 it is quite honestly the best mechanical device I have ever owned, plus it was made in the USA.It has a wide range of attachments available and and not only mows, but snow plows, and tows a lawn tractor trailer fully loaded with dirt or mulch, a 90 lb aerator, a 75 lb seed spreader, and will move my 22' camper (using a 2” receiver that I attached).I also added a 1” x 4” x 48” PTFE bar to my John Deere snow plow blade to saver wear on the blade, make it quieter, and prevent scratches in concrete, and 12v led red tail lights for night plowing.With Terra Grips on the back wheels, it climbs hills easily and pushes the plow blade UP our 70' drive with a 4” snow fall. I have plowed two drives and a 450' x 20' street 4-5 times every winter and have never had a problem with it.I lubed and checked the oil, filters and belts each year and sharpened the blades regularly.If you lube it each year, replace the filters and spark plug regularly, change the oil as directed and are careful with it (hit no ground stakes or large rocks!) it should last at least 8-10 years.I just had mine serviced at a local John Deere dealer, for the first time, and they told me it worked perfectly and only needed normal seasonal maintenance.How many hand or power tools do you own that can be worked that hard and that often and STILL be functioning normally?",
+            "author": "wayne",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 134,
+                "no": 16
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 5,
+            "date": "03/01/2018",
+            "recommended": true,
+            "text": "I bought my E130 last year, I have had it about a year used it for 50 hours. So far it has been a great mower , with no problems.",
+            "author": "Mike",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 225,
+                "no": 53
+            }
+        },
+        {
+            "title": "\"Oh Dear; John Deere\"",
+            "rating": 3,
+            "date": "05/05/2019",
+            "recommended": true,
+            "text": "On the second time of cutting the lawn the belt came off. I took it back to Lowes and as it was within the 30 day return policy they offered to exchange or give me back the money. John Deere has a good reputation so I thought my issue was most likely a one-off. I decided on the exchange and now have my second E130 within one week. Lowes were very gracious and gave me no trouble with the exchange although it was a little dirty and the manual was in a ziplock bag. I will review later on the performance. I'd like to add that this is not like buying a new car so don't expect any pre pick up detailing; rather bird poop, pollen and other natural airborne items. More to come...",
+            "author": "Peter",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"PROBLEM SOLVED\"",
+            "rating": 5,
+            "date": "07/24/2018",
+            "recommended": true,
+            "text": "I had trouble walking the area to cut the grass. My Deere solved the problem. So far---it is easy to operate and to maintain. Seems to be good on gas.",
+            "author": "JIMS",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"A Great Mower\"",
+            "rating": 4,
+            "date": "04/28/2018",
+            "recommended": true,
+            "text": "This is a fine mower for someone that believes in taking care of it with proper maintanance. The cut is very good and the 22 HP is perfect for the 42 inch deck that it has.   I would recomend it for a first time buyer. Remember how to treat her and clean her up when your done with compressed air. Do not use cheap fuel!",
+            "author": "Sam",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 65,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Very happy with this tractor! (E130)\"",
+            "rating": 5,
+            "date": "06/13/2018",
+            "recommended": true,
+            "text": "I've been pushing a mower for the last 5 summers. Nothing is worse than getting home from a weekend out of town in July, it's still 90 degrees at 8 PM, and now you have to spend 45 minutes pushing because the grass is out of control! Not any more. I'm mowing twice a week now because I enjoy this tractor so much. Cut my mow time in half. Now on to the details. The 22HP with a 42” deck is a great combo. I knew I wouldn't be happy if the mower were to bog down going up slopes or mowing fast. That's why I went with a  22HP with a 42” deck rather than the 48” deck on the E140. It's more efficient for the motor. The hydrostatic transmission is great- responsive and fast. The turning radius is way better than I expected and the cut is even. I DID have to level the deck myself per the manual as it was not completely level from the store. One 15mm wrench and about 15 minutes and I was up and running. This will vary from store to store as the John Deere's are set up and inspected by local dealers, not Lowes staff. I'm writing this review because you typically only see the complainers posting their headaches.  I picked mine up at the store as I didn't want to wait a week for delivery so I can't rate that experience. The machine is mechanically sound, USA built, and fun to drive.",
+            "author": "NewJDfan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 51,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"Disapointed\"",
+            "rating": 2,
+            "date": "04/04/2018",
+            "recommended": false,
+            "text": "I have had 4 riding mowers and when my old craftsman finally started to give out I got a john deere always wanted one. After only one half hour it would not start. I had to drive over an hour away to take it to a dealer lows would not take it back. Then I had to drive over a hour to pick it up. A safety switch had gone bad. Then the next time I used it the parking brake fell off. Mostly plastic. I will buy a craftsman next time.",
+            "author": "huntlabs",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 86,
+                "no": 46
+            }
+        },
+        {
+            "title": "\"very good riding mower.\"",
+            "rating": 5,
+            "date": "06/13/2018",
+            "recommended": true,
+            "text": "I came to Lowes intending to get a different riding mower, a Troy built Bronco. Because it was on sale, and my grass was getting long. While at lowes idecided to check the orher mowers. I settled on this one. I also bought the mulcher and sun protector attachments. The delivery was the next day. Orlando was the delivery man. He called early in the morning tolet me know he was coming between 11-12. So i planned my day for 11:00.  He came 20 minutes earlier.  Orlando did agreat job explaning the features of the E130. I told him i bought the sun shade and the mulcher. He put borh on for me. The sunshade gave us dificulty. The holes didnot line up. He gothis tools and bentThe line up holes so the universal shade attathment could go on. IfOrlando had not been here. I wouldhave sent it back and thought it was defective. He explanded that because it was univeral and was to fit on orher mowers thats why we had extra parts. That we did not use. I am cery pleased with the shade. Next he put on the mulcher. It snaped on. I asked for a quick driving lesson. He did. I was able to back up, and cut grass. He shiwed me the sequence of clutch, turn key, throttle up for fast or diwn toshut it off. The 2 peddles, forward and backward. If i got off the seat. The mower would shut down. I learned the sequence to lower throtle and turn the key first, then get off. Im really greatful Orlando took his time to help me.  The riding mower works great. Last night i used the hose to clean it under the deck. I found it was very hard to attach the hose. Tight. My son showed me to turn the black part counter clockwise and the green part turn it to the right. It was hard to do. I had to repeat this sequence alot before the hose was on. I let my son start the mower and blades to clean under the deck. It had worked very good. I finished with the jet setting on my hose sprayer the grass i could see on the deck and mulcher. It was a great day.",
+            "author": "lois",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 46,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"very good riding mower.\"",
+            "rating": 5,
+            "date": "06/13/2018",
+            "recommended": true,
+            "text": "I came to Lowes intending to get a different riding mower, a Troy built Bronco. Because it was on sale, and my grass was getting long. While at lowes idecided to check the orher mowers. I settled on this one. I also bought the mulcher and sun protector attachments. The delivery was the next day. Orlando was the delivery man. He called early in the morning tolet me know he was coming between 11-12. So i planned my day for 11:00.  He came 20 minutes earlier.  Orlando did agreat job explaning the features of the E130. I told him i bought the sun shade and the mulcher. He put borh on for me. The sunshade gave us dificulty. The holes didnot line up. He gothis tools and bentThe line up holes so the universal shade attathment could go on. IfOrlando had not been here. I wouldhave sent it back and thought it was defective. He explanded that because it was univeral and was to fit on orher mowers thats why we had extra parts. That we did not use. I am cery pleased with the shade. Next he put on the mulcher. It snaped on. I asked for a quick driving lesson. He did. I was able to back up, and cut grass. He shiwed me the sequence of clutch, turn key, throttle up for fast or diwn toshut it off. The 2 peddles, forward and backward. If i got off the seat. The mower would shut down. I learned the sequence to lower throtle and turn the key first, then get off. Im really greatful Orlando took his time to help me.  The riding mower works great. Last night i used the hose to clean it under the deck. I found it was very hard to attach the hose. Tight. My son showed me to turn the black part counter clockwise and the green part turn it to the right. It was hard to do. I had to repeat this sequence alot before the hose was on. I let my son start the mower and blades to clean under the deck. It had worked very good. I finished with the jet setting on my hose sprayer the grass i could see on the deck and mulcher. It was a great day.",
+            "author": "lois",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 46,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Overall a great riding lawn mower\"",
+            "rating": 4,
+            "date": "10/19/2018",
+            "recommended": true,
+            "text": "I gave this mower 4 stars because of the goof up in the delivery. I have always wanted a JD mower. It runs great, is quieter than my old Husky, and appears to have more power. A couple of things missing from the owners manual; fuel gauge is attached/part of the fuel tank. More fuel the tank, the more the tank tips to move the gauge towards the full mark. The fuel tank does float. Doesn't clearly state that you have to physically move the parking brake down to disengage. Figured it out and love this mower.",
+            "author": "Bluebug",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Hoping for the best.\"",
+            "rating": 3,
+            "date": "03/19/2019",
+            "recommended": null,
+            "text": "I bought the John Deere mower on 3/12/19 because other family members used John Deere when I was growing up.  I had heard that all mowers are inspected prior to delivery.  I doubt this is completely true or someone just skipped a few steps.  My mower showed up without a battery and the Oil dipstick was not properly tightened.  I went to Lowes and was able to get a generic battery, but I am concerned about the quality of what I got.  Hope it wasn't pieced out for parts to fix other mowers or it was tampered with.",
+            "author": "james1211",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3a977feb-edc8-5802-89cb-52e9f3422bc4",
+                    "largeName": "2c3840cd-4aaa-5ab4-ae0b-d2f10020e4cf"
+                }
+            ],
+            "title": "\"Great Value\"",
+            "rating": 5,
+            "date": "03/24/2019",
+            "recommended": true,
+            "text": "Love the new John Deere E 130Lowe's delivered it and it was ready to go.  I also bought the bagger attachment.  It makes cleaning up leaves in my yard a breeze.",
+            "author": "Barterbery",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "fb252efb-b8d4-5d81-a9c1-d5e6a6fefea6",
+                    "largeName": "8ee4aba5-6d89-55ba-bbf3-05122887a8b3"
+                }
+            ],
+            "title": "\"Fine Ride\"",
+            "rating": 4,
+            "date": "11/09/2018",
+            "recommended": true,
+            "text": "So far I'm pleased with my purchase...Haven't mowed with it yet...comfortable and powerful...Only problem is fuel gauge does not work",
+            "author": "BigGuy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love my new mower\"",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "I purchased this mower to maintain my one acre lawn that is a mixture of grass, difficult to cut weeds and navigate ruts left by animals. Everything about this mower is outstanding, especially with my lawn that has not seen any love in 5 years.The ride was very comfortable, the deck operated perfectly...cut on the first pass without the need to slow to a crawl or go over and over a specific area multiple times. I definitely recommend this mower!Easy to operate, controls in easy to access area, mows in reverse! Great product as always from John Deere.",
+            "author": "AMills",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Initial delivery Quality Control poor\"",
+            "rating": 3,
+            "date": "05/20/2018",
+            "recommended": null,
+            "text": "I ended up waiting over a week to have the E130 delivered as I was told the John Deere staff un-crate and then build up the tractors to make sure things are \"just right\" for the Customer.  When delivery time came and I went to test start  there was  nothing....the delivery staff and I assumed it was a \"safety feature\" preventing it from turning over.  After a while of debugging in that direction we noticed that the lights would not turn on which caused us to switch focus to the battery.  The battery cables were installed but very loosely.  Not good but after getting a voltmeter realized the loose cables weren't the only issue as the battery was completely dead.  As I was travelling the following week we got to use our push mower an extra week while we waited for a replacement battery.  We need the exercise but that was not the plan.   Fast forward to a week later when I can actually use the tractor and realize the cutting is a bit un-level.  Looking at the decks anti-scalp wheels and noticed that one was in the highest mounting hole the other side had the wheels on near the lowest.  Possibly another issue with the John Deere pre-delivery Quality Control.  Barely have used the tractor but so far things aren't boding well for John Deere quality.",
+            "author": "rather-be-riding",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 57,
+                "no": 26
+            }
+        },
+        {
+            "title": "\"Runs like a Deere\"",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "I live on Hwy 90 and get lots of sand in the yard. Skinny tires bog in the sand. The John Deere has great tires and it does not bog in sandy conditions. It goes into the sand and cuts the weeds as well as it does on turf. I highly recommend the 130E for it cost as well as its ease of use. PS: try to avoid the yard tractor that has a fuel filler and tank in front over the engine. That could be a fire hazard. John Deere does not seem to do this on any of their riding lawn mowers. I would think this should be disapproved by OSHA as unsafe. So, stick with safety, stick with John Deere.",
+            "author": "Michael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Best Decision I Made!!\"",
+            "rating": 5,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "This is the first lawn mower I have ever purchased and I couldn't be happier! It mows so well and my yards look so much better than they did, everything is nice and even compared to the neighbor's lawn mower that I borrowed. It makes nice sharp turns to make mowing around trees so easy. Being a farmer we have many John Deere tractors which made sticking to this brand an easy choice, because you can never go wrong with a John Deere. This mower was worth every penny!",
+            "author": "MBuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130\"",
+            "rating": 5,
+            "date": "05/15/2019",
+            "recommended": true,
+            "text": "Delivered ready to go, added gas and it fired right up.  Does an excellent smooth job of cutting. Have a little over a acre to mow with hills.  Tighter turn radius than my previous mower which is a plus",
+            "author": "thunderman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Smooth and fast\"",
+            "rating": 5,
+            "date": "09/18/2018",
+            "recommended": true,
+            "text": "Very quiet compared to my craftsman lawn mower. Turns tight corners for not being zero tern. Very comfortable seat. Easy enough I let my kids use it.",
+            "author": "Elliott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Broke the third time used.\"",
+            "rating": 1,
+            "date": "11/27/2018",
+            "recommended": false,
+            "text": "We got the mower on Tuesday. It broke on Friday. Now they want $200 just to transport it to be repaired.",
+            "author": "Frank",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 34,
+                "no": 18
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 1,
+            "date": "06/20/2019",
+            "recommended": false,
+            "text": "When delivered was told the battery had not been charged, the driver returned later with a different battery.  Started one time and used for 1 hr, when I went to start the 2nd time it would not start at all.  Was not the battery, the lights worked. Been told there is sort of sensor that is not allowing the starter to work.  It will be going back, not spending this amount of money to have problems after only 1 hour of use!Lowes has a 30 day satisfaction guarantee, should have paid attention to the other low reviews on this mower.",
+            "author": "RP",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere e130 riding lawn mower\"",
+            "rating": 5,
+            "date": "02/20/2019",
+            "recommended": null,
+            "text": "This mower is just what I needed. It is easy to operate and does the lawn better then any mower I have ever had. Great price. Now I look forward to lawn cutting season",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great riding mower.\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "I love the new features on this mower. My D130 was a good mower and gave me years of service but, I decided to upgrade and bought this E130. The location of the reverse pedal is much better than my old one and I like being able to back up without having to push the button every time. The steering is much easier on this model also. I really looking forward to many years of service with this one too. \"Nothing runs like a deere\".",
+            "author": "Keith",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f9c48faf-877d-52ee-b29a-83ab30008de4",
+                    "largeName": "c1d63cae-b4f3-53a4-a54e-376d82be523b"
+                }
+            ],
+            "title": "\"Residential riding mower\"",
+            "rating": 5,
+            "date": "12/28/2018",
+            "recommended": true,
+            "text": "Excellent product and Lowe's staff very helpful and courteous throughout my buying experience.",
+            "author": "Larry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Need the power for a large lawn.\"",
+            "rating": 5,
+            "date": "11/21/2018",
+            "recommended": null,
+            "text": "I had a LA115 42 inch for 10 years and with maintenance it's still going strong. I will keep it for a second mower and this will be my primary mower for mt 7 acres. I wanted more power for mulching. I like the quick oil change feature on this mower but the filters are more expensive. I expect that this will give m3 the same great service as my other mower but can't speak on that yet. I'll let you know next year.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f1f5ed93-d9e1-5641-a7c0-acbfe47fcea4",
+                    "largeName": "290c8815-b23e-5e34-987d-606f5f7760f3"
+                }
+            ],
+            "title": "\"Works great so far\"",
+            "rating": 5,
+            "date": "04/30/2019",
+            "recommended": null,
+            "text": "Mulching and driving good",
+            "author": "sk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"first one wouldnt start\"",
+            "rating": 3,
+            "date": "06/24/2018",
+            "recommended": false,
+            "text": "Bought a brand new e130 from lowes. Before i even left lowes loading it on the trailer pulling on the bumper it came out and smacked me in the shin. Whoever assembled it did not put the pins in and had to look at several mowers before finding one that did have the pins. After filling the tank and charging thw battery the mower would not even attempt to start. After messing with it for way to long finally returned it for another one. Brought fuel with me this time and started it in the parking lot to make sure i wasnt getting another dud. Then after getting the second one home i realized it was missing the compartment lid. Went back and got one from lowes. To be fair the lowes employess have been helpful but the mower is not off to a good start and makes me have my doubts on its longevity.",
+            "author": "cam",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 10,
+                "no": 16
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "Great riding mower and very easy to operate, I would like to Thanks everyone at Lowe's for their outstanding customer serviced..Especially the assistance from the Assistant Store Manager (Tom).",
+            "author": "Richard",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"New Hohn Deere E 130 mower\"",
+            "rating": 5,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "I am extremely satisfied with the purchase of my new John Deere E 130 riding mower.  And the service I received from Lowe's was top notch and seamless  all the way through the entire process.  I will not name the previous mower I had by name but suffice it to say that this new John Deere mower is like a Cadillac of mowers by comparison!  Thank you John Deere snd thank you Lowe's!!",
+            "author": "Steve",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Won't start\"",
+            "rating": 1,
+            "date": "06/28/2019",
+            "recommended": false,
+            "text": "I just bought this mowet got 30 mins out of it but it started getting cloudy so I drove it in and turned it off. Sat for 2 days due to rain and now it won't start. Called Lowes and they're having a tech come look at it. I checked the spark plugs, charged the battery, fuze, etc. Not understanding how a brand new mower only gets 30 mins of runtime.... Anyone know of fixes?",
+            "author": "Tiffany",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice mower\"",
+            "rating": 5,
+            "date": "08/15/2018",
+            "recommended": true,
+            "text": "Needed a new mower cause the mower deck on my 13 year old JD quit. This tractor is easier to handle and has plenty of power. Nothing runs like a Deere .",
+            "author": "Bob",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere E130 Riding Lawnmower\"",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "Let me say at the outset that I have never written a review.  However, I read numerous reviews in my research on which riding lawnmower to purchase and from where.  So, I felt compelled to write my own review.  First, this is my first riding lawnmower after many years of using a self propelled Honda.  The Honda was, and is, a great machine but it was high time to switch to a rider.  Wow!  I have only cut my grass once but it was fun!!  My John Deere exceeded my expectations and worked as well as the best review on here said it would.  It is easy to learn how to operate and does everything I hoped it would do.  I have neighbors that have recently decided to move and take a job in another state....Too bad because I would offer to cut their grass for free just to continue riding this lawnmower!!!  Perhaps the most important part of this review is to thank Don from Lowe's who delivered the mower to my house.  He was super nice and asked me if this was my first riding mower.  I said yes, but that I thought I was prepared as I had done a lot of research.  He asked if I would still like him to give me a quick tutorial.  I'm glad I said yes, even though I was pretty much ready.  He went over all the details of operation without \"talking down\" to me and made me feel very comfortable.  He made sure everything was operational and up to speed before he left.  Simply put, best customer service from Lowe's that I've ever received.  Great buy and great service.  You can't beat that!!!!  Oh yes, by the way, I ordered the mower on a Friday and received it delivered the very next Tuesday just as Lowe's told me it would.  Awesome!",
+            "author": "George",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great handling tractor E130\"",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "The turn is tight and the hydrostatic trans is so nice to use. The only thing I wish was that the gas filled through the gender instead of under the seat and the gauge was on the dash so it made for easy sight line. Starts right up run a lot quieter than my old tractor. Plenty of power and easy to steer. I bought the mulch kit and very happy with it so far. Love the extended warranty that covers 50% of preventative maint items(belts, quick change oil, spark plugs,air filters etc.), pays for it self over time then makes the warranty free. TY lowes",
+            "author": "Alan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Good quality machine\"",
+            "rating": 4,
+            "date": "05/30/2019",
+            "recommended": true,
+            "text": "Has trouble going up some hills, but the instruction manual does advise against certain grades. Otherwise, runs great so far!",
+            "author": "Vic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Powerhouse!\"",
+            "rating": 5,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "I've owned this machine for about a year and absolutely love it! Comes as advertised. Plenty of power, robust construction and drives much like an auto, with decidedly quieter operation overall. The Easy change was easy as advertised, I spent up a bit to get this, it was only to total satisfaction. This is the 42\" 100 series tractor to target!",
+            "author": "Dude",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"the very best mower i have ever used  .\"",
+            "rating": 5,
+            "date": "09/11/2018",
+            "recommended": true,
+            "text": "plenty of power , comfortable , easy strerimg and short turning raduis saves a lot of backing up .",
+            "author": "willy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Quality mower\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "Great quality mower with a smooth ride. Oil changes couldnt be easier.",
+            "author": "Drd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Runs like its supposed to\"",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "Was in the market for a mower for my 1 acre fairly flat property and this one checked all the boxes. The 42” deck is big enough to cut fast yet nimble enough to squeeze in between stuff. So far im pleased with my purchase. Growing up on a dairy farm ive been used to the bigger Jd's but this one is ther perfect size for my yard and uses.",
+            "author": "545fitter",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Runs like its supposed to\"",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "Was in the market for a mower for my 1 acre fairly flat property and this one checked all the boxes. The 42” deck is big enough to cut fast yet nimble enough to squeeze in between stuff. So far im pleased with my purchase. Growing up on a dairy farm ive been used to the bigger Jd's but this one is ther perfect size for my yard and uses.",
+            "author": "545fitter",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mower\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "Great mower. Lots of pep to get up hills.  Perfect for care yards",
+            "author": "Rb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love it!\"",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "Power to spare! Quick starting. Tight steering. Comfortable ride.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great lawn tractor\"",
+            "rating": 5,
+            "date": "04/17/2019",
+            "recommended": null,
+            "text": "Very strong motor and almost 6 MPH gets the job done",
+            "author": "Raymond",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deer mower\"",
+            "rating": 4,
+            "date": "08/22/2018",
+            "recommended": true,
+            "text": "Great mower. Powerful motor. Would have given it 5 stars but the belt that turn the blades broke the first time I used it. I called Lowe's and they gave me a new belt at no charge. It was easy to replace. Plus the cruise control was a little tricky to set. Other than that it's workin great so far.",
+            "author": "Eric",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "77ed9641-fe3d-52b6-a94a-4e16c779ed1c",
+                    "largeName": "0c844473-983d-50b1-bdd1-081915349183"
+                }
+            ],
+            "title": "\"Excellent service, and great product.\"",
+            "rating": 5,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "I was able to buy this online for my son in a different state.  Everything worked out perfect.  The end result was the delivery and that was right on time.",
+            "author": "Kathy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"I like this mower.\"",
+            "rating": 4,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "Mower cuts really well after I adjusted the deck to LEVEL. Surprised it wasn't that way as purchased,but not hard to do. John Deere is iconic American brand and my previous one lasted 20 years. Mower engine was still running but deck was coming apart. I hope this is the last mower I have to buy.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Amazing.\"",
+            "rating": 5,
+            "date": "03/23/2019",
+            "recommended": true,
+            "text": "Replaced a reliable Craftsman tractor after more than a decade of use, and am blown away by the quality, comfort and aesthetics.  Great ride, super transmission, plenty of power to get through very thick and tall grass without bogging down, and it looks the part.",
+            "author": "bkalka",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not what expected\"",
+            "rating": 3,
+            "date": "03/30/2019",
+            "recommended": null,
+            "text": "I am extremely disappointed in the E130 that this is not positraction only one wheel spins and I can not even take it up the ramp to get it into my shed after spending $2000 on a lawn mower this really sucks",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"The title tells you what you need to know.\"",
+            "rating": 4,
+            "date": "08/21/2018",
+            "recommended": true,
+            "text": "Don't think it is 22-HP. Had a John Deere at lesser HP and seem to be more powerful even though it too had a higher HP rating than it actually was. So far doing the job I need it to do. Have tougher grass I need cutting and it is cutting it. Not as easily as it should at 22HP.",
+            "author": "bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Nice mower with just minor complaints\"",
+            "rating": 4,
+            "date": "03/26/2019",
+            "recommended": true,
+            "text": "Only used once but ran great. Took less time to cut lawn with the pedal based forward and reverse.  Minor items are does not seem real fast for 22Hp.  Turns quick but slide a little on seat.  Overall very nice",
+            "author": "Pat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Piece of Junk\"",
+            "rating": 1,
+            "date": "03/24/2018",
+            "recommended": false,
+            "text": "After 3 years this mower died!  It was taken in for repair and we were told $400 for diagnostics then the repair bill!  We told the shop to keep it!!  We bought a Craftsman.  Much better maneuverability.  Excellent.",
+            "author": "Cj",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 79,
+                "no": 132
+            }
+        },
+        {
+            "title": "\"John Deere E 130\"",
+            "rating": 5,
+            "date": "07/30/2018",
+            "recommended": true,
+            "text": "Excellent product, and excellent support from John Deere.",
+            "author": "Fred",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Fair Mower\"",
+            "rating": 3,
+            "date": "10/25/2018",
+            "recommended": false,
+            "text": "From the moment this brand new mower was unloaded I have had trouble with the parking brake.  To release the parking brake requires such extraordinary effort pushing down on the plastic handle that I am afraid the handle will break.  The operator's manual contains no instructions regarding adjusting the parking brake.  I'm left with the choice of not using the parking brake, losing the use of the mower while it is being repaired by the dealer or expended the effort to troubleshoot and repair it myself on a 0 hour mower supposedly ready to use.The operator's manual contains no part numbers/type/specification for replacement spark plugs, air filter or fuel filter.  Only fuel, oil and grease are specified. The Lowe's, John Deere and Briggs & Stratton websites are no help either.While there are several things I like about this mower, the poorly designed parking brake, the incomplete information in the operator's manual and the use of flimsy plastic for body panels and controls have caused me to regret my choice of a John Deere mower.  I guess you get what you pay for.",
+            "author": "Dave",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 2,
+            "date": "09/22/2018",
+            "recommended": true,
+            "text": "The tractor is great so far. To bad they did not include the owners manual. Lowe's didn't seem to care to much about that. They said John Deere was picky about who gets a manual. Sounds like a lame excuse for loosing it. I wonder what John Deere would have to say about that",
+            "author": "Pops",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 14,
+                "no": 19
+            }
+        },
+        {
+            "title": "\"A lemon for sure\"",
+            "rating": 1,
+            "date": "06/16/2019",
+            "recommended": false,
+            "text": "Had less then a month....had about 6 hours on it....went to lock parking brake so I could pick up something in the lawn....the cheaply made orange plastic to lock tractor so it idles broke off.  They wanted to send it out for repair I got a complete refund .i think this is either a John Deere knock off or the lowest grade made John Deere out there. Avoid this product",
+            "author": "Guruljw",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"JD 130  is what I wanted, and I am pleased with it\"",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "Reviews ranked this quite high, styling is great, and I like the idea of an established tractor name for my lawn tractor.  Quality is good, the mower works well as does the bagger.  I will also purchase a snow blade--although reviews don't seem to be as high for it.  I will consider optional blades--but probably by the JD.  Big problem was the manual, as many have mentioned.  Not a big problem though.  No missing parts.  I drove the tractor around for 1 hour before mowing.  The mower made a lot of noise.  I assumed it needed to be broken in.  Watching videos on YouTube I watched one that said JD did not grease the mower deck but did grease the tractor.  I took off the deck and found that to be true.  AFter reassembly I cut a little of the lawn again and it was so quiet that I could not tell if it was working.  Grass in the hopper told the story.  SO-- grease the mower deck before using.  That is the only thing that I am dissatisfied with.  (And the quality of the manuals.--what would help are a few exploded views in the assembly instructions.). The bagger was a puzzle and the manual was almost worthless.  A picture is worth a thousand words!!!  Perhaps the manuals were written by some Chinese guy sitting in Beijing.  (Not really--JD lawn tractors are made in the USA, at least if the labels on the tractor are true.)",
+            "author": "RoninUtah",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130 Review\"",
+            "rating": 5,
+            "date": "02/19/2019",
+            "recommended": true,
+            "text": "It's going to make it much easier to maintain the yard. Love the handle, easy to clean the mower deck, and even easy to operate for the less experienced.",
+            "author": "Eric",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Good while it ran\"",
+            "rating": 3,
+            "date": "06/28/2019",
+            "recommended": false,
+            "text": "Picked this up when they had the 200 dollar rebate offer, nice looking and the motor has plenty of power. Cuts nice and comfortable ride. 37 days (of course) and I get finished cutting the grass, park it in the driveway to go do some other things. An hour later start it back up, nice puff of black smoke and it won't idle to save it's life, up and down. Started with 5 hours on the engine. Doesn't do this at Max rpm, but has a misfire. Call Lowe's, of course, 37 days nothing we can do. Call the dealer, told we see this sometimes and to just keep the throttle up, wth..Removed the fuel and put some 93 from a different station to rule that out, still not right. Called the dealer back to set up drop off, 3-4 week turnaround. Should have kept borrowing a mower.",
+            "author": "jm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E 130\"",
+            "rating": 5,
+            "date": "09/25/2018",
+            "recommended": null,
+            "text": "Tractor runs good, turning radius is much better than my old JD L118.  Only thing that I don't like is that the parking brake is very hard to unlock.  You have to really force down hard on the foot pedal brake, and push up really hard on the \"knob/handle\" to disengage the parking brake.  If you don't do it just right, it feels like you might break the handle.",
+            "author": "Sherry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 1,
+            "date": "05/31/2018",
+            "recommended": null,
+            "text": "Used it once and the belt kept coming off everytime I would turn the blades on and off, Lowes is swapping it out for another so we will see.",
+            "author": "AL",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 26,
+                "no": 40
+            }
+        },
+        {
+            "title": "\"Love this little tractor\"",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "We finally had to retire our old John Deere mower and it really wasn't hard to decide what brand we were going with next.  The reliability of this name made our decision for us.  And we couldn't be happier with the results.  I love cutting my grass again! Starts on a dime.  Smooth ride.  Great cut.  Easy to use.",
+            "author": "Kat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130 Riding Lawn Mower\"",
+            "rating": 5,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "I have only used it twice, but so far I like it better than the old Yardman I had.  The only problem I had with this JD is that when I set the deck on the #2 it cuts way lower, so I have started to use #2 1/2 setting so that the grass is only cut where it leaves it 2 inches cutting.",
+            "author": "rnb109",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Runs like a deer\"",
+            "rating": 5,
+            "date": "05/05/2019",
+            "recommended": true,
+            "text": "Great mower!  It's perfect for our yard. Love the ease in handling.  Easy to adjust cut height and the seat.  Extremely easy to start.  Only concern was the blade “chewed” the cut edge of the grass meaning they might not be totally sharp.  Would reccomend this mower to friends.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"High maintenance Lawn Tractor\"",
+            "rating": 2,
+            "date": "11/01/2018",
+            "recommended": false,
+            "text": "I have a 42\" wide deck John Deere tractor that I've had for 10 years.  In addition to the annual oil and filter changes I've had to have the steering mechanism repaired twice, and had to have a new head gasket installed on the motor (evidently a common problem according to the JD mechanic). It's also gone through several drive belts and a couple sets of pulley covers on the deck because theJD engineers designed the guard such trhat it continually rubs on the belt.  Two years ago part of the deck broke off and I had to have it welded back on. Just this week the deck literally broke and I had to have it replaced to the tune of $775.  I have as much in repairs in this machine as the original purchase price.  I mow about two acres of lawn with it.  I've talked to John Deere and they admit that the models they sell through the big box stores are engineered to have less cost in them than the ones sold through the Deere stores.  If you go on line with Deere you'll see that they offer an E120 or an E140, but not an E130.",
+            "author": "Bill",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 12,
+                "no": 24
+            }
+        },
+        {
+            "title": "\"Deck belt rubs on mower deck\"",
+            "rating": 3,
+            "date": "07/16/2018",
+            "recommended": true,
+            "text": "After I had 5 hours on the mower, I noticed the mower deck belt was rubbing and grinding into the top of mower deck. I am not sure if this is a design flaw or something that can be adjusted. Since I was within the 30-day guarantee I was able to return it to Lowe's and when I looked at the same mower at the store I noticed that as soon as I would hit a bump on my property the same scenario would occur. Therefore I decided to return it to Lowe's. On a lot of my cutting I would have to put it on the highest cutting level which in essence would move the mower deck really close to the mower deck belt. I can very easily see how I could be in the same situation. As for the operation of the mower itself it was awesome. I have about a 9% slope and this mower had no difficulty going up and down. I know I have read where mower deck belts were breaking and I'm not sure if it is because they are rubbing on top of the mower deck like mine was. If you have a yard that you will be cutting very close to the ground your mower deck belt will not come in contact most likely with the mower deck. I felt the ride was smooth even for my bumpy terrain. I know that this is not just my terrain because I had a Craftsman mower here for many years and never had any problem with the mower deck belt creating a groove in top of the mower deck. There was a place where you can lower the deck possibly maybe an inch if that however I was too afraid to take a chance that a bump would bounce the mower deck back up and rub against the belt. Unfortunately I am not able to have the John Deere I've always wanted.",
+            "author": "Bianca",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 12
+            }
+        },
+        {
+            "title": "\"REGRET!\"",
+            "rating": 1,
+            "date": "06/26/2018",
+            "recommended": false,
+            "text": "I regret buying a John Deere.  Always had Craftsman and thought when I bought my D130 John Deere it would be an upgrade. Been in the shop 3 times in less than a year.  I NEVER had to take my craftsman mowers to the shop.  It also leaves burn marks in lawn if you stop and let it idle to dump the bags the shop has no idea why.  Will never buy John Deere again.",
+            "author": "stillta",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 14,
+                "no": 44
+            }
+        },
+        {
+            "title": "\"john deere lawn mower\"",
+            "rating": 5,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "I grew up in Vermont so when I wanted a riding lawn mower I was happy to find a John Deere in my price range. I'm certain that the makers of the plow that broke the plains can handle my half acre of lawn of our \"journey's end\" home.",
+            "author": "Gary",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130\"",
+            "rating": 4,
+            "date": "05/15/2019",
+            "recommended": true,
+            "text": "Single, senior female...a lot of machine that does super on our 5 acres that requires varying degrees of mowing etc.  The 130 does a great job",
+            "author": "B",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"The lawn mower is a good buy for the money.\"",
+            "rating": 4,
+            "date": "05/26/2018",
+            "recommended": true,
+            "text": "Had the mower for the third season now and mower has exceeded my expectations----except for one major problem! \nThe manual says to install the blades with the sharp edge pointed down, so you can see the sharp edge from the bottom of deck! \nThis is so INCORRECT! You'll be cutting on the back side of the blade!!\nSharp side up!, I found out the hard way! I was so upset with the mower.\nMy father-in- law bought one--SAME THING- blades upside down!\nHas this error been corrected yet?? Hope so.",
+            "author": "Monty",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"No more pulling a starter cord!\"",
+            "rating": 5,
+            "date": "06/18/2019",
+            "recommended": true,
+            "text": "I bought this so my wife could mow while I am away.  She loves it.  So easy to start.  Hydrostatic transmission makes it so easy to operate. Easy to refuel. Great turning radius. Deere clearly has this figured out.",
+            "author": "James",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"130 e\"",
+            "rating": 4,
+            "date": "10/30/2018",
+            "recommended": true,
+            "text": "Strong engine and feels super well built.  The bolts and parts of the fly wheel were rusted upon delivery.  I requested a different unit but others had the same issue so Lowes refunded me $300 for my troubles.",
+            "author": "JDeerepro",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"YARD MAESTRO\"",
+            "rating": 4,
+            "date": "03/10/2019",
+            "recommended": true,
+            "text": "Everyone has been through the routine... \"What do I buy concerning mowers.\" There are the red ones, yellow ones, orange ones, and green ones...then comes sticker shock. \"Oh my goodness, WHAT!?!?\" So then the \"analysis and assessment\" sets in for the next two years as one hopes to find the perfect deal. Right? I knew that Craftsman may be on the outs which had been a mainstay in the lawn and tool world. Been there done that. Then the Husky is considered... which is a really close match with the Deere. So what to do? Buy American! So, I bought the E130 John Deere and am VERY HAPPY with my purchase. The E-130 differs only primarily with the E-140 is the smaller blade cutting width (42 inch vs. 48 inch); however, the transmission is the same in both models. (More wear and tear on the bigger cutting platform). I'm very impressed and happy with the operation and comfort this E-130 affords; but, knowing John Deere's Customer Service for maintenance is going to be a \"touch-n-go process\" and the \"FREE-FLOATING\" gas tank that Deere uses causes me to give an overall rating of 4 stars to an otherwise 5 star thumbs-up for this Yard Maestro. (The 42 inch mower also offers a smaller footprint in the storage building). IF one is able to DOUBLE-CHECK bolts, nuts, clips, mower adjustments, follow prescribed maintenance routines with oil changes, fuel stabilizers, greasing before and after use... and take good care of the equipment, the Deere should meet the noble commands with class and satisfaction. (I purchased the extended warranty for additional peace-of-mind). A casual study of our lawn-care professionals provides some good clues in narrowing ones field of lawn equipment choices as it did for me. Love, my Deere.",
+            "author": "Wyldbill",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"John deere\"",
+            "rating": 4,
+            "date": "05/01/2019",
+            "recommended": null,
+            "text": "For what we paid for this lawn mower I wouldn't expect anything but perfection. It arrived scratched up and dirty and with a full hour of run time. It runs fine thankfully but not impressed right away.",
+            "author": "Krista",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "09/22/2018",
+            "recommended": true,
+            "text": "I Just want to say I came from a under powered Simplicity and was shopping for mowers for a few weeks when I finally came to the decision on my E130. I am so happy with this purchase.  I had made my way around dealers and I ended up buying from Lowes online.  This was a seamless purchase. The people were great and very helpful especially while loading it on my trailer.   I brought it home and conected the battery etc and the engine started right up and has the power I need.  I have a big hill in the front of my house. I chose the E130 for the 22hp motor and the manual lever to engage the blades because my electric pto didn't always want to engage on my last mower.I added the bagger acccessory because my yard and neighbors yards have a ton of trees.  I found that the bagger was easy for me to install. The deck has to come off for installation and that comes off pretty easy too with if I remember right, six cotter pins and washers. I looked at many other brands and for me this seemed the best fit, partly because you can get some items for maintenance at Lowes and other retail stores.",
+            "author": "emmpckrs",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 5,
+            "date": "06/21/2019",
+            "recommended": true,
+            "text": "Much more powerful than my previous Sears brand mower. Also, a lot quieter.  Very comfortable, great turning radius. Far more available accessories and upgrades. This mower is awesome.",
+            "author": "Rich",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great performance and handling\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "The engine has plenty of power, even with the blades engaged. The pedal system makes it very easy to control and make sharp turns smoothly. Engine starts up fast and runs very smooth.",
+            "author": "ecovelli",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130\"",
+            "rating": 5,
+            "date": "09/30/2018",
+            "recommended": true,
+            "text": "I have just used the tractor once. It mowed very well. The tractor had a small turning radius. Much better then my old tractor. It was easy to understand the operating instructions.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Tractor\"",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "Was a little nervous buying a more expensive tractor but one ride in this and I love it!   You sit up higher, goes fast and is surprisingly quiet!Recommend to anyone in search!",
+            "author": "Todd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent buy\"",
+            "rating": 5,
+            "date": "05/27/2019",
+            "recommended": true,
+            "text": "I have a 1 acre yard and it has been a pleasure to mow it since purchasing. It is very comfortable. The turn radius is surprisingly good for it not being a ztm. Highly recommend.",
+            "author": "Tom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Fits my needs\"",
+            "rating": 5,
+            "date": "03/27/2019",
+            "recommended": true,
+            "text": "Had another brand, it began having drive train problems. The John Deere appears to be a good replacement with the power I need to service about 2 acres. Time will tell.",
+            "author": "TerrysLawn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Riding swan mower for large and variabl conditions\"",
+            "rating": 5,
+            "date": "03/30/2019",
+            "recommended": true,
+            "text": "Comfortable, easy to use by any member of family.  Real blessing to have delivered in two days of purchase so I could use on my birthday!",
+            "author": "Marcus",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mower gets 5-stars. Lowes gets 3-stars.\"",
+            "rating": 4,
+            "date": "05/06/2019",
+            "recommended": true,
+            "text": "The great: We've had the John Deere E130 for a few weeks. It is very well made, easy to learn (this is our first riding mower) and easy to clean. The not so great: the seat had a large rectangle of adhesive down the middle. The tank had so little gas in it at delivery that I couldn't drive it into the garage, so I had to push it in and go buy gas. It was delivered on the wrong day.",
+            "author": "Dee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Satisfied so far :D\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "Enjoying having a riding lawn mower finally instead of having someone else come and mow the lawn. Happy with the mower so far!",
+            "author": "Susan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "Having owned a John Deere 110 for almost 20 years I know there  is quality & dependability in this product. I am not disappointed by the E130 it is everything I expect and more; More horse power, better turning radius and comfortable to ride. I am disappointed how Lowe's delivered this to me. It was dirty the seat had smudges on it. Aside from that everything else was fine",
+            "author": "Rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great  service\"",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "Everything was absolutely  like  it was described,  we got  our mower and   is working great  .",
+            "author": "Carlos",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Easy to handle and very good cut.\"",
+            "rating": 5,
+            "date": "07/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Angela",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Excellent mower!\"",
+            "rating": 5,
+            "date": "03/21/2019",
+            "recommended": null,
+            "text": "Mower has worked excellent the first few uses.  No problems and no concerns with power.",
+            "author": "Rogjames",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130 V-twin\"",
+            "rating": 5,
+            "date": "03/27/2019",
+            "recommended": true,
+            "text": "Great small mower with lots of power for using small bagger for under an acre.",
+            "author": "Tracy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Like my deere\"",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "Great mower. Easy to use. Really enjoyed mowing the grass.",
+            "author": "Jerryas",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The Hubby is estatic!\"",
+            "rating": 5,
+            "date": "05/14/2019",
+            "recommended": true,
+            "text": "Best lawn tractor we have ever owned!Nice job John Deere!",
+            "author": "Lara",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/08/2019",
+            "recommended": true,
+            "text": "excellent mower should have bought a John Deere years ago",
+            "author": "Cathy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deer E130\"",
+            "rating": 1,
+            "date": "05/14/2019",
+            "recommended": false,
+            "text": "Had the mower delivered, it never started. So much for Lowes 9 point inspection, I guess seeing if it actually runs is not part of that inspection.",
+            "author": "John",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 10
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/30/2018",
+            "recommended": true,
+            "text": "Awesome lawn mower!! Glad I decided to make the purchase",
+            "author": "Stan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Tractor\"",
+            "rating": 5,
+            "date": "04/09/2019",
+            "recommended": true,
+            "text": "Handles nice and smooth ride.  Even the wife likes it.",
+            "author": "Rick",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So far so good\"",
+            "rating": 4,
+            "date": "10/19/2018",
+            "recommended": true,
+            "text": "no Issues yet will update after I've had for a season",
+            "author": "Sd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great lawn tractor\"",
+            "rating": 5,
+            "date": "05/03/2019",
+            "recommended": true,
+            "text": "Cuts very nice.. Lots of power for steep grades",
+            "author": "Tom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130 john deere\"",
+            "rating": 5,
+            "date": "04/28/2019",
+            "recommended": true,
+            "text": "Love it. it rides great and cuts evenly.",
+            "author": "p",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Wont start  JUNK\"",
+            "rating": 1,
+            "date": "06/09/2019",
+            "recommended": false,
+            "text": "Just purchased a new john deere 130 and went to start it up and it wont start.So much for quality control.Dosent anyone check to see if these things run before they deliver them.Went to lowes and im bringing it back for a refund tomorrow Ill never buy another john deere.Quality sucks big time! It does look nice thats about the only good thing about it",
+            "author": "kevin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Purchase from lowes\"",
+            "rating": 1,
+            "date": "05/25/2018",
+            "recommended": false,
+            "text": "Brand new E130 John Deere used 3 times and the lawn tractor breaks down",
+            "author": "Hunter",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 49
+            }
+        },
+        {
+            "title": "\"Hard  to steer\"",
+            "rating": 1,
+            "date": "06/14/2018",
+            "recommended": false,
+            "text": "I have an L-130 I have  had  it  for  5 or  6  years.  It  mows  great, but  so  difficult  to steer,  almost  impossible for  my wife  to steer  it.    Both front  tires are  wearing  badly uneven ,  I had a  lawn mower  mechanic  to check it ,  he  said  he did  not  see  any thing bent or  anything  thats  makes  it  so hard  to steer.",
+            "author": "Jimmie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 59
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rookhurst",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/01/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cathy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/31/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "BigDaddy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "HES",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Christopher",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Charlie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/11/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "patty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Junk\"",
+            "rating": 1,
+            "date": "07/02/2019",
+            "recommended": false,
+            "text": "Mower has 8 hours on it. When unloading we noticed a whine when you would push it. Now the transmission whines louder than when the blades are engaged.It cut great the first two times. Started missing random spots everywhere. Now the belt keeps coming off 3-4 times when I mow. Dont waste your time or money.",
+            "author": "Jose",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"John Deere D 130\"",
+            "rating": 2,
+            "date": "04/23/2019",
+            "recommended": false,
+            "text": "I bought the John Deere D130 less than 2 years ago and had to send it out for repairs 2x 1st time it was the steering and now something with Transmission,it will take about 2 weeks to get it back. This was my 1st John Deere & My last",
+            "author": "sticks",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"Cuts uneven\"",
+            "rating": 3,
+            "date": "06/03/2019",
+            "recommended": null,
+            "text": "Having tried tried both side discharge and the mulching kit. Unless you go at a crawling speed, it cuts very uneven either way. The mulching kit was a waste of money for me. Just doesn't mulch well with the stock blades and just leaves piles/chunks of grass. So I went back to side discharge.",
+            "author": "Punisher911",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Easy to use and maintain\"",
+            "rating": 5,
+            "date": "03/25/2019",
+            "recommended": true,
+            "text": "I have a 1/2 acre lot in town and it's the perfect size mower due to its 42\" deck. I don't need anything bigger since I've been gone from the farm for a few years now. Had an LA125 before and put that one through a lot and it's still going. I'm not understanding the previous comment about the safety features. You can engage the parking brake and it'll keep running while when you're off the machine, provided the blade is not engaged. Anyone that has been around equipment knows that. It mows clean, has plenty of power and is easy to maintain. I know some people dislike the 30 second oil change, but that's more than what most people do and it's easy to swap it out and go back to a traditional setup. John Deere is expensive compared to others but the implement delivered it to me the next day, all set up and ready to go. It's worth it to buy from a reputable dealer.",
+            "author": "Matty74",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "01/24/2019",
+            "recommended": true,
+            "text": "So, I go into Lowes for a toilet seat and come out with a lawn tractor. Although it is January and not time to cut grass, I am looking forward to using this gem. It has all the features I was looking for and then some. I had a Troy Bilt and this will probably run circles around it.",
+            "author": "lsmith",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"1/3 acre with 3 Oak trees\"",
+            "rating": 5,
+            "date": "03/19/2019",
+            "recommended": true,
+            "text": "I upgraded my old lawn tractor to the John Deere E130 because it had the most power with a 42” deck and I wanted a bagger system. I've always thought of John Deere as the gold standard and I bought this one without having actually tried one. It did no disappoint! The difference between my old tractor and the E130 is astounding. The E130 is smooth, comparatively quiet and it picks up and bags oak leaves impressively well.",
+            "author": "Mike850",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"John Deere E130 is a great mower\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "Could not beat the features versus price on the John Deere E130. Was looking for a smaller mower, but did not want to give up on horse power or features. Ordered it online from Lowes and it was here the next day, how can you beat that? Can not wait to try the 30 second oil change feature, did a lot of reading on the subject, because it sounded to good to be true, but in the end, John Deere is a brand I trust.",
+            "author": "Mfiscus",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/23/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hilda",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Great lawn tractor\"",
+            "rating": 5,
+            "date": "06/29/2019",
+            "recommended": true,
+            "text": "This is a great lawn tractor. It is very well built, easy to use, and is an excellent mower. I am in my 70's, and it is a pleasure to use. No problems with steering, very easy and responsive. The mower is far superior to my old one.\nBest of all, it shaves a full hour off of my mowing time.\n\nI appreciate the thoughtfulness that Deere has put into this lawn tractor, and highly recommend it.",
+            "author": "BQ123",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"10 hours and broken\"",
+            "rating": 1,
+            "date": "06/04/2019",
+            "recommended": false,
+            "text": "I bought this lawn mower about two months ago and have 10 hours on it.  The mower has no forward motion and the deck blades do not turn.  I wouldn't give you anything for this mower.  Buy at your own risk.",
+            "author": "Scott",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"So far great\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "Product was delivered fully ready to go.  Was contacted by my local John Deere dealer/servicer to see if there was anything I needed.  Only have 2 hours on it now but runs great and has a smooth cut",
+            "author": "Jerem",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great mower!\"",
+            "rating": 5,
+            "date": "06/30/2019",
+            "recommended": true,
+            "text": "This mower is easy to use & does a great job. I have never had such a good time mowing the grass!  It is easy on the turns & is a breeze to back up.  I can maneuver around the trees & flower beds without a difficult time.  The automatic transmission is fantastic & smoothly goes from forward to reverse to cut the corners. I would recommend this purchase to anyone.",
+            "author": "scribekd",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very satisfied\"",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "I chose this model because it was the largest engine in a 42\" mower (I'm a big guy and I need to tow a leaf vacuum in the autumn).  The only thing I do not like is the easy oil change gimmick.  You can find online a relatively simple way to convert the mower back to a traditional oil change setup.  Everything else is great and I am satisfied with my purchase.",
+            "author": "Zig",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cuts but not that well\"",
+            "rating": 2,
+            "date": "07/16/2018",
+            "recommended": false,
+            "text": "I wish I would have bought a 3 blade machine.  The 2 blade winds up missing grass in between where the blades rotate.  I bought an EPP and asked Lowes if I could bring it back and exchange it.  Its been just over a year and they are no help.  Guess I am stuck with it.",
+            "author": "Brandon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 23
+            }
+        },
+        {
+            "title": "\"Horrible Customer Service\"",
+            "rating": 1,
+            "date": "06/14/2019",
+            "recommended": false,
+            "text": "Bought this John Deere 130 and from the very beginning nothing but probloms. Lowes has tried to help, but John Deere customer service has been a nightmare to deal with. After the sale you are 100% on your own. Buy anything but a John deere.",
+            "author": "Slim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Keys... Yes, you do get TWO keys with this mower.\"",
+            "rating": 5,
+            "date": "09/05/2018",
+            "recommended": true,
+            "text": "I saw a comment that said you only get one key with the mower. I asked a dealer when I was there about this and he showed me a mower getting ready to be delivered and it had one key in it and a spare key packaged in the owners manual that was attached behind the seat. The dealer also said additional keys are available if needed.",
+            "author": "AlphaAgency",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Replaced 80's JD, so much easier\"",
+            "rating": 5,
+            "date": "09/17/2018",
+            "recommended": true,
+            "text": "My husband got a John Deere from a friend that was from the 1980's, we put about $1000 worth of work to get it stable, but it still had ongoing issues. We decided to throw in the towel and purchased this... UPGRADE! So much easier, no two hours tinkering prior to cutting, just get on and go. We should've done this sooner.",
+            "author": "BGR",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good mower for price.\"",
+            "rating": 4,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Bought this to replace an old 42\" Craftsman with a blown engine. Works well, starts first time. Uses twice as much gas, but has 2 cylinders, old one had 1.Only complaint - as delivered the tire air pressure was double max psi on sidewall of tires - VERY rough ride. Reduced air pressure and it helps, but still rough.",
+            "author": "TooMuchLawn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "09/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Best mower for the money\"",
+            "rating": 5,
+            "date": "04/27/2018",
+            "recommended": true,
+            "text": "We have owned several mowers over the years and our most recent purchase was by far the best. We chose the E130 for the powerful 22HP engine, we have a huge yard with several trees and a pretty steep hill, this mower handles like a zero turn and goes right up the hill with ease. We strongly recommend this mower!!",
+            "author": "DandJ1230",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Prhoss",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mary",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/16/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dale",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"John Deere Quality\"",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "First John Deere tractor mower. Only used it 1 time and had no problems. Going thru that learning curve with new equipment. Memorial Day sale and my Veterans discount made a big difference for my decision. Will change over from Easy Replace oil filter to regular",
+            "author": "Taplever",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love this Tractor!\"",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "This tractor is easy to manuever.  It has a nice, comfortable seat.  It cuts grass nicely.  Has good power and covers over 1 acre without filling gas again.  It is still too new of a tractor to give a thorough review, but so far it is working well for us.",
+            "author": "Shrips",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"john deere\"",
+            "rating": 5,
+            "date": "07/05/2019",
+            "recommended": true,
+            "text": "purchased at lowe's was used and got a great deal on it",
+            "author": "shirley",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"A Horse\"",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "I bought my L130 in 2003 and they told me it was an eight-year tractor. I've had 16 years of mowing, mulching, carting, hayriding, snowplowing and all around lawn work. This machine worked hard all these years. I have 900 hours on it.",
+            "author": "DonD",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"New ride\"",
+            "rating": 5,
+            "date": "07/04/2019",
+            "recommended": true,
+            "text": "We bought this riding lawn mower a few weeks ago and just love it. It cuts evenly and is a comfortable ride. You won't be disappointed.",
+            "author": "Fisher",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great\"",
+            "rating": 5,
+            "date": "08/09/2018",
+            "recommended": true,
+            "text": "Added gas and tractor started right up. Was able to go up and down the hill in the backyard without problem. No issues with the tractor after 2 mowing, and expect tractor to continue performing for years to come.",
+            "author": "Tom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"As advertised\"",
+            "rating": 4,
+            "date": "07/01/2019",
+            "recommended": true,
+            "text": "Overall great so far. Only used twice for cutting and twice for pulling but it has surprisingly good traction while pulling a load. Good comfort level, as it's usually over an hour in the seat for me.",
+            "author": "KGomes",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"My John Deere\"",
+            "rating": 4,
+            "date": "10/19/2018",
+            "recommended": true,
+            "text": "I always wanted a John Deere and I finally got one. Handles well with plenty of power. One thing I don't like is having to push a button to back up. Very good piece of equiptment well worth the price. RJ",
+            "author": "Rodney",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 3
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/30/2019",
+            "recommended": true,
+            "text": "I was looking for a mower with a smooth ride due to recent back surgery. With the wide tires on the back, this mower give me the ride I was looking for, plus it mows excellent and handles great.",
+            "author": "teddybroom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Andrew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Nick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Great value for a mower that is built sturdy.\"",
+            "rating": 5,
+            "date": "06/20/2019",
+            "recommended": true,
+            "text": "Great mower for my 2 acre grass area around my pond.  I have some up and down hills and the Deere handles it wonderfully.  Plenty of power even when the grass is 10 inches tall and thick.",
+            "author": "Morris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"In-law mower\"",
+            "rating": 5,
+            "date": "09/10/2018",
+            "recommended": true,
+            "text": "Replaced mother in law's old JD (10yrold)with same model wife got 3mos ago am golden boy now Maint a breeze w/new oil change system very affordable with ext. warranty discount",
+            "author": "Doug",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Too soon to tell\"",
+            "rating": 5,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "Bought this very late in the season so have only used it once & like it.  Bought it because it got good ratings on Lowes website so hope it holds up to the rating.",
+            "author": "Voodoovicki",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Finally joined the big boys\"",
+            "rating": 5,
+            "date": "06/14/2019",
+            "recommended": true,
+            "text": "Great mower, very smooth, fantastic cut.  nice, tight turning radius.  I can't think of anything i would change on this, and the price was really good.",
+            "author": "buddhablue",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent product\"",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "This tractor is great. I have no complaints. The only thing I wish it has was a metal hood and power steering. This is the best bang for the buck.",
+            "author": "Cutterupperer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love the way it operates and looks.\"",
+            "rating": 5,
+            "date": "09/14/2018",
+            "recommended": true,
+            "text": "It has plenty of power and rides comfortable.  I like that it moves even and that it doesn't scalp the lawn.like it says nothing runs like a deer.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nothing runs like a Deere\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": null,
+            "text": "This is the perfect mower. Love the two pedal forward and reverse.  The turning is very tight.Double bagger is super easy install.",
+            "author": "Gravel",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cuts great!\"",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "Really high-quality lawn mower! Has no problem climbing hills or cutting through the grass. Leaves no stray grass blades behind.",
+            "author": "Steve",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome riding lawnmower!\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": true,
+            "text": "My husband loves his riding lawnmower! He cuts the neighbors yard too. His loves all of the features on it and just thrilled.",
+            "author": "Michele",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "10/21/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dwayne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Easy to use\"",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "Great mower made it easier for my in laws to mow there lawn. Push mower was getting to much for them.",
+            "author": "Jose",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Tractor works!\"",
+            "rating": 4,
+            "date": "06/12/2019",
+            "recommended": true,
+            "text": "Too soon to be detailed. When it runs properly next spring then I could be more inclined to review.",
+            "author": "Deb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"JD 130\"",
+            "rating": 5,
+            "date": "09/12/2018",
+            "recommended": true,
+            "text": "Easy to use, controls are intuitive. The ride is smooth and the mower cuts very good and even.",
+            "author": "Vito",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Gave this a 5 star rating because it's dependable.\"",
+            "rating": 5,
+            "date": "06/18/2019",
+            "recommended": true,
+            "text": "John Deere tractor is a name you can depend on. I would definitely recommend it to anyone.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"E130\"",
+            "rating": 5,
+            "date": "06/16/2019",
+            "recommended": true,
+            "text": "It mows my 2+ acres!  I'm glad i bought this unit for my yard over a 0-turn.",
+            "author": "MJ",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best mower Ever!\"",
+            "rating": 5,
+            "date": "06/13/2019",
+            "recommended": true,
+            "text": "good service from JD. . .great product support and warranty services",
+            "author": "Donner8828",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"OK\"",
+            "rating": 3,
+            "date": "08/27/2018",
+            "recommended": true,
+            "text": "Don't lose your key - you don't get a second one when you buy.",
+            "author": "Tacjr",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/05/2018",
+            "recommended": true,
+            "text": "Mower works great.  Quiet running and comfortable high seat.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower!\"",
+            "rating": 5,
+            "date": "09/03/2018",
+            "recommended": true,
+            "text": "Very user friendly to use. Easy controls and smooth riding.",
+            "author": "Billy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good mower\"",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "Lots of power.  Level cut.      Easy to steer .",
+            "author": "Gene",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "TJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Brad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "April",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Doc",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mithu",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Nina",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cher",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "KEG",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Joanne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "dmop",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Skyking",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gw",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gav",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "06/11/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Soupy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Charlie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Undecided\"",
+            "rating": 3,
+            "date": "05/20/2018",
+            "recommended": true,
+            "text": "Mows well in yard grass. \n\nDid not handle tall pasture grass that grew while we looked for a new mower after the old one died (after 25 years). Our old Garden Tractor would have, but I would have been able to do it with a deck that I could lift above the normal 4 inch highest mowing position for the first cut, then do it again at mower level. I wish this mower had that ability. \n\nIt is almost impossible for an old lady, me, to push the brake/clutch in adequately in order to start it. In another 5 years it will probably be impossible for me to do. It seems like it is all the way in, does not move any farther, but only after pressing even harder will the mower start. \n\nAs for \"expertise,\" I've been operating farm equipment all of my life, and riding mowers for the last 30 years. I know you have to really press on the clutch to start, but this is ridiculous. I can't stand on it because you have to keep sitting on the seat. We got this because we are too old to push a mower over 2 acres and need something old people can handle. FYI I'm 75 and plan to mow my own lawn for a long time to come. There should be some way around this.\n\nThere's something else that is inconvenient. The mower dies if you get off the seat to remove an obstacle, even if the blade is not running. Then you have to go through the whole starting exercise all over again. Safety features have gone a bit overboard.",
+            "author": "granny2018",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 213,
+        "percentRecommended": "80",
+        "averageStars": "4.3",
+        "starCounts": {
+            "five": 152,
+            "four": 23,
+            "three": 14,
+            "two": 7,
+            "one": 17
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Can the 10% Veterans discount be used to buy a JD at Lowe's?\"",
+            "author": "Bobby",
+            "date": "02/27/2018",
+            "answers": [
+                {
+                    "author": "20Kenny48",
+                    "date": "06/23/2019",
+                    "text": "Yes, we got our military discount, no problem at all.",
+                    "helpful": {
+                        "yes": 12,
+                        "no": 5
+                    }
+                },
+                {
+                    "author": "Terry",
+                    "date": "06/11/2018",
+                    "text": "Yes",
+                    "helpful": {
+                        "yes": 137,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "sunfishguy",
+                    "date": "05/28/2018",
+                    "text": "Yes, The other store won't honor it but lowe's does honor it. I bought one and got 250.00 rebate and military discount. Saved almost 500.00",
+                    "helpful": {
+                        "yes": 24,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "TimO",
+                    "date": "03/05/2018",
+                    "text": "I used mine - so yes; you can use it on your JD at Lowe's.",
+                    "helpful": {
+                        "yes": 41,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "02/28/2018",
+                    "text": "Thank you for contacting the Lowe's website. John Deere products are eligible for military discounts at Lowe's (in store purchases only).",
+                    "helpful": {
+                        "yes": 41,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Who makes the “John Deere branded” engine?\"",
+            "author": "Dennis",
+            "date": "02/26/2018",
+            "answers": [
+                {
+                    "author": "jim",
+                    "date": "05/15/2019",
+                    "text": "This model has a Briggs & Stratton engine.",
+                    "helpful": {
+                        "yes": 37,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Terry",
+                    "date": "06/11/2018",
+                    "text": "Briggs and stratton",
+                    "helpful": {
+                        "yes": 108,
+                        "no": 1
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "02/28/2018",
+                    "text": "Thank you for visiting the Lowe's website. The E130 Lawn Tractor features an engine made by Briggs & Stratton for John Deere.",
+                    "helpful": {
+                        "yes": 66,
+                        "no": 4
+                    }
+                },
+                {
+                    "author": "Retired",
+                    "date": "02/26/2018",
+                    "text": "Just bought this in FEB. The book says Brigs and Stranton V Twin 22HP",
+                    "helpful": {
+                        "yes": 26,
+                        "no": 3
+                    }
+                },
+                {
+                    "author": "NJman",
+                    "date": "02/26/2018",
+                    "text": "Briggs and Stratton to JD specs",
+                    "helpful": {
+                        "yes": 19,
+                        "no": 3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is a \"John Deere branded engine? Who makes it?\"",
+            "author": "Dogbert",
+            "date": "02/24/2018",
+            "answers": [
+                {
+                    "author": "Beerad",
+                    "date": "07/28/2018",
+                    "text": "It clearly says John Deere \"branded\" engine. So it was made for John Deere by another company. In this case each engine looks to be a Briggs and Stratton. But... if John Deere stands behind it, so be it.",
+                    "helpful": {
+                        "yes": 41,
+                        "no": 10
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/01/2018",
+                    "text": "It means it is made by John Deere.",
+                    "helpful": {
+                        "yes": 12,
+                        "no": 37
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "02/28/2018",
+                    "text": "Thank you for visiting the Lowe's website. The E130 Lawn Tractor features an engine made by Briggs & Stratton for John Deere.",
+                    "helpful": {
+                        "yes": 29,
+                        "no": 4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How does it handle hills\"",
+            "author": "Anonymous",
+            "date": "04/29/2019",
+            "answers": [
+                {
+                    "author": "Drew",
+                    "date": "04/29/2019",
+                    "text": "I got this answer from another question answered back on 4/3/2019. I just copied and pasted it: \"It is recommended to never mow or operate ride-on mower on slope angles greater than 13° with the lawn ride-on mower in its basic configuration (without attachments). When using attachments it is recommended to never mow or operate on slope angles over 10°. You can find detailed instructions under Section 10 - Safety - Operating On Slopes in the Operator's Manual.\"",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/29/2019",
+                    "text": "Thank you for visiting the Lowe's website. It is recommended to never mow or operate ride-on mower on slope angles greater than 13° with the lawn ride-on mower in its basic configuration (without attachments). When using attachments it is recommended to never mow or operate on slope angles over 10°. You can find detailed instructions under Section 10 - Safety - Operating On Slopes in the Operator's Manual.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"how easy is it to attatch the catcher and does it work well\"",
+            "author": "Anonymous",
+            "date": "04/25/2019",
+            "answers": [
+                {
+                    "author": "jim",
+                    "date": "05/17/2019",
+                    "text": "Consumer Reports testing found this to be a great mower (86 out 100 points) but its bagging performance was \"mearly average\".",
+                    "helpful": {
+                        "yes": 13,
+                        "no": 2
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/26/2019",
+                    "text": "Thank you for visiting the Lowe's website. You can find detailed instructions on how to attach a bagger to the E130 Lawn tractor in “Section 30 – Installing – Installing 2-Bag Bagger” of the Operator's Manual here: http://manuals.deere.com/omview/OMGX25290_19/?tM=HO. Many of our Operator's Manuals are available online at manuals.deere.com.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If you buy JD tractor in Lowe's where you go for warranty work ? John Deer dealers or where ?\"",
+            "author": "Anonymous",
+            "date": "04/09/2019",
+            "answers": [
+                {
+                    "author": "GTmike",
+                    "date": "04/12/2019",
+                    "text": "'Here in my area the mower would go to JD dealer. You have to go thru lowes warranty process to do this. It's a little hassle but that's where mine goes IF it had to.Granted the dealer is only about 5 miles from lowes. Hope that helps.",
+                    "helpful": {
+                        "yes": 30,
+                        "no": 4
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/09/2019",
+                    "text": "Thank you for contacting the Lowe's website. We recommend you contact the Lowe's Customer Support line. You can call them at: 1 (800) 445-6937.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 14
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is the transmission and rear end gears metal or plastic?\"",
+            "author": "Anonymous",
+            "date": "07/07/2018",
+            "answers": [
+                {
+                    "author": "Bobby",
+                    "date": "08/28/2018",
+                    "text": "I was told by a John Deere salesperson that the plastic gears are in the E100 model. E110's and above are metal.",
+                    "helpful": {
+                        "yes": 91,
+                        "no": 7
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "07/09/2018",
+                    "text": "Thank you for contacting the Lowe's website. We recommend you contact the Lowe's Customer Support line. You can call them at: 1 (800) 445-6937.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 55
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does it have a fuel gauge on the dash?\"",
+            "author": "Chad",
+            "date": "05/11/2018",
+            "answers": [
+                {
+                    "author": "Freeman",
+                    "date": "05/19/2018",
+                    "text": "Fixing to purchase one and looks like not on dash. Look between your legs LOL, below the seat (mechanical type)",
+                    "helpful": {
+                        "yes": 49,
+                        "no": 2
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "05/14/2018",
+                    "text": "Thank you for contacting the Lowe's website. Yes, the E130 has a fuel gauge which can be viewed from the Operator's seat.",
+                    "helpful": {
+                        "yes": 16,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How much air does the rear tire require\"",
+            "author": "Geo",
+            "date": "04/05/2018",
+            "answers": [
+                {
+                    "author": "NJman",
+                    "date": "04/15/2018",
+                    "text": "Rear tires use 10 PSI. Front tires use 14 PSI. Look on sidewall of tire or in the manual.",
+                    "helpful": {
+                        "yes": 40,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "04/06/2018",
+                    "text": "Thank you for contacting the Lowe's website. You can find this information in the Operator's Manual.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 15
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"what is the cost of a 30 second oil change\"",
+            "author": "ed",
+            "date": "03/23/2018",
+            "answers": [
+                {
+                    "author": "Doc",
+                    "date": "04/04/2018",
+                    "text": "Currently $39.99 plus tax. Instructions say that additional oil may be needed to top off to full mark. So around $50.00 with tax.",
+                    "helpful": {
+                        "yes": 83,
+                        "no": 18
+                    }
+                },
+                {
+                    "badgeName": "8b49ea84-13fa-5ee1-ad9f-0ed14f208a9a",
+                    "author": "JohnDeere",
+                    "date": "03/23/2018",
+                    "text": "Thank you for contacting the Lowe's website. You can find the Easy Change 30-Second Oil Change System here: https://www.lowes.com/pd/John-Deere-Easy-Change-30-Second-Oil-Change-System/1000330777.",
+                    "helpful": {
+                        "yes": 9,
+                        "no": 35
+                    }
+                }
+            ]
+        }
+    ]
+}

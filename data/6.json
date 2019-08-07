@@ -1,0 +1,1950 @@
+{
+    "descriptions": {
+        "list": [
+            "This semi-gloss sheen is a lustrous, durable finish that is perfect for areas that require frequent cleaning and superior resistance to moisture; ideal for entryway doors, garage doors and accent trim",
+            "Our cleanest, purest white pairs perfectly with every color",
+            "Strong finish gives outstanding durability and weather resistance",
+            "Gives excellent hide in fewer coats",
+            "Stain resistant and scrubbable",
+            "Gives a mildew-resistant finish",
+            "100% Acrylic latex",
+            "Backed by our Lifetime Warranty"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Use Location",
+            "spec": "Exterior"
+        },
+        {
+            "title": "Tintable",
+            "spec": 0
+        },
+        {
+            "title": "Paint Color Family",
+            "spec": "White"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Perfect White"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Commercial/Residential"
+        },
+        {
+            "title": "Base Material",
+            "spec": "Latex"
+        },
+        {
+            "title": "Sheen",
+            "spec": "Semi-gloss"
+        },
+        {
+            "title": "Textured",
+            "spec": 0
+        },
+        {
+            "title": "Enamel",
+            "spec": 0
+        },
+        {
+            "title": "100 Percent Acrylic",
+            "spec": 1
+        },
+        {
+            "title": "Dry to Touch",
+            "spec": "1 hour"
+        },
+        {
+            "title": "Container Size",
+            "spec": "1-gallon"
+        },
+        {
+            "title": "Actual Net Contents (Fluid Oz.)",
+            "spec": "128"
+        },
+        {
+            "title": "Maximum Coverage Area (Sq. Feet)",
+            "spec": "400"
+        },
+        {
+            "title": "Number of Coats Recommended",
+            "spec": "1"
+        },
+        {
+            "title": "Elastomeric",
+            "spec": 0
+        },
+        {
+            "title": "Scrubbable",
+            "spec": 1
+        },
+        {
+            "title": "Washable",
+            "spec": 1
+        },
+        {
+            "title": "Clean-up Method",
+            "spec": "Soap and water"
+        },
+        {
+            "title": "Rust Resistant",
+            "spec": 0
+        },
+        {
+            "title": "Fade Resistant",
+            "spec": 0
+        },
+        {
+            "title": "High Heat",
+            "spec": 0
+        },
+        {
+            "title": "UV Resistant",
+            "spec": 0
+        },
+        {
+            "title": "Mildew Resistant",
+            "spec": 1
+        },
+        {
+            "title": "Mold Resistant",
+            "spec": 0
+        },
+        {
+            "title": "Stain Resistant",
+            "spec": 1
+        },
+        {
+            "title": "Stain Blocking",
+            "spec": 0
+        },
+        {
+            "title": "Resists Cracking",
+            "spec": 1
+        },
+        {
+            "title": "Resists Peeling",
+            "spec": 1
+        },
+        {
+            "title": "Resists Blistering",
+            "spec": 1
+        },
+        {
+            "title": "Waterproof",
+            "spec": 0
+        },
+        {
+            "title": "Non-Flammable",
+            "spec": 1
+        },
+        {
+            "title": "Non-Combustible",
+            "spec": 1
+        },
+        {
+            "title": "Paint and Primer in One",
+            "spec": 1
+        },
+        {
+            "title": "Primer Recommended",
+            "spec": 0
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Tint Base",
+            "spec": "N/A"
+        },
+        {
+            "title": "Recommended Sprayer Tip Size",
+            "spec": ".017 - .019"
+        },
+        {
+            "title": "Recommended Sprayer Pressure (PSI)",
+            "spec": "2000"
+        },
+        {
+            "title": "Flash Point (Degrees)",
+            "spec": "205"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "31211500"
+        },
+        {
+            "title": "Dry to Re-Coat",
+            "spec": "4 hours"
+        },
+        {
+            "title": "Minimum Working Temperature (Fahrenheit)",
+            "spec": "50"
+        },
+        {
+            "title": "Maximum Working Temperature (Fahrenheit)",
+            "spec": "90"
+        },
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Sub-Brand",
+            "spec": "N/A"
+        },
+        {
+            "title": "For Use on Barn and Fence",
+            "spec": 0
+        },
+        {
+            "title": "For Use on Decks",
+            "spec": 0
+        },
+        {
+            "title": "For Use on Fiberglass",
+            "spec": 0
+        },
+        {
+            "title": "For Use on Porches and Floors",
+            "spec": 0
+        },
+        {
+            "title": "For Use on Swimming Pools",
+            "spec": 0
+        },
+        {
+            "title": "Kit",
+            "spec": 0
+        },
+        {
+            "title": "Low Odor",
+            "spec": 0
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        },
+        {
+            "title": "For Use on Aluminum",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Brick",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Concrete",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Doors",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Garage Doors",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Masonry",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Metal",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Siding",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Stone",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Stucco",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Vinyl",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Window Shutters",
+            "spec": 1
+        },
+        {
+            "title": "For Use on Wood",
+            "spec": 1
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Water Resistant",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "e5992720-1426-5ec3-b41d-1f9783fc89c6",
+                    "largeName": "094c0cec-5580-5f7d-8c25-c589a082b81c"
+                },
+                {
+                    "smallName": "497361c9-4422-501f-a9ac-df97f19ebb6f",
+                    "largeName": "36917413-7606-57e0-ab2c-b57fd1eb73f5"
+                },
+                {
+                    "smallName": "e7eaf256-1e04-5dff-b75b-95a0913203b3",
+                    "largeName": "9477f904-bd33-5643-bb16-d9c7834ee654"
+                },
+                {
+                    "smallName": "844b93f1-968c-54dc-bba7-f2fb1a1ebe63",
+                    "largeName": "970e1482-91fc-51c0-b774-79fc2aa9e805"
+                }
+            ],
+            "title": "\"DOUBLE DOOR MAKE OVER\"",
+            "rating": 5,
+            "date": "01/24/2019",
+            "recommended": true,
+            "text": "First review ever.  My son didn't think that the double doors could be saved. They were in rough shape. ( sorry, forgot to take before pic) So we removed them, removed the old tan paint, sanded and I used a coat of primer. Sanded again. I used two coats of Valspar Satin Perfect White. I painted the already primed single door with two coats also. Love Valspar paint...Always my first choice",
+            "author": "Lj",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "264dcebb-2504-5297-8fe8-6247ef74a3a6",
+                    "largeName": "4e6985f7-4172-5d1f-9b6d-e1d7152e78d0"
+                },
+                {
+                    "smallName": "a2f6077c-de2c-5ce0-a1e1-3a78f1bd9c59",
+                    "largeName": "4d98d29e-ed01-5181-99c0-e1584e55a389"
+                }
+            ],
+            "title": "\"Best paint on trim and cabinents\"",
+            "rating": 5,
+            "date": "07/20/2016",
+            "recommended": null,
+            "text": "This is the best paint i ever used. I used it on oak cabinents and trim wood and i am so pleased. I put two coats and its the brightest white you will ever find and i smudged the cabinent doors when i hung them back up and i took a damp cloth wiped it right off. I love it and its cheaper than the cabinent paint. I still havent finished it. Putting down new flooring tomorrow and hadnt finished putting all the cabinent hardware on.  I give it a 5 star. Love it love it.",
+            "author": "Lois",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 33,
+                "no": 5
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "1c1af98b-3be8-5814-9be9-4d9c7a6a3b11",
+                    "largeName": "4560cd38-278c-5b94-8887-07fe8c085161"
+                }
+            ],
+            "title": "\"Painting the barn\"",
+            "rating": 5,
+            "date": "09/29/2018",
+            "recommended": true,
+            "text": "After a reviewing Valspar, I picked a winner! Rolls on great, first coat was smooth and cover without all the drippings. Second coat was a breeze.  Next painting project will be with Valspar!",
+            "author": "bigbear",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very thick but exactly what I was looking for\"",
+            "rating": 5,
+            "date": "02/12/2018",
+            "recommended": true,
+            "text": "I used this for my baseboards I was installing. I was surprised at how thick the paint was and it definitely took some time to mix. Once it was thoroughly mixed it went on smooth and dried quickly. I was very happy with the final product and it seems very robust. A little goes a long way with this stuff. If you're looking for a good thick quality paint this is the way to go",
+            "author": "HC",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 17,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"As Advertised\"",
+            "rating": 5,
+            "date": "08/14/2016",
+            "recommended": true,
+            "text": "I used this all in one paint/primer on bare wood. Total coverage was achieved in two coats. Clean up was a snap as well.",
+            "author": "RockBobM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 41,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"covers well\"",
+            "rating": 5,
+            "date": "04/10/2018",
+            "recommended": true,
+            "text": "great paint - last time i used this it lasted 13 yrs - in the sun",
+            "author": "rich",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Exterior Paint\"",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "This paint goes on smooth and looks so nice after it dries. I painted the exterior of my house last year and it still looks like I painted it yesterday. I had to finish up some areas that I didn't get last year and you cannot tell the difference. I highly recommend this exterior paint to anyone. I will be painting my garage doors with this color once I get the other areas done. You won't be disappointed!",
+            "author": "Laura",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "5b4f12e1-1c2a-54a2-b254-b8e9d043682f",
+                    "largeName": "63fde2a1-65fd-52b4-aef4-26ccbd43ccbe"
+                }
+            ],
+            "title": "",
+            "rating": 5,
+            "date": "04/30/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glidergal",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Great exterior paint.\"",
+            "rating": 4,
+            "date": "09/06/2017",
+            "recommended": true,
+            "text": "I've used Valspar for years and have always found it to cover well the first coat.  For the price, Valspar is a great paint for my outdoor projects.",
+            "author": "shveenya",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 21,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"100% satisfied\"",
+            "rating": 5,
+            "date": "08/24/2018",
+            "recommended": true,
+            "text": "I used this exterior paint on window and door frames, soffits and facial boards. One coat after scraping old loose paint and the jobs was done.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4a9636b1-e830-542a-a13c-278fa5fbae29",
+                    "largeName": "8d036032-5be0-511a-8063-fdb1b02c420e"
+                }
+            ],
+            "title": "\"Perfect paint to cover old paint\"",
+            "rating": 5,
+            "date": "06/11/2019",
+            "recommended": true,
+            "text": "I am very happy with the job that this paint did to cover my old front porch! It definitely helped to give my porch the facelift it needed, brightened the area, and covered all of the spots I needed it to. I always choose Valspar!",
+            "author": "Darce",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"covverage\"",
+            "rating": 4,
+            "date": "10/08/2017",
+            "recommended": true,
+            "text": "This exterior paint does a good cover in one coat - it's a primer so that helps a lot.",
+            "author": "Anne",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect White\"",
+            "rating": 5,
+            "date": "09/10/2018",
+            "recommended": true,
+            "text": "Once applied and dried, our home felt like a winter wonderland.",
+            "author": "LadyRaRa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"WOW!!\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "Paint and primer in one that does what it suppose to..excellent coverage on already painted/dirty interior doors.",
+            "author": "Steven",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Nice paint\"",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": null,
+            "text": "Not terribly expensive and it's nice exterior paint. Would recommend. I like the Valspar brand paint.",
+            "author": "Markus",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent coverage\"",
+            "rating": 5,
+            "date": "08/04/2018",
+            "recommended": true,
+            "text": "I wished I knew about this before we painted the entire upstairs in a different kind of paint. This paint is amazing and covered with just one coat. The price is very reasonable too.",
+            "author": "BrownEyedGirl68",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"window trim\"",
+            "rating": 4,
+            "date": "10/27/2017",
+            "recommended": true,
+            "text": "It had an inch of fluid on top, mixing it took some time. It was thick after mixing well.It covered well after 2 coats and dried fast. Windows look great.",
+            "author": "lookinggood",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Really, really white\"",
+            "rating": 5,
+            "date": "03/24/2019",
+            "recommended": true,
+            "text": "I got this for a project on the front porch.  My husband used it to paint a new stairway handrail and posts from the porch to the sidewalk.  It's SO white I really love it.  I hope now it will stand up to the weather.  The only complaint I have is this makes our white trim look dingy. I'm glad we have a lot of it left, and I know where to get more.",
+            "author": "MaryMary",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar Semi-gloss white paint\"",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "My wife and I are really sold on this product.  We have been using it for years to touch up our white wooden trims around our house, inside and outside.  When used correctly it covers everything in one coat.  The Semi-gloss paint allows us to wash of the dirt without damaging the paint.  A really great product and would recommend it to any one.",
+            "author": "George",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Happy paint\"",
+            "rating": 4,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "First time buying this brand of paint. I can say it was a great experiencing the smoothness of the paint and easy to apply. The salesman and Lowe's did a great job explaining the paint! I think If not for him I just might have went to Sherwin Williams! I have a lot of paintingOn my wife todo list! Lowe's might be the way to go.",
+            "author": "Lhsavage",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar Perfect White Exterior Paint—great product\"",
+            "rating": 5,
+            "date": "07/29/2018",
+            "recommended": true,
+            "text": "I used this product to paint the framing and rails of a deck. Great coverage. Very thick paint. Used a sprayer and had to keep pressure up but performed flawlessly. Will buy more to paint larger section of our deck.",
+            "author": "Kmac",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Clean smooth finish.\"",
+            "rating": 5,
+            "date": "08/28/2018",
+            "recommended": true,
+            "text": "This paint goes on easy, also seems to seal small cracks peeled wallpaper , used only one coat really enjoyed using this product, and I do not like to paint.",
+            "author": "Pat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product\"",
+            "rating": 5,
+            "date": "05/01/2019",
+            "recommended": true,
+            "text": "I have always used cheap paint brands. Started using valspar and wow does it make a difference. It coveres so much more sg ft and its worth the money!!",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"A little thicker than water\"",
+            "rating": 1,
+            "date": "09/23/2016",
+            "recommended": false,
+            "text": "As the title says this is a little thicker than water.  Had it agitated at store prior to check out and stirred it prior to application. Goes on like water does not cover well.",
+            "author": "al6car",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"Porch\"",
+            "rating": 4,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "We used the paint for seasonal updates and it went on flawless.  Covered the area well without needing a second coat...",
+            "author": "Rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Amazing Paint\"",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "I have been bouncing around trying different brands and finishes. Valspar wins hands down for price and quality.",
+            "author": "Helosrule",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"excellent appearance\"",
+            "rating": 5,
+            "date": "06/16/2019",
+            "recommended": true,
+            "text": "Great coverage with minimum paint usage. Painted fascia boards on house. Does not need second coat.",
+            "author": "Les",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great pain\"",
+            "rating": 5,
+            "date": "03/10/2019",
+            "recommended": true,
+            "text": "Decided to paint the outside pillars of my house.  Blown away by the color.  Will purchase again.",
+            "author": "Lou28546",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Its paint\"",
+            "rating": 5,
+            "date": "04/11/2019",
+            "recommended": true,
+            "text": "Covered well. Have no idea about life of the paint as we just painted the eaves this weekend",
+            "author": "stephanie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "Perfect for what I needed. Coverage was good as well as straight white coloring.",
+            "author": "bratkerri",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar Satin Perfect White Latex Exterior Paint\"",
+            "rating": 5,
+            "date": "08/20/2018",
+            "recommended": true,
+            "text": "A brilliant white that looks well on the trim, versus the light gray wall color.",
+            "author": "E",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great ceiling paint\"",
+            "rating": 5,
+            "date": "12/15/2018",
+            "recommended": true,
+            "text": "Use this exterior inside on my ceiling...does a good job hiding imperfections...",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good coverage\"",
+            "rating": 4,
+            "date": "03/01/2019",
+            "recommended": true,
+            "text": "White paint over a dark surface, will require a second coat for full coverage.",
+            "author": "Bzopff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/08/2019",
+            "recommended": true,
+            "text": "Extremely thin like applying butter however the finish is very nice.",
+            "author": "Amber",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Pretty white\"",
+            "rating": 5,
+            "date": "10/27/2018",
+            "recommended": true,
+            "text": "This white is exactly what it is named, perfect white.",
+            "author": "Fefe",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Door and trim paint\"",
+            "rating": 5,
+            "date": "12/14/2018",
+            "recommended": true,
+            "text": "Beautiful bright white. Perfect for doors and trim!",
+            "author": "Valerie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Primer leaves much to be desired\"",
+            "rating": 4,
+            "date": "06/12/2019",
+            "recommended": true,
+            "text": "The paint color is perfect, I used it to paint my kitchen cabinets and the exterior quality will allow me to clean them without worry of ruining the paint. The primer part of the paint did not work very well however. I sanded down the old surfaces even to the point all varnish was off but stains still seemed to show through... Even after the coats. Don't skip the primer with this paint.",
+            "author": "Maurena",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"White cabinet makeover\"",
+            "rating": 5,
+            "date": "08/14/2018",
+            "recommended": true,
+            "text": "Bought a couple of gallons of this at Lowes. I've since framed my window using craftsman style treatment, This paint is amazing! I'm now moving on to my dreaded 80's oak cabinets. I hate these things with a passion. I did part of the cabinets done with some primer and this paint. It look fantastic so far!!",
+            "author": "BianBian",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"The paint was a mess to use.\"",
+            "rating": 2,
+            "date": "09/13/2016",
+            "recommended": false,
+            "text": "It was too thick and it had an inch of fluid on top, mixing it was a mess. Good thing I had a drop cloth.",
+            "author": "JJBL",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 35
+            }
+        },
+        {
+            "title": "\"seems to be a great product\"",
+            "rating": 4,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "So far I believe this to be a very good product. I do think that maybe it should have been shaken at the time of purchase or order. I am not sure if this would have happened by default if it was an in-store purchase or not.",
+            "author": "xsnail",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Paint laundry room\"",
+            "rating": 5,
+            "date": "11/12/2018",
+            "recommended": true,
+            "text": "I am always satisfied with the service at the paint department, they make great suggestions based on the project. The attendants are very friendly and courteous. The pint was mixed very good and it was a great finish.",
+            "author": "Bobby",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar The perfect White Paint\"",
+            "rating": 5,
+            "date": "04/06/2019",
+            "recommended": true,
+            "text": "I have used several paints over the years & I selected Valspar to repaint my entire home this spring.  My living room, hall & dining room is done and it looks amazing.",
+            "author": "Jan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Dries too fast\"",
+            "rating": 3,
+            "date": "11/29/2018",
+            "recommended": false,
+            "text": "When painting, you can't go more than a couple of feet of trim without it drying. Made it hard to do a large section! Also, had problems get it out of my Purdue.",
+            "author": "Charles",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar White\"",
+            "rating": 5,
+            "date": "08/07/2018",
+            "recommended": true,
+            "text": "I purchased this paint for the trim on a shed and it worked awesome! I only applied one coat and it looked good, no need for a second coat!",
+            "author": "Shorty",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Bright colors\"",
+            "rating": 4,
+            "date": "03/22/2019",
+            "recommended": true,
+            "text": "We were repainting out bedroom and we got what we needed. Good product. Didn't give 5 stars because I wish it was alittle bit cheaper.",
+            "author": "icucar",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Looks great\"",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "Decided to go back and put this on top of some latex paint we had just put on to do the trim a different color. Looks good so far.",
+            "author": "Jacob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"trim paint\"",
+            "rating": 5,
+            "date": "12/24/2018",
+            "recommended": true,
+            "text": "I love this paint it goes on like thin caulk and covers in 1 coat .a very good paint for painting the outside of your home",
+            "author": "Daviddoright",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar Semi-gloss Perfect White\"",
+            "rating": 5,
+            "date": "09/13/2018",
+            "recommended": true,
+            "text": "Just as the name, this is the perfect white for any of your exterior trim needs.  I would buy this item again.",
+            "author": "Tracy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect White Latex Exterior Paint\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "I use this paint to make raise garden bed, it is excellent paint. I would recommend it to family and friends.",
+            "author": "kyco",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"white paint\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "The girl At the paint counter KNEW her stuff and boy was she right. One coat application on ceiling",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/02/2019",
+            "recommended": true,
+            "text": "this is the best ceiling paint we have found that works really good",
+            "author": "kelly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good exterior white paint with primer\"",
+            "rating": 5,
+            "date": "12/10/2018",
+            "recommended": true,
+            "text": "Good exterior paint with primer build in.  Used to paint wooden reindeers for Christmas scene.",
+            "author": "Michael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Lowe's, Laurel, Maryland\"",
+            "rating": 5,
+            "date": "10/17/2018",
+            "recommended": true,
+            "text": "Paint was pre-mixed!  Easy to use from the can to the exterior trim.  Easy to use!",
+            "author": "Ken",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Valspar Semi gloss\"",
+            "rating": 5,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "The paint went on easy and self smooth before drying. Hardly any brush marks",
+            "author": "350zflyby",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great quality paint\"",
+            "rating": 5,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "This is typical Valspar. Covers very good and goes on without streaking.",
+            "author": "rlyon1117",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gail",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/25/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/14/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "ncdiygirl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Pat",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/30/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jake",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "09/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hitter",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Timmy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Smitty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/14/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "ncdiygirl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bec",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Brad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "tresa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rod",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/18/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "will",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/01/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lori",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lori",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Glenn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "02/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "HarHod",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "William",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dpretty",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Gregory",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "01/10/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "chris",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/26/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Shari",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/18/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mac",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "09/17/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marco",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "05/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tom",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/05/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jolly",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/09/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tkt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mikied",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Brent",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "10/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "JohnDeBaun",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Denise",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "None",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/31/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "pappyfry",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "max",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Harish",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/29/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "WS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/16/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Count",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Whip",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chelsea",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "08/27/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Neil",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "09/17/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marco",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/02/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "madbax",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/03/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Milly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Catherine",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/10/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hogman",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/24/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "sharon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/24/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "james",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "jill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/30/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "NewbieDIY",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/09/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "lyn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/20/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Zach87",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rabbit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 118,
+        "percentRecommended": "92",
+        "averageStars": "4.7",
+        "starCounts": {
+            "five": 89,
+            "four": 24,
+            "three": 2,
+            "two": 2,
+            "one": 1
+        }
+    },
+    "questions": [
+        {
+            "question": "\"how much square feet one can of paint covers?\"",
+            "author": "Anonymous",
+            "date": "12/18/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/22/2018",
+                    "text": "This product has a maximum coverage of 400 sq. ft.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "12/19/2018",
+                    "text": "The spread rate for this product is approximately 400 square feet per gallon depending on surface porosity.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"can this me used on metal?\"",
+            "author": "OVernon",
+            "date": "03/16/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/20/2018",
+                    "text": "Yes, this paint can be used on metal.",
+                    "helpful": {
+                        "yes": 8,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "03/18/2018",
+                    "text": "Yes, you can apply this product over properly prepared exterior metal.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I have a gallon of this paint left over. Can it be used inside the house?\"",
+            "author": "Lynne",
+            "date": "11/07/2016",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "11/07/2016",
+                    "text": "Thank you for your question. We do not recommend the use of our Perfect White Exterior to be used on the interior.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "11/07/2016",
+                    "text": "Is Valspar Perfect White Satin Exterior Paint is not recommended for interior use.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Why is this not recommended for interior? Reason for asking,I bought a tiny house that previous owner had started but didn't finish with this paint.\"",
+            "author": "Anonymous",
+            "date": "07/08/2019",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "07/08/2019",
+                    "text": "Exterior paint is formulated with mildewcides for exterior use only as well as strong odors.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"what is the dry time of this paint\"",
+            "author": "Anonymous",
+            "date": "06/09/2019",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "06/09/2019",
+                    "text": "Dry Time @ 77 °F and 50% Relative Humidity To The Touch: 30–60 minutes Recoat: 2–4 hours Washing: Allow at least 7 days before washing. Use mild detergent and sponge.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Trim around the front door needs painted, but it going to be raining out but the porch covers the door can I still paint\"",
+            "author": "Anonymous",
+            "date": "06/08/2019",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "06/09/2019",
+                    "text": "We would recommend painting your project once it stops raining. Dry Time @ 77 °F and 50% Relative Humidity To The Touch: 30–60 minutes Recoat: 2–4 hours Washing: Allow at least 7 days before washing. Use mild detergent and sponge. Application Temperature: 50–90° F (10–32° C)",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be used on hardy board siding (concrete fiber board).\"",
+            "author": "Anonymous",
+            "date": "04/12/2019",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "04/15/2019",
+                    "text": "We do not recommend using this product for your specific project. For further recommendations please contact is directly Monday-Saturday from 8am-6pm EST at 1-877-825-7727 or you can e-mail us at questions@valspar.com.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you sand this as if it was just primer to smooth it out?\"",
+            "author": "tbo",
+            "date": "02/24/2019",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "02/25/2019",
+                    "text": "Yes this product can be sanded and used as a primer as long as the paint that will be going over it is equal to the sheen of the Semi-Gloss Perfect White Paint. Otherwise the Valspar Bonding Primer is recommended before top coating.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be tinted? We are planning on painting a door and have a whole gallon of it unopened.\"",
+            "author": "Anonymous",
+            "date": "12/05/2018",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "12/05/2018",
+                    "text": "The Valspar Perfect White Exterior Semi-Gloss paint is not a tint base.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be used on a mobile home aluminum door and would we need to do anything before we painted it?\"",
+            "author": "Anonymous",
+            "date": "10/03/2018",
+            "answers": [
+                {
+                    "badgeName": "193a43ed-f396-5d62-8626-131ffae794ed",
+                    "author": "TeamValspar",
+                    "date": "10/04/2018",
+                    "text": "Yes, this can be used on a mobile home aluminum door. You will need to clean the door thoroughly with an all purpose cleaner and then allow the door to dry before applying the paint.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

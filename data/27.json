@@ -1,0 +1,178 @@
+{
+    "descriptions": {
+        "overview": "Introduce some old-world charm to your cabinets or cupboard with a Matchbox Latch from Brainerd. These latches combine vintage style with trend forward finishes to provide a visual statement in your home. All metal internal components allow for lasting use, making these latches perfect for your next project or room refresh.",
+        "list": [
+            "Introduce old-world charm to your cabinets or cupboard with a Matchbox Latch from Brainerd",
+            "Featuring vintage style with trend forward finishes to provide a visual statement in your home",
+            "Zinc die cast construction with a Satin Nickel finish",
+            "Spring-loaded functionality helps to keep cabinet doors securely closed",
+            "48mm W x 52mm H"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Color/Finish Family",
+            "spec": "Chrome"
+        },
+        {
+            "title": "Hardware Finish",
+            "spec": "Satin"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Satin Nickel"
+        },
+        {
+            "title": "Material",
+            "spec": "Zinc"
+        },
+        {
+            "title": "Latch Type",
+            "spec": "Matchbox latch"
+        },
+        {
+            "title": "Mounting Hardware Included",
+            "spec": 1
+        },
+        {
+            "title": "Width (Millimeters)",
+            "spec": "48"
+        },
+        {
+            "title": "Length (Millimeters)",
+            "spec": "52"
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "31162800"
+        }
+    ],
+    "reviews": [
+        {
+            "images": [],
+            "title": "\"Nice but Loose\"",
+            "rating": 3,
+            "date": "07/07/2017",
+            "recommended": true,
+            "text": "I received this latch as a replacement for the original, which was a polished chrome latch. Not being available... this was a very good alternative. The thing is, the latch knob is loose and was this way from the moment I unpacked it. Not enough to be non-functioning... but not right, either. The knob itself has a wiggle of about 5% to the left and 10% to the right without engaging the opening or closing of the latch. It's just a bit loose in its seat. Once you turn the knob past these points in either direction... it engages the latch opening mechanism. The original was tight... no such lapse. Because of this... I give it a 3-star rating.",
+            "author": "taosblue",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Satin nickel not chrome\"",
+            "rating": 4,
+            "date": "09/14/2018",
+            "recommended": true,
+            "text": "This latch is perfect except I needed chrome and this came in satin nickel",
+            "author": "Esteef",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Inaccurate Description\"",
+            "rating": 1,
+            "date": "12/19/2017",
+            "recommended": false,
+            "text": "This item is actually finished in satin nickel.  The equivalent item in polished chrome is item P21221V-CHR-CP.  Be careful of cabinet hardware from Lowes.  It is often inaccurately described -- i.e. cabinet hinges described as \"latches\".",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 2,
+                "no": 3
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/15/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Lg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "MARTY",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/17/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ramona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Andy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 7,
+        "percentRecommended": "57",
+        "averageStars": "3.9",
+        "starCounts": {
+            "five": 3,
+            "four": 2,
+            "three": 1,
+            "two": 0,
+            "one": 1
+        }
+    },
+    "questions": [
+        {
+            "question": "\"What are the dimensions in inches?\"",
+            "author": "Anonymous",
+            "date": "02/08/2019"
+        },
+        {
+            "question": "\"Is mounting hardware flathead or phillips head scews?\"",
+            "author": "Marcia",
+            "date": "06/11/2017"
+        },
+        {
+            "question": "\"The title says Chrome Cabinet Latch but the description says Satin Nickel finish. Which one is it....chrome or satin nickel?\"",
+            "author": "kemmofer",
+            "date": "10/12/2016"
+        },
+        {
+            "question": "\"Is the Brainrd Crome cabinet latch brush chrome?\"",
+            "author": "Anonymous",
+            "date": "10/18/2015"
+        }
+    ]
+}

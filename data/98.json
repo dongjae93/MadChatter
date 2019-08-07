@@ -1,0 +1,127 @@
+{
+    "descriptions": {
+        "overview": "The T310 aluminum multi-use twin 10 Ft. step-ladder has a large aluminum extruded top and features a duty rating of 300 Lbs. per side making the series T370 ladders ideal for one or two-person jobs. The slip-resistant Traction-Tred® steps on the front and rear sections are all double riveted. Heavy duty aluminum brackets hold the slip-resistant foot pads.",
+        "list": [
+            "Twin sided ladder design for one or two-person jobs",
+            "Maximum load per side, including person and materials, shall not exceed duty rating of ladder",
+            "Large aluminum extruded top with thick side plates",
+            "Slip-resistant Traction-Tred® steps on front and rear sections"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "T370"
+        },
+        {
+            "title": "Type",
+            "spec": "Twin ladder"
+        },
+        {
+            "title": "Material",
+            "spec": "Aluminum"
+        },
+        {
+            "title": "Ladder Rating",
+            "spec": "Type 1A - 300 lbs."
+        },
+        {
+            "title": "Load Capacity (lbs.)",
+            "spec": "300"
+        },
+        {
+            "title": "Height (Feet)",
+            "spec": "10"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "31.75"
+        },
+        {
+            "title": "Height to Platform (Feet)",
+            "spec": "10"
+        },
+        {
+            "title": "Platform Width (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "Platform Length (Inches)",
+            "spec": "10"
+        },
+        {
+            "title": "Maximum Reach Height (Feet)",
+            "spec": "14"
+        },
+        {
+            "title": "Number of Steps",
+            "spec": "13"
+        },
+        {
+            "title": "Rung/Step Depth (Inches)",
+            "spec": "3"
+        },
+        {
+            "title": "Rung/Step Material",
+            "spec": "Aluminum"
+        },
+        {
+            "title": "Rung Type",
+            "spec": "D"
+        },
+        {
+            "title": "Telescoping",
+            "spec": 0
+        },
+        {
+            "title": "Step Rise (Inches)",
+            "spec": "12"
+        },
+        {
+            "title": "Weight (lbs.)",
+            "spec": "43"
+        },
+        {
+            "title": "Weather Resistant",
+            "spec": 1
+        },
+        {
+            "title": "ANSI Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "OSHA Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Silver"
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30191500"
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 1
+        }
+    ],
+    "reviews": [],
+    "reviewStats": {
+        "reviewCount": 0,
+        "percentRecommended": "",
+        "averageStars": "5.0",
+        "starCounts": {
+            "five": 0,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": []
+}

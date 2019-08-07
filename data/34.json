@@ -1,0 +1,1516 @@
+{
+    "descriptions": {
+        "list": [
+            "Help at A glance, see your life in one view, and get things done hands-free. Google home hub helps you make the most of moments at home",
+            "Command your day, with voice match, get your calendar, commute, reminders, and more right on the home screen. you can even watch the news, make A shopping list, and place calls To friends, family, and local businesses",
+            "Simplify your smart home, voice-control compatible lights, cameras, TVs, and more From A single dashboard",
+            "Answers for any moment, ask questions and get visual, immersive answers From Google on weather, recipes, local business info, and more",
+            "Play your favorite songs, use your voice To play your favorite songs, albums, artists, and music videos From YouTube music",
+            "Relive your memories, use your voice To show any picture you’ve ever taken in Google photos, and with live albums, always view the latest photos of loved ones"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Height (Inches)",
+            "spec": "5.63"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "3.78"
+        },
+        {
+            "title": "Depth (Inches)",
+            "spec": "3.78"
+        },
+        {
+            "title": "Weight (lbs.)",
+            "spec": "1.05"
+        },
+        {
+            "title": "Battery Back-Up",
+            "spec": 1
+        },
+        {
+            "title": "Number of USB Ports",
+            "spec": "1"
+        },
+        {
+            "title": "Package Contents",
+            "spec": "Home Hub"
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 1
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 1
+        },
+        {
+            "title": "Works with SkylinkNet",
+            "spec": 1
+        },
+        {
+            "title": "Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "Type",
+            "spec": "Hub"
+        },
+        {
+            "title": "Installation Required",
+            "spec": 0
+        },
+        {
+            "title": "Series Name",
+            "spec": "Home Hub"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Chalk"
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 0
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 1
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 1
+        },
+        {
+            "title": "Works with Android",
+            "spec": 1
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 1
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 1
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"The best smart display/ photo frame\"",
+            "rating": 5,
+            "date": "10/23/2018",
+            "recommended": true,
+            "text": "One of the most heartfelt things this product does is that it serves as a family photo frame displaying all our pictures from Google Photos ! Just for that feature alone I would buy this product again! But this thing has the Google assistant built in it to control my smart home and has YouTube videos to help me cook!",
+            "author": "Yeaindeeditsme",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 28,
+                "no": 3
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b32865b1-7e6f-51ae-9d48-02350ebb64e9",
+                    "largeName": "2821f2e0-a505-5b84-93e8-d7ac6ae8cbba"
+                }
+            ],
+            "title": "\"Google Assistant - Home Hub\"",
+            "rating": 5,
+            "date": "12/10/2018",
+            "recommended": true,
+            "text": "We decided to go with Google instead of Alexa. After reviewing many articles we found Google to be the best fit. We started with the Mini's and liked it so much we decided to get the Home Hub. We have not been disappointed at all. The hub is under a join email account so we share calendars and events. The Assistant knows all of our voices and even turns on options per our personal settings. Love it!",
+            "author": "DLLong",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great product that grows with you\"",
+            "rating": 5,
+            "date": "11/19/2018",
+            "recommended": true,
+            "text": "The Google Home Hub is one of those great product that you don't realize that you need until you own one. Having the ability to control my home security cameras, lights, ext. is outstanding. Simple things, like asking Google to play music, ask what's the weather or many other questions that come up day to day truly improves time management and security.",
+            "author": "Tony",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 3
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4481136d-1e35-5f17-8697-8571722cc290",
+                    "largeName": "dafaa2a3-173e-5133-bc48-45e8f4f63785"
+                }
+            ],
+            "title": "\"Works great!\"",
+            "rating": 5,
+            "date": "02/07/2019",
+            "recommended": true,
+            "text": "I am able to control my Nest thermostats and Osram lights throughout my home with ease and I often use it over the Alexa. I also love the whole-home audio option so my family could not escape the holiday music this last Christmas.",
+            "author": "Neem3er",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Google Home Hub (GHH)\"",
+            "rating": 3,
+            "date": "11/12/2018",
+            "recommended": null,
+            "text": "I bought one so I could start using Google Play (GP) to read audible books at home and in the car (with my phone.) The GHH would play my audible book but the max volume was maybe half that of the Amazon Echo when it plays audible books. I could not hear it in the shower like I can with the Echo. But when it would read the news, video call (Duo) or answer questions it was really loud so it should play the book louder. Once I was in the car GP would not sync to the same point in the book I was at when listening at home on the GHH. Amazon Echo and Audible book would sync back and forth from my phone to or from the Echo View or Dot. Then I noticed that each time I would grab the display to reposition it the GHH would reboot, even in the middle of a Duo video call with my daughter. So I returned it and will wait for GHH 2.",
+            "author": "Steve",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 10,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"On my nightstand\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I'm using this on my nightstand. It has a great clock that dims to dark based on the room lighting so you can see it clearly any time. I've had it for a week and my only complaint is the screen dimming is almost too dark when my bedroom is dark. There's probably a setting for this, I haven't really looked. With my Nest thermostat I can say, Hey Google - what is temperature inside and it tells me the temperature and my settings. Love having the screen!",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/13/2018",
+            "recommended": true,
+            "text": "This thing works perfect with my nest cameras. Awesome product",
+            "author": "Jerry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Awesome Hub for Smart Home\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": null,
+            "text": "This is a awesome Central hub to control all your smart home accessories. Add to it the everyday smarts of Google Assistant makes it that much better. Everyone at home was sceptical when I brought it home, but now after using it for a couple of weeks, it's become everyone's go to source for answers. Even our 6 year old can't get enough. Great product Google. **One thing I wish was different, a slightly bigger screen. Using in the kitchen, a 10\" screen would really put it over the top for me.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Hub\"",
+            "rating": 5,
+            "date": "06/25/2019",
+            "recommended": true,
+            "text": "It works well, I have it linked to my Nest Hello and my Nest IQ.  I can view either camera on here.",
+            "author": "Elliot559",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/15/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "NickV",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "01/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Diyer",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOGLE PRODUCTS\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I have a lot of google products and was excited to get this display screen added to the set. Now it is a home Hub but has limited us on with a smart home hub so from some things I have read that it will not yet work with z-wave outlets. But it can be linked to those smart home hubs like samsung and eccobee and links. You are able to stream movies on it and play youtube. We do love the digital cookbook display option for making recipes.",
+            "author": "dano",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great home assistant\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Because Google has the best search engine interface, the Google Home Hub can handle all sorts of simple and complex queries and can play any kind of on-line music or videos on request.  It can also control your home automation system by interfacing with your existing lighting control hub, as well as your audio/video system in a similar way. The Home Hub's touch screen provides extra flexibility on top of the voice control.",
+            "author": "BillB",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The best Google product yet\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "Very easy to set up and very quick too. I love that I can cast youtube videos and also Sling to the Home Hub. It's very responsive when asking questions. When you have a Nest or other smart thermostat, you can pull down the top shade to control the thermostat visually. Also very fast to control it verbally. Overall the best Google device they have come out with besides the Pixel phones. Definitely, purchase one.",
+            "author": "carbona",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Device\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I find the Home Hub exponentially better as an assistant then just Amazon Echo Dot.  The main advantage is the screen.  Having information popup and seeing it is so much easier than just voice.  I think this is probably true with Amazon Echo Show but having the Nest and Google ecosystem has been nice.  When a visitor is at the door it pops up on screen and I can interact with them from the device.",
+            "author": "mtranweb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not worth having, not user friendly.\"",
+            "rating": 1,
+            "date": "03/15/2019",
+            "recommended": false,
+            "text": "This item isn't user friendly. hard to navigate through different options because there are to many and each one takes you to a different screen that appears to have insignificant options. I found out there is nothing I can use this device to simplify my life instead it is frustrating to hear certain responses that are wrong. For example asking it to \"show me some recipes\" instead it gives me the definition of the word recipes. There wasn't a single word I asked to define recipe. Cant figure out how to change split my screen as it showed on displayed with weather and traffic. Settings are through your phone instead of asking it. Talk about simplicity. I asked to order pizza and it stayed on \"hello my name is Dominique would you like to place an order or check the status of your order\" I asked it to show me directions, shortly after a few seconds it gave me a frozen screen. For the price of this device id rather purchase google home without the screen and it has to be on sale. This item didn't work for me and returning it although I preferably think it belongs with a broken screen, in the garbage. Garbage!",
+            "author": "diyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Poor Sound\"",
+            "rating": 3,
+            "date": "12/30/2018",
+            "recommended": null,
+            "text": "This would get 5 stars if the speaker was as good at the standard google home. The speaker is similar the the google mini. Poor sound and no base. I switched this out for a google home and now I need to get a blue tooth speaker to make up for the poor sound. I do like the screen interface and it works welll. Google please up grade the speaker on this product.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Small yet practical\"",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I've owned Alexa devices for years including Echo show, the google home by far beats it with its smarts. The screen is very small, but high resolution. It is most fit if you are living with Nest ecosystem. The size itself is perfect for the bedside table, which I can never trust placing my Echo show due to the camera and bulk. I love this product!",
+            "author": "jvpablo",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"solid tech\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "bought the google home last black friday, and the family has been loving it. this purchase is even better. so nice to actually see search results in addition to hearing them. and love seeing the pictures that we set up to cycle through it when not in use.turns on all of our smart devices same as before. great black friday purchase.",
+            "author": "homeHubUser",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love This\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "We had a google home mini and replaced it with the Hub with screen. I absolutely love the picture screen display to display photos and the fact you can see you tube videos and have recipes at your finger tips. I would definality reccomend. The hub will do two way calling as well elimating the need for a home phone.",
+            "author": "Tiffany",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So cool in the kitchen!\"",
+            "rating": 5,
+            "date": "01/30/2019",
+            "recommended": true,
+            "text": "I received the Google Home Hub as a birthday gift and I love it! I am using it in the kitchen where its best feature is its hands-free use. I can listen to music, look up recipes online, and check my calendar without having to stop to wash my hands or interrupt whatever task I'm engaged in at the moment.",
+            "author": "Cathy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Parents Love It\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "Bought this for my aging parents, originally unsure as to whether or not they'd get use out of it. They love it, my dad asks it questions about old actors, football players etc and my mom uses it for recipes. They are also getting a lot of enjoyment out of the music. A great idea for people of all ages.",
+            "author": "AT",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Works great, just wish it was a little smarter!\"",
+            "rating": 3,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "I really like the unit and it picks up simple commands great (turn on the TV, turn on the like, what's the local weather, etc...). I was surprised that it wasn't able to tell me the weather forecast for next week or what the wave conditions were.  These seem fairly easy to answer.",
+            "author": "seaside",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"It grows on you!\"",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "I had a google mini before this and never really used it to its potential. After getting the Google Home Hub and learning more about how to use, it has become more and more useful and quickly turning into one of those conveniences you wonder how you lived without. I'm a fan!",
+            "author": "kenjcom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great item\"",
+            "rating": 5,
+            "date": "01/09/2019",
+            "recommended": true,
+            "text": "bought as a gift for my wife. we also have 3 mini google assistants which we both like. we can get all kinds of info. inclu. weather. not to mention using as a timer. surprisingly, it was on sale at Lowes. Also got an extra 10% discount as a military veteran.",
+            "author": "thomas",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Super useful and easy to use\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "If you are just wanting to test the smart home tech, this is an excellent first choice. It sets up in moments, works out of the box as advertised, and learns quickly. There is a learning curve on the Google Home App, but this product is worth every penny.",
+            "author": "ThePaulsens",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent addition to Google Home\"",
+            "rating": 5,
+            "date": "11/13/2018",
+            "recommended": true,
+            "text": "Bought as a Christmas gift for my husband. Haven't opened it yet, but we love the Google home and minid, so we know it will add to the Google experience.",
+            "author": "dg",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Google  Home Hub\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "We have NEST cameras outside of our house and it is really convenient to ask Google to show us the view from each camera.  Also it can be used to show music videos and tell the weather forecast and present temperature.  Have enjoyed so far.",
+            "author": "Ernest",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Google Home Hub\"",
+            "rating": 2,
+            "date": "12/07/2018",
+            "recommended": false,
+            "text": "This device wont work without an android phone or tablet near by ,will not work on its own???I can just use my cell phone or tablet why bother with this. I return both units I order",
+            "author": "Wertz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 8
+            }
+        },
+        {
+            "title": "\"Love it.\"",
+            "rating": 5,
+            "date": "01/05/2019",
+            "recommended": true,
+            "text": "Not sure how I've lived this long, without turning lights on and off. Getting quick answers, playing music, hands free.Have several mini's, smart bulbs and plugs. Turning Christmas lights on and off, if I didn't use the timer was a breeze.",
+            "author": "Magee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Rob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "MAK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mac",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "robert",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "GreatDad",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Challa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "B-PDX",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kevin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Eric",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "12/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Paul",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/10/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "VRD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/12/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "SC",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/13/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/20/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Patty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "junk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Darlene",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/10/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 100,
+        "percentRecommended": "84",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 70,
+            "four": 14,
+            "three": 9,
+            "two": 1,
+            "one": 6
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Is there battery back up when power goes out?\"",
+            "author": "Anonymous",
+            "date": "12/19/2018",
+            "answers": [
+                {
+                    "author": "MrDJPark",
+                    "date": "12/30/2018",
+                    "text": "No is doesn't have battery backup, however, all your settings will be saved. when power is restored Google hubs reconnect automatically with no additional set up.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "12/23/2018",
+                    "text": "No, this model does not have battery back-up.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can I pair this with another google assistant to get 'stereo' sound?\"",
+            "author": "Anonymous",
+            "date": "11/18/2018",
+            "answers": [
+                {
+                    "author": "Donald",
+                    "date": "11/27/2018",
+                    "text": "You can link them, but it will not be in stereo.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "Sktech",
+                    "date": "11/18/2018",
+                    "text": "No.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will I be able to get this for 5% off using my credit card?\"",
+            "author": "Anonymous",
+            "date": "10/18/2018",
+            "answers": [
+                {
+                    "author": "alice",
+                    "date": "10/24/2018",
+                    "text": "Yes, all purchases at Lowes are 5% off with your Lowes consumer or business card.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you use it like an alarm clock with recurring weekday alarms?\"",
+            "author": "Anonymous",
+            "date": "04/24/2019"
+        },
+        {
+            "question": "\"Will this work woth my iris equipment?\"",
+            "author": "Alex",
+            "date": "03/10/2019"
+        },
+        {
+            "question": "\"Will o be able to use it in Germany\"",
+            "author": "Anonymous",
+            "date": "12/08/2018"
+        },
+        {
+            "question": "\"Does this include a 6 month subscription to Youtube TV?\"",
+            "author": "Anonymous",
+            "date": "11/17/2018"
+        }
+    ]
+}

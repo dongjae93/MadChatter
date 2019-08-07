@@ -1,0 +1,168 @@
+{
+    "descriptions": {
+        "overview": "American Standard - style that works better. Durable, reliable, quality engineering and construction. American Standard products are designed for your busy lifestyle. Parts, hardware, and components are engineered to enhance the usage of your American Standard products.",
+        "list": [
+            "Flushing Rim action urinal",
+            "Low consumption",
+            "Siphon jet flush action",
+            "3/4-in inlet top spud",
+            "Includes 2 wall hangers"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Assembled Height (Inches)",
+            "spec": "26.75"
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "64"
+        },
+        {
+            "title": "Assembled Width (Inches)",
+            "spec": "17.5"
+        },
+        {
+            "title": "Assembled Depth (Inches)",
+            "spec": "14"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "WaterSense Labeled",
+            "spec": 0
+        },
+        {
+            "title": "High Efficiency",
+            "spec": 1
+        },
+        {
+            "title": "Spud Inlet Size (Inches)",
+            "spec": "0.75"
+        },
+        {
+            "title": "Installation Method",
+            "spec": "Wall-mounted"
+        },
+        {
+            "title": "Waterless",
+            "spec": 0
+        },
+        {
+            "title": "Integrated Electronic Flush",
+            "spec": 0
+        },
+        {
+            "title": "Spud Location",
+            "spec": "Top"
+        },
+        {
+            "title": "Flush Valve Included",
+            "spec": 0
+        },
+        {
+            "title": "Hardware Finish",
+            "spec": "N/A"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30181500"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "White"
+        },
+        {
+            "title": "Hardware Color Family",
+            "spec": "White"
+        }
+    ],
+    "reviews": [
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/30/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dot",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/30/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dot",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 2,
+        "percentRecommended": "100",
+        "averageStars": "4.0",
+        "starCounts": {
+            "five": 0,
+            "four": 2,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"is the flush assembly included with the urinal?\"",
+            "author": "Anonymous",
+            "date": "11/05/2014"
+        },
+        {
+            "question": "\"Are all flush kits standard size/universal? Brand specific?\"",
+            "author": "Anonymous",
+            "date": "10/13/2018"
+        },
+        {
+            "question": "\"Which flush kits fit this urinal and since it is needed, why aren't companion items listed when selecting on the web site?\"",
+            "author": "Anonymous",
+            "date": "08/10/2018"
+        },
+        {
+            "question": "\"what flush valve is needed for this unit\"",
+            "author": "Anonymous",
+            "date": "08/10/2018"
+        },
+        {
+            "question": "\"Will the American Standard 7301242-100.0020A WASHBROOK FLOWISE 0.125 URINAL STRAINER work with this urinal? If not, which strainer should I use?\"",
+            "author": "DGreco85",
+            "date": "04/18/2018"
+        },
+        {
+            "question": "\"Do I need to install P Trap with this urinal?\"",
+            "author": "Flynn",
+            "date": "12/08/2017"
+        },
+        {
+            "question": "\"Does this one hook straight to the water line or do you need a reducer line?\"",
+            "author": "Jess",
+            "date": "12/31/2016"
+        },
+        {
+            "question": "\"Does this one meets California Saftey requirements?\"",
+            "author": "JDub",
+            "date": "09/13/2016"
+        },
+        {
+            "question": "\"what parts are need for this\"",
+            "author": "kris",
+            "date": "06/23/2016"
+        },
+        {
+            "question": "\"how hi should the drain be for the urinal and how hi should the 3/4 water line be from finish floor. im doing a roughing. Thanks\"",
+            "author": "Anonymous",
+            "date": "02/05/2016"
+        }
+    ]
+}

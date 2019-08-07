@@ -1,0 +1,180 @@
+{
+    "descriptions": {
+        "list": [
+            "Coyote sentry recharge liquid will renew the life of your repellent or attractant stone",
+            "The predator scent is easily added to the stone to bring it back to its full potency",
+            "Good for many months of continuous usage"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "Coyote Urine"
+        },
+        {
+            "title": "Unit of Measure",
+            "spec": "Fluid ounce(s)"
+        },
+        {
+            "title": "Unit of Measure Quantity",
+            "spec": "8"
+        },
+        {
+            "title": "Application Method",
+            "spec": "Squeeze bottle"
+        },
+        {
+            "title": "Delivery System",
+            "spec": "Liquid"
+        },
+        {
+            "title": "Concentrated/Ready-to-Use",
+            "spec": "Ready-to-use"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Outdoor"
+        },
+        {
+            "title": "Natural",
+            "spec": 1
+        },
+        {
+            "title": "Odorless",
+            "spec": 0
+        },
+        {
+            "title": "Recommended for Gophers",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Mice",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Moles",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Rats",
+            "spec": 1
+        },
+        {
+            "title": "Recommended for Rodents",
+            "spec": 1
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "EPA Registration Number",
+            "spec": "N/A"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "Recommended for Squirrels",
+            "spec": 1
+        },
+        {
+            "title": "Primary Usage",
+            "spec": "Animal repellent"
+        },
+        {
+            "title": "Primary Active Ingredient",
+            "spec": "Predator Urine"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "10191700"
+        },
+        {
+            "title": "Maximum Coverage Area (Sq. Feet)",
+            "spec": "16"
+        },
+        {
+            "title": "Duration of Effectiveness",
+            "spec": "30 days"
+        },
+        {
+            "title": "Pest Control Type",
+            "spec": "Control"
+        },
+        {
+            "title": "Safer For Kids",
+            "spec": 1
+        },
+        {
+            "title": "Safer For Pets",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"So far so good\"",
+            "rating": 5,
+            "date": "06/18/2019",
+            "recommended": true,
+            "text": "Haven't seen any racoons around my koi pond so far.",
+            "author": "Sidney",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/10/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Coyoteurinelover",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 2,
+        "percentRecommended": "100",
+        "averageStars": "5.0",
+        "starCounts": {
+            "five": 2,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Is the product stocked in store right now?\"",
+            "author": "Anonymous",
+            "date": "04/04/2019"
+        },
+        {
+            "question": "\"What does this use for ?\"",
+            "author": "Anonymous",
+            "date": "09/14/2018"
+        },
+        {
+            "question": "\"What do they mean buy a attractive stone\"",
+            "author": "Anonymous",
+            "date": "06/27/2018"
+        },
+        {
+            "question": "\"what do i use for skunks\"",
+            "author": "Anonymous",
+            "date": "06/02/2018"
+        },
+        {
+            "question": "\"How much coyote urine should I use to chase off the armodillo?\"",
+            "author": "Steve",
+            "date": "03/10/2018"
+        }
+    ]
+}

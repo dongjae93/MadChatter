@@ -1,0 +1,549 @@
+{
+    "descriptions": {
+        "overview": "Sturdy, stylish and extremely comfortable–the Penza delivers full-size relaxation without any compromises. A modern re-imagining of the standard stack chair, the Penza incorporates features that appeal to today’s active lifestyles, including a smart-phone holder and a contemporary upscale design. Perfect for the porch, pool, patio or deck–the Penza is ideally proportioned to fit a wide range of people. Crafted out of high-quality molded resin for hassle-free maintenance and all-weather performance, the Penza is rated to 250 lbs. and tested to ASTM residential standards.",
+        "list": [
+            "Includes smart phone holder",
+            "High quality weather-resistant resin",
+            "Stacks for easy storage",
+            "Fade-resistant resin is UV protected to prevent sun damage"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Type",
+            "spec": "Dining"
+        },
+        {
+            "title": "Collection Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Frame Type",
+            "spec": "Plastic"
+        },
+        {
+            "title": "Frame Material",
+            "spec": "Plastic"
+        },
+        {
+            "title": "Frame Color/Finish",
+            "spec": "Earth Brown"
+        },
+        {
+            "title": "Wicker/Rattan",
+            "spec": "N/A"
+        },
+        {
+            "title": "Frame Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "FSC Certified Wood",
+            "spec": 0
+        },
+        {
+            "title": "Seat Type",
+            "spec": "Solid"
+        },
+        {
+            "title": "Cushion(s) Included",
+            "spec": 0
+        },
+        {
+            "title": "Cushion Thickness (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "Fabric Brand Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Fabric Material",
+            "spec": "N/A"
+        },
+        {
+            "title": "Primary Fabric Color",
+            "spec": "N/A (no fabric)"
+        },
+        {
+            "title": "Fabric Pattern/Color Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Fabric Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "Motion",
+            "spec": "Stationary"
+        },
+        {
+            "title": "Stackable",
+            "spec": 1
+        },
+        {
+            "title": "Folding",
+            "spec": 0
+        },
+        {
+            "title": "Number of Chairs Included",
+            "spec": "1"
+        },
+        {
+            "title": "Assembled Height (Inches)",
+            "spec": "32"
+        },
+        {
+            "title": "Assembled Depth (Inches)",
+            "spec": "23"
+        },
+        {
+            "title": "Assembled Width (Inches)",
+            "spec": "24.7"
+        },
+        {
+            "title": "Seat Height (Inches)",
+            "spec": "16.75"
+        },
+        {
+            "title": "Seat Width (Inches)",
+            "spec": "18.5"
+        },
+        {
+            "title": "Seat Depth (Inches)",
+            "spec": "17"
+        },
+        {
+            "title": "Seat Back Height (Inches)",
+            "spec": "16.75"
+        },
+        {
+            "title": "Seat Back Width (Inches)",
+            "spec": "18"
+        },
+        {
+            "title": "Weight Capacity (lbs.)",
+            "spec": "250"
+        },
+        {
+            "title": "Chair Weight (lbs.)",
+            "spec": "4.6"
+        },
+        {
+            "title": "Furniture Type",
+            "spec": "Dining"
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Good value\"",
+            "rating": 5,
+            "date": "03/05/2019",
+            "recommended": true,
+            "text": "For the price, these are definitely worth it.   Used by the pool.  Also used for a shower chair when leg injured.",
+            "author": "GRANTHAS",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 11,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "2eb964a1-0769-5ffb-a03f-73c4600f6099",
+                    "largeName": "a762e9d3-4aab-5fd9-b0eb-b9c16e937716"
+                }
+            ],
+            "title": "\"Great for my classroom reading area!\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "I bought two of these to use in my classroom reading area and the kids love them.",
+            "author": "Jenn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "479612de-2230-5502-9c6a-f74608656833",
+                    "largeName": "ce00d14c-d98a-5acc-bc2e-b67fe6daa3f1"
+                }
+            ],
+            "title": "\"Worth to purchase\"",
+            "rating": 5,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "Good chair. I can fit this chair in any room , easy to carry.",
+            "author": "Shanthala",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "03/31/2019",
+            "recommended": true,
+            "text": "Love the chair. It is sturdy and looks permit on our patio",
+            "author": "Sher",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 6,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Exactly what I needed!\"",
+            "rating": 5,
+            "date": "04/13/2019",
+            "recommended": true,
+            "text": "Perfect product at a good price.  Can't ask for more than that!  Going to get another one this week!  Will be easy to keep clean on the deck.",
+            "author": "Wheels",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Nice chair.\"",
+            "rating": 5,
+            "date": "04/14/2019",
+            "recommended": true,
+            "text": "The only thing bad bout this chair is that in the direct sunlight it does get hot, if you have it in the shade you are good to go!",
+            "author": "CatCam",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Junk\"",
+            "rating": 1,
+            "date": "07/06/2019",
+            "recommended": false,
+            "text": "Bought four chairs and two broke the berry first time sat on",
+            "author": "Pilz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great outside chair\"",
+            "rating": 5,
+            "date": "05/17/2019",
+            "recommended": true,
+            "text": "Comfortable, sturdy and attractive. Great addition to your patio or deck.",
+            "author": "Bscmom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Great Value for the price\"",
+            "rating": 5,
+            "date": "05/15/2019",
+            "recommended": true,
+            "text": "Nicely made strong and wide seating and weight limit is good.",
+            "author": "Vicky",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Phyllis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Phyllis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Needed a place to sit\"",
+            "rating": 4,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "Bought two of these so my wife and I could sit while watching two of our grandchildren. Comfy and strong but needs a good cleaning since they were being stored outside the store.",
+            "author": "Tanker",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"lawn chair sturdy\"",
+            "rating": 4,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "Chair is sturdy and holds 3oo lbs.  Will last and should stay supple in the sun.",
+            "author": "bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Well made.\"",
+            "rating": 5,
+            "date": "06/18/2019",
+            "recommended": true,
+            "text": "Purchased 4 chairs for an upcoming picnic and these were perfect. Guests loved the phone holder and chairs were very comfortable.",
+            "author": "Skyvee",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Perfect outdoor chair\"",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "This chair is sturdy and comfortable for outdoor use.  I bought 4 wish I had bought 8!",
+            "author": "debbie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Sturdy\"",
+            "rating": 4,
+            "date": "05/13/2019",
+            "recommended": true,
+            "text": "I was looking for inexpensive plastic chairs and these are just what I wanted.",
+            "author": "PonchyLady",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Legs are weak\"",
+            "rating": 2,
+            "date": "07/01/2019",
+            "recommended": false,
+            "text": "The front legs are weak and give away when you lean forward",
+            "author": "SRT",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Adams made in America chair\"",
+            "rating": 5,
+            "date": "06/23/2019",
+            "recommended": true,
+            "text": "I love that this chair is made here. It's very sturdy and comfortable.",
+            "author": "Brandygirl77",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Adams Mfg Corp Stackable Plastic Dining Chair\"",
+            "rating": 5,
+            "date": "05/09/2019",
+            "recommended": true,
+            "text": "Chair is comfortable and price was right. What more is there to say!",
+            "author": "Bubba",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Bought for daughter's first apartment.\"",
+            "rating": 4,
+            "date": "04/23/2019",
+            "recommended": true,
+            "text": "Seems to work for someone just starting out in life.",
+            "author": "teknogeko",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/10/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Walter",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/20/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Phyllis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/19/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "CGriff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "02/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "bobotheclown",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "03/07/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "SDelia",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 1,
+            "date": "06/04/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Seymour",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 29,
+        "percentRecommended": "86",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 20,
+            "four": 6,
+            "three": 0,
+            "two": 1,
+            "one": 2
+        }
+    },
+    "questions": [
+        {
+            "question": "\"does this chair come in white? do you have any white chairs?\"",
+            "author": "Anonymous",
+            "date": "02/21/2019",
+            "answers": [
+                {
+                    "badgeName": "1000712666",
+                    "author": "Adams Manufacturing",
+                    "date": "02/22/2019",
+                    "text": "Unfortunately, this item is only available in the color earth brown.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does the chair require assembly? If so what are demensions of box\"",
+            "author": "Anonymous",
+            "date": "07/09/2019"
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "descriptions": {
+        "overview": "The Master Lock no. M736 hidden shackle padlock hasp features a 9-1/16 In. (230 mm) long steel body for maximum strength and durability and accepts shackles with diameters up to 9/16 In. (14 mm). Ideal to secure sliding and swinging doors on garages, storage buildings, vehicles and vending machines.",
+        "list": [
+            "Padlock application: for indoor and outdoor use; lock and hasp is best used for moving trucks and vans, storage locks, and buildings with sliding doors",
+            "Durable design: lock is made of zinc plated solid steel for maximum strength, reliability and corrosion resistance, hidden shackle design eliminates shackle exposure and protects against bolt cutter attacks",
+            "Maximum security: 5-pin cylinder provides maximum pick resistance while key retaining safeguard ensures padlock is not left unlocked",
+            "Specifications: hasp length is 9-1/16 in., lock body diameter is 2-7/8 in. carriage bolts recommended for installation (bolts not included); 3/8 in. bolts recommended for installation",
+            "Includes: one padlock and hasp, two keys"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Lock Type",
+            "spec": "Keyed padlock"
+        },
+        {
+            "title": "Dial Count",
+            "spec": "N/A (keyed lock)"
+        },
+        {
+            "title": "Combination Type",
+            "spec": "N/A (not combination)"
+        },
+        {
+            "title": "Shrouded Shackle",
+            "spec": 1
+        },
+        {
+            "title": "Number of Pins",
+            "spec": "5"
+        },
+        {
+            "title": "Contractor Grade",
+            "spec": 1
+        },
+        {
+            "title": "Weatherproof",
+            "spec": 1
+        },
+        {
+            "title": "Keys Included",
+            "spec": 1
+        },
+        {
+            "title": "Rust Protection",
+            "spec": 1
+        },
+        {
+            "title": "Thickness (Inches)",
+            "spec": "1.697"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "9.06"
+        },
+        {
+            "title": "Height (Inches)",
+            "spec": "4.48"
+        },
+        {
+            "title": "Adjustable",
+            "spec": 0
+        },
+        {
+            "title": "Shackle Diameter (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "Shackle Width (Inches)",
+            "spec": "0"
+        },
+        {
+            "title": "For Use with Luggage",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Bikes",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Laptops",
+            "spec": 0
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Silver"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Silver"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Lock Material",
+            "spec": "Steel"
+        },
+        {
+            "title": "Shackle Height",
+            "spec": "1/2-in"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "46171500"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor/Outdoor"
+        },
+        {
+            "title": "TSA Accepted",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "140c649c-2a4b-5091-9bc8-1ad467b024ee",
+                    "largeName": "ba5e004f-0e44-54f1-a67b-986671425540"
+                }
+            ],
+            "title": "\"Heavy Duty Lock\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "This lock is beefy! Vagrants kept breaking the hasp on my storage room to sleep in, but ever since I installed this they haven't been around. It would take some serious work to bust this lock.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very secure\"",
+            "rating": 5,
+            "date": "07/08/2019",
+            "recommended": true,
+            "text": "Placed this lock on side door to cargo trailer. Prior to this lock, door could be pulled and easily popped with screw driver. Now no way to pop lock or door. Very satisfied",
+            "author": "KR",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Prone to rusting out\"",
+            "rating": 2,
+            "date": "01/11/2017",
+            "recommended": false,
+            "text": "The lock cylinder freezes up all the time. Some components rust.After 2yrs,a crucial pressure pin disintegrated.",
+            "author": "Justme",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Awesome secure lock\"",
+            "rating": 4,
+            "date": "07/10/2018",
+            "recommended": true,
+            "text": "The heavy solid security of this lock is evident when you hold it. I'm sure it will do the job. However Masterlock should devise a better locking mechanism. TThe key cylinder actually slides out when unlocked and has very easy potential to fall to the ground with your keys attached if you are not careful and  as a result the key could break in the cylinder or the key pins could easily fall out",
+            "author": "Daniel",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Lock 4 my truck cap\"",
+            "rating": 5,
+            "date": "02/11/2017",
+            "recommended": true,
+            "text": "Still gotta get a piece of steel 2 put behind the left side of the locks because of the way the doors are on the back of the truck cap. Other than that, it's a great lock. I'm buying 1 4 my building soon as I re-do the doors on it. Theres no breaking this lock.",
+            "author": "Justin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Padlock.\"",
+            "rating": 5,
+            "date": "04/20/2018",
+            "recommended": true,
+            "text": "Great idea. Works well to keep people out that should not be entering. Would be hard to cut.",
+            "author": "Jay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Magnum lock\"",
+            "rating": 5,
+            "date": "11/20/2017",
+            "recommended": true,
+            "text": "Great security lock. Only wish lock was sold separately.",
+            "author": "Len",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Does the job.\"",
+            "rating": 4,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "Be careful with the keys. They can't handle a whole lot of torque. I snapped one.",
+            "author": "Kenny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/05/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Dickie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/13/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "llb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jrsass",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"GOOD PRODUCT BUT COST IS TOO HIGH\"",
+            "rating": 3,
+            "date": "10/17/2016",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "HANDYMAN",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/05/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "chino",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/16/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jeb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 14,
+        "percentRecommended": "85",
+        "averageStars": "4.5",
+        "starCounts": {
+            "five": 10,
+            "four": 2,
+            "three": 1,
+            "two": 1,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"will this lock work on double doors on a storage building?\"",
+            "author": "Anonymous",
+            "date": "05/28/2014"
+        },
+        {
+            "question": "\"How would I purchase a key for my MAGNUM MASTER lock ?\"",
+            "author": "Anonymous",
+            "date": "11/23/2018"
+        },
+        {
+            "question": "\"will this lock work on a side sliding door on a ford van?\"",
+            "author": "rotoman",
+            "date": "09/10/2017"
+        },
+        {
+            "question": "\"Does this require a key to actually lock it? If I were inside the building is there any way it could accidentally lock without a key?\"",
+            "author": "Don",
+            "date": "05/20/2017"
+        },
+        {
+            "question": "\"Does this come with mounting hardware\"",
+            "author": "dp",
+            "date": "08/24/2016"
+        },
+        {
+            "question": "\"Are these locks all keyed alike? (Item #310443 / Model #M736XKAD)\"",
+            "author": "Anonymous",
+            "date": "10/08/2012"
+        },
+        {
+            "question": "\"How can I order 6 of these online and make sure they all come keyed alike?\"",
+            "author": "Anonymous",
+            "date": "11/09/2018"
+        }
+    ]
+}

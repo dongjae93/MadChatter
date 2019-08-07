@@ -1,0 +1,1794 @@
+{
+    "descriptions": {
+        "overview": "The Ariens IKON X 52-in is packed with high end residential quality and offers superior power and performance. From a 23 HP Kawasaki FR V-Twin engine to a 52-in 11-gauge steel fabricated deck, this is a tougher, longer-lasting zero-turn mower built to perform. It's constructed with a heavy-duty fully welded steel tubular frame for years of durability and performance and is equipped with three blades covering a 52-in cutting width. Ariens puts a high priority on building low-maintenance machines. We assess, scrutinize, improve, and test every last pin, bolt, and belt. From smarter, sustainable components, to durable, virtually indestructible designs, we’re known for consistently delivering an effortless ownership experience and standing the test of time. Ariens IKON X zero-turn machines are built for mowers, not mechanics.",
+        "list": [
+            "Ariens IKON X 52-in zero-turn riding lawn mower is outfitted with premium features and designed to deliver Professional results, making it one of the best zero-turn values in the industry",
+            "23 HP, 726cc V-Twin Kawasaki FR series engine is a commercial grade power plant that features cast iron cylinder liners for long life, automatic compression release for easy starting and internally vented carburetor for better fuel management",
+            "Twin EZT hydrostatic Transaxles designed to deliver responsive, smooth, effortless control",
+            "52-In 11-gauge steel fabricated deck with three blades is durable and delivers a great cut",
+            "Dial-operated cutting height selector eliminates pins and levers to set your exact cutting height; foot operated deck lift with 13 cutting height positions in increments ranging from 1.5-in to 4.5-in for a customized cut",
+            "High back comfort seat, with standard armrests offers superb operator comfort and padded control arms isolate vibration while operating the mower",
+            "Commercial style dual arm deck lift with a 4 point hanging system for superior deck stability and an even cut",
+            "Fully welded tubular steel frame with 3-in by 1.5-in frame rails welded, not bolted at every joint, for extra strength and stability",
+            "3-Year limited residential warranty (see warranty download for full program details)"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Ammeter",
+            "spec": 0
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "635"
+        },
+        {
+            "title": "Attachment Compatible",
+            "spec": "Rear"
+        },
+        {
+            "title": "Bagger Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Blade Engagement Type (PTO)",
+            "spec": "Electric"
+        },
+        {
+            "title": "California Air Resources Board Compliant",
+            "spec": 0
+        },
+        {
+            "title": "Cruise Control",
+            "spec": 0
+        },
+        {
+            "title": "Cut Width (Inches)",
+            "spec": "52"
+        },
+        {
+            "title": "Cutting Range/Yard Size (Acres)",
+            "spec": "3-5"
+        },
+        {
+            "title": "Deck Gauge",
+            "spec": "11"
+        },
+        {
+            "title": "Differential",
+            "spec": "Standard"
+        },
+        {
+            "title": "Discharge Location",
+            "spec": "Side"
+        },
+        {
+            "title": "Engine Brand",
+            "spec": "Kawasaki"
+        },
+        {
+            "title": "Engine Displacement (Cu. Centimeters)",
+            "spec": "726"
+        },
+        {
+            "title": "Engine Horsepower (HP)",
+            "spec": "23"
+        },
+        {
+            "title": "Engine Oil Capacity (oz.)",
+            "spec": "64"
+        },
+        {
+            "title": "Engine Oil Included",
+            "spec": 1
+        },
+        {
+            "title": "Engine Series",
+            "spec": "Kawsaki FR691"
+        },
+        {
+            "title": "Engine Type",
+            "spec": "V-twin"
+        },
+        {
+            "title": "Front Axle",
+            "spec": "Fabricated steel"
+        },
+        {
+            "title": "Front Wheel Size",
+            "spec": "11-in"
+        },
+        {
+            "title": "Fuel Capacity (Gallons)",
+            "spec": "3"
+        },
+        {
+            "title": "Grease Fittings",
+            "spec": 0
+        },
+        {
+            "title": "Hour Meter Type",
+            "spec": "Meter only"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "Maximum Cutting Height (Inches)",
+            "spec": "4.5"
+        },
+        {
+            "title": "Maximum Forward Speed (MPH)",
+            "spec": "7"
+        },
+        {
+            "title": "Maximum Reverse Speed (MPH)",
+            "spec": "3"
+        },
+        {
+            "title": "Minimum Cutting Height (Inches)",
+            "spec": "1.5"
+        },
+        {
+            "title": "Mulching Capable",
+            "spec": "Yes (kit sold separately)"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "3"
+        },
+        {
+            "title": "Number of Deck Positions",
+            "spec": "13"
+        },
+        {
+            "title": "Number of Deck/Anti-Scalp Wheels",
+            "spec": "3"
+        },
+        {
+            "title": "Oil Filter Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Operator-Controlled Mow-in-Reverse",
+            "spec": 1
+        },
+        {
+            "title": "Overall Width with Deck (Inches)",
+            "spec": "63.4"
+        },
+        {
+            "title": "Rear Wheel Size",
+            "spec": "18-in"
+        },
+        {
+            "title": "Recommended for Terrain Type",
+            "spec": "Flat with obstacles"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Seat Type",
+            "spec": "High-back with lumbar support and arm rests"
+        },
+        {
+            "title": "Series Name",
+            "spec": "Ikon X"
+        },
+        {
+            "title": "Steering Type",
+            "spec": "Dual lap bar"
+        },
+        {
+            "title": "Transmission Type",
+            "spec": "Dual hydrostatic"
+        },
+        {
+            "title": "Type",
+            "spec": "Zero-turn"
+        },
+        {
+            "title": "Warranty",
+            "spec": "3-year limited"
+        },
+        {
+            "title": "Headlight(s)",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "77288337-feb5-55d5-ba5e-d2e6cc726318",
+                    "largeName": "a16347f5-2b93-5473-a619-f815274034eb"
+                },
+                {
+                    "smallName": "6e477ae0-ee11-5fee-8099-ef2efd62cf0c",
+                    "largeName": "86648687-ae19-5428-a918-fbe78d1f5459"
+                }
+            ],
+            "title": "\"It's a beast\"",
+            "rating": 5,
+            "date": "04/15/2019",
+            "recommended": true,
+            "text": "If your used to a John Deere non zero turn, like me, this is a serious upgrade.  I bought it for the price, good size, we'll built and cheaper price. I have never had a zero turn but this mower is awesome. I give it 5 stars but I have only had it 3 days. Mowed 4 acres in 2.5 hours awesome mower. As far as the bad reviews on here, does it have to be perfect, and what is perfect anyway. Nuts and bolts get loose, if they do I will tighten them and replace the missing. It is not so good on hills some say seems fine to me. The cut is not perfect some have said, really it looks great to me. I guess if you a professional yard dresser, but I am just a guy that mows the lawn. And some percentage of every product you buy will be totally unusable and screwed up. Get the mower, you will not regret it. There is a gamble parts and repair may be more difficult to come by. But I think I could just fix it myself. If you want better service buy one of those $4k to 5k mowers. I will take this Ariens and take my chances and save my money.",
+            "author": "David",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 39,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Great machine\"",
+            "rating": 5,
+            "date": "05/24/2018",
+            "recommended": true,
+            "text": "I have been using an 18 yr old Dixon 50\" zero turn. It still runs like a top, but I cut 3 acres and it was taking 3 hours as the Dixon was slower than this Ariens. I cut my mowing time down by 1 hr 5 mins with this mower. I am 6'1\" and weigh 270 lbs and the ride is pretty comfortable for me. I have some hills and uneven terrain and this mower cuts it all without even breathing hard.The quality of the cut is great and I have cut 3 times with it so far and no complaints at all - only compliments and it appears this mower is built to last and is heavy duty.",
+            "author": "PK",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 44,
+                "no": 5
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6900dba9-75de-57fa-b6bc-12c36934ed1d",
+                    "largeName": "111c088b-cc63-5c4c-9eaf-3b43a04b04c7"
+                }
+            ],
+            "title": "\"WOW WHAT A MOWER!!!\"",
+            "rating": 5,
+            "date": "05/10/2018",
+            "recommended": true,
+            "text": "SO HAPPY WITH MY ARIENS 52 INCH MOWER...NO COMPLAINTS WHAT SO EVER.i MOW LESS THEN AN ACRE..I'M ABLE TO MOW COMPLETE IN 30 MINUTES.YARD LOOKS BEAUTIFUL..I DID ORDER GATOR BLADES FROM EBAY..TOOK A LITTLE TO GET USE TO ZERO TURN..HAPPY ,HAPPY.ESPECIALLY AROUND ALL MY FRUIT TREES..WOULD HIGHLY RECOMMEND THIS MOWER..USA MADE TOO..",
+            "author": "STEVARENO",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 29,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Excellent choice after comparing to other brands\"",
+            "rating": 5,
+            "date": "07/17/2018",
+            "recommended": true,
+            "text": "I compared this mower to other brands in this price range and after 3 1/2 months,I am 100% please with this purchase. I would not hesitate to purchase again. It had everything I was looking for a very good price.The 23 HP Kawasaki is very strong with nice torque. Throws even damp grass out nicely and evenly. With my last mower, I could not even think about mowing damp grass. I saw the complaints about mowing hills, but the manual specifically states it is designed for mostly flat ground under 2 acres. I mow 2 small hills with it with no problems.",
+            "author": "rmthunder",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b2734d3c-6994-5f17-8aae-88337aecb9f8",
+                    "largeName": "d57fae61-76d8-5f47-ac58-9d09cd3d8b69"
+                }
+            ],
+            "title": "\"great machine\"",
+            "rating": 5,
+            "date": "09/18/2018",
+            "recommended": true,
+            "text": "Lowe's broght it assemble to my home. easy to operate and powerful engine. I try to buy same machine in Home Depot but they only offer me $100. military discount Hurray for Lowe's.",
+            "author": "Ed",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "3e4d9ec2-c1ea-50b0-b294-3d5b49ce4ea3",
+                    "largeName": "7953855b-e5ac-5971-be1d-d522a832675b"
+                }
+            ],
+            "title": "\"Mows and handles like any other zero turn mower\"",
+            "rating": 5,
+            "date": "04/01/2019",
+            "recommended": true,
+            "text": "I just purchased this mower with the bagger and it is great. Everything was put together correctly and the mower and bagger operated correctly. Easy to steer, starts easy, seat is comfortable, deck was level. Mows well on uneven and hilly ground.",
+            "author": "JohnnyB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Should have bought it sooner\"",
+            "rating": 5,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "I recently purchased a new home with a little over an acre of land. The yard has many trees and shrubs and it took an hour and 45 minutes to cut on my 42” lawn tractor. I finally decided to buy a zero turn after looking at many different brands. I choose the Ariens Ikon X 52 after reading all the reviews and recommendation from a friend that purchased one. I have not been disappointed and it has cut my grass cutting time to less than a hour and I don't have to do nearly the amount of weeding that I used to do. My only regret is not buying it sooner. Another plus is my teenage son loves to ride it and I don't even have to asked him to cut the grass. I just hope that his enthusiasm continues. If you are thinking of buying a zero turn you can't go wrong with an Ariens!",
+            "author": "PVFD",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 19,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Great Mower for the money\"",
+            "rating": 5,
+            "date": "10/28/2018",
+            "recommended": true,
+            "text": "I researched for over a year on purchasing a zero turn mower.  I consulted a friend that repairs all mowers and lawn equipment. I've consulted friends that have lawn services. The amount I paid for this zero turn everyone agreed it was a wise purchase for what you get. Considering I bought the mower at the end of the season, I did reach the 8 hours run time to change the oil before winter. I cut all the grass I could over various terrain with no problems. It's amazing how fast I cut compared to my rider mower I replaced. The Ariens brand, which is a made by well respected Gravely mowers, is more commercially built compared to other name brand mowers with the same price point. I enjoyed cutting grass as a therapy and can't wait till next year with this mower. Any homeowner looking for a reliable zero turn would save quite a bit of money purchasing this mower.",
+            "author": "SteveO65",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ariens Kawasaki 23hp 52 inch\"",
+            "rating": 5,
+            "date": "12/02/2018",
+            "recommended": null,
+            "text": "I used this mower from April-early October before winterizing it. The mowing deck is solid & the 23hp Kawasaki hums like a sewing machine. I mow 1.5 acres with plenty of obstacles, I can get as close as I need which cuts back on my weed whipping time. The seat is comfortable and hydrostatic controls are fantastic. I bought this because of the great reviews, I do see some negative ones but I hope they were resolved.",
+            "author": "Dan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Dangerous with rough ride\"",
+            "rating": 1,
+            "date": "05/15/2018",
+            "recommended": false,
+            "text": "I'm surprised that these things are even legal. They should be rated as a WMD/Weapon of Mass Destruction. Don't go near any hills, slopes or drop off areas etc.  When it first came off the truck, I thought WOW, what a great looking well-built machine but after a couple of days of use, it sounds like it was assembled by monkeys that left every nut on every bolt loose. The right steering control vibrates so much it numbs my hand. The engine sounds like it's ready to blow at any time. If you have a near perfectly level yard with very few obstacles this might be OK for you. The ride is ROUGH,  as well.",
+            "author": "Michael",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 45,
+                "no": 65
+            }
+        },
+        {
+            "title": "\"Not good for slopes\"",
+            "rating": 3,
+            "date": "05/11/2018",
+            "recommended": false,
+            "text": "I got this based on the great reviews. Returned it a week later. Going over some light slopes I had to fight the machine to track straightened the back end was sliding out. Also, trying to find neutral is kind of hard. It's such a small area where neutral is, then you push the handles out but you are still creeping forward or backward. And you can drive with the handles out. Did not like the ride quality at all. Felt every bump. Cut quality was good and it is solid, just didn't like the traction with the small tires or the transmission. I bought the John Deere Z355E and it is so much better than the Ariens. Way more comfortable, wider stance and bigger tires, and went sideways on the slopes with no problem. I would not recommend the Ariens for anyone looking for traction in slopes.",
+            "author": "Bee",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 46,
+                "no": 18
+            }
+        },
+        {
+            "title": "\"Great mower!\"",
+            "rating": 5,
+            "date": "08/02/2018",
+            "recommended": true,
+            "text": "I bought this a week ago, and have mowed once. I watched a YouTube video of someone un-crating this mower, so I knew what Lowes had to assemble. My next step was to double-check the tightness of the bolts. The battery wasn't hooked up, and the mower deck pedal has to be unbolted flipped around. Not a big deal... Ariens ships them that way. I made a slight adjustment to one lever so the mower would track straight when both handles are pushed all the way forward. Do your homework, and make sure it is set up and tight before mowing. (There are uncrating instructions in the paperwork that you can follow also)Now the mowing experience. It mows nice and even. If you have hills, mow up and downhill, not across the hill. (Most zero turns recommend this method) I mowed fast, and if you have rough ground, you will get bounced around. Not much different than the ride quality of the lawn tractor I had before. I love the maneuverability of this mower, and it took my mowing time from 1 hour and 15 minutes, to 40 minutes. I have just over an acre... Fairly level with one hill.So far, I am very pleased with my purchase. The Kawasaki motor is smooth and quiet. The deck is a bit noisy when compensating for bumps, but it didn't scalp, and maintained an even cut over the whole yard.I will update this review if any issues arise.",
+            "author": "Eric",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 33,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Best Choice\"",
+            "rating": 4,
+            "date": "07/04/2018",
+            "recommended": true,
+            "text": "Best choice I have made on a USA made piece of equipment.This Ariens 52in. cut mower took over an hour off of mowing. I could not believe how fast and the great cut it did.I did buy the hitch plate so I can use it for my spreader and roller.Very Satisfied!",
+            "author": "zarks",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awful experience\"",
+            "rating": 1,
+            "date": "05/21/2018",
+            "recommended": false,
+            "text": "We have had the mower for over 2 months and have yet to use it yet. It had a faulty motor which has turned into multiple issues. None of this is any fault to Lowe's. We have received terrible customer service from Ariens and from the company they referred us to, to complete the warranty work. So upset we bought this lemon.",
+            "author": "Brittany",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 77,
+                "no": 18
+            }
+        },
+        {
+            "title": "\"Bad\"",
+            "rating": 3,
+            "date": "05/11/2018",
+            "recommended": false,
+            "text": "Hate it had it for one week would not climb hills will not turn on a dime did not have the power it should of wheels were all out of wack had to spend first 3 hrs trying to adjust the hydro to get them nsink with each other and there was not enough adjustment to do it right so no I would not recommend this mower to anyone",
+            "author": "Chad",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 72,
+                "no": 19
+            }
+        },
+        {
+            "title": "\"Nice Piece of Equipment\"",
+            "rating": 5,
+            "date": "09/05/2018",
+            "recommended": true,
+            "text": "This review is for the mower itself, not for Lowes. I love the machine. Only used it to cut my grass twice so far, but what a difference compared to my lawn tractor. Speed, cut, efficiency is tremendous. I was missing the cable that attaches under the seat but that is a Lowes issue not an Ariens issue. I couldn't be happier with the mower. I searched and researched prior to buying and I almost went with another brand. Glad I didn't! For Lowes... got a few beefs. 3 times my delivery got rescheduled and 1 of those times I didn't get a call until 30 minutes after the time window they gave me. I lost a total of 5 hours of work waiting for deliveries tht never happened. I was pretty upset with the third party delivery service. Lowes you can do better!",
+            "author": "lukdeluk",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Heavy Duty Machine\"",
+            "rating": 5,
+            "date": "05/05/2018",
+            "recommended": true,
+            "text": "Very glad we bought this mower, solid construction, easy to use. Currently I back it into my shed with 1.5\" of clearance between the doors, no problem. Whips around trees with ease, very happy with the cut. Mulching kit is on its way, we'll see how that goes.",
+            "author": "Julian",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 14,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Love it, don't know why I went all these with out one\"",
+            "rating": 5,
+            "date": "02/13/2018",
+            "recommended": true,
+            "text": "Best and most durable mower ive ever owned, bought it last summer when i bought my house, my 2 acre lot hadn't been mowed in over a year, grass and weeds were over 4 feet tall and very thick, mowed it like it was built for it, have not had the first problem out of it, used it this winter in 0 degree temps for pulling a 4x4 trailer around lot, never failed and never be to start, pull choke, hit the key start before it made 1 full revolution. Just wish it had lights on it so i wouldn't have to spend the 144.00 for the accessories light kid this spring. I mow mostly at night when its cooler, be nice to NOT have to hold a pocket flashlight in my mouth while mowing.",
+            "author": "TimG",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Got a Dud, but Lowes Took Care of Me...\"",
+            "rating": 5,
+            "date": "05/15/2018",
+            "recommended": null,
+            "text": "This really is a great mower.  It may not sound like it from my experience, the one I got lasted two hours, then it went clunk clunk and died when I engaged the blades.  Lowes was perfect.  They said they would fix it, and I said that I would really like to have a different one.  No arguing, they just came out and swapped them.  In just a few days, just sitting, the battery went dead, and it said it had 64 hours on it.  I think I got a lemon the first time, but Lowes did good, and I think most of these are top notch for the price range.  My new one is killer, and a blast to cut grass with.This one is the 52\" version, which I guess is a little hard to find.  If you have a few acres, definitely go for this size.  For the engine, it is a standard Kawasaki, which is used on a lot of different mower brands.  You can also get a Briggs & Stratton with this model, but 90% are Kawasaki.Thanks again to Lowes, I appreciate the military discount, and the awesome service.",
+            "author": "Warrensburg59",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"From rider to zero turn\"",
+            "rating": 5,
+            "date": "04/29/2019",
+            "recommended": true,
+            "text": "I absolutely love this mower! I only have 15 hours on my mower but I will never buy a regular riding mower again. This is my first zero turn mower. I had a 46\" deck on a Husqvarna riding mower (which I liked) but this Ariens is about everything I'd hoped it would be. It mows thick, long grass much better (more power and extra blade). Its very comfortable (I'm 6' 4\" / 290). It mowes very evenly and doesn't bogg down. I just mowed a 5 acre field on 1 tank of gas so it doesn't burn up fuel very bad.  Negatives; it doesn't get through muddy conditions quite as good as a regular mower. straight lines are a bit trickier (but I'm pretty picky about my lines), you have to stop to itch your nose (lol) and I don't like not having a fuel gauge or low fuel indicator. Other than thos things it's much quieter, more comfortable and easier/quicker to mow a great looking lawn (I have 3 acres).",
+            "author": "Matt",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"5 Star Mower, 2 or 3 Star Lowe's store.\"",
+            "rating": 5,
+            "date": "05/16/2018",
+            "recommended": true,
+            "text": "Bought this mower on the 12th of May, 2018. Store didn't have any assembled so I was told that it would take two business days to assemble but it would be ready to \"gas and go\" when the store opened at 6 AM today, the 16th. Suffice it to say it wasn't, I finally got it at 10 AM. But that's on Lowe's and the store in Terre Haute, Indiana and has nothing to do with the mower itself.The mower itself is a trained little beast of a machine, cuts fast and clean, steering is very responsive and the important parts are made of heavy gauge metal although some guards and shields are plastic or lighter metal that are going to get bent up over the years. It will pull hills, but the turf tires do slip some so expect that. (When and if I have to replace them, I'll opt for a lug tread pattern.)",
+            "author": "Leo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Ariens IKON X 23-hp 52 -in cut zero turn mower\"",
+            "rating": 4,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "after looking at several different brands of zero turn mowers i decided on the IKON X because it seems to have more features and is better built than most residential mowers that are in the same price range. I liked the 12 gauge fabricated deck, the fully welded frame and the Kawasaki motor, all strong selling points for this style mower. it is not built to commercial standards but i believe it will last many years with proper care and maintenance and for the cost it is hard to beat for residential users with large lawns. it takes a little practice to get use to operating it but it will cut down on your mowing time, its almost fun to use and it will make you the envy of your neighborhood.",
+            "author": "slick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"I did my research, Ariens builds the best ZTR!\"",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "I researched a lot of zero turn mowers before deciding on the Ariens Icon X 52 to mow my 1.6 acre yard. The mower is extremely well built and solid throughout. Kawasaki engine is exceptional and very powerful. You get A LOT of mower for your money with Ariens unlike the other manufactures. And most importantly it's made in the USA! Buy it, I did and I couldn't be happier. (Recommendation) pick up in store DON'T have it delivered! XPO is a terrible company that shouldn't be delivering for Lowe's.",
+            "author": "ProudVeteran",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"oil leak\"",
+            "rating": 3,
+            "date": "09/10/2018",
+            "recommended": false,
+            "text": "Had it work 3 months.  Working great over all, however, it started leaking engine oil where the oil drain plug is.  Oil stained my concrete.  The plug is tight, and still leaking.  Called local Ariens dealer, they said I had to drop off the machine at their place where it has to sit for 4 weeks!!! before they get the warranty claim reviewed.  Yest, it has to sit there for 4 weeks.  World class service.",
+            "author": "nick467",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 11,
+                "no": 4
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "0e46a4d8-1b64-51be-8e13-860dfed1c682",
+                    "largeName": "8ab590b2-66fe-520f-98e1-308d28035408"
+                }
+            ],
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "03/03/2019",
+            "recommended": true,
+            "text": "Bought to mow 4 acres on our property. Cut down on mowing time by over 50%. Comfortable and easy to use mower.",
+            "author": "Mb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "1a35cb4b-06ef-552d-96c9-480600c546c1",
+                    "largeName": "b68cb31e-e2bf-5976-b8ae-2cdef3b12edb"
+                }
+            ],
+            "title": "\"Sweet\"",
+            "rating": 5,
+            "date": "09/20/2018",
+            "recommended": true,
+            "text": "Runs smooth, quiet and quick. Oh yeah, looks great too!",
+            "author": "Gbird",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"WOW!! What a Machine!\"",
+            "rating": 5,
+            "date": "03/10/2019",
+            "recommended": true,
+            "text": "I wanted to use the mower for one season before I offered my review. I live on 3 acres, that is not flat by any means. My wife is into gardening, and we have flowers, bushes, trees, etc. planted throughout the property. Plenty of obstacles to mow around. My previous mower was also a zero turn (different manufacturer), same size deck and hp, but that thing is like a Tinker Toy compared to this one. When I get on it now, I can't believe I used to cut with it. This new mower has cut my mowing time in HALF...3 hours to 1-1/2 hour.The Kawasaki motor was probably the biggest selling point. Those things are as solid as you can get. The fabricated deck is also a giant plus. The seat is very comfortable for me. I sit low enough so I don't feel top heavy cutting on the slopes, like on the old mower. I bought mine still in the crate. Wanted to assemble it myself, mainly because I'm old and have nothing better to do! Didn't want some young kid putting the handles on backwards, or whatever, but the hardest part of that job was trying to get rid of the crate. It did make a nice bonfire, though!Anyways, I feel it is a great machine, the price is right, and I have no regrets making the purchase. I'm looking forward to many years of trouble free service!",
+            "author": "Jon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Runs like A Lion\"",
+            "rating": 5,
+            "date": "09/01/2018",
+            "recommended": true,
+            "text": "Picked this mower because of the Kawasaki Engine & the 52 inch cut !Mower was very forgiving for A New Green Horn zero turn operator like myself ! Learning where things were a bit too close and where it would fit ! Mower cuts great and runs great as well ! Nice fabricated deck with plenty of power !",
+            "author": "UltraGator",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Only Regret: Should Have Bought This Sooner!\"",
+            "rating": 5,
+            "date": "06/09/2017",
+            "recommended": true,
+            "text": "Fantastic machine! I researched extensively and dithered way too long. Don't waste your time - this is the one you want. I mow about 1.5 fairly uneven acres, lots of trees and several \"legacy\" stumps to negotiate around. The X52 has reduced mowing time by nearly half [vs non-Zturn rider]. Starts instantly, maneuvers easily, never bogs in tall stuff and leaves an excellent finished cut. After 13 hours on the clock and nearly 2x the mowings completed with better results in the same amount of clock time, my only regret is that the grass doesn't grow faster so I could mow more often!",
+            "author": "JRez",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"maybe 3rd times the charm!\"",
+            "rating": 2,
+            "date": "06/01/2019",
+            "recommended": false,
+            "text": "purchased the first one ran it once, wouldn't turn on again. Even tried charging the battery overnight to no avail. Second one was delivered close to 3 weeks later, took a week to get in the store, then a week and a half to get delivered, ran it once, used 5.7 hrs on 9.5 acres flat ground. and pulled it into my garage, cranked it up this morning and saw a giant puddle of oil on my garage floor. Now have to wait another 2 weeks for a replacement! at least lowes Is honoring the 30 day guarantee.",
+            "author": "BammaMomma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"5 Star Mower, 2 or 3 Star Lowe's store.\"",
+            "rating": 5,
+            "date": "05/16/2018",
+            "recommended": true,
+            "text": "Bought this mower on the 12th of May, 2018. Store didn't have any assembled so I was told that it would take two business days to assemble but it would be ready to \"gas and go\" when the store opened at 6 AM today, the 16th. Suffice it to say it wasn't, I finally got it at 10 AM. But that's on Lowe's and the store in Terre Haute, Indiana and has nothing to do with the mower itself.The mower itself is a trained little beast of a machine, cuts fast and clean, steering is very responsive and the important parts are made of heavy gauge metal although some guards and shields are plastic or lighter metal that are going to get bent up over the years. It will pull hills, but the turf tires do slip some so expect that. (When and if I have to replace them, I'll opt for a lug tread pattern.)",
+            "author": "Leo",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Ariens IKON X 23-hp 52 -in cut zero turn mower\"",
+            "rating": 4,
+            "date": "08/03/2018",
+            "recommended": true,
+            "text": "after looking at several different brands of zero turn mowers i decided on the IKON X because it seems to have more features and is better built than most residential mowers that are in the same price range. I liked the 12 gauge fabricated deck, the fully welded frame and the Kawasaki motor, all strong selling points for this style mower. it is not built to commercial standards but i believe it will last many years with proper care and maintenance and for the cost it is hard to beat for residential users with large lawns. it takes a little practice to get use to operating it but it will cut down on your mowing time, its almost fun to use and it will make you the envy of your neighborhood.",
+            "author": "slick",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"I did my research, Ariens builds the best ZTR!\"",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "I researched a lot of zero turn mowers before deciding on the Ariens Icon X 52 to mow my 1.6 acre yard. The mower is extremely well built and solid throughout. Kawasaki engine is exceptional and very powerful. You get A LOT of mower for your money with Ariens unlike the other manufactures. And most importantly it's made in the USA! Buy it, I did and I couldn't be happier. (Recommendation) pick up in store DON'T have it delivered! XPO is a terrible company that shouldn't be delivering for Lowe's.",
+            "author": "ProudVeteran",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"oil leak\"",
+            "rating": 3,
+            "date": "09/10/2018",
+            "recommended": false,
+            "text": "Had it work 3 months.  Working great over all, however, it started leaking engine oil where the oil drain plug is.  Oil stained my concrete.  The plug is tight, and still leaking.  Called local Ariens dealer, they said I had to drop off the machine at their place where it has to sit for 4 weeks!!! before they get the warranty claim reviewed.  Yest, it has to sit there for 4 weeks.  World class service.",
+            "author": "nick467",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 11,
+                "no": 4
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "0e46a4d8-1b64-51be-8e13-860dfed1c682",
+                    "largeName": "8ab590b2-66fe-520f-98e1-308d28035408"
+                }
+            ],
+            "title": "\"Great Mower\"",
+            "rating": 5,
+            "date": "03/03/2019",
+            "recommended": true,
+            "text": "Bought to mow 4 acres on our property. Cut down on mowing time by over 50%. Comfortable and easy to use mower.",
+            "author": "Mb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "1a35cb4b-06ef-552d-96c9-480600c546c1",
+                    "largeName": "b68cb31e-e2bf-5976-b8ae-2cdef3b12edb"
+                }
+            ],
+            "title": "\"Sweet\"",
+            "rating": 5,
+            "date": "09/20/2018",
+            "recommended": true,
+            "text": "Runs smooth, quiet and quick. Oh yeah, looks great too!",
+            "author": "Gbird",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"WOW!! What a Machine!\"",
+            "rating": 5,
+            "date": "03/10/2019",
+            "recommended": true,
+            "text": "I wanted to use the mower for one season before I offered my review. I live on 3 acres, that is not flat by any means. My wife is into gardening, and we have flowers, bushes, trees, etc. planted throughout the property. Plenty of obstacles to mow around. My previous mower was also a zero turn (different manufacturer), same size deck and hp, but that thing is like a Tinker Toy compared to this one. When I get on it now, I can't believe I used to cut with it. This new mower has cut my mowing time in HALF...3 hours to 1-1/2 hour.The Kawasaki motor was probably the biggest selling point. Those things are as solid as you can get. The fabricated deck is also a giant plus. The seat is very comfortable for me. I sit low enough so I don't feel top heavy cutting on the slopes, like on the old mower. I bought mine still in the crate. Wanted to assemble it myself, mainly because I'm old and have nothing better to do! Didn't want some young kid putting the handles on backwards, or whatever, but the hardest part of that job was trying to get rid of the crate. It did make a nice bonfire, though!Anyways, I feel it is a great machine, the price is right, and I have no regrets making the purchase. I'm looking forward to many years of trouble free service!",
+            "author": "Jon",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 9,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Runs like A Lion\"",
+            "rating": 5,
+            "date": "09/01/2018",
+            "recommended": true,
+            "text": "Picked this mower because of the Kawasaki Engine & the 52 inch cut !Mower was very forgiving for A New Green Horn zero turn operator like myself ! Learning where things were a bit too close and where it would fit ! Mower cuts great and runs great as well ! Nice fabricated deck with plenty of power !",
+            "author": "UltraGator",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Only Regret: Should Have Bought This Sooner!\"",
+            "rating": 5,
+            "date": "06/09/2017",
+            "recommended": true,
+            "text": "Fantastic machine! I researched extensively and dithered way too long. Don't waste your time - this is the one you want. I mow about 1.5 fairly uneven acres, lots of trees and several \"legacy\" stumps to negotiate around. The X52 has reduced mowing time by nearly half [vs non-Zturn rider]. Starts instantly, maneuvers easily, never bogs in tall stuff and leaves an excellent finished cut. After 13 hours on the clock and nearly 2x the mowings completed with better results in the same amount of clock time, my only regret is that the grass doesn't grow faster so I could mow more often!",
+            "author": "JRez",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"maybe 3rd times the charm!\"",
+            "rating": 2,
+            "date": "06/01/2019",
+            "recommended": false,
+            "text": "purchased the first one ran it once, wouldn't turn on again. Even tried charging the battery overnight to no avail. Second one was delivered close to 3 weeks later, took a week to get in the store, then a week and a half to get delivered, ran it once, used 5.7 hrs on 9.5 acres flat ground. and pulled it into my garage, cranked it up this morning and saw a giant puddle of oil on my garage floor. Now have to wait another 2 weeks for a replacement! at least lowes Is honoring the 30 day guarantee.",
+            "author": "BammaMomma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"2 acre yard\"",
+            "rating": 5,
+            "date": "03/23/2019",
+            "recommended": true,
+            "text": "Initially i was looking at a Husqvarna and was talking with the manager at Lowes about zero-turn mowers.  He recommended I look at this one.  They have them on their web-site but I had never seen one in the store.  I had a John Deer but it was struggling with my lot size (and had been for the past 10 years).  After researching it, I liked what I read and most of the reviews I saw.  I  like the fact it is made in the USA, I like the  Kawasaki FR V-Twin engine engine, and mostly I like the 52 inch cut (my previous was 42 inch). It took about 2 weeks to get it to the store and assembled but given that the cutting season isn't here yet that wasn't a problem.After I got it home, I gave it a spin to cut down the quickly growing onions that are littering the yard. Now I've only mowed with it once, so consider my comments below within that context:GOOD:- good power. It has plenty of power and I didn't have any issue with it bogging down on slopes.- speed. Wow, plenty of speed but controlling it is a a new experience for me. I'm used to a petal to control the speed but the zero-turn uses the position of the handles.  The further forward the faster and the knee jerk reaction is to pull back to slow down.  But you better do it with both hands because otherwise, you just go in circles and depending on what you are trying to avoid you might end up driving into it (speaking from experience)- blade cutting depth. I really like the blade cutting depth selection and blade engagement system, it seems very sturdy.- easy access to maintenance points.  Changing the oil and fuel filters on the previous mower was not pleasant but this one has everything right there in the open and easy to get to.  I've not sharpened or replaced the blades yet so I can't speak to accessing them, replacing the drive belts, and such.- Love the arm rests!BAD (some of this may just be my need to get used to it):- sensitivity of controls. The control arms seem very (overly) sensitive.  To get close to things, I had to really slow down and simply tweak the handles to follow along closely. I would be nice to have a little more play in them.- creep in neutral. This was probably my only real complaint at this point,  when you put the handles in the neutral position, I found they mower tends to creep so if you want to actually stop moving, you have to apply the break immediately after going to neutral.- Tires.  the tires that come with the unit tend to not grab very well.  When I mowed, the lawn was moist and I found that one tire would grab and the other spin which complicated things from a steering perspective and made it hard to track straight.- Trailer Hitch.  This is sold as a separate accessory, but IMO it should come as part of the unit. Selling the hitch as an accessory seems to make the mower incomplete.  I typically will use it with a small trailer, aerator, or lawn sweeper. Overall, it is a very well built mower and will allow me to get all my mowing done much quicker than my previous one did--it is just going to take some getting used to transitioning from a regular lawn tractor to a zero-turn.",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ikon X 23-HP V-twin Dual Hydrostatic 52-in Zero-tu\"",
+            "rating": 5,
+            "date": "06/17/2019",
+            "recommended": true,
+            "text": "We have had our new Ariens Ikon X 23-HP V-twin Dual Hydrostatic 52-in Zero-turn Zero-Turn Mower only about three weeks, but so far we are very pleased with it and the performance.  It will run circles around our lawn tractor with similar power.  Having never driven a Zero-Turn mower before, the first day was a little tricky trying to keep it in a straight line.  Recommend you initially run at 50% power setting.  Full throttle took off with me for a ride I wasn't expecting.",
+            "author": "Texan-In-Exile",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ahhh\"",
+            "rating": 2,
+            "date": "05/14/2018",
+            "recommended": null,
+            "text": "Bought the mower from lowes, mother in law was at the house to recieve it. She said the delivery guys almost dropped the entire mower out of their truck. After finally getting it unloaded the went to put it in the barn and ran it out of fuel. The barn is about 30 yards from the drop off point. When i got home i inspected the mower. Found 6 bolts that were loose. Had to put fuel back in it since they had to push it the rest of the way to the barn. The foot pedal for the deck was put on the wrong side of the bracket and it was backwards and upside down also. Had no manual or spare key either. The informed my mother in law we would have to go to the store to get both which is 40 minutes away. Very displeased with lowes through all of it.As for the mower. I like the deck itself. Its tough and more solid than alot of the other decks ive had. Rear tires leave alot to be desired. Not very big at all and like a few other posts ive now seen i have the same issue with hills. I have a few small hills in my yard and its a pain to try to get half way straight going side to side. This isnt a steep incline im talking about about and its a battle. The ride itself is ok. Not near as smooth as i thought it would be, but the seat is very comfortable. Neutral is hard to find. It wants to keep creeping foward or back whenever i want to stop. The kawasaki runs well. Im pleased with that i guess. I had a jd ls120 48\" deck and went ti this. Pros and cons to both. Wouldnt say this mower is really any better other than it being a zero turn. Overall id give lowes a 1 or 2 star. And the mower itself a 3 star. Im ok with it but not in love With it. Ill go with a different one next time.",
+            "author": "Kevin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 11
+            }
+        },
+        {
+            "title": "\"Perfection at its best!!!\"",
+            "rating": 5,
+            "date": "03/12/2019",
+            "recommended": true,
+            "text": "This lawn mower is a beast of a mower. If you would like something that's good for small farms, or large yards this is perfect.",
+            "author": "Glaze",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ariens Ikon 23hp 52 inch zero turning mower\"",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "I have owned it for a couple of weeks so far I love it. Seems built very well. It had great reviews.",
+            "author": "Matthew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"very poor assembly\"",
+            "rating": 2,
+            "date": "11/30/2018",
+            "recommended": false,
+            "text": "Bought it in April, used it through the fall. Medium to heavy user. So far 4 bolts have some off because the nut just came loose. We've been able to fix two of them but now two are in places that require other parts to be removed. One of the bolts that we've had to replace is the one that connects the drive shaft to the wheel. The other is one of the wheels on the deck. The motor, frame and deck are all leaning towards industrial parts, but they aren't any good if they keep falling off! Just beware when buying it.The Ariens warranty is 3 years. Looked up their warranty information and it says to call a number. I called the number and it says you need to contact a local authorized service shop. I found and called a local service shop and they said they can't guarantee that it's covered under the warranty and maybe to call Lowe's to run the warranty through them. I just called the local Lowe's and after being on hold for 10 minutes then being hung up on, calling back, being on hold for 5 more minutes twice I finally told that they won't do anything and to call Ariens...",
+            "author": "tim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Good Mower\"",
+            "rating": 3,
+            "date": "05/21/2019",
+            "recommended": null,
+            "text": "This is a good mower. It is easy to get the hang of (never used a zero turn before) and its comfortable to ride on. No issues with delivery and would likely recommend this to others.",
+            "author": "Kelly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Still need time\"",
+            "rating": 3,
+            "date": "09/28/2018",
+            "recommended": null,
+            "text": "Looks great, hubby turned on when delivered and drove into garage.  He went to mow the lawn 2 days later- it wouldn't start.  No one at the store could help(they wanted us to return it - REALLY?).  It was a Sat and the manufacturers help line was closed!  Only open Mon - Fri.  Had to jump start. When working it was great.  Next morning wouldn't turn over.  This was purchased for our summer home, so we will jump start it again next time we need it, then reassess our purchase.",
+            "author": "MAP",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Love it\"",
+            "rating": 5,
+            "date": "09/26/2018",
+            "recommended": true,
+            "text": "After having a Troy bilt I was undecided about trying this one because no one really knows about this brand. But I must say it is well built. The steering is so much better. The options they give is so much better. I'm glad I purchased this. It even cuts backwards. I love the fact that I can raise the deck just with my foot instead of doing it with my hand",
+            "author": "Crun",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Still getting used to it...\"",
+            "rating": 4,
+            "date": "05/05/2019",
+            "recommended": null,
+            "text": "as my first personal zero turn (I've used a couple others). Lowes assembled and delivered the mower to my house. The deck height adjust step was on backwards (common from what I read, but understandable as the assembly pictures are vague). My yard is about 240'x450' and drops about 50' in elevation on the long axis in a couple rolling terraces. This unit easily goes up and down the hill parts. I was used to 3 1/2 hours mowing time on my 42\" lawn tractor for my two acre lawn/lot. That time is easily halved using this mower. I expect even better time savings as I get more comfortable with the machine. I got the mulching kit when I ordered the mower, but it was still in the box upon delivery. Installation was not too difficult, but every instruction sheet bolt reference was wrong sized. I will update later in the summer.",
+            "author": "60DRB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"5 stars!\"",
+            "rating": 5,
+            "date": "05/12/2019",
+            "recommended": true,
+            "text": "This mower is outstanding for the price and better welded and built than other mowers that are priced much higher. Very pleased and a very easy transaction",
+            "author": "tori",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"The easy way to mow grass\"",
+            "rating": 5,
+            "date": "08/26/2018",
+            "recommended": true,
+            "text": "I had never used a 0 turn mower, and I jump right on and took of, it took me 30 minutes less time to finish the job, and I had much less time to weed eat.",
+            "author": "Tireblder",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Time saver mower\"",
+            "rating": 5,
+            "date": "06/01/2019",
+            "recommended": true,
+            "text": "Had a 48 inch top name brand tractor that took me over 2 hours to cut my lawn. This mower takes me just 45 mins with a great cut looking lawn when done.",
+            "author": "Dyiguy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Wow what a great mower for the money\"",
+            "rating": 5,
+            "date": "07/04/2019",
+            "recommended": true,
+            "text": "After mowing up to 3 acres of lawn with my trusty ole Wheel Horse tractor for 25 years it was time to upgrade. I spent 3 months looking and reading hundreds of reviews of many different makes and models I made my decision to go for the Ariens with the Kawasaki engine. Since I knew Ariens had been around since 1933 the company was solid I took delivery 2 weeks ago and I half to say I'm not disappointed its everything they said it was. From the fabricated deck which I would expect on a mower that's twice the price I paid, to the quality of the entire unit. It mows great and cut my mowing time in half, the Kawasaki engine runs smooth with tons of power and torque, comfortable seat you name it this mower is a winner in my book. As my neighbors came over and took a look they thought I spent 5 to 6 thousand dollars for the Ariens when I told them what it really cost they said no way not for what this mower offers. Ariens hit a home run with Ikon X models low price but loaded with big dollar mower features the deck powerplant, the heavy duty frame ect. Thanks ariens for a great product huge fan, and Lowes for everything they did from the purchase to the next day delivery outstanding job. Would recommend this highly.",
+            "author": "Harv",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So far so good\"",
+            "rating": 4,
+            "date": "10/02/2018",
+            "recommended": true,
+            "text": "Only 5 hours on it so far but I'm very happy so far. Mower 3 acres and cross cut it in 4 hours. Really deep grass",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 5,
+            "date": "05/15/2019",
+            "recommended": true,
+            "text": "Only had it for a month. Starts easy and easy to handle. I choose this mower for the tube frame and heavy deck.",
+            "author": "Me",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ikon 52\"",
+            "rating": 5,
+            "date": "02/03/2019",
+            "recommended": null,
+            "text": "Great Zero-turn mower.  Perfect size for my 2 acre lot.  Runs great",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower.\"",
+            "rating": 5,
+            "date": "11/11/2018",
+            "recommended": true,
+            "text": "Runs quiet and cuts great!",
+            "author": "Richard",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/27/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "AngelFace",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/10/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bobby",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/07/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Pawmbi",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Archie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "plumberdave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/02/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ron",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Loving it so far!\"",
+            "rating": 5,
+            "date": "03/25/2018",
+            "recommended": true,
+            "text": "We purchased our house on a 5-acre lot about a year ago, of which about 3 and a half to 4 acres are mowable. I was cutting it with a Snapper 30 inch riding mower and it took me about 5 hours if I didn't take any breaks. With the Ikon X 52, that time has been reduced to about an hour and a half. I love the speed, power, and maneuverability of this machine. Now I actually look forward to cutting the grass!",
+            "author": "Joe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/17/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "billy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"I have had my mower for one week now.\"",
+            "rating": 3,
+            "date": "07/04/2019",
+            "recommended": false,
+            "text": "Can someone tell me if I have a problem?  With the mower running at slow speed, when I pull the PTO to engage the blades, the mower deck shakes real bad for a few seconds.  Is that normal?  I have nothing to compare it with.  Is it normal for the deck to vibrate when the blades are engaged?",
+            "author": "Kenneth",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"love this mower!\"",
+            "rating": 5,
+            "date": "05/27/2019",
+            "recommended": true,
+            "text": "Very easy to learn to use. Mows great! Why did we wait so long??!!",
+            "author": "pickles",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"LOVE IT!\"",
+            "rating": 5,
+            "date": "06/09/2017",
+            "recommended": true,
+            "text": "Best mower I've ever had. Had it for about 3 months now and can't wait for the grass to grow so I can use it. Very comfortable and easy to use. My wife can easily handle it. We fight over who gets to mow now. It took me a bit to get used to the steering, but I'm a pro now. I couldn't be happier with it. I would highly recommend it.",
+            "author": "Rando",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"DO NOT BUY\"",
+            "rating": 1,
+            "date": "08/03/2018",
+            "recommended": false,
+            "text": "Listen to all the comments. If people say dont buy. Then dont buy it!!",
+            "author": "Buyer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 38
+            }
+        },
+        {
+            "title": "\"Where have you been all my life ?\"",
+            "rating": 5,
+            "date": "05/25/2018",
+            "recommended": true,
+            "text": "Took over 2 hours with my old 54\" tractor style mower to cut my lawn. I have used my new Ikon x 52 with Kaw eng 4 times and now mow it in 45 min. First zero turn I have been on so there was a learning curve. Ill never go back to the old style.",
+            "author": "John s",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mower\"",
+            "rating": 5,
+            "date": "07/05/2019",
+            "recommended": true,
+            "text": "Great mower! Cut my mowing time almost in half!",
+            "author": "Wes",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Satisfied customer\"",
+            "rating": 4,
+            "date": "05/25/2018",
+            "recommended": true,
+            "text": "Like the offset deck on the 52 inch. Kawasaki is easy to start and quiet. Bagging system is sturdy and provides good suction. For the price and in comparing other brands i feel ariens made a great machine with is model. Cheers",
+            "author": "Rich",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"I would never buy this product again!\"",
+            "rating": 1,
+            "date": "09/10/2018",
+            "recommended": false,
+            "text": "Less than 3 months old and the seat is broken. They should have been smart and drilled a hole for a locking pin! America made, I'm ashamed of the quality with that label attached!",
+            "author": "Mel",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"My hubby is very happy !\"",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "We reviewed a long list of top rated zero turns the Ariens Ikon X 23hp is by far built and mows like somebody cared to make the best.",
+            "author": "Sheri",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Ariens Ikon X 23 HP\"",
+            "rating": 4,
+            "date": "05/05/2019",
+            "recommended": true,
+            "text": "Nice mower, built little more heavy duty than other mowers in it's class. Had one year and no issues yet and I mow on hilly ground.",
+            "author": "Russell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awesome mower!\"",
+            "rating": 5,
+            "date": "05/31/2019",
+            "recommended": true,
+            "text": "This mower makes mowing the grass so easy.  It cuts the grass evenly and is super easy to operate.",
+            "author": "bohack",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product\"",
+            "rating": 5,
+            "date": "07/01/2016",
+            "recommended": true,
+            "text": "Cut my grass cutting time down from 2 1/2 hrs to 45 minutes. AWESOME",
+            "author": "Lynnco",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great mower\"",
+            "rating": 5,
+            "date": "05/23/2019",
+            "recommended": true,
+            "text": "This thing is a beast! It cuts great and is super sturdy.",
+            "author": "Chuck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Closest thing you'll get to commercial without a $5,000 pric\"",
+            "rating": 5,
+            "date": "04/12/2018",
+            "recommended": true,
+            "text": "Cut no pun intended my 5-acre mowing time in half.",
+            "author": "Big Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"This is fantastic\"",
+            "rating": 5,
+            "date": "09/19/2017",
+            "recommended": null,
+            "text": "Fast efficient turns on a dime lol",
+            "author": "James",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Glad I went with Ariens IKON zero turn!\"",
+            "rating": 5,
+            "date": "08/25/2016",
+            "recommended": true,
+            "text": "Great mower at a great price!",
+            "author": "Joe",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Best lawnmower I have evere owned!\"",
+            "rating": 5,
+            "date": "05/23/2018",
+            "recommended": true,
+            "text": "well built and great price",
+            "author": "LD",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great mower for the money, so far very happy.\"",
+            "rating": 4,
+            "date": "05/16/2016",
+            "recommended": true,
+            "text": "good mower, durable.",
+            "author": "Amanda Mount",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/15/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "danny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"I mow more often than I need to - but not perfect\"",
+            "rating": 4,
+            "date": "06/05/2019",
+            "recommended": true,
+            "text": "I'm about a month from owning this mower for a year and only about 30 hours on the meter. I moved up from a 42” tractor-style mower to this 52” zero turn and am really happy with it. I love the even cut from edge to edge that the lawn tractor mower didn't give and I love the ease and speed with which I mow complicated areas. I'm sure I mow more often than I need to because I enjoy it so much. I don't mention anything about the engine because there's no need to – easy start, smooth running, no oil-burn so far. This doesn't mean everything is wonderful, but more on that in a bit.From what I've read and from my own experience, in-store assembly can be rather hit or miss. I had to deal with a few assembly issues with my mower, but I enjoy wrenching and like sorting things out so I didn't much care. Without taking the deck off, the mower wouldn't go in my old 8ft bed pickup and I don't have a trailer, so taking it somewhere in the future may become a pain if I should need service.52” is likely overkill for what I mow, but my mowing time has gone from about 2-1/2 hours a week down to about 1hr 50min. Bigger than the time saving for me at age 74 is no longer getting exhausted hauling the steering wheel around as I navigate small areas that need mowing and dozens of obstacles like trees and sprinkler risers. I have very few long mowing runs, so I really like the zero turn aspect and steering by levers. I also find easy ¼” increment height adjustment one of my favorite features – foot pedal lift and dial to quickly set height.The whole machine is noisy and I strongly recommend wearing hearing protection. I saw a rant by a guy about the clunking noise of the mower deck lift supports while going over the ground. What?? How would you ever hear that enough that it could matter.I did the initial oil change and it is not fun (or particularly easy to accomplish). I'm very glad that for me oil changes will only once a year. I've also changed the blades for sharpening and I found that very easy – my method: running the front wheels up two auto ramps to get access to the blades and bolts. I haven't had any reason to remove the deck from the mower so don't know how difficult I would find the removal and replacement.I am wondering about the hydro units – specifically the left one in my case. It doesn't always move it's wheel backwards when I pull the left lever back. Not an everytime thing, but something I'm paying attention to.My other concern, which I think can be dealt with by careful operation is the relative weakness of the spring pulling the blade belt tensioner pulley. I've thrown the blade belt twice. I don't know the cause of the second time which happened during normal lawn mowing, but the first time occurred when I was mowing some really heavy grass/weeds on an irrigation ditch road. I think the heavy mowing slowed the blades and the tensioner spring couldn't hold sufficient belt tension.  I was able to pull the belt out from under the pulleys and it wasn't ruined. I have taken to engaging the belt clutch with the engine at a rather low speed to minimize the jerk on the belt tensioner and have had no problems since I started doing that.For me, this is a super mower, but not faultless. The features, ease of use and competence as a 3-blade mower far outweigh (so far) the issues I've encountered. I would buy this 52” Ikon-X again vs any of the mowers that I cross shopped that were up to $500 more.",
+            "author": "Jim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 2
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 89,
+        "percentRecommended": "77",
+        "averageStars": "4.4",
+        "starCounts": {
+            "five": 64,
+            "four": 10,
+            "three": 7,
+            "two": 4,
+            "one": 4
+        }
+    },
+    "questions": [
+        {
+            "question": "\"If i buy this at my local store does it come assembled and ready to go?\"",
+            "author": "Anonymous",
+            "date": "04/10/2018",
+            "answers": [
+                {
+                    "author": "60DRB",
+                    "date": "05/05/2019",
+                    "text": "My Lowes assembled it, but put the deck raise step on backwards. It was easy to correct. Also, I ordered the mulch kit with the mower. My store just brought the kit in the box when they delivered the mower. I had hoped they would install the kit as well, and it took me a couple hours to install.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Leo",
+                    "date": "05/16/2018",
+                    "text": "UPDATE: I was told it took two business days to assemble one of these units. My Lowe's store took 2+ about and hour but that is only this store. I hope yours does better, but call ahead so you don't waste time or gasoline. They did, put a little gas in mine so it started right up.",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Leo",
+                    "date": "05/14/2018",
+                    "text": "Yes, it comes assembled but if they do not have it assembled you might be able to get it \"in the crate\". My local store advertised it as \"pick up today\" but it took two \"business\" days for them to assemble the mower. (Paid for on Sat., pick up on Weds.) As to ready to go, I'm told that it is to be \"just add gasoline and go\". Will update if it isn't.",
+                    "helpful": {
+                        "yes": 9,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "04/11/2018",
+                    "text": "Thank you for your interest in the Ariens IKON X 52\". We would suggest you consult your local retailer for delivery and assembly options for this unit.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 19
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the GVWR rating on the transaxle? The weight of the mower I see is 681 LBS so I need to know the max total weight this will handle?\"",
+            "author": "Anonymous",
+            "date": "04/18/2018",
+            "answers": [
+                {
+                    "author": "Leo",
+                    "date": "05/06/2018",
+                    "text": "The Hydro-Gear EZT does indeed have a GVWR of 900 lb, however, these mowers have two (2) of them, one on each side. The mower has a tare weight of 681 which is supported not only by the two rear axles of the transmissions but partially by the front wheels also. I'm pretty certain the mower can handle any operator who can sit in the seat.",
+                    "helpful": {
+                        "yes": 20,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "Steve",
+                    "date": "04/19/2018",
+                    "text": "So this unit is really only suitable to an operator under 210lbs?",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 9
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "04/19/2018",
+                    "text": "The Hydrogear EZT transmission has a GVW up to 900 lbs",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this model come with a tow hitch for a lawn cart?\"",
+            "author": "Jim",
+            "date": "03/03/2018",
+            "answers": [
+                {
+                    "author": "Trent",
+                    "date": "07/09/2018",
+                    "text": "They should take it off the lawnmower in the video if it doesn't come on this model.",
+                    "helpful": {
+                        "yes": 11,
+                        "no": 8
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/07/2018",
+                    "text": "No, this model does not come with a hitch.",
+                    "helpful": {
+                        "yes": 34,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "03/05/2018",
+                    "text": "Jim- This unit does not come standard with a hitch. There is a hitch kit available as an accessory. The part number for this kit is 71514900.",
+                    "helpful": {
+                        "yes": 33,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can i use a military discount on this item?\"",
+            "author": "jdubs",
+            "date": "03/03/2018",
+            "answers": [
+                {
+                    "author": "Shyguy",
+                    "date": "06/11/2018",
+                    "text": "Yes, I used a military discount Saturday.",
+                    "helpful": {
+                        "yes": 35,
+                        "no": 7
+                    }
+                },
+                {
+                    "author": "bassfishga",
+                    "date": "03/21/2018",
+                    "text": "Yes, you should be able to use your military discount on this item. Thank you for your service!",
+                    "helpful": {
+                        "yes": 30,
+                        "no": 6
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "03/05/2018",
+                    "text": "Thank you for your interest in the Ariens IKON X 52\" lawn mower. Please contact Lowe's Products & Sales department at 1-877-465-6937 for any applicable discounts or promotions.",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 17
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this mower do well on incline and uneven ground? We have two acres with NO flat or even ground.\"",
+            "author": "Burresf",
+            "date": "02/24/2018",
+            "answers": [
+                {
+                    "author": "60DRB",
+                    "date": "05/05/2019",
+                    "text": "My mowing area is about 240'x450' and slopes down on the long axis. The elevation drop from top to bottom is 50-60 feet in two rolling steps. No mower seems to be recommended for sloping terrain, but many owners have to do that (mow slopes). This mower has no difficulty going up & down my sloped areas but isn't \"well planted\" cross slope. I think that may be due to the tire sizes, as my old lawn tractor-mower has wider front and rear tread. No zero turn mower that I've ever seen has front tires that provide traction...the design isn't intended for that. On uneven ground this will ride in a bone jarring fashion if you don't go slowly.",
+                    "helpful": {
+                        "yes": 5,
+                        "no": 2
+                    }
+                },
+                {
+                    "author": "Shyguy",
+                    "date": "06/22/2018",
+                    "text": "When cutting on an incline the steering can be tricky. When mowing on rough ground you have to mow slower. How can the average person determine what is a 15 degree incline? Slower mowing and caution is important on an incline or rough ground. Before I bought my ZTR mower I Shyguy borrowed my brother's ZTR mower to see if one was right for my needs.",
+                    "helpful": {
+                        "yes": 13,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "02/27/2018",
+                    "text": "The IKON X 52\" zero-turn is designed as a finish mower and is not recommended on slopes greater than 15 degrees. Please refer to the Use and Care Guide located under Guides & Documents on this page for more information.",
+                    "helpful": {
+                        "yes": 25,
+                        "no": 4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is this lawn mower wimpy? In the picture it has a girl driving it and I don't want a wimpy lawn mower.\"",
+            "author": "Anonymous",
+            "date": "10/27/2018",
+            "answers": [
+                {
+                    "author": "David",
+                    "date": "06/11/2019",
+                    "text": "Kind of a sexist question if you ask me. Lowe's should edit this question. If you've ever used a zero turn you'd know most handles aren't difficult to use. Not like regular lawnmower can be. It's built extremely sturdy. Feels like one of the toughest ones out there. Even compared to commercial ones I've used.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "10/29/2018",
+                    "text": "Thank you for choosing Ariens. This mower is equipped with a 23 HP Kawasaki engine which will provide plenty of power to complete your mowing needs. For more information regarding this mower, please contact your local Lowe's retail location or 1-877-465-6937.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can anyone recommend a good fitting cover for this model mover?\"",
+            "author": "Anonymous",
+            "date": "07/05/2018",
+            "answers": [
+                {
+                    "author": "TacobellCanon",
+                    "date": "07/16/2018",
+                    "text": "The Ariens cover is reported to be too small for this model, AND Lowe's doesn't sell it. What they do sell is a highly rated, lower priced, generic, zero turn cover that you can find by searching 616251 on the Lowe's site.",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "07/06/2018",
+                    "text": "The Ariens part number for a lawn mower cover is 71511200.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the wheelbase and ground clearance of this unit?\"",
+            "author": "Anonymous",
+            "date": "05/01/2018",
+            "answers": [
+                {
+                    "author": "Inquizitor",
+                    "date": "05/01/2018",
+                    "text": "Ariens, for your information, wheel base is not the size of the wheels and ground clearance is not the cutting heights of the deck. Wheelbase is the distance between the center of the front axle and the center of the rear axle. Ground clearance is the lowest point of the vehicle disregarding the wheels. I.E. Lowest point of the raised deck, the frame, whatever the distance is to the ground from the lowest hanging point of the unit.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 5
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "05/01/2018",
+                    "text": "The rear wheels are 18x8.5 - 8 inches and this machine will have a cutting height from 1.5 - 4.5 inches",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is to lubricate on this model? The manual says lubricate after 50 hours.\"",
+            "author": "Anonymous",
+            "date": "04/25/2018",
+            "answers": [
+                {
+                    "author": "Shyguy",
+                    "date": "06/10/2018",
+                    "text": "Mine has grease fittings on the front wheels.",
+                    "helpful": {
+                        "yes": 9,
+                        "no": 3
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "04/25/2018",
+                    "text": "The only required lubrication point on this model is the seat rail. Please refer to the Owner's Manual for more information.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"I'm a larger guy. Are the steering arms adjustable? My chair was all the way back and the arms were right at my stomach. Im worried about reverse\"",
+            "author": "ryanvox",
+            "date": "03/22/2018",
+            "answers": [
+                {
+                    "author": "Steve",
+                    "date": "04/26/2018",
+                    "text": "The total weight for mower and rider is 900 lbs and the mower weighs 681 lbs so the rider should not weigh more than 210 lbs.",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 21
+                    }
+                },
+                {
+                    "badgeName": "1000354339",
+                    "author": "Ariens",
+                    "date": "03/23/2018",
+                    "text": "The upper steering arms do have adjustments. The upper control arms can be raised or lowered and moved forward and back.",
+                    "helpful": {
+                        "yes": 14,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

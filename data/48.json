@@ -1,0 +1,880 @@
+{
+    "descriptions": {
+        "list": [
+            "Reclaimed wood frame",
+            "Frame accented with metal corners and nail head embellishments",
+            "Can be hung horizontally or vertically",
+            "No assembly required; ready to hang",
+            "For indoor use only"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Brown"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "Reclaimed wood"
+        },
+        {
+            "title": "Frame Material",
+            "spec": "Wood"
+        },
+        {
+            "title": "Type",
+            "spec": "Wall"
+        },
+        {
+            "title": "Mount Type",
+            "spec": "Wall mounted"
+        },
+        {
+            "title": "Style",
+            "spec": "Transitional"
+        },
+        {
+            "title": "Trend",
+            "spec": "Farmhouse"
+        },
+        {
+            "title": "Size",
+            "spec": "Large (30-in to under 50-in H)"
+        },
+        {
+            "title": "Shape",
+            "spec": "Rectangle"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "30.31"
+        },
+        {
+            "title": "Height (Inches)",
+            "spec": "40.55"
+        },
+        {
+            "title": "Depth (Inches)",
+            "spec": "1.625"
+        },
+        {
+            "title": "Weight (lbs.)",
+            "spec": "16.95"
+        },
+        {
+            "title": "Orientation",
+            "spec": "Vertical/Horizontal"
+        },
+        {
+            "title": "Frameless",
+            "spec": 0
+        },
+        {
+            "title": "Edge Type",
+            "spec": "Beveled"
+        },
+        {
+            "title": "Full Length",
+            "spec": 0
+        },
+        {
+            "title": "Lighted",
+            "spec": 0
+        },
+        {
+            "title": "Shelf Included",
+            "spec": 0
+        },
+        {
+            "title": "Mounting Bracket Included",
+            "spec": 1
+        },
+        {
+            "title": "Tilting",
+            "spec": 0
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "Mirror Width (Inches)",
+            "spec": "19.125"
+        },
+        {
+            "title": "Mirror Length (Inches)",
+            "spec": "28.875"
+        },
+        {
+            "title": "Overall Width (Inches)",
+            "spec": "30.31"
+        },
+        {
+            "title": "Overall Length (Inches)",
+            "spec": "40.55"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "52171000"
+        },
+        {
+            "title": "Mounting Hardware Included",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "731f5a0a-447c-534d-9f07-a048ca07561b",
+                    "largeName": "956be598-2a32-525f-881c-4045422ac974"
+                }
+            ],
+            "title": "\"Love love love!\"",
+            "rating": 5,
+            "date": "11/21/2017",
+            "recommended": true,
+            "text": "My husband and I are in the middle of a total farmhouse themed bathroom remodel. I was having a hard time finding a mirror that was neutral yet made a statement. I found this mirror at Lowes but wasn't sure if I wanted to spend that kind of money. We looked into what it would cost to frame our own mirror with a similar style and the prices panned out to be pretty equivalent. Luckily Lowes ran a 20% sale and I was able to snatch it up. The mirror is very sturdy REAL wood, which is a relief. It has mounting brackets both vertically and horizontally so you can hang the mirror to your preference. It's not super heavy either - my husband was able to hang it up himself. Overall, we are very pleased with this mirror and how it completes our bathroom.",
+            "author": "Happylilmomma",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 23,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "2562bbe7-2852-52dd-aa46-aeb5246f064f",
+                    "largeName": "70763348-2fb1-53ee-bfa0-95ec83443cc2"
+                }
+            ],
+            "title": "\"Love this mirror!\"",
+            "rating": 5,
+            "date": "03/12/2017",
+            "recommended": true,
+            "text": "This mirror looks great!",
+            "author": "Heather",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 31,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "da978e61-e38c-5474-8a86-53d3ea93eb56",
+                    "largeName": "3bd6c7d7-3eca-58a0-a6a3-4ff44fc270fd"
+                }
+            ],
+            "title": "\"Love it!\"",
+            "rating": 5,
+            "date": "06/10/2017",
+            "recommended": true,
+            "text": "I wanted this mirror the minute I saw it. It's beautiful with a lot of style. Fits my decor perfectly",
+            "author": "me",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 27,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8eed7c5e-8043-598a-9842-b10f6a22ba7d",
+                    "largeName": "530291ee-17aa-56b3-8371-c0a276feeebf"
+                }
+            ],
+            "title": "\"Mirror\"",
+            "rating": 5,
+            "date": "04/24/2018",
+            "recommended": true,
+            "text": "Love this!  Nice quality & very pretty.  Looks nice with my cabinets & marble countertops.",
+            "author": "Carol",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 8,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "352e304d-886b-5cee-bab9-3a19ea09e97f",
+                    "largeName": "0a079158-3967-55cb-9ccb-8486c9c9622d"
+                },
+                {
+                    "smallName": "d702dde0-5980-5761-acad-cd96f8bbfbff",
+                    "largeName": "19c2ef88-6d1e-59ba-9d63-049d150baea7"
+                }
+            ],
+            "title": "\"Looks custom in all my bathrooms!!!!\"",
+            "rating": 5,
+            "date": "02/12/2019",
+            "recommended": true,
+            "text": "Classic design for any room. Looks great mixed with different materials. Easy to hang, looks expensive!!!!We finished our remodel using these mirrors above our vanities!!",
+            "author": "Showroom",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great looking rustic mirror!!\"",
+            "rating": 5,
+            "date": "03/18/2015",
+            "recommended": true,
+            "text": "Pictures do not do this mirror justice!! Must see!! Extremely happy with this purchase and look forward to displaying this mirror for years to come. This is the 5th mirror I've purchased by Allen + Roth and have been satisfied with them all. Price and quality are right!!",
+            "author": "njustis4all",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 60,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"See Yourself Owning This Mirror\"",
+            "rating": 5,
+            "date": "09/02/2017",
+            "recommended": true,
+            "text": "Looks exactly as advertised online. Relatively easy to hang solo but would be better with a friend. If only I could have gotten that guy in the mirror to hold up the other side...",
+            "author": "Hank",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"great mirror\"",
+            "rating": 5,
+            "date": "01/02/2017",
+            "recommended": true,
+            "text": "I love the rustic look of this mirror. The metal details on each corner are great!",
+            "author": "smk8298",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great Quality!!\"",
+            "rating": 5,
+            "date": "07/09/2017",
+            "recommended": true,
+            "text": "Mirror looks great in my bathroom gives it a rustic farmhouse look!",
+            "author": "Char",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good Mirror\"",
+            "rating": 5,
+            "date": "06/05/2015",
+            "recommended": true,
+            "text": "Look we wanted at fair price. Easy to hang and goes with our decor.",
+            "author": "Sagebrush",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 17,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "e9ed1838-e96d-5689-9bd5-0d437287dd3e",
+                    "largeName": "73c49caa-dc2e-5cb5-a570-5529321e72fb"
+                }
+            ],
+            "title": "\"Allen+Roth Mirror\"",
+            "rating": 5,
+            "date": "01/29/2019",
+            "recommended": true,
+            "text": "This ALLEN+ROTH mirror is an awesome addition to my bath/laundry room. Trying to give my 1975 home a casual update!! I have had many compliments on the finished look! Easy to install! I topped it off with a PROGRESS light fixture! The picture sums it up. I recommend to anyone looking for mirror made with 'reclaimed' wood!(sorry..I don't know how to rotate pic :)",
+            "author": "Barby",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Beautiful rustic mirror\"",
+            "rating": 5,
+            "date": "02/18/2018",
+            "recommended": true,
+            "text": "I purchased this mirror online and the picture does not do it justice.  It is farmhouse decor perfect!",
+            "author": "Aims",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4a4d4546-8503-50f0-a5a3-70d0ee43c6a1",
+                    "largeName": "b419d05b-af1f-5868-9c33-c3eac9c4091f"
+                }
+            ],
+            "title": "\"Perfect for our rustic bathroom\"",
+            "rating": 5,
+            "date": "11/04/2018",
+            "recommended": null,
+            "text": "Fell in love with this mirror for our bath.  Great rustic look.  Matches the exposed iron pipe we have as decorating pieces.  Would buy again for sure.",
+            "author": "LBJDN",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Perfect for a rustic theme\"",
+            "rating": 5,
+            "date": "09/03/2018",
+            "recommended": true,
+            "text": "You can hang this either way. We did attach a wire between the hangers so we could match up with studs. For a mirror this size, using real wood it is surprisingly light weight yet we'll made. It is exactly what we needed.",
+            "author": "Fbare",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Scratches and Dents\"",
+            "rating": 1,
+            "date": "02/03/2019",
+            "recommended": false,
+            "text": "Bought 2. Both were scratched up and had debts in the wood.",
+            "author": "Mb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "10/20/2018",
+            "recommended": false,
+            "text": "Although mirror is decent the mounting brackets need to be improved. Bracket holes are not even with each other. Of the two mounting holes one was higher than the other and one was farther in from the edge of the frame than the other. Had to do a lot of calculating in order to make mirror hang even when I placed screws in wall.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/31/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cindy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/17/2015",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Marcus",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/15/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Thunderbird",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "\"Beautiful Bathroom Mirror\"",
+            "rating": 5,
+            "date": "11/24/2018",
+            "recommended": true,
+            "text": "Purchased this when re-doing the bathroom, it will replace the standard \"mirror\" found in most homes.  I love the quality, and how it blends so well with the décor.",
+            "author": "CJinTX",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Mirror image\"",
+            "rating": 5,
+            "date": "05/22/2019",
+            "recommended": true,
+            "text": "Beautiful mirror and well built. Can be hung horizontally or vertically. Very happy and will look foust at this manufacturer for future purchases",
+            "author": "Matthew",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Home construction\"",
+            "rating": 5,
+            "date": "03/13/2019",
+            "recommended": true,
+            "text": "We are building a home and have purchased all our appliances, flooring and some light fixtures. We got great helpful service.",
+            "author": "Denny",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Beautifully made\"",
+            "rating": 5,
+            "date": "03/12/2019",
+            "recommended": true,
+            "text": "We loved this mirror, great quality, good value for the price.  Unfortunately to small for our area so we had to return it.",
+            "author": "AKHKnox",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Allen + Roth Mirror\"",
+            "rating": 5,
+            "date": "03/03/2018",
+            "recommended": null,
+            "text": "Beautiful, well built, good weight and quality hangers. I bought this mirror to replace an old bathroom vanity mirror.",
+            "author": "Kyle",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Gorgeous mirror & framing\"",
+            "rating": 5,
+            "date": "11/20/2018",
+            "recommended": true,
+            "text": "Goes absolutely with my decor!  Love the rustic look plus a lil coastal flare with the texture and color !",
+            "author": "Ls6cs",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"ALLEN & ROTH MIRROR\"",
+            "rating": 5,
+            "date": "12/20/2018",
+            "recommended": true,
+            "text": "AWESOME MIRROR......EVERYONE COMPLIMENTING IT. IT IS HANGING IN MY DINING ROOM OVER MY BUFFET",
+            "author": "JOANNE",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Allen & roth reclaimed wood beveled wall mirror\"",
+            "rating": 4,
+            "date": "02/23/2019",
+            "recommended": true,
+            "text": "A unique looking mirror.  Like the reclaimed wood, but am concerned at how soft the wood is.",
+            "author": "Jean",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Rustic and classy mirror\"",
+            "rating": 5,
+            "date": "11/19/2018",
+            "recommended": true,
+            "text": "This mirror is perfect if you are looking for a classy chic, but rustic look.",
+            "author": "AMP18",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/27/2018",
+            "recommended": true,
+            "text": "Great quality and perfect size for a smaller bathroom or guest bathroom.",
+            "author": "Allen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Wood beveled mirror\"",
+            "rating": 5,
+            "date": "09/14/2018",
+            "recommended": true,
+            "text": "Works really great in the bathroom with the hardwood vanity top",
+            "author": "Cuz",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Love this mirror!\"",
+            "rating": 5,
+            "date": "11/18/2018",
+            "recommended": true,
+            "text": "Love this mirror! Great price and just what I was looking for.",
+            "author": "Rebecca",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very good quality\"",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "Well built and beautiful  Exactly what we were looking for",
+            "author": "Tracy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"beautiful rustic mirror\"",
+            "rating": 5,
+            "date": "10/03/2018",
+            "recommended": true,
+            "text": "the mirror is quite lovely. the rustic frame makes it.",
+            "author": "Chrstine",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "6shotstev",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Carlos",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/30/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Courtney",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/22/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "stacey",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "05/17/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cliff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "07/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "joan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/05/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Vic",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 40,
+        "percentRecommended": "90",
+        "averageStars": "4.8",
+        "starCounts": {
+            "five": 37,
+            "four": 1,
+            "three": 1,
+            "two": 0,
+            "one": 1
+        }
+    },
+    "questions": [
+        {
+            "question": "\"What is the actual mirror dimensions?\"",
+            "author": "Anonymous",
+            "date": "09/06/2015",
+            "answers": [
+                {
+                    "author": "KQ11",
+                    "date": "10/27/2015",
+                    "text": "40.55x30.31 - was hoping the other review was right but I'm at the store and these are the correct dimensions",
+                    "helpful": {
+                        "yes": 8,
+                        "no": 8
+                    }
+                },
+                {
+                    "author": "Bert",
+                    "date": "09/14/2015",
+                    "text": "24' x 30'",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 8
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this mirror come in another size? Love it, but too big.\"",
+            "author": "Anonymous",
+            "date": "05/12/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "05/13/2019",
+                    "text": "No, this mirror does not come in another size.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this mirror come is a size bigger?\"",
+            "author": "Anonymous",
+            "date": "10/14/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/01/2019",
+                    "text": "No, this mirror doesn't come in bigger sizes.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this come in gray?\"",
+            "author": "Anonymous",
+            "date": "09/06/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/09/2019",
+                    "text": "No, it does not come in gray.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Size/scale appropriate for above a 48\" bathroom vanity?\"",
+            "author": "Vanessa",
+            "date": "02/24/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/01/2018",
+                    "text": "Yes, the mirror is suitable for above a vanity of that sizing.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 2
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be hung in a bathroom?\"",
+            "author": "Rfm",
+            "date": "03/22/2017",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "03/23/2017",
+                    "text": "Yes, this product can be used in a bathroom.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"What is the width of the frame?\"",
+            "author": "Sally",
+            "date": "01/02/2017",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "01/02/2017",
+                    "text": "The width of the frame is 30.31\".",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If I'm reading this correctly the mirror portion is 30.31x40.55. What are the dimensions including the frame?\"",
+            "author": "Cm21",
+            "date": "09/13/2016",
+            "answers": [
+                {
+                    "author": "Jen",
+                    "date": "10/21/2016",
+                    "text": "No, those are the Overall Outer Dimensions including the frame.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"If I'm reading this correctly the mirror portion is 30.31x40.55. What are the dimensions including the frame?\"",
+            "author": "Cm21",
+            "date": "09/13/2016",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "09/13/2016",
+                    "text": "The dimensions are Depth (Inches) 1.625, Width (Inches) 30.31, Height (Inches) 40.55.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 6
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can you hang this mirror horizontally?\"",
+            "author": "Anonymous",
+            "date": "05/15/2015",
+            "answers": [
+                {
+                    "author": "Precious",
+                    "date": "05/20/2015",
+                    "text": "Yes",
+                    "helpful": {
+                        "yes": 4,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

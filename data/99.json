@@ -1,0 +1,419 @@
+{
+    "descriptions": {
+        "list": [
+            "Powerful WhisperWind motor quietly generates optimal airflow using 3-speeds with reverse feature providing year round comfort",
+            "3-speed remote control included with full-range light dimming with wall cradle; doesn't include blade direction reversing",
+            "Hunter offers a limited lifetime motor warranty on all ceiling fans; with a 1-year warranty on all parts (excluding bulbs)",
+            "Reversible light grey oak/aged oak blades included that operate on a 13° pitch for maximum performance",
+            "17-watt dimmable LED light fixture included; 10 year warranty on light kit; must be installed with light kit",
+            "Can be installed using the provided 3-in or 6-in downrod for low or standard ceiling heights and also on a longer downrod for higher ceilings; can accommodate angled ceilings up to 34°"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "Windemere II LED"
+        },
+        {
+            "title": "Fan Diameter (Inches)",
+            "spec": "54"
+        },
+        {
+            "title": "Downrod Length (Inches)",
+            "spec": "6.0"
+        },
+        {
+            "title": "Number of Blades",
+            "spec": "5"
+        },
+        {
+            "title": "Reversible Blades",
+            "spec": 1
+        },
+        {
+            "title": "Blade Finish",
+            "spec": "Light Grey Oak/Aged Oak"
+        },
+        {
+            "title": "Housing Color/Finish",
+            "spec": "Noble Bronze"
+        },
+        {
+            "title": "Light Kit",
+            "spec": "Included"
+        },
+        {
+            "title": "Number of Bulbs Required",
+            "spec": "0"
+        },
+        {
+            "title": "Number of Lights",
+            "spec": "1"
+        },
+        {
+            "title": "Light Bulb Base Type",
+            "spec": "No base"
+        },
+        {
+            "title": "Recommended Light Bulb Shape",
+            "spec": "No bulb"
+        },
+        {
+            "title": "Maximum Bulb Wattage",
+            "spec": "0.0"
+        },
+        {
+            "title": "Bulb Type",
+            "spec": "N/A"
+        },
+        {
+            "title": "Remote Control Included",
+            "spec": 1
+        },
+        {
+            "title": "High Speed Electricity Use (Watts)",
+            "spec": "53"
+        },
+        {
+            "title": "Mounting Options",
+            "spec": "Downrod or close mount"
+        },
+        {
+            "title": "Reverse Air Flow",
+            "spec": 1
+        },
+        {
+            "title": "Motor Type",
+            "spec": "AC Motor"
+        },
+        {
+            "title": "Angle Mount Capable",
+            "spec": 1
+        },
+        {
+            "title": "Dual Fan Heads",
+            "spec": 0
+        },
+        {
+            "title": "Wattage Equivalent",
+            "spec": "120"
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "Warranty",
+            "spec": "Limited lifetime"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 1
+        },
+        {
+            "title": "Remote Control",
+            "spec": "Handheld"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "Light Kit Type",
+            "spec": "Integrated"
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Residential"
+        },
+        {
+            "title": "ENERGY STAR Certified",
+            "spec": 0
+        },
+        {
+            "title": "Airflow (CFM)",
+            "spec": "4102.0"
+        },
+        {
+            "title": "App Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Bluetooth Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Voice Controlled",
+            "spec": 0
+        },
+        {
+            "title": "Wi-Fi Compatibility",
+            "spec": 0
+        },
+        {
+            "title": "Works with Amazon Alexa",
+            "spec": 0
+        },
+        {
+            "title": "Works with Android",
+            "spec": 0
+        },
+        {
+            "title": "Works with Apple HomeKit",
+            "spec": 0
+        },
+        {
+            "title": "Works with the Google Assistant",
+            "spec": 0
+        },
+        {
+            "title": "Works with Nest",
+            "spec": 0
+        },
+        {
+            "title": "Works with SmartThings",
+            "spec": 0
+        },
+        {
+            "title": "Works with iOS",
+            "spec": 0
+        },
+        {
+            "title": "Minimum Height (Inches)",
+            "spec": "12.94"
+        },
+        {
+            "title": "Maximum Height (Inches)",
+            "spec": "15.94"
+        },
+        {
+            "title": "Number of Speeds",
+            "spec": "3"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "40101600"
+        },
+        {
+            "title": "Fixture Color Family",
+            "spec": "Bronze"
+        },
+        {
+            "title": "Fixture Finish",
+            "spec": "Brushed"
+        },
+        {
+            "title": "Glass Type",
+            "spec": "Clear glass"
+        },
+        {
+            "title": "Shade Material",
+            "spec": "Glass"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor"
+        },
+        {
+            "title": "Suggested Room Size",
+            "spec": "Large Room (up to 400 sq. ft.)"
+        },
+        {
+            "title": "Style",
+            "spec": "Modern/contemporary"
+        },
+        {
+            "title": "Outdoor Usage Rating",
+            "spec": "N/A"
+        },
+        {
+            "title": "For Use in Bathrooms",
+            "spec": 0
+        },
+        {
+            "title": "Oscillating",
+            "spec": 0
+        },
+        {
+            "title": "Bulb Installation Type",
+            "spec": "Standard"
+        },
+        {
+            "title": "For Use in Bedrooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Dining Rooms",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Kitchens",
+            "spec": 1
+        },
+        {
+            "title": "For Use in Living Rooms",
+            "spec": 1
+        },
+        {
+            "title": "Frosted Glass",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [],
+            "title": "\"Poor lighting\"",
+            "rating": 2,
+            "date": "12/29/2018",
+            "recommended": false,
+            "text": "I've had several Hunter fans over the years, one for over twenty years. Every Hunter fan that I have owned has preformed wonderfully, this is the first time I haven't been completely satisfied with one. It's a very nice looking fan, with a simple installation. The issue that I have with the fan is that the light is an integrated LED light that can not be replaced with a brighter light. The light output is poor possibly due to the light LEDs or the heavily frosted cover on it. Either way I'm very disappointed with the lighting from the fan, so I'll be returning it. Im still in the market for a new ceiling fan, Lowes and Hunter will still be an option.",
+            "author": "Pop",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 15,
+                "no": 1
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice fan, but the remote won't sync\"",
+            "rating": 2,
+            "date": "12/24/2018",
+            "recommended": false,
+            "text": "I installed this fan last night, and all seemed great. However, today the remote will not turn the led light in or off. I've tried several times to sync the remote to the fan via the hidden sync button underneath the remote control battery door. Replaced the new battery with another new battery. Turned the light switch on and off several times. No luck. Occasionally, the light button on the remote will turn the light on, but it's very sporadic! It's very frustrating, because the fan looks awesome. I just need the remote to be able to turn the light on and off when I push the button. If Hunter can make that happen, that would be great!",
+            "author": "JimmyJamm",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Pairing remote and Transmitter issues\"",
+            "rating": 3,
+            "date": "01/04/2019",
+            "recommended": false,
+            "text": "I bought two of these for the same room.  I had trouble with pairing the remotes.  After research on line, i had to contact Hunter Fan customer support for the pairing instructions as it didn't appear on line.  Still could not get fans to pair after they emailed instructions.  Contacted customer support again and they asked me to send them a picture of the remote as the model was so new.  Got another set of instructions, and still could not get either fan to pair with either remote.  Called HF Customer support and they were able to give me another set of instructions.   Still no avail.  i even rewired both fans to make sure connections were good.   Finally call ed HF once again and they went through wiring just to double check.  They finally admitted the transmitters must be bad.  Sent me two new ones, popped them in, and both fans paired up just fine.  Bottom line is if you have trouble pairing your remote...CALL and ask for new transmitter.   Otherwise the fan looks great.  Light output is dim at first, but if you hold the dimming switch as instructed it actually dims down and then brighter.",
+            "author": "DIYraleighGUY",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 13,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Disappointed\"",
+            "rating": 1,
+            "date": "06/14/2019",
+            "recommended": false,
+            "text": "11 days passed warranty, light stopped working, lost power.  Fan still worked great.  Tried all day to call but was told to call back as they were busy.",
+            "author": "Molly",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Link to PDF Instruction Manual\"",
+            "rating": 3,
+            "date": "05/27/2019",
+            "recommended": true,
+            "text": "Link above to online PDF instruction manual is broke.  Especially disappointing since printed manual in the box was missing every other page in both English and Spanish.  Here is the real link after debugging the published link:  https://assets.hunterfan.com/is/content/HunterFan/Manuals%20and%20Spec%20Sheets/Installation%20Manuals/Hunter/Ceiling%20Fans/Windmere%20II/3635-01%2054in%20Windemere%20II%20K7246%20r060818.pdf\n\nBy the way, happy with fan and operation.  Can't get the light to dim via remote or otherwise.  So I can see other reviews where the light was too dim and can't get it brighter. \n Might be the opposite symptom I have but probably result in same fix (i.e. figure out the remote buttons beyond the printed cheat sheet with it).",
+            "author": "LukeW",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Light Output is terrible, remoresporadic\"",
+            "rating": 1,
+            "date": "02/22/2019",
+            "recommended": false,
+            "text": "This fan looks great. The remote turns on the fan and it stays on.  However, the light output is no better than a small nightlight. And the light only stays on a while and then turns itself off.  Half the time you can't run the light and the fan at the same time.  If light and fan are on one or the other will turn off.  I am investigating to see if a different light kit with stronger light will fit. i do NOT recommend this product if you need light.",
+            "author": "Granite girl",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Love the way it works...but...\"",
+            "rating": 2,
+            "date": "11/19/2018",
+            "recommended": false,
+            "text": "The glass globe \"twists\" on and creates friction against the metal. Problem is getting it off to replace bulbs. I have 3 of these fans that I installed and needed to replace bulbs on one. As I struggled to get the globe off it shattered. Now I'm missing a globe and need to spend more money to buy the replacement.",
+            "author": "Josh P",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Horrible remote\"",
+            "rating": 2,
+            "date": "01/27/2019",
+            "recommended": false,
+            "text": "Just bought this to replace dated bedroom fan. Install was straight forward, but after installing the remote barely functions. Replace batteries to no avail. Double checked wiring and receiver with no results. I do not recommend.",
+            "author": "Quintin Phillips",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 8,
+        "percentRecommended": "12",
+        "averageStars": "2.0",
+        "starCounts": {
+            "five": 0,
+            "four": 0,
+            "three": 2,
+            "two": 4,
+            "one": 2
+        }
+    },
+    "questions": [
+        {
+            "question": "\"How do you dim the light??\"",
+            "author": "Anonymous",
+            "date": "03/03/2019"
+        },
+        {
+            "question": "\"Can the remote be disabled from the fan and control by wall switch with dimmer instead?\"",
+            "author": "Anonymous",
+            "date": "02/01/2019"
+        }
+    ]
+}

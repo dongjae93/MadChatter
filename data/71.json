@@ -1,0 +1,309 @@
+{
+    "descriptions": {
+        "overview": "The Dremel DigiLab 3D40 3D Printer is Dremel's best 3D printer for beginners at home or in the classroom that continues the Dremel heritage of reliability and ease-of-use while bringing the convenience of Wi-Fi connectivity and mobile interaction. The Dremel DigiLab 3D40 3D Printer is packed with features to make 3D printing easier. With a build capacity larger than the Dremel 3D20, you can build bigger projects inside the fully enclosed, illuminated workspace with a cooling system that prevents object warping and keeps your builds precise. Design and edit your models with the included Dremel Digilab Slicer based on Cura, and control the building process using a full-color touch-screen. And when the build is done, retrieve your object using the convenient removable build platform. Large, clear, hinged door and lid permit unobstructed viewing of the build operation so you can always see inside without compromising the build environment. Easy-to-use right out of the box, the The Dremel DigiLab 3D40 features built-in printable files so you can start building immediately, without the need of a computer. An advanced extruder design features an active filament monitoring system to ensure successful builds and the exclusive, Quick Level™ guided levelling system makes set-up a snap. Better yet, the 3D40 is made by Dremel the brand you trust for reliability and value and backed by a one-year warranty and UL certification to assure quality and provide peace of mind.",
+        "list": [
+            "Quick and easy set-up with Quik Level™ guided 2-point semi-auto leveling, for fast and accurate calibration",
+            "Wi-fi enabled for remote printing through new Dremel 3D app or through spark software",
+            "New Dremel preparation build software with added features to ensure successful builds",
+            "Innovative extruder with active filament monitoring protects against failed builds",
+            "Expanded build capacity for larger projects— 10 In. x 6 In. x 6.7 In. (255 mm x 155 mm x 170 mm)",
+            "Excellent safety and support—highly rated customer service, one year warranty and UL certified",
+            "Enhanced cooling system prevents warping and keeps your objects crisp",
+            "Advanced motion control minimizes noise",
+            "Full color touch screen lets you go from file to building effortlessly"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "Idea Builder"
+        },
+        {
+            "title": "Number of Extruders",
+            "spec": "1"
+        },
+        {
+            "title": "Touchscreen",
+            "spec": 1
+        },
+        {
+            "title": "Onboard Software Patterns",
+            "spec": "20"
+        },
+        {
+            "title": "Material Type",
+            "spec": "PLA"
+        },
+        {
+            "title": "Connectivity",
+            "spec": "USB"
+        },
+        {
+            "title": "SD Card Drive",
+            "spec": 0
+        },
+        {
+            "title": "Flash Drive",
+            "spec": 1
+        },
+        {
+            "title": "Internal Storage (GB)",
+            "spec": "4"
+        },
+        {
+            "title": "Operating System Compatibility",
+            "spec": "Linux; Mac OS; Windows"
+        },
+        {
+            "title": "Network Capability",
+            "spec": "Ethernet and WiFi"
+        },
+        {
+            "title": "Build Resolution",
+            "spec": "100-micron"
+        },
+        {
+            "title": "Build Plate Size",
+            "spec": "10-in x 6-in x 6.7-in"
+        },
+        {
+            "title": "Filament Diameter (Millimeters)",
+            "spec": "1.75"
+        },
+        {
+            "title": "Overall Length (Inches)",
+            "spec": "15.5"
+        },
+        {
+            "title": "Overall Width (Inches)",
+            "spec": "20.25"
+        },
+        {
+            "title": "Overall Depth (Inches)",
+            "spec": "16"
+        },
+        {
+            "title": "Printer Weight (lbs.)",
+            "spec": "35"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Blue"
+        },
+        {
+            "title": "Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "Commercial Warranty",
+            "spec": "60-day limited"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "UL Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "ETL Safety Listing",
+            "spec": 0
+        },
+        {
+            "title": "Scanner Included",
+            "spec": 0
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"This Printer was designed with ease of use in mind\"",
+            "rating": 5,
+            "date": "06/30/2017",
+            "recommended": true,
+            "text": "Only had the printer for a few weeks and I am already impressed with the print quality and how easy it was to use this printer. Set up on other printers can take hours but the Dremel was up and running in less than 10 minute and I was able to print a chess piece easily with the included filament which was more than enough to get me started. The software was intuitive and i could easily make my own prints and print them with a push of a button. I am currently running the printer in another room while writing this and I have no fear of mistakes while I am away as this printer  is super safe and quiet because of nice enclosed design. Overall I recommend this printer to a consumer or an educator for safety and simplicity, Great Job Dremel You really nailed it with this printer.",
+            "author": "3dprintersrcul",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Wonderful Printer!\"",
+            "rating": 5,
+            "date": "11/16/2016",
+            "recommended": true,
+            "text": "My school district purchased this printer last May.  The printer itself is well built and extremely reliable.  We have had very few failed prints and the leveling of the print bed is extremely easy.  Everything from the operation of the printer to the software is very intuitive.  Additionally, the customer service has been excellent.  We like this printer so much that our district is planning on purchasing a second!",
+            "author": "cresch",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Reliable 3D printing\"",
+            "rating": 5,
+            "date": "08/08/2016",
+            "recommended": true,
+            "text": "I really appreciate the new features Dremel was releasing with the new 3D40. \n3D printing is now very reliable. Was already printing a lot for personal use and I never had any clogging issues and the print came out all fine in its quality. Also with the Print Studio software it is really easy to just download files, repair them, add supports and get started with the print job.",
+            "author": "nicoleclaire",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Eddie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Birthday gift on. Jan 11\"",
+            "rating": 4,
+            "date": "01/15/2019",
+            "recommended": true,
+            "text": "Just not enough time to really use it so far but Mechanic son plans to make good use of it.",
+            "author": "Patsy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 7
+            }
+        },
+        {
+            "title": "\"Perfect for a STEAM Environment\"",
+            "rating": 5,
+            "date": "07/19/2018",
+            "recommended": true,
+            "text": "We use this computer in both an Engineering and Design classroom setting. It has worked seamlessly providing students a fantastic opportunity to take their ideas from concept to prototype and final designs.  We highly recommend it in a High School environment",
+            "author": "ArtsmartDog",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Reliable and easy to use\"",
+            "rating": 5,
+            "date": "10/04/2018",
+            "recommended": true,
+            "text": "I've had mine around a year.  I've used it to make cases for Raspberry Pie boards.  antenna covers for computers, chess sets boxes, plastic car parts, and lots of other things.  Its accurate reliable, durable and super useful.",
+            "author": "john3d",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Printer for Schools!\"",
+            "rating": 5,
+            "date": "08/30/2018",
+            "recommended": true,
+            "text": "I use this printer at my school and it is an excellent device. Easy to learn how to operate and very dependable! There is such a large variety of projects for students that this machine is capable of handling.",
+            "author": "Brennan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great\"",
+            "rating": 4,
+            "date": "03/29/2016",
+            "recommended": null,
+            "text": "Very Nice product to buy.. surely recommend to buy this product",
+            "author": "Rahul",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 9,
+        "percentRecommended": "88",
+        "averageStars": "4.8",
+        "starCounts": {
+            "five": 7,
+            "four": 2,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"How does it replicate a physical plastic item\"",
+            "author": "Anonymous",
+            "date": "04/21/2018"
+        },
+        {
+            "question": "\"Is the operating software priority or can you use STL documented files from 3D modeling software.\"",
+            "author": "Anonymous",
+            "date": "12/08/2018"
+        },
+        {
+            "question": "\"What can you make with this printer\"",
+            "author": "Anonymous",
+            "date": "11/04/2018"
+        },
+        {
+            "question": "\"I use AutoCad 2D/3D software, Can I input 3D objects into the 3D printer?\"",
+            "author": "Anonymous",
+            "date": "11/02/2018"
+        },
+        {
+            "question": "\"Is the filament food safe? Would it work to make ice cube trays?\"",
+            "author": "Bonafide",
+            "date": "08/15/2018"
+        },
+        {
+            "question": "\"Does this come with the roll of filament as pictured.\"",
+            "author": "Anonymous",
+            "date": "05/15/2018"
+        },
+        {
+            "question": "\"Will this printer print rubber items (like makeing stamps for scrapbooking)? Or does it only make solid items?\"",
+            "author": "Anonymous",
+            "date": "05/05/2018"
+        },
+        {
+            "question": "\"Does Dremel make a scanner that would be compatible with the 3d printer? Maybe a printer/scanner kit?\"",
+            "author": "Anonymous",
+            "date": "05/01/2018"
+        },
+        {
+            "question": "\"Can you put a scanner on it\"",
+            "author": "hotdogcrasher",
+            "date": "12/24/2017"
+        }
+    ]
+}

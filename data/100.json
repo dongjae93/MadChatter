@@ -1,0 +1,362 @@
+{
+    "descriptions": {
+        "list": [
+            "Maximum reach of 26 ft in extension ladder position (Assuming a 5 ft 6 inch person with a vertical 12 inch reach)",
+            "Smooth curved rails for comfortable climbing",
+            "Easily converts into a twin stepladder, stairway stepladder, extension ladder or 2-scaffold bases",
+            "Double-riveted steps for long lasting durability",
+            "Extra wide flared bottom for firm support",
+            "Slip-resistant feet",
+            "Telescoping design for maximum versatility",
+            "Designed for 1 or 2 person jobs",
+            "ANSI, OSHA and CSA certified for safety"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Type",
+            "spec": "Multi-position"
+        },
+        {
+            "title": "Material",
+            "spec": "Aluminum"
+        },
+        {
+            "title": "Load Capacity (lbs.)",
+            "spec": "300"
+        },
+        {
+            "title": "Ladder Rating",
+            "spec": "Type 1A - 300 lbs."
+        },
+        {
+            "title": "Step Ladder Maximum Height (Feet)",
+            "spec": "11"
+        },
+        {
+            "title": "Step Ladder Minimum Height (Feet)",
+            "spec": "6"
+        },
+        {
+            "title": "Extension Ladder Maximum Height (Feet)",
+            "spec": "23"
+        },
+        {
+            "title": "Extension Ladder Minimum Height (Feet)",
+            "spec": "13"
+        },
+        {
+            "title": "Step Ladder Maximum Reach Height (Feet)",
+            "spec": "15"
+        },
+        {
+            "title": "Closed/Folded Minimum Height (Feet)",
+            "spec": "6.6"
+        },
+        {
+            "title": "Extension Ladder Max Reach Height (Feet)",
+            "spec": "26"
+        },
+        {
+            "title": "Storage Height (Feet)",
+            "spec": "6.6"
+        },
+        {
+            "title": "Storage Depth (Inches)",
+            "spec": "8.25"
+        },
+        {
+            "title": "Weight (lbs.)",
+            "spec": "63.2"
+        },
+        {
+            "title": "Rung/Step Depth (Inches)",
+            "spec": "1"
+        },
+        {
+            "title": "Rung/Step Material",
+            "spec": "Aluminum"
+        },
+        {
+            "title": "Number of Steps",
+            "spec": "22"
+        },
+        {
+            "title": "Step Rise (Inches)",
+            "spec": "12"
+        },
+        {
+            "title": "Telescoping",
+            "spec": 1
+        },
+        {
+            "title": "Adjustable Leg Leveler",
+            "spec": 0
+        },
+        {
+            "title": "Number of Positions",
+            "spec": "37"
+        },
+        {
+            "title": "Wheels",
+            "spec": 0
+        },
+        {
+            "title": "ANSI Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "OSHA Safety Listing",
+            "spec": 1
+        },
+        {
+            "title": "Weather Resistant",
+            "spec": 1
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30191500"
+        },
+        {
+            "title": "Series Name",
+            "spec": "Mt"
+        },
+        {
+            "title": "CSA Safety Listing",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "36b8e6a4-900a-50bf-aad3-4e6a37e1a280",
+                    "largeName": "00456cd4-0a3e-51ae-9f79-4bd4780bb3a1"
+                },
+                {
+                    "smallName": "b58a3f88-87be-5088-beb4-a8f407847edb",
+                    "largeName": "7dce0c5a-0ccb-584b-a955-abc92e7cb074"
+                }
+            ],
+            "title": "\"My ladder just broke\"",
+            "rating": 1,
+            "date": "05/27/2019",
+            "recommended": false,
+            "text": "I have this ladder and in the time of need it actually broke on me.  I don't use it very often, I had it for the high places in my home.  I was about to paint my stairs and one of the pins in the locking mechanism broke.  I looked on their website for the warranty and the only thing they said was \"we don't have one but we stand behind our ladders\".  Must be way back!!!  So I don't recommend this ladder, I recommend the real one which has a warranty at least.  I added a pick as proof of the damage.  Again, I rarely use this ladder so it's not from wear and tear.",
+            "author": "Jeremiah",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Awsome\"",
+            "rating": 5,
+            "date": "12/07/2018",
+            "recommended": true,
+            "text": "You can do so many things with this ladder.  Easy to use and easy to store",
+            "author": "Mike",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"One-in All\"",
+            "rating": 5,
+            "date": "09/27/2018",
+            "recommended": true,
+            "text": "You can make about any light to medium duty work setup that you might need.",
+            "author": "Davewiin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 3
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/08/2019",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bill",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Very sturdy and very heavy ladder\"",
+            "rating": 4,
+            "date": "10/05/2016",
+            "recommended": true,
+            "text": "There are trade-offs with any product and that is true for this ladder. The MT-26 provides a very stable 13 foot step ladder but it also is very heavy and the steps are less than half as wide as those of a regular step ladder and so not comfortable for standing on for any amount of time.\n\nThe rungs are also too far apart to use something like the Werner AC24 tray so I need to tie a bucket to the ladder for parts I need when at the top.\n\nVery easy to adjust the height on each side and not have to support the entire weight of the ladder. I have similar ladders and they are not nearly as easy to adjust even though they are much shorter ladders.\n\nAs this is a very heavy ladder I would recommend buying only as tall a MT ladder as you actually will need.",
+            "author": "Elkman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Durable multi-use ladder\"",
+            "rating": 5,
+            "date": "08/27/2017",
+            "recommended": true,
+            "text": "As a painting contractor for the last 17 years I've used the MT 26 & MT 22 extensively. The MT 26 is somewhat heavy but not extraordinarily so, as it is rated as a Type1A, 300 lb test weight. It's a large ladder & large ladders can be heavy. I've never had to ask for help using it in whatever configuration is needed. It's very versatile with multiple combinations of\nladder configurations. I use the MT 26 mainly for painting walls where steps/stairs are present. It collapses \nto a length that can easily be carried in a small pickup \nw/o a rack if need be. \n\nDefinitely NOT a homeowner ladder imo(the MT 17, MT22 would be better suited for homeowners).\n\nIn 17 years of constant use I've never had any issues with the latches. \n\nBottom Line: Well worth the $ for a quality product engineered to last many years",
+            "author": "Idaho77",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Very happy with the ladder\"",
+            "rating": 5,
+            "date": "01/02/2016",
+            "recommended": true,
+            "text": "We have a high stair way that we wanted to hang family pictures. For 3 years we couldn't figure out an easy way to hang the pictures and decided to try the MT-26 after reading other reviews.We were very happy with how easy it was to configure for the stairs and how stable the ladder was. It was a lot easier to break the ladder down when we were done for the day. Just had to make sure there wasn't pressure on the hinge points so the locks would operate smoothly.This is a heavy ladder and it took my wife and I to move the ladder on the stair way. My wife doesn't have a lot of upper body strength, but it was very easy for the two of us to move the ladder up and down the stairs. I could have done the set up if the stair way wasn't finished and you weren't too concerned about little nicks and dings in the sheet rock.We should have bought the ladder several years ago.",
+            "author": "rich",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Ladder\"",
+            "rating": 5,
+            "date": "10/13/2014",
+            "recommended": true,
+            "text": "I have used a lot of different ladders over the years as a security insallation tech, I have used the little giant ladder as well and this one is really top notch. I bought it specifically for use on stairs and It is the most stable ladder I have used on stairs.. works well for painting and hanging photos. Also for tall rooms as a step ladder..",
+            "author": "securityguy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Not what I was hoping for\"",
+            "rating": 1,
+            "date": "08/19/2018",
+            "recommended": false,
+            "text": "When I purchased this ladder I was hoping to have a multi purpose ladder that could be my go to ladder on a daily basis. Unfortunately it did not meet my expectations, it is very difficult to adjust ,impossible to stand up when used as an extension ladder and 2 braces on the bottom rungs have already broken.",
+            "author": "tony07726",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Requires two people to use\"",
+            "rating": 1,
+            "date": "04/16/2017",
+            "recommended": false,
+            "text": "I'm sick and tired of equipment made so heavy and awkward to handle that it requires a two person team just to move it and get it in place for work. Ladders should not be a project unto themselves!!!!! Will never buy another ladder that I cannot carry and assemble myself.",
+            "author": "Ebeb",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great for multiple uses\"",
+            "rating": 5,
+            "date": "02/25/2016",
+            "recommended": true,
+            "text": "Bought to use to get onto my two story roof ... Works great ... Also works to replace bulbs on chandler which is solid 18' up\n\nIs heavy at 65-70 lbs but i can easily work by myself",
+            "author": "N8dwg45",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"This is fantastic ladder\"",
+            "rating": 5,
+            "date": "05/25/2015",
+            "recommended": true,
+            "text": "A buddy of mine got one for his house/garage & I was able to use it & this the BEST ladder I have ever seen.. I'm on my way to buy one rt now..",
+            "author": "DLadder4ME",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"its so versitile\"",
+            "rating": 4,
+            "date": "10/16/2013",
+            "recommended": true,
+            "text": "i use this ladder daily and it eliminates the need to carry multiple ladders. its only drawback is its heavy.",
+            "author": "woodgod",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 14,
+        "percentRecommended": "71",
+        "averageStars": "4.0",
+        "starCounts": {
+            "five": 9,
+            "four": 2,
+            "three": 0,
+            "two": 0,
+            "one": 3
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Does this product have levelers for uneven terrain?\"",
+            "author": "Anonymous",
+            "date": "06/07/2019"
+        },
+        {
+            "question": "\"how long is this ladder in its non-usage position?\"",
+            "author": "Anonymous",
+            "date": "03/14/2019"
+        },
+        {
+            "question": "\"how high is each scaffell step ladder\"",
+            "author": "Anonymous",
+            "date": "08/23/2018"
+        }
+    ]
+}

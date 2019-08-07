@@ -1,0 +1,163 @@
+{
+    "descriptions": {
+        "overview": "Hardened steel blades ensure consistent cuts and long-term durability, while the rounded blade design minimizes cable distortion during cutting.",
+        "list": [
+            "Replaceable hardened steel-cutting blades provide long lasting cutting of copper and aluminum wire",
+            "Cuts up to 750kcmil copper and 1000kcmil aluminum cables",
+            "Two-step ratcheting mechanism for fewer strokes per cut",
+            "Quick-release lever opens blade at anytime during operation"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Electrician Tool Type",
+            "spec": "Cable cutter"
+        },
+        {
+            "title": "Crimping Capacity",
+            "spec": "N/A"
+        },
+        {
+            "title": "Wire Cutting Capacity (Inches)",
+            "spec": "5"
+        },
+        {
+            "title": "Lockable",
+            "spec": 1
+        },
+        {
+            "title": "Material",
+            "spec": "CRV"
+        },
+        {
+            "title": "Warranty",
+            "spec": "Lifetime"
+        },
+        {
+            "title": "Stripping Capacity",
+            "spec": "N/A"
+        },
+        {
+            "title": "Wire Type",
+            "spec": "Solid and stranded"
+        },
+        {
+            "title": "Lowe's Exclusive",
+            "spec": 0
+        },
+        {
+            "title": "Series Name",
+            "spec": "Ratcheting"
+        },
+        {
+            "title": "Sub-Brand",
+            "spec": "Heavy Duty"
+        },
+        {
+            "title": "Ratcheting",
+            "spec": 1
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Overall Length (Inches)",
+            "spec": "13.5"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "27111500"
+        },
+        {
+            "title": "Handle Length (Inches)",
+            "spec": "9"
+        },
+        {
+            "title": "Primary Application",
+            "spec": "Electrical"
+        },
+        {
+            "title": "Insulated",
+            "spec": 0
+        }
+    ],
+    "reviews": [
+        {
+            "title": "\"Excellent cutters....\"",
+            "rating": 5,
+            "date": "12/29/2015",
+            "recommended": true,
+            "text": "These are a great cable cutter. At first I was not sure about the Southwire brand after being a owner of only Greenlee. But after purchasing these cutters I might have changed my mind. They cut nice and smooth with very little effort on my behalf. And with the added benefit of catching these on sale for 89..... Who could say no.",
+            "author": "Wheeler454",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Good tool.\"",
+            "rating": 4,
+            "date": "08/26/2016",
+            "recommended": true,
+            "text": "Seems to be a good quality tool, except the lock lever is flimsy. Use it frequently. The company where I work has purchased the same cutter.",
+            "author": "Energizer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Easy to use for the bigger cuts\"",
+            "rating": 4,
+            "date": "08/08/2016",
+            "recommended": true,
+            "text": "We use this were I work. Big step up from our old cutter.  The ratchet system allows for the big cuts with out killing your hand.",
+            "author": "Jaim",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 3,
+        "percentRecommended": "100",
+        "averageStars": "4.3",
+        "starCounts": {
+            "five": 1,
+            "four": 2,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Do these cutters cut 4/0 wire\"",
+            "author": "Anonymous",
+            "date": "08/10/2014"
+        },
+        {
+            "question": "\"WHERE IS THIS CUTTER MADE? WHAT COUNTRY?\"",
+            "author": "Anonymous",
+            "date": "02/16/2015"
+        },
+        {
+            "question": "\"does the cutters open up\"",
+            "author": "Anonymous",
+            "date": "06/24/2019"
+        },
+        {
+            "question": "\"Would these cutters work on 3/16\" steel winch cable?\"",
+            "author": "mrpozz",
+            "date": "09/28/2016"
+        }
+    ]
+}

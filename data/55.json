@@ -1,0 +1,99 @@
+{
+    "descriptions": {
+        "overview": "The straightforward design of the Branham urinal brings KOHLER styling and functionality to any application. Constructed of durable vitreous china, it is available in a palette of KOHLER colors to complement any décor.",
+        "list": [
+            "Washout urinal",
+            "3/4-in rear spud",
+            "1 or less gallons per flush",
+            "ADA-compliant"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Assembled Height (Inches)",
+            "spec": "42.5"
+        },
+        {
+            "title": "Assembled Weight (lbs.)",
+            "spec": "100"
+        },
+        {
+            "title": "Assembled Width (Inches)",
+            "spec": "18.25"
+        },
+        {
+            "title": "Assembled Depth (Inches)",
+            "spec": "16.125"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "WaterSense Labeled",
+            "spec": 0
+        },
+        {
+            "title": "High Efficiency",
+            "spec": 0
+        },
+        {
+            "title": "Spud Inlet Size (Inches)",
+            "spec": "0.75"
+        },
+        {
+            "title": "Installation Method",
+            "spec": "Floor-mounted"
+        },
+        {
+            "title": "Waterless",
+            "spec": 0
+        },
+        {
+            "title": "Integrated Electronic Flush",
+            "spec": 0
+        },
+        {
+            "title": "Spud Location",
+            "spec": "Top"
+        },
+        {
+            "title": "Flush Valve Included",
+            "spec": 0
+        },
+        {
+            "title": "Maximum Flush Rate",
+            "spec": "0.5; 1.0 GPF (1.89; 3.79 LPF)"
+        },
+        {
+            "title": "Hardware Finish",
+            "spec": "N/A"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30181500"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "White"
+        },
+        {
+            "title": "Hardware Color Family",
+            "spec": "White"
+        }
+    ],
+    "reviews": [],
+    "reviewStats": {
+        "reviewCount": 0,
+        "percentRecommended": "",
+        "averageStars": "5.0",
+        "starCounts": {
+            "five": 0,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": []
+}

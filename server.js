@@ -49,7 +49,7 @@ app.post("/yoyos", (req, res) => {
 app.get('/images', (req, res) => {
   console.log('hereEEEEEEEEEEEEEEEEEEEEEE');
   const options = {
-    root: path.join(__dirname, '../../FEC/scraped/photo'),
+    root: path.join(__dirname, 'data/photo'),
     dotfiles: 'deny',
     headers: {
       'x-timestamp': Date.now(),

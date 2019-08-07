@@ -1,0 +1,1603 @@
+{
+    "descriptions": {
+        "overview": "The gorgeous Carrara Marble, with its classic white and gray veining, has been used for centuries in homes and public venues. The issue with real marble is that it will change, age and wear over time. Futuro is the future of marble looks for your wall, floor, or backsplash. Made of porcelain tile with an average lifespan of more than 50 years, Futuro will maintain its clean, eye-catching appearance for the life of the building. Durability tested for residential and light commercial applications, Futuro also comes in a wide variety of sizes to make your project seamless and easy to finish. Sizes include 12 in. x 12 in., 12 in. x 24 in., 9 in. x 12 in., and a 3 in. x 12 in. Bullnose to complete the design.",
+        "list": [
+            "Impervious to water (fully submersible), greats for showers, back splashes, fire places, no sealant required",
+            "Stain-resistant, frost-proof tile can be installed indoors or outdoor and features a 60+ year life expectancy for lasting use",
+            "First grade, high quality porcelain tile for floor, wall, and countertop use",
+            "13.58 square feet per case, 7 pieces per case, weight is 57.40 lb. per case",
+            "12 in. width x 24 in. length x 0.35 in. thick",
+            "Clean, classic marble look with the durability of porcelain tile, made in the USA, comes in multiple sizes to make finishing your project easy, sizes include 12 x 12, 12 x 24, 9 x 12 and 3 x 12 bullnose",
+            "Matte finish and moderate shade variation to create a unique design",
+            "P.E.I. rating IV is suitable for commercial and residential applications including kitchens, halls, corridors, balconies, terraces, almost anywhere"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "Futuro"
+        },
+        {
+            "title": "Sub-Brand",
+            "spec": "N/A"
+        },
+        {
+            "title": "Edge Type",
+            "spec": "Pressed"
+        },
+        {
+            "title": "Style",
+            "spec": "Classic"
+        },
+        {
+            "title": "Theme",
+            "spec": "Italian"
+        },
+        {
+            "title": "Design",
+            "spec": "N/A"
+        },
+        {
+            "title": "Tile Shape",
+            "spec": "Rectangular"
+        },
+        {
+            "title": "Mosaic",
+            "spec": 0
+        },
+        {
+            "title": "Mosaic Pattern",
+            "spec": "N/A"
+        },
+        {
+            "title": "Material",
+            "spec": "Porcelain"
+        },
+        {
+            "title": "Waterproof",
+            "spec": "Yes (with proper installation)"
+        },
+        {
+            "title": "Finish",
+            "spec": "Glazed"
+        },
+        {
+            "title": "Surface Type",
+            "spec": "Smooth"
+        },
+        {
+            "title": "Installation Type",
+            "spec": "Thinset mortar"
+        },
+        {
+            "title": "Indoor/Outdoor",
+            "spec": "Indoor/Outdoor"
+        },
+        {
+            "title": "ADA Compliant",
+            "spec": 1
+        },
+        {
+            "title": "Chemical Resistant",
+            "spec": 1
+        },
+        {
+            "title": "Commercial/Residential",
+            "spec": "Commercial/Residential"
+        },
+        {
+            "title": "Actual Thickness (Millimeters)",
+            "spec": "9"
+        },
+        {
+            "title": "Actual Width (Inches)",
+            "spec": "11.75"
+        },
+        {
+            "title": "Actual Length (Inches)",
+            "spec": "23.75"
+        },
+        {
+            "title": "Square Footage Per Piece (Sq. Feet)",
+            "spec": "1.94"
+        },
+        {
+            "title": "Square Footage Per Carton (Sq. Feet)",
+            "spec": "1.94"
+        },
+        {
+            "title": "PEI Rating",
+            "spec": "4-heavy traffic"
+        },
+        {
+            "title": "Breaking Strength in Pounds",
+            "spec": "251-499"
+        },
+        {
+            "title": "Frost Resistant",
+            "spec": 1
+        },
+        {
+            "title": "Water Absorption",
+            "spec": "Impervious"
+        },
+        {
+            "title": "Shade Variation",
+            "spec": "V3 (moderate variation)"
+        },
+        {
+            "title": "Manufacturer Color/Finish",
+            "spec": "White"
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "Sold As",
+            "spec": "Piece"
+        },
+        {
+            "title": "Application",
+            "spec": "Floor and wall"
+        },
+        {
+            "title": "Package Quantity",
+            "spec": "1"
+        },
+        {
+            "title": "Common Measurement (W x L)",
+            "spec": "12-in x 24-in"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30161700"
+        },
+        {
+            "title": "Dynamic Coefficient of Friction (DCOF)",
+            "spec": "Greater than .42"
+        },
+        {
+            "title": "Sample Item Number",
+            "spec": "N/A"
+        },
+        {
+            "title": "Stone Type",
+            "spec": "N/A"
+        },
+        {
+            "title": "For Use with Garage Floors",
+            "spec": 0
+        },
+        {
+            "title": "Sealant Required",
+            "spec": 0
+        },
+        {
+            "title": "Wood Look",
+            "spec": 0
+        },
+        {
+            "title": "Tile Color/Finish Family",
+            "spec": "White"
+        },
+        {
+            "title": "Can be Used as Accent Tile",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Bathroom Floors",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Bathroom Walls",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Fireplace Exteriors",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Garage Walls",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Kitchen Backsplashes",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Kitchen Counters",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Patios",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Pools",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Shower Floors",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Shower Walls",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "3da263f1-f884-5770-b948-d3aaec70807d",
+                    "largeName": "23272861-858b-51d2-8090-f416af9e066d"
+                },
+                {
+                    "smallName": "f881eee3-0755-5f21-afc0-e73dedc7fe44",
+                    "largeName": "d8a54806-f791-510e-8f46-e9b0574015ec"
+                },
+                {
+                    "smallName": "7eab5992-4133-51f7-920a-8358472fa0bd",
+                    "largeName": "97576005-517f-5f93-9660-61dc8b3e96e3"
+                },
+                {
+                    "smallName": "5e894cdc-e51c-537d-91fe-c04e407e286f",
+                    "largeName": "8c4cdf44-fea2-5793-b4c8-6d7b3f440542"
+                },
+                {
+                    "smallName": "23e99122-f2aa-5788-8a38-9aeec85a7c76",
+                    "largeName": "7c440e12-76a7-5533-96df-bc4a8e4cce6b"
+                },
+                {
+                    "smallName": "c2753569-a7a0-5100-8b59-15d97e09c24f",
+                    "largeName": "2bf51ae5-2de5-538a-a741-20d292956996"
+                }
+            ],
+            "title": "\"Beautiful and resilient!\"",
+            "rating": 5,
+            "date": "07/23/2018",
+            "recommended": true,
+            "text": "I decided to make of my bedrooms into a new bathroom (I'm gonna build on a new master bedroom ) three times bigger than my old dilapidated one which will be a utility/laundry room. I chose these tiles because they were on sale for $.99 each. They do require a wet saw and are heavy so I'm thinking I don't have to worry about them breaking. This has been quite a project still in progress. So far I'm pleased and have gotten many compliments on it. I recommend these tiles.",
+            "author": "Tucker",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "52313453-1364-5e02-ae55-edf561ce0400",
+                    "largeName": "9b672c87-6790-5f36-9086-c019fa22e393"
+                },
+                {
+                    "smallName": "ce69b6a4-e4e1-56b8-972a-51956c9a60dc",
+                    "largeName": "42d2143a-b2f5-510f-8009-94b228e4f4de"
+                },
+                {
+                    "smallName": "ca77d3dc-9faa-574a-9270-b160d23ef87f",
+                    "largeName": "cbc1a039-df37-5b74-971c-268b555bcfda"
+                },
+                {
+                    "smallName": "0030ae15-2e33-5464-bd5f-093137bef26e",
+                    "largeName": "e92d7127-b0f5-5eb6-b91f-ba84fe062de7"
+                }
+            ],
+            "title": "\"Gorgeous tile\"",
+            "rating": 5,
+            "date": "03/08/2018",
+            "recommended": true,
+            "text": "This tile is BEAUTIFUL! It looks like real marble and for a fraction of the price! We wound up being under budget with our contractor by using this tile and it honestly looks like it was really expensive. We would definitely use this again when we build another house! Grout color we chose with it is Delorean gray.",
+            "author": "Gina",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 40,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "739ec83e-9096-5873-8841-7a17a256a822",
+                    "largeName": "037f0256-11ef-53af-b272-1ae2e0f62ac8"
+                },
+                {
+                    "smallName": "253e4fed-4476-58ff-bd60-86644d859514",
+                    "largeName": "d47bda6d-df83-5b43-ae85-5884fca7c8a7"
+                },
+                {
+                    "smallName": "0a1e2094-32b9-5bc4-9783-8ad73493d3cd",
+                    "largeName": "c83bc6ec-341f-5bb7-8ccc-42708572f64b"
+                }
+            ],
+            "title": "\"Great tile!\"",
+            "rating": 5,
+            "date": "01/24/2017",
+            "recommended": true,
+            "text": "This was my first tile job. I renovated my powder room.  I dry fit everything and made most of my cuts with a simple tile cutter. I used a wet saw on my compound cuts. I broke my first two tiles cutting due to my own inexperience but not a big deal because the tiles were cheap. I only needed about 30 tiles and never checked for dye lot and the color was perfect. The pictures I posted are from different times of day so the light is different. I am so happy with the end result and have had a ton of compliments on my new room.",
+            "author": "Lucy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 46,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "07765cba-c345-5965-80e6-5dee765a9cb3",
+                    "largeName": "cd9ba8aa-0393-5618-8cc4-1eacc5bf7339"
+                },
+                {
+                    "smallName": "92c7aa9d-a897-5028-9c37-324faf4d8e69",
+                    "largeName": "4e849f3d-0645-58b9-b5d9-32b188ac161d"
+                },
+                {
+                    "smallName": "66915dd6-4cc3-510a-9b28-86d16000cd1a",
+                    "largeName": "1d9e21ee-3b68-5cae-8ecd-c2b06f0c96d2"
+                }
+            ],
+            "title": "\"Cheap good looking tile kinda hard to cut...\"",
+            "rating": 4,
+            "date": "06/28/2018",
+            "recommended": true,
+            "text": "Purchased 8 boxes of this for a bathroom remodel, most was the same lot but even a slight variance isn't very noticable. Bought a wet saw from HF and a $50 blade from HD and it cut fairly well. Most the cuts were in the corners so even some chips aren't visable. Overall I'm very happy with this tile, and the looks with a black vanity, I recommend if you're on a budget.",
+            "author": "teddyxruxpin",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "191e0f43-3327-56ee-a591-a67d35b11d27",
+                    "largeName": "16577b38-acfa-55fb-9817-ab3ad9b576f7"
+                },
+                {
+                    "smallName": "4b69c685-2ea4-5d20-93e7-5c611c79d0bc",
+                    "largeName": "fccd94d0-0847-5366-a792-cf09042c1f8c"
+                }
+            ],
+            "title": "\"Great tile\"",
+            "rating": 4,
+            "date": "08/07/2016",
+            "recommended": false,
+            "text": "I did my guest bathroom shower in this tile from floor to ceiling.  I loved the unique size 9 X 12, and yes, there were definitely color variations from box to box.  But I did not mind.  In fact, it keeps things a bit more interesting, rather than just one boring color the way through.  One poster said their contractor had trouble cutting the tile.  Mine never broke a single tile, so not sure what their problem is.  And, yes, buy extra to allow for breakage.  Whining about breakage is silly.  You're dealing with porcelain tile -of course there's going to be breakage.  Especially when you are buying for a low price from a discount warehouse where they throw things on to the shelves.  Just get over it and buy extra.  You can return the broken ones.  It's a win.  No brainer.",
+            "author": "Chprout",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 82,
+                "no": 9
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "058bfd8f-6c3e-59fc-bf1f-7ad569338b23",
+                    "largeName": "8412f2f0-4bef-52d5-aa2c-9010ef7e59fe"
+                },
+                {
+                    "smallName": "01f9757a-8391-59eb-a402-c06d52d72aa6",
+                    "largeName": "4850d8a5-2630-5f87-b341-21b0f1c036f0"
+                }
+            ],
+            "title": "\"Tiles Vary in color\"",
+            "rating": 2,
+            "date": "03/20/2017",
+            "recommended": true,
+            "text": "I bought these to redo my guest bathroom/laundry room floors because I love the porcelain white. I had these installed over the weekend with no problem, or so I thought. I bought about 5 boxes of these thinking that they were all the same white I saw, but turns out a lot of them are more of a grey/blue tone. My installer did not notice this when installing, so now I have mismatched floors. I'll have to re-do them and pay more attention next time.",
+            "author": "Lorena",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 75,
+                "no": 9
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8ecb0c6f-41ac-5de8-b1f8-42220fc45fef",
+                    "largeName": "f0214373-a73c-5938-803f-fc67934fba3e"
+                },
+                {
+                    "smallName": "81f374c6-bcc9-5a14-bf0e-32e4a6ece431",
+                    "largeName": "5356aa84-33c7-58b3-92db-babb76c8f29f"
+                }
+            ],
+            "title": "\"Very nice \"marble look\" tile\"",
+            "rating": 5,
+            "date": "07/24/2017",
+            "recommended": true,
+            "text": "My wife and I tiled our kitchen floor with the 12x12 Futura White tiles, grouted with bright white TEC Power Grout.  The finished job looks great, very much like real marble.  Installation went fine, I found the tiles were very uniform in size and color.  Our layout was a running bond with 1/8\" joints, in a 10' x 11' area.  The joints came out great with little variation or adjustment needed.Some other reviews mentioned signification variations in tile size and color.  I suspect that these persons did not use tiles that were all from the same lot.  Whenever getting tile be sure to check the numbers on the box labels and verify all the boxes are from the same lot, meaning they were all manufactured at the same time.  Tiles from differing lots can vary in both shading and even size, due to the manufacturing process.  Even though all our tiles were in the same lot, we still worked from multiple boxes at once when installing them to ensure any color variations that might exist would be spread throughout the floor.",
+            "author": "jmb3450",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 41,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "e9947c3a-1b13-53b8-a75a-053cdbc03f1f",
+                    "largeName": "e1be430f-4140-5f06-8b63-e283d04a9131"
+                },
+                {
+                    "smallName": "a8261378-d131-545a-9fad-a8a1119afb93",
+                    "largeName": "96b97990-46e7-5cbe-ae6b-b6471d31f92c"
+                }
+            ],
+            "title": "\"Classy looking tiles\"",
+            "rating": 4,
+            "date": "01/24/2016",
+            "recommended": true,
+            "text": "I bought this tiles for 2 bathroom renovations in my rental properties. I needed light colored tiles to make the space look bigger, and I couldn't have been happier. The dark floor on one of the bathroom is the Galvano charcoal by Style Selections. Look great, very classy!",
+            "author": "Calle",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 157,
+                "no": 20
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "08967c9d-e2d8-5e86-a3ec-8c091738b3ea",
+                    "largeName": "70f9b91b-f305-5580-96ee-633f54f7af66"
+                },
+                {
+                    "smallName": "876f5bc2-f4bf-5177-a3af-ed3308b32d2b",
+                    "largeName": "8aceb216-b724-5659-8efa-15ba00704c44"
+                }
+            ],
+            "title": "\"Looks great, no problems\"",
+            "rating": 5,
+            "date": "11/28/2017",
+            "recommended": true,
+            "text": "Easy to cut, I found there WAS color and size consistency, obviously looked at lot numbers when purchased, but even the few extra loose pieces I picked up seemed to be consistent.  Also easy to cut, didn't have any breakage or exploding tile.  Had a few had chips/broken corners out of the box (Maybe 3 tiles out of 35) but that's expected, used those for cut pieces.",
+            "author": "JEv",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "ba35e2ac-d3a2-5b2e-91d7-ecfa3133fb8b",
+                    "largeName": "96a2ab29-9b6f-5b71-b0f8-c4cee7c17625"
+                }
+            ],
+            "title": "\"Beautiful Tile! No issues.\"",
+            "rating": 5,
+            "date": "01/24/2017",
+            "recommended": true,
+            "text": "I am not a professional contractor.  Just your average DIY-er.  This was my first try at a tile project. Most boxes had a broken tile - oh well.  They are $1.58 each. Each broken tile could still be used in a place where a tile had to be cut to fit anyway.  Not a big deal. Using a fairly basic ($90) wet saw I did not break a single tile.  Just take your time.  The colors between boxes match fine.  If I paid $5/tile and there were a few broken, then I'd be upset.  But, it's unfair to buy a very inexpensive product and complain about poor quality.",
+            "author": "Leigh",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 38,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "0be61018-04ae-5f78-b30a-761b78c294fa",
+                    "largeName": "1bc7d6b4-7090-5745-af1e-e817bdf810b7"
+                },
+                {
+                    "smallName": "ef47e9f1-3d1d-556c-8dfd-59945399461a",
+                    "largeName": "af6d32f5-c242-52fb-bb90-f7686625650f"
+                }
+            ],
+            "title": "\"love the look for the price\"",
+            "rating": 5,
+            "date": "09/09/2016",
+            "recommended": true,
+            "text": "Paired Futuro tile with Allen&Roth Modern Cubes, cut sheet into 3 listels. Love the look, especially for the price.",
+            "author": "Dee",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 55,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Nice Tile Especially for the price\"",
+            "rating": 5,
+            "date": "11/10/2015",
+            "recommended": true,
+            "text": "I read the previous review right after I purchased the tile and it gave me immediate anxiety and I didn't want to return 250 square feet of tile. We used a tile saw instead of a tile cutter and we had no issues with working with this tile. The looks are really great especially for under $2 per square foot. Most tile stores are charging at least $5 per square ft for a porcelain tile that has a carrara marble look. I already spent a ton of money on my renovation and it felt nice to save money on this tile. I'm actually very happy I bought this tile because I saved at least $800 on tile cost and I like the matte finish (doesn't seem very slippery). Great overall deal and a very nice tile.",
+            "author": "Ray315",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 131,
+                "no": 5
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "8ce3d66c-6892-5615-b5cd-371372f03fce",
+                    "largeName": "70b950a7-d8f1-5876-8576-2b48f1dac4f3"
+                },
+                {
+                    "smallName": "b1b1a117-386a-53bd-b6bd-b22d4542b94c",
+                    "largeName": "c5358ac0-607e-5419-bde4-ea7cab04e8ff"
+                }
+            ],
+            "title": "\"75% were chipped\"",
+            "rating": 1,
+            "date": "08/28/2017",
+            "recommended": false,
+            "text": "These are very thin. They do not cut well. Most were chipped and some of the boxes had all chipped pieces. We already started the job. Had to buy more but the dyes were slightly off.",
+            "author": "Rmatt01",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 25,
+                "no": 11
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6637c93e-7057-5f0a-aac8-b6a4f7a955d1",
+                    "largeName": "e73112bb-4c44-5af1-bcdb-e5b9c5dc2ab0"
+                }
+            ],
+            "title": "\"I love it!\"",
+            "rating": 4,
+            "date": "11/17/2016",
+            "recommended": true,
+            "text": "I used this tile in my shower in our guest bathroom, and I like it so much that I plan to use it again in our main bath when we renovate it this winter.  It's attractive, cost-efficient, good quality, and my contractor didn't have a problem cutting the tiles as he used a wet saw.  I highly recommend!",
+            "author": "Sarita",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 21,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Inexpensive, in stock, and looks good\"",
+            "rating": 5,
+            "date": "02/24/2017",
+            "recommended": true,
+            "text": "I was considering marble tiles of the same size, but decided on the porcelain tiles due to the price difference.  I redid my shower stall for about $250 vs $800 for what the marble tiles would have cost.  Visually the quality is good, but as others have mentioned there are small variations in the sizes of these tiles.Positive: inexpensive and in stock- no waiting period like the special order tiles (most of the marble takes 2 weeks)Cons: small variation in tile sizes.  you just have to spend a little bit more time cutting and lining them up correctly.",
+            "author": "bubs",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 58,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "54316ca9-7770-5528-b1f6-1f9ea1bbe06f",
+                    "largeName": "6d8a8f18-d243-593d-ba2a-cc2b59332704"
+                },
+                {
+                    "smallName": "9227fc37-6766-5d3a-97db-cfbe012560fb",
+                    "largeName": "4577130d-998e-5c45-ace9-12a267f85eaa"
+                }
+            ],
+            "title": "\"No problem with color but quality is poor\"",
+            "rating": 2,
+            "date": "05/13/2018",
+            "recommended": false,
+            "text": "Installed by experienced contractor who used a wet saw with a new blade.  He initially said they had sold me more than required for the square footage requested and that I could return two boxes.  Never got to return the two boxes and had to go back twice for more tile, so maybe not an error they oversold.  Serious wastage.  Shatters easily.  Wouldn't recommend or use same brand again.  Buying more in case of future failure.  No issue with size or color variation, even with bullnose.",
+            "author": "Mae",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Great Price! Great Look!\"",
+            "rating": 5,
+            "date": "08/14/2017",
+            "recommended": true,
+            "text": "I bought this tile and couldn't be happier!  I had been considering marble because I love the look, but I didn't love the price.  I went with these instead and have already had people ask \"Is that marble?\"  Regarding the reviews noting variations in color and size, the people writing them must have no idea about tile in general.  I have installed tile only once before in my life and already know that you always need to buy the same lot, size, and color for all boxes of tile.  Each box has the three sets of numbers listed very legibly on the side \"LOT: ## SIZE: ## COLOR: ##\".  I did this with the boxes I bought and came home with the same size and color tile in each box.  There will be no issues if you buy the same lot, size, and color number.  Disregard the other reviews mentioning the variations.",
+            "author": "Jessica",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 91,
+                "no": 2
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "a1e45150-55a4-5e83-b2d6-022825efa307",
+                    "largeName": "7f1fdef7-2dfc-59ed-949e-47267dbf3c5d"
+                }
+            ],
+            "title": "\"Nice looking\"",
+            "rating": 5,
+            "date": "07/01/2018",
+            "recommended": null,
+            "text": "Installed this on my 10' x 12' bathroom. Turned out really nice. Never tiled before. I used the Schluter orange membrane and couldn't be happier. Easy to handle and cut.",
+            "author": "tobybul",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "90523eec-6605-54b7-bbfa-a1ce656d6c25",
+                    "largeName": "73c3d59f-d418-57ba-9d14-b51dc668de50"
+                }
+            ],
+            "title": "\"Color and quality can be deceiving...\"",
+            "rating": 2,
+            "date": "06/10/2017",
+            "recommended": false,
+            "text": "We are very unhappy that we chose this tile for our shower. The main complaint is that the color completely changes when placed on a vertical surface, going from creamy white to dull brownish grey. The photo shows square tile in Futuro White that looks exactly the same as the tile on the wall, and the lighting is pretty equal for both spaces, so the difference is accurately dramatic. Also, the tile chips a lot when being cut. We thought we needed a new saw blade because the glaze and the porcelain were both chipping when cut. We thought it might be our moderately used diamond blade, bot we got the same results after placing another high-end diamond blade on the wet saw. If this IS porcelain tile, it appears to be a very substandard grade. But then, when you consider the low price for this tile, one could argue that we got what we paid for.",
+            "author": "Miaxara",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 24,
+                "no": 12
+            }
+        },
+        {
+            "title": "\"Size and color variations\"",
+            "rating": 3,
+            "date": "11/07/2016",
+            "recommended": true,
+            "text": "This tile looks great now that it is installed. However, there was significant variation in size and color. Some tiles were 11.875 X 11.875 and some were 11.9375 X 11.9375. Some were more grey in color with a more matte finish while others were more white with a bit more of a sheen. We ended up purchasing a LOT of extra tiles and spending a great deal of time sorting them to come up with enough that were the same size and color for the job. After a while, we realized that there is a number on the side of the tile. Some of them ended with 2 and some ended with -2. The tiles within each numbering group were more similar to one another. These tiles are sold individually. I recommend buying only whole sealed boxes of 18 tiles. (You can always return the extra.) The tiles within each box were of consistent size and color. So make sure you have enough of one kind to complete the project before you begin.",
+            "author": "Stitcher",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 362,
+                "no": 10
+            }
+        },
+        {
+            "title": "\"Futuro white tile review\"",
+            "rating": 4,
+            "date": "09/13/2016",
+            "recommended": null,
+            "text": "Purchased this tile at Lowes for my bathroom and had it installed by a contractor setup through Lowes and am very happy. It looks great. The installer did an awesome job. Ended up short due to some broken and flawed tiles plus some broke while cutting and possible mismeasurement by them, but installer called the store and they gave me another box at no charge. I had to go pick it up but I would highly recommend this store and their installer.",
+            "author": "Laurie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 154,
+                "no": 9
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Tile comes in different shades\"",
+            "rating": 3,
+            "date": "12/28/2016",
+            "recommended": false,
+            "text": "This tile comes with many different shades under the same item number.  Make sure you are getting all of the same shades when buying multiple boxes.  We learned this the hard way after loading the car and have to unload everything again.  Then we had to search the entire Lowe's to find enough boxes for a matching set.  Shades we saw were R50, K48, O48 and F48.",
+            "author": "shutractor",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 288,
+                "no": 7
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Disappointed\"",
+            "rating": 1,
+            "date": "08/25/2016",
+            "recommended": false,
+            "text": "Shame on me---I failed to read the reviews as I have never had a problem with Lowe's tiles before.  Am in hopes this project can be salvaged as I can not afford to rip out the waterproofing backing that we've installed.  The primary problem is cuts!! We blamed the saw and got a new blade.  Took some to the Lowe's where we purchased the tile for them to cut. The same shattering results!! Now I will have to spend additional money to buy something to hide the ragged cuts for the niche.  Never did anyone offer any compensation for our losses---both in time and money for an inferior product.",
+            "author": "LHarper",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 19,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"Durable, Looks Great, Well-Priced\"",
+            "rating": 5,
+            "date": "05/27/2018",
+            "recommended": true,
+            "text": "I've installed a lot of tile over the years, but this tile is very easy to install (compared to something like Slate). It was also made even easier when using a Tile Leveling Kit for the first time, instead of regular tile spacers. The design on the tile varied enough to make it look very nice in an area over 530sqft. Overall, this tile is durable, great looking, and well-priced.On another note, I do not believe some of the lower reviews are valid. Considering most complaints are due to lack on knowledge when installing. The review should be about the tile, not the contractor or logistical problems faced when purchasing the tile. If you know how to have the tile installed, you won't have any issues. Be sure to always purchase tile from the same dye lot.",
+            "author": "Pierre",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 15,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "83c4875f-961d-5629-9a0e-3663d55454e1",
+                    "largeName": "c8300913-d3fa-5702-b1d5-fba33779035f"
+                },
+                {
+                    "smallName": "222d797b-1f7d-5229-bea4-fa93b7b1e884",
+                    "largeName": "0b61e1cf-f6be-500d-bfd5-2feb1757915c"
+                }
+            ],
+            "title": "\"Nice Tile but color variations have cause more wor\"",
+            "rating": 3,
+            "date": "03/19/2018",
+            "recommended": true,
+            "text": "The tiles are very nice and look great, however even under the same codes there are significant color variations (some being very white). I will have to replace several that stand out. NOT LOOKING FORWARD TO THIS. Please watch your shades and look at them under bright light when installing.",
+            "author": "JB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 4
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "6ece87b1-655b-52ca-860b-1a7937c21615",
+                    "largeName": "3cd17f13-da87-5a50-b296-04b4a51d88b5"
+                }
+            ],
+            "title": "\"Perfect\"",
+            "rating": 5,
+            "date": "12/17/2018",
+            "recommended": true,
+            "text": "I had searched and searched for the perfect tile. I knew I wanted a marble look with the majority of the tile white. I found this tile. I didn't have very high expectations because of the price, but it turned out better than I expected. I didn't lay the tile myself, but had someone do it. I used the grout Silverado and it looks great. It looks like an expensive tile for half the price.",
+            "author": "Mlh",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"A classic\"",
+            "rating": 5,
+            "date": "11/18/2016",
+            "recommended": true,
+            "text": "We were originally looking for marble tile for a small half bath, but came across this while looking for the wall tile.  It is absolutely perfect and we could not be more happy with our decision.  We've had a few people that have looked at it and were surprised that it isn't a honed marble floor.  I would not hesitate to recommend this tile to anyone.",
+            "author": "Wright1",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 70,
+                "no": 6
+            }
+        },
+        {
+            "title": "\"forget the negative reviews, this tile is great!\"",
+            "rating": 5,
+            "date": "10/21/2016",
+            "recommended": true,
+            "text": "finishing up my bathroom remodel, and the people writing poor reviews for this tile are the problem--not the tile.  you will need a high quality wet saw blade or you will have trouble cutting this tile--it's porcelain after all!  that being said, the tile is very high quality, absolutely love it.",
+            "author": "Jonathan",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 39,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Futuro Porcelain\"",
+            "rating": 5,
+            "date": "09/23/2016",
+            "recommended": true,
+            "text": "I purchased this tile in two sizes... 12x24 and 9x12. I used a standard cutter and it worked fair... the edges were slightly rough. I decided to use a wet saw and it cut perfectly. Porcelain tile is extremely hard and usually more expensive than clay (reddish) backed tile with glaze. I read the reviews... if you have rough edges it was not installed properly. If installing on the floor... cuts should go under the wall base. If installing in a shower... all cuts should be in the two corners with the side walls covering the back wall cuts. It should be cut close to the existing back wall and the grout/chalk will cover any slight imperfections. It looks beautiful... also used a glass mosaic tile (12x12 sheet) cut into three four inch strips as an accent. Most of the negative reviews I read is due to installer error. ALL tile comes in dye lots... you must get the same for the entire job or there will be shade issues. When the tile is fired at the plant... different firings produce a slight color difference. That is why bullnose is always slightly lighter or slightly darker. It is not fired at the same time. I personally NEVER use bullnose because of this issue. In situations where a transition is needed I use marble thresholds or wood transition strips. If I am meeting another tile... I make sure to lay the job out so the finished factory edge meets the existing flooring or the cut edge will show and will be an eyesore. The negative reviews I am referring to is for the 9x12 in this style. One other note... in showers I use a 3/8 schluter metal matching the shower door or faucets. Nice finished look... using the factory edge against the metal. Most of the metal is under the tile and doesn't show. Sleek.",
+            "author": "twalker",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 297,
+                "no": 9
+            }
+        },
+        {
+            "title": "\"Futuro Tile\"",
+            "rating": 5,
+            "date": "09/23/2016",
+            "recommended": true,
+            "text": "I purchased this tile in two sizes... 12x24 and 9x12. I used a standard cutter and it worked fair... the edges were slightly rough. I decided to use a wet saw and it cut perfectly. Porcelain tile is extremely hard and usually more expensive than clay (reddish) backed tile with glaze. I read the reviews... if you have rough edges it was not installed properly. If installing on the floor... cuts should go under the wall base. If installing in a shower... all cuts should be in the two corners with the side walls covering the back wall cuts. It should be cut close to the existing back wall and the grout/chalk will cover any slight imperfections. It looks beautiful... also used a glass mosaic tile (12x12 sheet) cut into three four inch strips as an accent. Most of the negative reviews I read is due to installer error. ALL tile comes in dye lots... you must get the same for the entire job or there will be shade issues. When the tile is fired at the plant... different firings produce a slight color difference. That is why bullnose is always slightly lighter or slightly darker. It is not fired at the same time. I personally NEVER use bullnose because of this issue. In situations where a transition is needed I use marble thresholds or wood transition strips. If I am meeting another tile... I make sure to lay the job out so the finished factory edge meets the existing flooring or the cut edge will show and will be an eyesore.",
+            "author": "twalker",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 75,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"MADE IN THE USA!\"",
+            "rating": 5,
+            "date": "06/10/2018",
+            "recommended": true,
+            "text": "This tile is made in the USA. I like that.  We had a contractor. We bought the tile and he put the 12x12 in shower and 12 x 24 on floor. We also used bullnose in shower.  I love it. I think it is beautiful. He used bright white grout. (The contractor had suggested delorean grey but I wanted white and I think the white grout looks good with this tile. )  I do not see the color variations in the tile  that others reviewers have mentioned. He did have some breaking in cutting and he is experienced contractor.(That is the only reason I took off a star) other than that all good. Yes I would recommend this tile. This says white tile but it does not seem white to us. We used the white grout and to me the tile is somewhat gray-it looks like carrarra marble. Very pretty -looks like a fancy hotel : )also my husband sealed the grout as this was recommended to us to keep it more clean.It is not hard to seal - buy a little bottle with a brush on it.",
+            "author": "bunnyclover",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Same shade number but different shade color\"",
+            "rating": 1,
+            "date": "02/08/2017",
+            "recommended": false,
+            "text": "I don't know why the tile is of the same shade or lot number but have varying colors (super white tile boxed with beige white).  It would be best to install yourself so you can make sure tile shades match.  Some installers do not take the time to do this which ultimately produces a mismatched and disappointing bathroom result.",
+            "author": "Disappointed",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 26,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Good looking tile for price\"",
+            "rating": 4,
+            "date": "03/10/2017",
+            "recommended": true,
+            "text": "Looks good.  Bull nose matches fine.  Make sure you buy all tiles from same dye lot and size.  Some were sized 8 and others 7. Bought all 8's.",
+            "author": "Rich",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Really pleased!\"",
+            "rating": 5,
+            "date": "09/06/2018",
+            "recommended": true,
+            "text": "Bathroom was redone by a contractor 15 months ago.  Used 9X12 for floor and 12x24 for five-foot shower with bull nose on two sides.  It looked great when finished and we like it even better now.  Yes.  The tiles can differ slightly in color, but that makes them more like natural marble.  We are doing a second bathroom next month and will use the same tile.",
+            "author": "David",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 7,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"bathroom flooring\"",
+            "rating": 5,
+            "date": "08/30/2017",
+            "recommended": true,
+            "text": "cut with no chipping, looks nice and quiet, white with a bit of gray, but YES watch those dye run numbers to be sure they match. definately lay out the tile before putting down thinset to perfect the look. i love the floor!",
+            "author": "lizzie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Near impossible to cut\"",
+            "rating": 1,
+            "date": "09/18/2015",
+            "recommended": false,
+            "text": "The tile looks nice, but the contractor I hired to install can't cut it without it breaking. Contractor talked with Lowes and the Lowes associate tried to cut and got the same results. The associate mentioned he will need to talk with the manager to see about taking it off the shelf. Thankfully, the contractor I hired is determined to find a way to make it work since half of the project is already done. Before planning on using this for an entire project, I recommend you try cutting a piece first... especially a circular piece.",
+            "author": "Jason",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 15
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Nice tile installed well\"",
+            "rating": 5,
+            "date": "03/31/2018",
+            "recommended": false,
+            "text": "The reviews for this tile range from low to high.  Common complaint was chipping when cutting.  Also shades on tile variable. I used a Skil tile saw with great results. Made sure tiles were all the same lot number. Installed well on bath walls. Looks great too. Very happy.",
+            "author": "Will",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 7,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"it is not white----do not be fooled by the name\"",
+            "rating": 1,
+            "date": "07/29/2016",
+            "recommended": false,
+            "text": "I agree with the other negative reviews.  The tile colors are extreme and certainly not \"white\".  Mine comes across as gray base with gray lines.  I had it installed and am not sure about the difficulty in cutting but there was a lot of waste and some tiles seem to have a rough edge. Installer also went to several stores to find lots that matched and it is clear that they do not match well. It is there now-what can you do. Bullnose is lighter.  Would not do again if I had a choice.",
+            "author": "P",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 20,
+                "no": 11
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Varies in widths\"",
+            "rating": 2,
+            "date": "08/08/2017",
+            "recommended": false,
+            "text": "Unlike many others in this thread I didn't have the issues with different colors. However the width of the tiles varies greatly, about 1/8\" between tiles. It's really difficult to do a good job with that much variation.",
+            "author": "Micah",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 21,
+                "no": 4
+            }
+        },
+        {
+            "title": "\"Bad Batches\"",
+            "rating": 1,
+            "date": "02/23/2019",
+            "recommended": false,
+            "text": "Beware buyer, these tiles are nice when they are the correct color and shape layed out, but...they come in different batches to the stores. Each batch can vary in size off by 1/2\" to up to a full inch in either width or length and the color can vary in shade (minimal or allot). There were issues with tiles even from same batch as well. Not cut correctly from company, some tiles are sloped causing large gaps/ uneveness when installed. This problem with the tiles has been a nightmare. If it wasn't for the fact that we already installed half the room (labor costs), spent on blood pressure medicine, and all the meditation that went into these pitting these tiles. I would have ripped them out, threw holy water on them and called it a day.",
+            "author": "Meli",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 1
+            }
+        },
+        {
+            "title": "\"Awesome!\"",
+            "rating": 5,
+            "date": "05/30/2018",
+            "recommended": null,
+            "text": "My wife and I spent about two months looking for the ideal look for our master bathroom renovation. We went to about five different home improvement stores and then we found the Futuro White. Once we saw it, we both agreed we found the tile that will give us the modern look we were looking for. It turned out excellent!",
+            "author": "Matthew",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Attractive tile but be aware of variation in size\"",
+            "rating": 3,
+            "date": "06/03/2017",
+            "recommended": false,
+            "text": "This makes a very attractive floor tile. It has some sheen, but not too slippery. I was using a 1/8 of an inch spaces (grout lines) with standard tile spacers, and ran into problems in a number of cases where titles were different sizes. This would not have been so bad had I done the entire floor at once, but I stopped a number of times. In a number of cases I ended up with some larger gaps next to smaller gaps, and it's most noticeable where four corners meet. When you're trying to make something look pristine, it's near impossible when your tiles are not consistent in size. I bought my entire set from the same lot number, but there were still variations. Variations are mostly between different boxes, not within the same box. I did not notice any difference in color fortunately. Again, all were from the same lot number. I would double check the boxes, but count on the tiles being different sizes. Variations up to about an eighth of an inch are not uncommon. Makes it's near impossible to do a pristine looking job due to the variations in tile size. I don't think I would choose this tile again in the future or recommend to a friend.",
+            "author": "Troy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 3
+            }
+        },
+        {
+            "title": "\"Too thin, doesn't cut well\"",
+            "rating": 3,
+            "date": "12/07/2016",
+            "recommended": false,
+            "text": "I purchased the 9 by 12 tiles for a shower wall and the 12 x 24 inch tiles for the floor. I made the mistake (I think) of getting a vanity top first and then trying to match my tiles to the vanity. I would recommend getting floor and wall tiles first or getting all three products together. That said, the contractor, who is experienced, also had difficulty cutting the 9 x 12's, and many pieces chipped in the process, so I had to purchase extra boxes to finish the job. Not happy. The color and the look of the tile match my vanity top, so I can't complain there. Given a redo, I might go with the larger tiles, as they are thicker and easier to cut. It's a shame, as the product is made in America. Gave 3 stars because the tile in not pricey.",
+            "author": "Barb",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 5
+            }
+        },
+        {
+            "title": "\"Size variance is a huge issue, as is quality.\"",
+            "rating": 1,
+            "date": "12/04/2018",
+            "recommended": null,
+            "text": "None of the tile purchased is the size listed.  Variance between 12x12 inch tile and the bullnose is up to 3/8 of an inch.  Tile also chips easily.  Using a brand new diamond blade with a brand new Lowes wet tile saw.  12\" tiles listed as 11.75 are actually 11 13/16\".  Bull nose varies from 2 11/16\" to 2 7/8\".  This tile has been a nightmare.  Do not do this to yourself, stay away.",
+            "author": "Cuz",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Looks can be deceiving\"",
+            "rating": 2,
+            "date": "06/02/2017",
+            "recommended": false,
+            "text": "This tile looks great, giving the look of marble in a porcelain tile; but the same cannot be said about its quality. We needed 42 boxes of this tile and had a lot of trouble getting enough quantity of the same dye lot from Lowes even though I ordered in store and was assured by the associate that they would make sure to get the same dye lot. The store experience was quite bad, but we were even more disappointed with the quality of the tile. The tile is rated PEI 4 in the specifications, which is what our contractor recommended we should get. But during installation, he saw how difficult it was to cut this tile and how brittle it was and said this was not a PEI 4. Four out of 42 boxes had broken tiles. In addition, the tile would break into shards when cut. When compared to another tile we had bought for another room, which was also rated PEI 4, this tile was nowhere as durable. The PEI rating for the other tile was printed on the box as well as on the tile, this tile had none of those. Additionally, if you check the PEI for the other sizes of this tile they are rated PEI 3, which is what I suspect this tile is as well. Unfortunately we were too far along in our installation to switch to a different tile, so we used what we purchased and returned the broken tiles. Luckily we had enough overage to complete the job. We are keeping our fingers crossed that this tile will hold up to normal traffic in the house considering how brittle it seems to be.",
+            "author": "lawnmowerman",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 54,
+                "no": 18
+            }
+        },
+        {
+            "title": "\"Love this tile\"",
+            "rating": 5,
+            "date": "07/02/2017",
+            "recommended": true,
+            "text": "Rich looking and stone like.Highly recommend..could only be happier if I spent millions!This is great tile.",
+            "author": "Anna",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 11,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Futuro white 12 X 24 tile\"",
+            "rating": 5,
+            "date": "12/09/2018",
+            "recommended": true,
+            "text": "We did the whole house around 3000 sq. ft.  It looks awesome, nice, clean, bright.  Installers did a great job.  This tile is porcelain, harder to cut.  They used a wet saw and cuts came out perfect.  We used charcoal grout.  Harder to clean but the white color just pops!!.  We used cleaning vinegar to remove the last layer of haze.  Works like magic.  Do not let the grout sit too long before cleaning with vinegar.  Dark grout sticks to surface if not removed soon.  Fantastic look.  We returned one pallet that was the wrong lot number and Lowe's exchanged for the right one.  Always look for the same lot number and shade.  The sales rep at Lowe's was absolutely awesome and the store personnel are great with customer service skills.",
+            "author": "Lil",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"bad\"",
+            "rating": 2,
+            "date": "01/01/2018",
+            "recommended": false,
+            "text": "i bought the previuos model a year ago (7 boxes) and the mismatch tone was bad, some are darker than the others besides there were at least 6 of them broken, i paid 1.48 each and now i am stock with them, be aware of what you get and always check before you storage something.",
+            "author": "none",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 10,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Do not buy!\"",
+            "rating": 1,
+            "date": "02/19/2018",
+            "recommended": false,
+            "text": "The different dye lots make this a complete disaster. If you run out of a specific dye lot, nobody at Lowe's or Florim can tell you where to get it.  I'm having to restart a half done tile job.",
+            "author": "Jenny",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 13,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "",
+            "rating": 1,
+            "date": "02/02/2017",
+            "recommended": false,
+            "text": "Very disappointed that this tile can vary in shade so drastically.  My bathroom looks bad.  I am also disappointed that installers don't take the extra step to make sure shade is suitable with the rest of the tile being installed.  Very disappointing to enter a bathroom that looks like mine.  Edges of tile seem to get chipped and again making the tile look even worse.",
+            "author": "Wendy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 25,
+                "no": 19
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Not worth it!\"",
+            "rating": 2,
+            "date": "07/16/2017",
+            "recommended": false,
+            "text": "I bought it and had the same trouble some have already mentioned, it has different dyes and it is sold as the same product. Also because of the different dye, it has also a minor difference on size, so that also will affect your overall project. Spend some more $ on a better quality tile, it will be worth it.",
+            "author": "nedimen",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 16,
+                "no": 9
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Color variations\"",
+            "rating": 1,
+            "date": "02/02/2017",
+            "recommended": false,
+            "text": "Very dissatisfied with my new bathroom.  Same lot produced varying coloration.  When you enter my bathroom, the noticeable color variations are a real eye sore.  The edges of the tile seem to chip as well. Installers don't seem to have an eye for detail either.  I guess they see the same lot number and figure all is well when in fact, it looks like a real mess.  Very disappointing.",
+            "author": "Wendy",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 9,
+                "no": 6
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Difficult to Cut\"",
+            "rating": 1,
+            "date": "02/08/2018",
+            "recommended": false,
+            "text": "This is not the high grade porcelain tile as advertised. As others have stated, it is difficult to cut. the glaze chips with straight cuts on a wet tile saw. Cutting curves cracks the tile easily.",
+            "author": "BV",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 8,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"I wouldn't buy this if I had to do it over again\"",
+            "rating": 1,
+            "date": "10/26/2016",
+            "recommended": false,
+            "text": "Couldn't tell about the variations in color until the tile was grouted.  Now have darker tiles in areas surrounding the tub.  I am so disappointed.  It really looks 2nd rate.",
+            "author": "Lois",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 12,
+                "no": 6
+            }
+        },
+        {
+            "images": [],
+            "title": "\"great price\"",
+            "rating": 5,
+            "date": "03/26/2018",
+            "recommended": true,
+            "text": "just make sure all your tile are in the same dye productions line and shade.",
+            "author": "Greg",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Should have read reviews first\"",
+            "rating": 2,
+            "date": "03/15/2018",
+            "recommended": false,
+            "text": "Mismatched colors and sizes in same sealed box. The variations in shade were very noticeable (some darker grey and others more yellow). Some were off by 1/16\". Had to send tile crew home and go out to find an alternative. Very frustrating. According to contractor, this is a common problem with this brand.",
+            "author": "LER",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 5,
+                "no": 2
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Very inconsistent coloring\"",
+            "rating": 1,
+            "date": "08/27/2016",
+            "recommended": false,
+            "text": "Installed a 6'x4' shower and tile colors/shades varied greatly. Bullnose is even a lighter color. Looks like garbage. Wasted a tone of money. Do not buy this tile.",
+            "author": "Dissatisfied",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 17,
+                "no": 12
+            }
+        },
+        {
+            "title": "\"Beautiful tile\"",
+            "rating": 5,
+            "date": "03/23/2019",
+            "recommended": true,
+            "text": "Put this in the first bathroom I remodeled in my house, since then I've installed it in two more rooms. Looks great. It's been 6 months and still looks as good as the day I installed it.",
+            "author": "AB",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cheap stuff , not good for shower floor\"",
+            "rating": 2,
+            "date": "10/29/2016",
+            "recommended": false,
+            "text": "As I paid too much on the wall tiles for my shower, I thought I am saving money buying these tiles. However we encountered several problems installing them. First of all as you cut the tile the cut area is completely gray and looks like cement; looks very ugly on the sides of the shower pan. Also cutting it is not as easy. Very dissatisfied with the purchase :( ; I guess you get what you pay for!",
+            "author": "sara",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 4
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Well you get what you pay for\"",
+            "rating": 2,
+            "date": "01/31/2018",
+            "recommended": false,
+            "text": "I  bought all my tile from the same lot at one time so I  did not have color matching problem. I had just done the breeze way with some slightly more expensive tile, just prior to using this stuff. The more expensive (slightly) tile I used first was easy to work with, one or two cracked on chipping, size was uniform, cut well with a dry tile saw. The Futuro tile was being dc'ed, price break, so I brought it. It seemed like it was lighter in weight. It chipped on the edges when cutting with the saw dry. Did find that using the saw in the wet mode and dipping the tile in warm water before cutting decreased chipping dramatically. Maybe a new blade would have helped. However it was still much harder to work with as it was brittle. Trying to cut the hole for plumbing was ok with pilot hole, but trying to extend with an angle grinder with a ceramic blade, resulted in breaking. I had made one cut of the pie, starting another and disaster. I had cut the more expensive tile the same way no problem. Jig saw with ceramic blade works but it takes several blades and takes much longer to do.",
+            "author": "HoneyBadger",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 3,
+                "no": 2
+            }
+        },
+        {
+            "title": "\"Irregular sizes\"",
+            "rating": 3,
+            "date": "05/09/2019",
+            "recommended": null,
+            "text": "Irregular sized tiles. Back of some tiles had a different pattern and size was about 1/4 inch different. Good tiles for the price. Buy more than you need and return the tiles that don't work for you. In my case, it was already installed when I figured out the size.",
+            "author": "Jay",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"DO NOT BUY THIS TILE! HORRIBLE EXPERIENCE.\"",
+            "rating": 1,
+            "date": "05/28/2016",
+            "recommended": false,
+            "text": "My husband and I are doing a complete renovation of our new home with 3 bathrooms. We ordered tile for 2 bathrooms from the Tile Shop, but decided to save money and get tile from Lowes for the 3rd. I bought multiple boxes of this tile, and brought home. Our tile guy later informed us that the tile shades varied - and we should go back to Lowes and make sure we purchase the same \"dye lot\" - so I went back to Lowes and made sure I purchased a new stock of tile (I'm returning the others) and got all the same \"dye lot\", so the color would be consistent. Be forewarned - the color varies from White, to Gray, to Taupe, and it's VERY OBVIOUS, so getting the right dye lot is super important! On top of that - the tiles are GARBAGE. They break / shatter very easily. My tile guy even noticed in the stock that we purchased, that was all the SAME DYE LOT, there was STILL COLOR VARIATION, not a slight color variation, not a hint of a different shade, but BRIGHT WHITE vs. DULL GRAY.....so even in the same dye lot, the color was not consistent at all. Who wants mismatched tile in their bathroom? Not me!!! Frustrated, but determined, we continued w/ this tile in our downstairs bath. We did our best to go through the boxes we purchased to watch for shade variation and put up the best matching tile. So now I have tile on the floor, and tile on the shower walls and half wall, now we just need the bullnose. Well, guess what? The bullnose I bought does not match! It's BRIGHT WHITE vs DULL GRAY tile again. So surely, I figured - here we go again, another trip to lowes to swap out tile. So I went back to Lowes to see if I can get the same \"dye lot\" for my bullnose. Well, guess what? The manufacturer does not make \"dye lots\" for the bull nose. The boxes have \"Batch #'s on them. I was told by Lowes Customer Service that I had to bring my already purchased 9 x 12 tile BACK TO THE STORE, and OPEN UP THE BOXES of BULLNOSE To FIND THE BEST MATCH. Do you know that I went to 6 LOWES STORES in 1 DAY AND NOT ONE \"Batch\" matches my DYE LOT?\n\nSo what am I supposed to do? Have mismatched tile in my bathroom? I don't understand how you can sell me 14 boxes of 9 x 12 tile, and not have a matching bullnose? If I knew that ahead of time, I WOULD NEVER HAVE PURCHASED IT. BUT NOW ITS ON MY WALL AND MY FLOOR,......so my choice is to have a mismatching bullnose & hate everything about my newly renovated bathroom, OR tear everything down and start all over with new tile and pay my tile guy more $$$$$$. Thanks a lot Lowes. Thanks for selling me junk. Thanks for selling a product that has no support from its manufacturer. Thanks for sending me to 6 stores on a wild goose chase for something that apparently doesn't exist. You wasted my time, my money and my sanity.",
+            "author": "Jb123456",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 21,
+                "no": 20
+            }
+        },
+        {
+            "title": "\"Love these tiles\"",
+            "rating": 5,
+            "date": "05/07/2019",
+            "recommended": true,
+            "text": "We absolutely love these tiles.  We tiled our shower and bathtub area. It is beautiful.",
+            "author": "Debbie",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Easily cracks and breaks\"",
+            "rating": 1,
+            "date": "01/02/2017",
+            "recommended": false,
+            "text": "I installed this tile in May. By July I had to replace 15 of the 90 tiles that I installed due to cracks or breaks. I added a half inch of subfloor, 1/2\" large tile thinset and back buttered each tile. Since then 4 more tiles have cracked and one has broken. At this point I have given up on replacing tiles. I will be removing my lower cabinets and replacing all the tiles",
+            "author": "Trainer",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/06/2017",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Z",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "08/02/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Fred",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 66,
+        "percentRecommended": "48",
+        "averageStars": "3.4",
+        "starCounts": {
+            "five": 29,
+            "four": 6,
+            "three": 6,
+            "two": 10,
+            "one": 15
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Is this tile easy to clean?\"",
+            "author": "Anonymous",
+            "date": "04/08/2019",
+            "answers": [
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "04/09/2019",
+                    "text": "Yes the tile is very easy to clean. Here are some guidelines. When cleaning tile, first you need to make sure the surface is free of debris, so a good vacuum or sweep is best. Once the floor is free of dirt or other particles you can use warm water and a mild soap to clean the floor. A mop or rag that is nonabrasive is best to use. Make sure to change the water frequently to avoid leaving a cloudy film on the tile. If the soap doesn't work, you can use vinegar and water with a 1 to 2 ratio, so 1 cup vinegar with 2 cups warm water. For stubborn marks you can mix a little baking soda with warm water and let it sit for 5-10 minutes before wiping clean with a damp cloth. Lowes also sells grout and tile cleaners in their stores that can help with more challenging stains.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/09/2019",
+                    "text": "Yes, the tile is easy to clean.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this tile be used for a kitchen floor?\"",
+            "author": "Anonymous",
+            "date": "01/14/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "01/27/2019",
+                    "text": "Yes, this product can be used on a kitchen floor.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "01/17/2019",
+                    "text": "Absolutely! I have Futuro White in my own kitchen. It really brightens it up and makes it look clean, all the time. I love it.",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this tile be used on a fireplace? Is it fire Resistant?\"",
+            "author": "AJ",
+            "date": "10/27/2018",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "10/31/2018",
+                    "text": "Yes, this tile is fire resistant.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "10/29/2018",
+                    "text": "Yes the Futuro White can be used around a fireplace, it is heat resistant. Check the thinset to make sure it is for porcelain tile and can withstand the heat.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Did anyone have issues on excessive lippage from the warpage on these tiles?\"",
+            "author": "Anonymous",
+            "date": "07/28/2018",
+            "answers": [
+                {
+                    "author": "GAE",
+                    "date": "07/04/2019",
+                    "text": "I installed 7 boxes of 12 x 24 on shower walls. I had no Lippage issues.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "08/02/2018",
+                    "text": "Lippage is normal in tile, the Tile Council of North America (TCNA) provides standards for lippage and warpage. To avoid excessive lippage it is recommended to buy tile from the same lot/batch, this information should be on the box. Then mix tiles from the same batch number, make sure the surface is level and smooth and do a dry layout. Also installing the tile at a 1/3 offset will help alleviate the lippage. For more information check the link below https://www.tcnatile.com/faqs/175-lippage.html",
+                    "helpful": {
+                        "yes": 7,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does this have a rectified edge?\"",
+            "author": "randomlee",
+            "date": "03/31/2017",
+            "answers": [
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "04/02/2017",
+                    "text": "No this is not a rectified tile, it is a pressed tile. Couple things to note: When ordering tile always make sure you get the same lot/run number. These are printed on each carton and will show a number (or letter) for the Size, Shade and for us a JO#. Please make sure all of these numbers are the same. If you need more than a pallet, have the store order directly from the manufacture, this will guarantee the lot/run numbers are all the same (but will take a few extra days to get). As for rectified tiles, these are tiles that have been cut to a certain size, while this will allow you to have a tighter grout joint, this weakens the edge of the tile and make it easier to chip. A good installer can achieve the same result with a pressed tile.",
+                    "helpful": {
+                        "yes": 22,
+                        "no": 1
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/01/2017",
+                    "text": "No, this tile is not rectified.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How many tiles are in the 12 x12 and the 12 x24 case and how many square feet does each case cover.\"",
+            "author": "Anonymous",
+            "date": "04/24/2016",
+            "answers": [
+                {
+                    "author": "gmp1397",
+                    "date": "06/19/2017",
+                    "text": "The 12x24 case has 7 tiles in it which equates to 14 square feet. Not sure about the 12x12 case.",
+                    "helpful": {
+                        "yes": 30,
+                        "no": 4
+                    }
+                },
+                {
+                    "author": "CommunityAnswer",
+                    "date": "04/25/2016",
+                    "text": "The tiles are sold individually.",
+                    "helpful": {
+                        "yes": 9,
+                        "no": 15
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Bathroom tile?\"",
+            "author": "Anonymous",
+            "date": "10/16/2015",
+            "answers": [
+                {
+                    "author": "madgoat",
+                    "date": "03/05/2018",
+                    "text": "Yes its a floor and wall tile so can use in the bathroom or any room you want.",
+                    "helpful": {
+                        "yes": 20,
+                        "no": 8
+                    }
+                },
+                {
+                    "author": "Ray315",
+                    "date": "11/10/2015",
+                    "text": "No",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 18
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this tile be placed over existing tile?\"",
+            "author": "Anonymous",
+            "date": "07/02/2019",
+            "answers": [
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "07/02/2019",
+                    "text": "Hello, it is never recommended to install new tile over existing tile. The existing tile should be removed, the subfloor properly prepped and leveled before new tile is installed.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can the unused tiles be returned?\"",
+            "author": "lin",
+            "date": "04/21/2019",
+            "answers": [
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "04/21/2019",
+                    "text": "Yes, unused tiles in new condition may be returned with a valid receipt.",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does Futuro White tile have a rounded edge like the Aversa Frost 676874?\"",
+            "author": "Anonymous",
+            "date": "03/30/2019",
+            "answers": [
+                {
+                    "badgeName": "50449562",
+                    "author": "Surface Source Team",
+                    "date": "04/01/2019",
+                    "text": "The Futuro White does have a bullnose option in a 3x12 size with a rounded edge. The item number is 683086. If the store is out of stock, they can place an order or it can be purchased on lowes.com",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

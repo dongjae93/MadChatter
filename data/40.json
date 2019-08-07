@@ -1,0 +1,194 @@
+{
+    "descriptions": {
+        "overview": "Coastal canvas wall art.",
+        "list": [
+            "Bring the beach into your own home with this beautiful stretched canvas art",
+            "Quality art printed on stretched canvas",
+            "Wooden stretcher bars",
+            "Equipped with d-rings for easy hanging"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Collection Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Subject",
+            "spec": "Coastal"
+        },
+        {
+            "title": "Type",
+            "spec": "Print"
+        },
+        {
+            "title": "Construction",
+            "spec": "Pine stretcher bar"
+        },
+        {
+            "title": "Color/Finish Family",
+            "spec": "Orange"
+        },
+        {
+            "title": "Style",
+            "spec": "Transitional"
+        },
+        {
+            "title": "Size",
+            "spec": "Medium (24-in to Under 32-in H)"
+        },
+        {
+            "title": "Orientation",
+            "spec": "Landscape"
+        },
+        {
+            "title": "Team Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Team/League",
+            "spec": "N/A"
+        },
+        {
+            "title": "Hand-Painted",
+            "spec": 0
+        },
+        {
+            "title": "Limited Edition",
+            "spec": 0
+        },
+        {
+            "title": "Material",
+            "spec": "Canvas"
+        },
+        {
+            "title": "Theme",
+            "spec": "Landscapes"
+        },
+        {
+            "title": "Number of Pieces",
+            "spec": "1"
+        },
+        {
+            "title": "Depth (Inches)",
+            "spec": "1.25"
+        },
+        {
+            "title": "Height (Inches)",
+            "spec": "30"
+        },
+        {
+            "title": "Width (Inches)",
+            "spec": "38"
+        },
+        {
+            "title": "Weight (lbs.)",
+            "spec": "7.7"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "82141500"
+        },
+        {
+            "title": "Room",
+            "spec": "Any room"
+        },
+        {
+            "title": "Frame Type",
+            "spec": "Frameless"
+        },
+        {
+            "title": "Use Location",
+            "spec": "Indoor"
+        },
+        {
+            "title": "Set",
+            "spec": 0
+        },
+        {
+            "title": "Shape",
+            "spec": "Rectangle"
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "f749e706-1db7-5231-92ab-6d96d604a36b",
+                    "largeName": "ed3964d3-5b74-5acb-94d4-72aa7f54f1fe"
+                }
+            ],
+            "title": "\"Beautiful ocean picture\"",
+            "rating": 5,
+            "date": "09/19/2018",
+            "recommended": true,
+            "text": "Easy to hang beautiful artwork",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 2,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Beautiful!\"",
+            "rating": 5,
+            "date": "11/13/2017",
+            "recommended": true,
+            "text": "Love the colors, was just right for my daughter's purple wall!",
+            "author": "Honeyb82",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 6,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Coastal canvas art\"",
+            "rating": 5,
+            "date": "06/24/2019",
+            "recommended": true,
+            "text": "There are so many vibrant colors. It looks amazing in my home. Great price for beautiful artwork.",
+            "author": "BrownsfanDave",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/21/2018",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "bop",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 4,
+        "percentRecommended": "75",
+        "averageStars": "5.0",
+        "starCounts": {
+            "five": 4,
+            "four": 0,
+            "three": 0,
+            "two": 0,
+            "one": 0
+        }
+    },
+    "questions": []
+}

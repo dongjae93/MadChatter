@@ -1,0 +1,869 @@
+{
+    "descriptions": {
+        "list": [
+            "S1S2E graded both faces",
+            "Select tight knot, no rot no wane",
+            "Graded for high quality and appearance",
+            "Naturally resistant to decay",
+            "No preservatives",
+            "Great for DIY projects such as furniture or shelving",
+            "Can be stained or painted"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "N/A"
+        },
+        {
+            "title": "Finish",
+            "spec": "Unfinished"
+        },
+        {
+            "title": "Grade",
+            "spec": "#3 & Better"
+        },
+        {
+            "title": "Dressing",
+            "spec": "S4S"
+        },
+        {
+            "title": "Industry Standard Min Thickness (Inches)",
+            "spec": "0.6875"
+        },
+        {
+            "title": "Industry Standard Minimum Width (Inches)",
+            "spec": "5.5"
+        },
+        {
+            "title": "Industry Standard Minimum Length (Feet)",
+            "spec": "8"
+        },
+        {
+            "title": "Stainable/Paintable",
+            "spec": "Stainable/Paintable"
+        },
+        {
+            "title": "Pressure Treatment Type",
+            "spec": "N/A"
+        },
+        {
+            "title": "Warranty",
+            "spec": "None"
+        },
+        {
+            "title": "Common Measurement (T x W)",
+            "spec": "1-in x 6-in"
+        },
+        {
+            "title": "Common Length in Feet",
+            "spec": "8-ft"
+        },
+        {
+            "title": "Wood Species",
+            "spec": "Cedar"
+        },
+        {
+            "title": "Type",
+            "spec": "Common board"
+        },
+        {
+            "title": "Moisture Rating",
+            "spec": "Kiln-dried"
+        },
+        {
+            "title": "For Use with Framing",
+            "spec": 0
+        },
+        {
+            "title": "Pressure Treated",
+            "spec": 0
+        },
+        {
+            "title": "Hardwood/Softwood",
+            "spec": "Softwood"
+        },
+        {
+            "title": "Edge Profile",
+            "spec": "Square"
+        },
+        {
+            "title": "Material",
+            "spec": "Wood"
+        },
+        {
+            "title": "CA Residents: Prop 65 Warning(s)",
+            "spec": "Yes"
+        },
+        {
+            "title": "For Use with Exterior Trim",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Furniture & Cabinets",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Shelving",
+            "spec": 1
+        },
+        {
+            "title": "For Use with Woodworking Projects",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [
+                {
+                    "smallName": "8c3eda60-64da-544d-9405-8172bf432eb0",
+                    "largeName": "3d0c1251-c8ab-5365-901f-41c88aa73d74"
+                }
+            ],
+            "title": "\"I love this stuff\"",
+            "rating": 5,
+            "date": "11/16/2018",
+            "recommended": true,
+            "text": "I sell bird feeders on Etsy using this cedar.  It works great because cedar is such a great wood. Because of this and my efforts, all my reviews are 5 out of 5.",
+            "author": "Jim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 3,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "1f61ec8a-4a0f-5afd-9550-dbc8d98dcf5b",
+                    "largeName": "8a89c8df-0834-58b0-9ae6-a2850ffb25ef"
+                },
+                {
+                    "smallName": "68f70ef9-945b-5a36-9c70-c772c1f3cac2",
+                    "largeName": "56cde4c5-7f73-5a8b-bb47-49cf66c70d06"
+                }
+            ],
+            "title": "\"Excellent trim\"",
+            "rating": 5,
+            "date": "10/15/2018",
+            "recommended": true,
+            "text": "Great pick to finish up any outdoor project. Boards were straight and did not chip. Stains very well also.",
+            "author": "Jeff",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "b5971468-b7d9-5442-9077-841daaada07d",
+                    "largeName": "b02d600c-17be-560b-ac56-e6741d81bdd2"
+                }
+            ],
+            "title": "\"Lumber\"",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "Excellent wood just make sure you get the straightest pieces for your job.",
+            "author": "David",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "12857f51-e733-52aa-b84a-dcfeed19793f",
+                    "largeName": "8c5807bd-fb86-5491-a19e-ec58ac517562"
+                }
+            ],
+            "title": "\"Found it to look nicely with other flat looking dr\"",
+            "rating": 5,
+            "date": "05/27/2019",
+            "recommended": true,
+            "text": "I have use this as a trim Out product looks very nice when painted as well",
+            "author": "Shawn",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "96d91785-f867-5858-b4d4-0121cd6b73d7",
+                    "largeName": "59d599ee-d28f-5429-a0d1-f3b1ea2a6ff4"
+                }
+            ],
+            "title": "\"cedar board\"",
+            "rating": 5,
+            "date": "04/21/2019",
+            "recommended": true,
+            "text": "The cut it, and now we have a home base for a staghorn fern.",
+            "author": "MJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "4b5aca0d-27de-5e73-8b68-12397b729221",
+                    "largeName": "fd6f0ef1-600a-5aec-848a-2856c158e6d2"
+                }
+            ],
+            "title": "\"Good cedar\"",
+            "rating": 5,
+            "date": "05/19/2019",
+            "recommended": true,
+            "text": "The cedar boards worked well for our project",
+            "author": "C21sch",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "60a92cb5-9df4-59c6-92d3-6ddefdfa9c0a",
+                    "largeName": "d7bae576-0836-5b8d-81b4-3c0b92629729"
+                }
+            ],
+            "title": "\"Good product.\"",
+            "rating": 4,
+            "date": "09/16/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Steven",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "images": [
+                {
+                    "smallName": "eb1a3e9f-55af-5d6c-b753-96436631d2a7",
+                    "largeName": "60bbc145-0068-543b-9d8e-7888be57ab12"
+                }
+            ],
+            "title": "\"Nice quality wood\"",
+            "rating": 5,
+            "date": "04/08/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "jen",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Nicest piece of wood she's ever seen!\"",
+            "rating": 5,
+            "date": "06/06/2019",
+            "recommended": true,
+            "text": "Bought this bad boy to fix up the kids cedar play structure. Cut it to fit, and screwed her tight, and then put some stain on her. The old lady was so impressed, she kept me up all night! Would recommend this fine piece of wood to anyone looking for some.",
+            "author": "Xsled",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Low selection\"",
+            "rating": 4,
+            "date": "09/28/2018",
+            "recommended": false,
+            "text": "The boards left in the bay would need to be refaced as they had either a deep cup, or bad twist with splits.",
+            "author": "Jonesy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good product for the price\"",
+            "rating": 5,
+            "date": "05/06/2019",
+            "recommended": true,
+            "text": "I was happy with the cedar boards I purchased online to pick up in the store. I've ordered online at other stores and received warped boards, but these were quite straight and had a nicely smoothed finish on one side. They were for a raised garden bed, so rough sides would have been fine, and the smooth finish was a plus.",
+            "author": "Rhonda",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cedar board.\"",
+            "rating": 1,
+            "date": "04/16/2019",
+            "recommended": false,
+            "text": "I get most of my project stuff from Lowes.  I bought two of these cedar boards.  They seemed slightly cupped at the store.  By the time I tried one piece it was wasted money and effort.  The cupping had increased and I could not pull it into position.  Got a refund for the other board.",
+            "author": "Smitty",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good wood!\"",
+            "rating": 5,
+            "date": "07/05/2019",
+            "recommended": true,
+            "text": "Good cedar board, holding up well to the elements.",
+            "author": "EKIM",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Worked well\"",
+            "rating": 3,
+            "date": "07/03/2019",
+            "recommended": true,
+            "text": "It was a hard fiknd in the store to get a decently straight and relatively good grain board. These were used outside for decorative framing on a door and window. Sanded nicely and look great.",
+            "author": "SthRNdiva",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"good wood smells great\"",
+            "rating": 4,
+            "date": "10/18/2018",
+            "recommended": true,
+            "text": "I am using these to trim out my bathroom that is cedar lined in a lot of areas. its easy to work with, but just like any lumber, pay attention to ends and faces prior to buying.",
+            "author": "Brian",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Hard to find good board\"",
+            "rating": 3,
+            "date": "06/07/2019",
+            "recommended": null,
+            "text": "It took quite a while and had to dig through 20 boards to find one board that wasn't cracked or had major knots that would perfect the strength of the board.",
+            "author": "Robert",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good replacement board\"",
+            "rating": 5,
+            "date": "02/09/2019",
+            "recommended": true,
+            "text": "I purchased this board to replace damaged fascia board on my house. The board matched what was existing, and was a perfect fit.",
+            "author": "JRKinPC",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cedar Board\"",
+            "rating": 1,
+            "date": "05/09/2019",
+            "recommended": false,
+            "text": "When I went to use this board 2 days after purchase it had cupped so bad could not use it",
+            "author": "Papax11",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Cedar Boards\"",
+            "rating": 4,
+            "date": "04/12/2019",
+            "recommended": true,
+            "text": "The boards were of correct dimension and very straight.Easy to work with.",
+            "author": "Randy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Good Cedar\"",
+            "rating": 4,
+            "date": "10/22/2018",
+            "recommended": true,
+            "text": "Not to much cupping or bend in the 8' boards. Good selection as well.",
+            "author": "Matt",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cedar Boxes\"",
+            "rating": 5,
+            "date": "04/18/2019",
+            "recommended": true,
+            "text": "Was able to make 2 cedar \"pirate chests\" with the boards I purchased.",
+            "author": "Buck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cedar board\"",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "Very good quality. Shopped around and this was best price also.",
+            "author": "Andy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Straight\"",
+            "rating": 5,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "Replacing rotten trim required straight wood.  This worked.",
+            "author": "Papa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "No as red as I had hoped but still a good piece of lumber",
+            "author": "Kim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"as advertised\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "Used these to wrap treated 4x4 posts, worked well.",
+            "author": "DoubleJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scot",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tap",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/28/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Amit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Cedar Boxes\"",
+            "rating": 5,
+            "date": "04/18/2019",
+            "recommended": true,
+            "text": "Was able to make 2 cedar \"pirate chests\" with the boards I purchased.",
+            "author": "Buck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cedar board\"",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "Very good quality. Shopped around and this was best price also.",
+            "author": "Andy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Straight\"",
+            "rating": 5,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "Replacing rotten trim required straight wood.  This worked.",
+            "author": "Papa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "No as red as I had hoped but still a good piece of lumber",
+            "author": "Kim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"as advertised\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "Used these to wrap treated 4x4 posts, worked well.",
+            "author": "DoubleJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scot",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tap",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/28/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Amit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "\"Cedar Boxes\"",
+            "rating": 5,
+            "date": "04/18/2019",
+            "recommended": true,
+            "text": "Was able to make 2 cedar \"pirate chests\" with the boards I purchased.",
+            "author": "Buck",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Cedar board\"",
+            "rating": 5,
+            "date": "03/07/2019",
+            "recommended": true,
+            "text": "Very good quality. Shopped around and this was best price also.",
+            "author": "Andy",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Straight\"",
+            "rating": 5,
+            "date": "05/02/2019",
+            "recommended": true,
+            "text": "Replacing rotten trim required straight wood.  This worked.",
+            "author": "Papa",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/19/2019",
+            "recommended": true,
+            "text": "No as red as I had hoped but still a good piece of lumber",
+            "author": "Kim",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"as advertised\"",
+            "rating": 5,
+            "date": "12/06/2018",
+            "recommended": true,
+            "text": "Used these to wrap treated 4x4 posts, worked well.",
+            "author": "DoubleJ",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scot",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "11/25/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tap",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/28/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Amit",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Cat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 50,
+        "percentRecommended": "92",
+        "averageStars": "4.5",
+        "starCounts": {
+            "five": 35,
+            "four": 11,
+            "three": 2,
+            "two": 0,
+            "one": 2
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Can this board be used for fencing?\"",
+            "author": "Anonymous",
+            "date": "06/11/2019",
+            "answers": [
+                {
+                    "badgeName": "99fb51b0-9110-5fe6-b841-09ee72b1a148",
+                    "author": "Empire Team",
+                    "date": "06/11/2019",
+                    "text": "Hello! Thanks for your question. Yes, this board can be used for fencing.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can these be used as decking boards?\"",
+            "author": "Anonymous",
+            "date": "04/18/2019",
+            "answers": [
+                {
+                    "badgeName": "99fb51b0-9110-5fe6-b841-09ee72b1a148",
+                    "author": "Empire Team",
+                    "date": "04/19/2019",
+                    "text": "While this cedar board can be used for exterior installs, it's not recommended for decking. This is a trim accessory board. We recommend looking at decking boards.",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Is this treated?\"",
+            "author": "Anonymous",
+            "date": "02/12/2019",
+            "answers": [
+                {
+                    "badgeName": "99fb51b0-9110-5fe6-b841-09ee72b1a148",
+                    "author": "Empire Team",
+                    "date": "02/13/2019",
+                    "text": "No, this board is not treated. Thanks for your question!",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,807 @@
+{
+    "descriptions": {
+        "list": [
+            "Stain-resistant, easy clean surface that repels dirt and stains",
+            "Use instead of water",
+            "No additional sealing required",
+            "No second trips for installers",
+            "Ease of use - one 64 oz bottle per 25 lb bag of MAPEI Keracolor sanded grout",
+            "Also available in 26-oz (Item #777137)"
+        ]
+    },
+    "specs": [
+        {
+            "title": "Series Name",
+            "spec": "Grout Maximizer"
+        },
+        {
+            "title": "Unit of Measure",
+            "spec": "Fluid ounce(s)"
+        },
+        {
+            "title": "Unit of Measure Quantity",
+            "spec": "64"
+        },
+        {
+            "title": "Warranty",
+            "spec": "1-year limited"
+        },
+        {
+            "title": "Base Material",
+            "spec": "Water-based"
+        },
+        {
+            "title": "UNSPSC",
+            "spec": "30111500"
+        },
+        {
+            "title": "For Use with Acrylic",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Unsanded Grout",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Urethane Grout",
+            "spec": 0
+        },
+        {
+            "title": "For Use with Sanded Grout",
+            "spec": 1
+        }
+    ],
+    "reviews": [
+        {
+            "images": [],
+            "title": "\"Additive not sealer\"",
+            "rating": 5,
+            "date": "04/13/2017",
+            "recommended": false,
+            "text": "This is more to help clear up why the other reviewer had trouble \"sealing\" their grout lines. This is an admixture for grout meaning you use this product instead of water or in some cases with small amounts of water depending on the manufacturers instructions while you mix the grout. This is all done BEFORE the grout is put into the grout lines. This product will help defend against stains, discoloration and will make your grout slightly denser vice just using water. If you are a DIY'er and you are tiling a shower this is a crucial part for tiled showers. Even if you are paying for the job, ensure your contractor is using admixture and will seal (using a different different product) the tile and grout lines after they are finished. Sanded grout is recommended for showers and epoxy grout is preferred. Again, if your grout is already between your tiles. This is not the product you need.",
+            "author": "Danny",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 51,
+                "no": 3
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great Stuff\"",
+            "rating": 5,
+            "date": "04/06/2018",
+            "recommended": true,
+            "text": "This additive, if mixed properly, made the grout very easy to work with.  The grout dried and sealed with no issues whatsoever.  Whether it is stain-resistant and it repels dirt and stains is yet to be seen.  I mixed with a gray grout so it should be great!  So far so good and it has been three weeks!",
+            "author": "Leelee6",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 4,
+                "no": 1
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "f174e431-a4be-57c1-86a2-d3338bcc84c2",
+                    "largeName": "6e39853a-b8ba-5dac-80a2-11dcc86558a5"
+                }
+            ],
+            "title": "\"Easy replacement\"",
+            "rating": 5,
+            "date": "06/28/2019",
+            "recommended": true,
+            "text": "Great product, easy to use. I've used this product on a few different tiling jobs and have yet to have any problems with it.",
+            "author": "Squint",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "77181f6c-eab5-53aa-9d65-e8ead27bd54f",
+                    "largeName": "3f9e3098-c380-597a-905f-1a19657ade7f"
+                }
+            ],
+            "title": "\"Tile grout sealer\"",
+            "rating": 5,
+            "date": "11/14/2018",
+            "recommended": true,
+            "text": "Mixed with grout use this product in place of water, said to seal grout to save a step and time",
+            "author": "kevin",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "60d8e943-0552-50c9-82b8-81f79974b89a",
+                    "largeName": "2387cc14-fee7-57dc-89e2-69141abfdb50"
+                }
+            ],
+            "title": "\"Great mix\"",
+            "rating": 5,
+            "date": "03/24/2019",
+            "recommended": true,
+            "text": "Placing large format tiles and used this mix came out great!",
+            "author": "Kay",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "images": [
+                {
+                    "smallName": "ab3dd773-1b8f-5089-b6ef-d485e567b67c",
+                    "largeName": "f2867108-b153-5fac-8adf-a44384e284dd"
+                }
+            ],
+            "title": "\"Gets the job done!\"",
+            "rating": 5,
+            "date": "06/27/2019",
+            "recommended": true,
+            "text": "Would definitely buy again!",
+            "author": "TL",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Do far so good\"",
+            "rating": 5,
+            "date": "03/14/2019",
+            "recommended": true,
+            "text": "Mix entire bottle with a 25 lbs bag.  The mix stayed pliable for a long time and was rather easy to sponge up.  Ours is a darker color so probably won't have too many problems with staining but we shall see",
+            "author": "Bandanner",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"Great stuff\"",
+            "rating": 5,
+            "date": "08/19/2018",
+            "recommended": true,
+            "text": "Used this in my whole house. Saves time compared to sealing after grouting",
+            "author": "Michael",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 1,
+                "no": 0
+            }
+        },
+        {
+            "images": [],
+            "title": "\"dries out fast in bucket\"",
+            "rating": 1,
+            "date": "06/03/2019",
+            "recommended": false,
+            "text": "Used as directed in place of water.  Mix, set, mix.  Grout mixture was drying out faster than I could get it on wall or floor.  Could not force grout through bag applicator and grout would fall off applicator in the bucket.  Had to add water to mixture several times to be able to use product.  Sure this will affect the sealing process and force me to buy a sealer and apply to grout.  Have no way of knowing if adding water has an impact to sealing  process.",
+            "author": "Jeff",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Does not seal\"",
+            "rating": 1,
+            "date": "09/22/2016",
+            "recommended": false,
+            "text": "I was sold this product as a grout sealer. This product does not feel even after the 21 Day cure. Very expensive would not buy",
+            "author": "Toni",
+            "verifiedPurchaser": false,
+            "sweepstakesEntry": false,
+            "helpful": {
+                "yes": 18,
+                "no": 93
+            }
+        },
+        {
+            "title": "\"Once and done\"",
+            "rating": 5,
+            "date": "02/01/2019",
+            "recommended": true,
+            "text": "This makes sealing grout easier. Instead of water use additive in grout. Apply to floor let cure and done. No need for follow up with other sealants.",
+            "author": "LearningNewSkills",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"One less step!\"",
+            "rating": 5,
+            "date": "03/10/2019",
+            "recommended": true,
+            "text": "This is awesome! This cuts a step out of the tiling process. With this additive you don't need to seal the grout afterwards, it's already done!",
+            "author": "akvandervort",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Would purchase again\"",
+            "rating": 5,
+            "date": "01/29/2019",
+            "recommended": true,
+            "text": "I purchased this product because I just redid my shower and I want to protect the grout. This is exactly the product for that!",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Excellent Grout additive\"",
+            "rating": 5,
+            "date": "11/06/2018",
+            "recommended": true,
+            "text": "This is an excellent grout additive. It should keep my grout from discoloring. 5 Stars. Thank you.",
+            "author": "Dennis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Worked Great\"",
+            "rating": 5,
+            "date": "03/09/2019",
+            "recommended": true,
+            "text": "This product was great to work with- Definigely would not do the tile work without it-",
+            "author": "Ltrosell",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"So easy to apply\"",
+            "rating": 5,
+            "date": "06/04/2019",
+            "recommended": true,
+            "text": "I've never used this product before so hoping it really does work. So far so good",
+            "author": "Rose",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "02/09/2019",
+            "recommended": true,
+            "text": "No need to use water with grout and no need to sell after grouting. Saves time.",
+            "author": "Charles",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great\"",
+            "rating": 5,
+            "date": "11/11/2018",
+            "recommended": true,
+            "text": "Love this additive for grout. It's almost as good as epoxy grout.",
+            "author": "Shane",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Grout Maximizer\"",
+            "rating": 5,
+            "date": "12/28/2018",
+            "recommended": null,
+            "text": "Used on a 600 square ft tile job.  Worked well and looks great",
+            "author": "Don",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "\"Great product\"",
+            "rating": 5,
+            "date": "11/03/2018",
+            "recommended": true,
+            "text": "Great substitute for water and has sealer included",
+            "author": "Ryan",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true,
+            "helpful": {
+                "yes": 0,
+                "no": 0
+            }
+        },
+        {
+            "title": "",
+            "rating": 2,
+            "date": "06/30/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "chris",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "06/26/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "D",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/21/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "taargus",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "09/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jerry",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "11/08/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Pam",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/29/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Valerie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "10/26/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Newbie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "kelly",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/18/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "roger",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Hotrott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "04/03/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Ott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 4,
+            "date": "10/07/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Caleb",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Tonya",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "12/31/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "fraNK",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/06/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Kat",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/21/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jack",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/14/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "nikki",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/04/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "blessed2017",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "04/05/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Bob",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "10/01/2018",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Travis",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 3,
+            "date": "09/21/2018",
+            "recommended": false,
+            "text": "There is no review to accompany this rating.",
+            "author": "steve102353",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/02/2019",
+            "recommended": null,
+            "text": "There is no review to accompany this rating.",
+            "author": "Patchess",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "01/12/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "John",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/02/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Scott",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        },
+        {
+            "title": "",
+            "rating": 5,
+            "date": "03/31/2019",
+            "recommended": true,
+            "text": "There is no review to accompany this rating.",
+            "author": "Jamie",
+            "verifiedPurchaser": true,
+            "sweepstakesEntry": true
+        }
+    ],
+    "reviewStats": {
+        "reviewCount": 45,
+        "percentRecommended": "84",
+        "averageStars": "4.6",
+        "starCounts": {
+            "five": 37,
+            "four": 4,
+            "three": 1,
+            "two": 1,
+            "one": 2
+        }
+    },
+    "questions": [
+        {
+            "question": "\"Can the MAPEI Grout Maximizer be used with Custom Building Products Polyblend unsanded grout?\"",
+            "author": "Anonymous",
+            "date": "02/09/2019",
+            "answers": [
+                {
+                    "author": "CommunityAnswer",
+                    "date": "02/22/2019",
+                    "text": "No, this product combination is not recommended.",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                },
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "02/11/2019",
+                    "text": "Thank you for your inquiry regarding Mapei products! Mapei would ont recommend using our Grout Maximizer with a competitors grout, as if there is an issue, you would not have any recourse with either Mapei or Custom. Hope this helps! Product Advisor # 11",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How flexible does the grout become if I use this product?\"",
+            "author": "Anonymous",
+            "date": "06/27/2019",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "06/27/2019",
+                    "text": "Thank you for your inquiry regarding MAPEI Products! The use and performance expectations of the Mapei Grout Maximizer is described as follows on the Mapei Technical Data Sheet: UltraCare Grout Maximizer is a neutral-pH, APEO-free, fluoro-based, liquid polymer admixture for Keracolor S and Keracolor U Portland-cement-based grouts, to be used in place of water. UltraCare Grout Maximizer optimizes resistance to water and oil-based stains, increases grout hardness and improves color consistency. There is no flexibility added to your final cured grout joint with the use of the Mapei Grout Maximizer. Hope this helps! Product Advisor # 11 FEATURES AND",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How long do you need to wait before cleaning the excess grout of the tiles i have bad color constancy will water alter the color when cleaning?\"",
+            "author": "rah",
+            "date": "03/01/2019",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "03/01/2019",
+                    "text": "Thank you for your inquiry regarding Mapei products! We are sorry you are having trouble removing the grout off the tile surface! You do not mention which grout you used so I will give you all options. If you used Ultracolor Plus FA grout then we recommend Heavy-Duty Stone, Tile & Grout Cleaner to remove the haze. Please note, Mapei does not recommend using the Mapei Grout Maximizer with our Ultracolor Plus FA grout. Use full strength Do not dilute with water Let cleaner dwell on surface for a minimum of 5 minutes and up to 10 minutes Scrub with a white nylon scrub brush ( with firm pressure) Wipe, mop, vacuum up any grout residue and water residue after scrubbing Rinse well with clean, cool water, keep your rinsing water clean to avoid spreading residue on the floor If you used one of our standard Portland cement grouts, Keracolor Sanded or Unsanded, then you want to use Cement Grout Haze Remover All this being said, When it comes to cement grout, there are quite a few reasons why the grout could dry to a different color. Sometimes it is application related (too much water in the mix, too many passes with the cleanup sponge), and sometimes it can be jobsite related (minerals in the water, temperature/humidity causing curing problems). In the meantime, there is a simple test that can be done with a small amount of your leftover product to rule in or out some of the possible causes of color troubles. Mix up a small batch of grout at a 4:1 (powder-water) ratio if it was sanded grout, and a 3:1 (powder-water) ratio if it was unsanded, in a disposable cup to a creamy peanut butter consistency. Let the cup of grout dry overnight and check the color the next day. If the grout is the intended color the next day, then something went wrong during application. If it is still too light, then the mixing water may be to blame (high mineral content) or it could be a product issue. We would love the opportunity to help troubleshoot with you and try to determine what may have led to your grout drying lighter than expected. If you wish to, please call us here at Tech Suyppotr, Mon-Fri from 8 am to 5:30 pm EST at 800-992-6273. Thank you! product Advisor # 11",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Will MAPEI Grout Maximizer work with Custom Building Products Prism grout? I may have extra grout additive & would like to use it for another project\"",
+            "author": "Anonymous",
+            "date": "12/28/2018",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "01/04/2019",
+                    "text": "Thank you for your inquiry regarding Mapei products! Please call Custom Building product directly to get their recommendation on your inquiry. Thank you! Product Advisor # 11",
+                    "helpful": {
+                        "yes": 0,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this be used with unsanded grout from a different manufacturer? If so, how much should be used? Butech grout (Mapei manufactured?)\"",
+            "author": "Anonymous",
+            "date": "06/01/2018",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "06/04/2018",
+                    "text": "Hello, Thank you for your inquiry. We don't recommend adding our Grout Maximizer with another manufacturer's grout as we do not know if it will react negatively. It could affect the intended color and functionality. We do not manufacture Butech unfortunately. Please feel welcome to call or message our Product Support line at (800) 992-6273 if you have additional questions. Thank you for considering MAPEI Products!- Product Advisor #9",
+                    "helpful": {
+                        "yes": 1,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"How long does grout with this additive need to dry before we can use our shower.\"",
+            "author": "Anonymous",
+            "date": "04/19/2018",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "04/19/2018",
+                    "text": "Hello, Thank you for your inquiry! We recommend you wait 48 hours before using your shower with Grout Maximizer. Please feel welcome to call our product support line at (800) 992-6273 if you have additional questions. Thank you for choosing MAPEI Products!- Product Advisor #9",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can I use this with your unsanded grout?\"",
+            "author": "Raimi",
+            "date": "02/04/2018",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "02/05/2018",
+                    "text": "Hello Raimi, Thank you for your inquiry! You can absolutely use Grout Maximizer with our Keracolor Unsanded grout. Please be aware that 49 ounces of Maximizer is mixed with 10 lbs. of our unsanded grout. The 64 ounce container is for 25 lbs. of sanded grout. Please feel welcome to call our product support line at (800) 992-6273 if we can assist you further. Thank you for choosing MAPEI products!- Product Advisor #9",
+                    "helpful": {
+                        "yes": 3,
+                        "no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Do you still have to seal the grout after using this product or does this take the place of sealer?\"",
+            "author": "Karen",
+            "date": "01/23/2018",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "01/24/2018",
+                    "text": "Hello Karen, Thank you for your inquiry! You can seal grout even if you used Grout Maximizer. Grout additives function to increase water and stain resistance, however, sealers are topical and penetrate into the pores of the grout greatly enhancing their water and stain resistance. We recommend our Ultracare Penetrating Plus Stone, Tile & Grout Sealer. Thank you for choosing MAPEI Products!- Product Advisor #9",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Does grout installed with this additive ever need sealed later, or does the sealing quality last the lifetime of the grout?\"",
+            "author": "Preacher",
+            "date": "08/04/2017",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "08/07/2017",
+                    "text": "Hello Preacher: Grout Maximizer permanently alters the composition of the grout making it more dense, flexible, and stain resistant. You can expect the benefits of Grout Maximizer to last as long as the grout itself. Thank you very much for choosing MAPEI products. -Product Advisor #7",
+                    "helpful": {
+                        "yes": 6,
+                        "no": 5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "\"Can this product be used with any brand of sanded grout other than MAPEI?\"",
+            "author": "mrswest",
+            "date": "05/12/2017",
+            "answers": [
+                {
+                    "badgeName": "81579292-d348-55b1-9d91-362e6e65b379",
+                    "author": "MAPEI",
+                    "date": "05/12/2017",
+                    "text": "Grout Maximizer is designed to be used only with our Keracolor S or Keracolor U grout products. We cannot guarantee any specific result if used with another manufacturer's grout. If you have any further questions, please feel free to give us a call at 1-800-992-6273. Thank you very much for your interest in MAPEI products. -Product Advisor #7",
+                    "helpful": {
+                        "yes": 2,
+                        "no": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
