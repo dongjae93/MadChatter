@@ -22,14 +22,15 @@ app.post("/products", (req, res) => {
   const { parameters, outputContexts } = req.body.queryResult;
   if(parameters.category && parameters.category.length) {
     db.getCategoryProducts(parameters.category).then((categoryItems) => {
-      // console.log(categoryItems)
+      // console.log(parameters.category);
+      // console.log('wut',  categoryItems)
       return res.json({
         fulfillmentText: `Available ${parameters.category} items are ${categoryItems.map((item) => '\n' + item.itemName.split('-').join(' '))}`
       })
     })
-  } else if (parameters.yoyos && parameters.yoyos.length) {
+  } else if (parameters.product && parameters.product.length) {
     return res.json({
-      fulfillmentText: `What would you like to know about ${parameters.yoyos}?`
+      fulfillmentText: `What would you like to know about ${parameters.product}?`
     });
   } else if (parameters.specs) {
     const yoyo_id = outputContexts[0].parameters.yoyos.replace(/ /g, '');
