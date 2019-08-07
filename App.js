@@ -29,7 +29,7 @@ class App extends Component {
 
 
   componentDidMount() {
-    console.log('moutned');
+    // console.log('moutned');
     Dialogflow_V2.setConfiguration(
       dialogflowConfig.client_email,
       dialogflowConfig.private_key,
@@ -46,12 +46,12 @@ class App extends Component {
     Dialogflow_V2.requestQuery(
       message, 
       result => this.handleGoogleResponse(result), 
-      err => console.log(err));
+      err => console.log('RESPONSE ERROR!', err));
   }
 
   handleGoogleResponse(result) {
-    console.log(result);
-    let text = result.queryResult.fulfillmentMessages[0].text.text[0];
+    console.log('GOOGLE BOT RESPONSE', result.queryResult);
+    let text = result.queryResult.fulfillmentText
     let payload = result.queryResult.webhookPayload;;
     console.log("payload: ", payload);
     this.sendBotResponse(text, payload);

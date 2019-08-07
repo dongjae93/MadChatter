@@ -29,10 +29,10 @@ const getAllProducts = () => {
   })
 }
 
-const getCategoryProducts = (category) => {
+const getCategoryProducts = (department) => {
   return new Promise((res, rej) => {
     Item
-    .find({category: category}, (err, items) => {
+    .find({department}, (err, items) => {
       if(err) {
         rej(err);
       } else {

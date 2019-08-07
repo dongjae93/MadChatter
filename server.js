@@ -17,10 +17,17 @@ const yoyos = require('./yoyos.json');
 const products = require('./data/products.json');
 let found = products.find(item => item.id == 1)
 // console.log(found);
-app.post("/yoyos", (req, res) => {
+app.post("/products", (req, res) => {
   // console.log("query Result from req!: ", req.body.queryResult);
   const { parameters, outputContexts } = req.body.queryResult;
-  if (parameters.yoyos && parameters.yoyos.length) {
+  if(parameters.category && parameters.category.length) {
+    db.getCategoryProducts(parameters.category).then((categoryItems) => {
+      // console.log(categoryItems)
+      return res.json({
+        fulfillmentText: `Available ${parameters.category} items are ${categoryItems.map((item) => '\n' + item.itemName.split('-').join(' '))}`
+      })
+    })
+  } else if (parameters.yoyos && parameters.yoyos.length) {
     return res.json({
       fulfillmentText: `What would you like to know about ${parameters.yoyos}?`
     });
@@ -40,22 +47,23 @@ app.post("/yoyos", (req, res) => {
       fulfillmentText: spec_value,
       payload
     });
+  } else {
+    let names = yoyos.map(({ name }) => name);
+    db.getCategoryProducts('Canvas').then((result) => {
+      // console.log(result);
+      names = result.map(({itemName}) => itemName.split('-').join(' '));
+      // console.log('name: ', names)
+      return res.json({
+        fulfillmentText: `The available canvas products are: ` + names.join(', ')
+      });
+    }).catch((err = 'none') => {
+      console.log(err)
+      return res.json({
+        fulfillmentText: "The yoyos available are: " + names.join(', ')
+      });
+    })
   }
 
-  let names = yoyos.map(({ name }) => name);
-  db.getCategoryProducts('Canvas').then((result) => {
-    // console.log(result);
-    names = result.map(({itemName}) => itemName.split('-').join(' '));
-    // console.log('name: ', names)
-    return res.json({
-      fulfillmentText: `The available canvas products are: ` + names.join(', ')
-    });
-  }).catch((err = 'none') => {
-    console.log(err)
-    return res.json({
-      fulfillmentText: "The yoyos available are: " + names.join(', ')
-    });
-  })
 
 });
 
