@@ -43,22 +43,32 @@ class App extends Component {
       messages: GiftedChat.append(previousState.messages, messages)
     }));
     let message = messages[0].text;
-    Dialogflow_V2.requestQuery(message, result => this.handleGoogleResponse(result), err => console.log(err));
+    Dialogflow_V2.requestQuery(
+      message, 
+      result => this.handleGoogleResponse(result), 
+      err => console.log(err));
   }
 
   handleGoogleResponse(result) {
+    console.log(result);
     let text = result.queryResult.fulfillmentMessages[0].text.text[0];
-    this.sendBotResponse(text);
+    let payload = result.queryResult.webhookPayload;;
+    console.log("payload: ", payload);
+    this.sendBotResponse(text, payload);
   }
 
-  sendBotResponse(text) {
+  sendBotResponse(text, payload) {
     let message = {
       _id: this.state.messages.length + 1,
       text,
       createdAt: new Date(),
       user: BOT
     }
-
+    if(payload && payload.is_url) {
+      console.log('TEXXXXXXXXXTTTTTTTT: ', text);
+      message.text = "image";
+      message.image = text;
+    }
     this.setState(previousState => ({
       messages: GiftedChat.append(previousState.messages, [message])
     }));
