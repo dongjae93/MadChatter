@@ -12,7 +12,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 const BOT = {
   _id: 2,
   name: 'FAQ Bot',
-  avatar: 'https://ci.imgur.com/7k12EPD.png'
+  avatar: require('../data/photo/robot.png')
 };
 
 
@@ -100,6 +100,7 @@ class Bot extends Component {
       <GiftedChat
           messages={this.state.messages}
           onSend={messages => this.onSend(messages)}
+          isAnimated={true}
           user={{
             _id: 1
           }}
