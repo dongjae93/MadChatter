@@ -1,13 +1,9 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
+import { Text } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat';
 import { Dialogflow_V2 } from 'react-native-dialogflow';
-// import { dialogflowConfig } from './env.js';
-import openMap, { createOpenLink }from 'react-native-open-maps';
+import openMap from 'react-native-open-maps';
 import Geolocation from '@react-native-community/geolocation';
-// import Welcome from './components/welcome'
-import SplashScreen from 'react-native-splash-screen';
-import Icon from 'react-native-vector-icons/FontAwesome';
 
 const BOT = {
   _id: 2,
