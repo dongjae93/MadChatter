@@ -32,6 +32,8 @@ target 'chatbot' do
 
   pod 'react-native-voice', :path => '../node_modules/react-native-voice'
 
+  pod 'react-native-geolocation', :path => '../node_modules/@react-native-community/geolocation'
+
   target 'chatbotTests' do
     inherit! :search_paths
     # Pods for testing

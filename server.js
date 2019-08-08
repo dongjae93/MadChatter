@@ -67,20 +67,28 @@ app.post("/products", (req, res) => {
     })
   } else {
     const { parameters, outputContexts } = req.body.queryResult;
-    const productName = outputContexts ? outputContexts[0].parameters.product : null;
+    const productName = outputContexts ? outputContexts[0].parameters ? outputContexts[0].parameters.product : null : null;
     if(productName) {
       console.log('product name in context: ', productName);
+      db.getItemIdByItemName(productName.split(' ').join('-')).then((id) => {
+        let item = require(`./data/${id}.json`);
+        let specs = item.specs.map((spec) => spec['spec'] !== 'N/A' ? '\n' + spec.title + '\n' : null)
+        return res.json({
+          fulfillmentText: `The availabe specs for ${productName} are ${specs}`
+        })
+      })
+    } else {
+      db.getAllCategories().then((categories) => {
+        // console.log(result);
+        categories = categories.map((category) => '\n' + category);
+        // console.log('name: ', names)
+        return res.json({
+          fulfillmentText: `The available categories are: ` + categories
+        });
+      }).catch((err = 'none') => {
+        console.log(err)
+      })
     }
-    db.getAllCategories().then((categories) => {
-      // console.log(result);
-      categories = categories.map((category) => '\n' + category);
-      // console.log('name: ', names)
-      return res.json({
-        fulfillmentText: `The available categories are: ` + categories
-      });
-    }).catch((err = 'none') => {
-      console.log(err)
-    })
   }
 
 
