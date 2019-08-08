@@ -188,6 +188,8 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-splash-screen')
+    implementation project(':react-native-vector-icons')
     implementation project(':@react-native-community_geolocation')
     implementation project(':react-native-voice')
     implementation project(':react-native-dialogflow')

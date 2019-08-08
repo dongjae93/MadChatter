@@ -61,6 +61,8 @@ PODS:
     - React
   - react-native-geolocation (1.4.2):
     - React
+  - react-native-splash-screen (3.2.0):
+    - React
   - react-native-voice (0.3.0):
     - React
   - React-RCTActionSheet (0.60.4):
@@ -87,6 +89,8 @@ PODS:
   - React-RCTWebSocket (0.60.4):
     - React-Core (= 0.60.4)
     - React-fishhook (= 0.60.4)
+  - RNVectorIcons (6.6.0):
+    - React
   - yoga (0.60.4.React)
 
 DEPENDENCIES:
@@ -103,6 +107,7 @@ DEPENDENCIES:
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
   - react-native-dialogflow (from `../node_modules/react-native-dialogflow`)
   - "react-native-geolocation (from `../node_modules/@react-native-community/geolocation`)"
+  - react-native-splash-screen (from `../node_modules/react-native-splash-screen`)
   - react-native-voice (from `../node_modules/react-native-voice`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
   - React-RCTAnimation (from `../node_modules/react-native/Libraries/NativeAnimation`)
@@ -114,6 +119,7 @@ DEPENDENCIES:
   - React-RCTText (from `../node_modules/react-native/Libraries/Text`)
   - React-RCTVibration (from `../node_modules/react-native/Libraries/Vibration`)
   - React-RCTWebSocket (from `../node_modules/react-native/Libraries/WebSocket`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -147,6 +153,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-dialogflow"
   react-native-geolocation:
     :path: "../node_modules/@react-native-community/geolocation"
+  react-native-splash-screen:
+    :path: "../node_modules/react-native-splash-screen"
   react-native-voice:
     :path: "../node_modules/react-native-voice"
   React-RCTActionSheet:
@@ -169,6 +177,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/Libraries/Vibration"
   React-RCTWebSocket:
     :path: "../node_modules/react-native/Libraries/WebSocket"
+  RNVectorIcons:
+    :path: "../node_modules/react-native-vector-icons"
   yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -187,6 +197,7 @@ SPEC CHECKSUMS:
   React-jsinspector: 73f24a02fa684ed6a2b828ba116874a2191ded88
   react-native-dialogflow: 0270c0cac1568abfed789317d51e4e5dc0913cf1
   react-native-geolocation: 79c743ad7a2e86617811ef23f49308824e92520c
+  react-native-splash-screen: 200d11d188e2e78cea3ad319964f6142b6384865
   react-native-voice: 0253a5cde07d9c675463e36f7e668a76b0825de4
   React-RCTActionSheet: 9f71d7ae3e8fb10e08d162cbf14c621349dbfab3
   React-RCTAnimation: 981d8c95b0e30918a9832ccac32af83562a27fae
@@ -198,8 +209,9 @@ SPEC CHECKSUMS:
   React-RCTText: e0f224898b13af9aa036ea7cb3d438daa68c1044
   React-RCTVibration: 0bea40cd51bd089bd591a8f74c86e91fdf2666c5
   React-RCTWebSocket: 163873f4cdd5f1058a9483443404fc3801581cb6
+  RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
   yoga: c2c050f6ae6e222534760cc82f559b89214b67e2
 
-PODFILE CHECKSUM: 2d20a442560b85794bff9603fb4e06b96566d0bb
+PODFILE CHECKSUM: e6a633c085261eded678570f5fee3c2307dd5e60
 
 COCOAPODS: 1.7.5

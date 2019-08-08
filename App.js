@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, Image } from 'react-native';
+import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat';
 import { Dialogflow_V2 } from 'react-native-dialogflow';
 import { dialogflowConfig } from './env.js';
 import openMap, { createOpenLink }from 'react-native-open-maps';
 import Geolocation from '@react-native-community/geolocation';
+import Welcome from './components/welcome'
+import SplashScreen from 'react-native-splash-screen';
+import Icon from 'react-native-vector-icons/FontAwesome';
 const BOT = {
   _id: 2,
   name: 'FAQ Bot',
@@ -38,6 +41,7 @@ class App extends Component {
       Dialogflow_V2.LANG_ENGLISH_US,
       dialogflowConfig.project_id
     );
+    SplashScreen.hide();
     this.findCoordinates();
   }
 
@@ -108,6 +112,23 @@ class App extends Component {
             _id: 1
           }}
         />
+        <TouchableOpacity
+   style={{
+       borderWidth:1,
+       borderColor:'rgba(0,0,0,0.2)',
+       alignItems:'center',
+       justifyContent:'center',
+       width:70,
+       position: 'absolute',                                          
+       bottom: 10,                                                    
+       right: 10,
+       height:70,
+       backgroundColor:'#fff',
+       borderRadius:100,
+     }}
+ >
+   <Icon name="plus"  size={30} color="#01a699" />
+  </TouchableOpacity>
       </View>
     );
   }
