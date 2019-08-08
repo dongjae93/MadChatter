@@ -44,5 +44,17 @@ const getCategoryProducts = (department) => {
   })
 }
 
+const getItemIdByItemName = (itemName) => {
+  return new Promise((res, rej) => {
+    Item.findOne({itemName}, (err, item) => {
+      if(err) {
+        rej(err)
+      } else {
+        res(item.id);
+      }
+    })
+  })
+}
 
-module.exports = { getAllProducts, getCategoryProducts }
+
+module.exports = { getAllProducts, getCategoryProducts, getItemIdByItemName }

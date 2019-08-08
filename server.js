@@ -16,14 +16,10 @@ app.use(express.static('public'));
 const yoyos = require('./yoyos.json');
 const products = require('./data/products.json');
 let found = products.find(item => item.id == 1)
-// console.log(found);
 app.post("/products", (req, res) => {
-  // console.log("query Result from req!: ", req.body.queryResult);
   const { parameters, outputContexts } = req.body.queryResult;
   if(parameters.category && parameters.category.length) {
     db.getCategoryProducts(parameters.category).then((categoryItems) => {
-      // console.log(parameters.category);
-      // console.log('wut',  categoryItems)
       return res.json({
         fulfillmentText: `Available ${parameters.category} items are ${categoryItems.map((item) => '\n' + item.itemName.split('-').join(' '))}`
       })
@@ -33,21 +29,46 @@ app.post("/products", (req, res) => {
       fulfillmentText: `What would you like to know about ${parameters.product}?`
     });
   } else if (parameters.specs) {
-    const yoyo_id = outputContexts[0].parameters.yoyos.replace(/ /g, '');
-    const spec = parameters.specs;
-    let spec_value = yoyos.find(item => item.id == yoyo_id)[spec];
-    let payload = { is_url: false };
-    if (spec == 'image') {
-      spec_value = `${BASE_URL}/images:${spec_value}`
-      payload = {
-        is_url: true
-      }
+    console.log('context param: ', outputContexts[0].parameters);
+    const contextParam = { 
+      product:'IRWIN 16-oz Smooth Face Steel Head Fiberglass Framing Hammer',
+      'product.original': 'hammer',
+      specs: 'image',
+      'specs.original': 'Images',
+      category: 'Tools',
+      'category.original': 'tools' 
     }
-
-    return res.json({
-      fulfillmentText: spec_value,
-      payload
-    });
+    const productName = outputContexts[0].parameters.product;
+    db.getItemIdByItemName(productName.split(' ').join('-')).then((id) => {
+      const spec = parameters.specs;
+      let spec_value;
+      let payload = { is_url: false };
+      if (spec == 'image') {   
+        spec_value = `${BASE_URL}/images:${id}`
+        payload = {
+          is_url: true
+        }
+        return res.json({
+          fulfillmentText: spec_value,
+          payload
+        });
+      } else {
+        // let spec_value = yoyos.find(item => item.id == productName)[spec];
+        spec_value = require(`./data/${id}.json`)
+        console.log('spec', spec);
+        console.log('spec_value before', spec_value.specs)
+        spec_value = spec_value.specs.find((specification) => {
+          if(specification.title === spec) {
+            return specification['spec']
+          }
+        })
+        spec_value = `The ${spec} of ${productName} is ${spec_value.spec}.`
+        return res.json({
+          fulfillmentText: spec_value,
+          payload
+        });
+      }
+    })
   } else {
     let names = yoyos.map(({ name }) => name);
     db.getCategoryProducts('Canvas').then((result) => {
