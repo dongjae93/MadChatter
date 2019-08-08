@@ -46,7 +46,11 @@ class App extends Component {
     Dialogflow_V2.requestQuery(
       message, 
       result => this.handleGoogleResponse(result), 
-      err => console.log('RESPONSE ERROR!', err));
+      err => console.log('RESPONSE ERROR!', err)).then((data) => {
+        console.log('successfully got response!');
+      }).catch((err) => {
+        console.log('err: ', err);
+      });
   }
 
   handleGoogleResponse(result) {

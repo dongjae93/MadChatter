@@ -56,5 +56,17 @@ const getItemIdByItemName = (itemName) => {
   })
 }
 
+const getAllCategories = () => {
+  return new Promise((res, rej) => {
+    Item.distinct("department", (err, categories) => {
+      if(err) {
+        rej(err)
+      } else {
+        console.log(categories);
+        res(categories);
+      }
+    })
+  })
+}
 
-module.exports = { getAllProducts, getCategoryProducts, getItemIdByItemName }
+module.exports = { getAllProducts, getCategoryProducts, getItemIdByItemName, getAllCategories }

@@ -14,14 +14,12 @@ app.use(cors());
 app.use(express.static('public'));
 
 const yoyos = require('./yoyos.json');
-const products = require('./data/products.json');
-let found = products.find(item => item.id == 1)
 app.post("/products", (req, res) => {
   const { parameters, outputContexts } = req.body.queryResult;
   if(parameters.category && parameters.category.length) {
     db.getCategoryProducts(parameters.category).then((categoryItems) => {
       return res.json({
-        fulfillmentText: `Available ${parameters.category} items are ${categoryItems.map((item) => '\n' + item.itemName.split('-').join(' '))}`
+        fulfillmentText: `Available ${parameters.category} items are ${categoryItems.map((item) => '\n' + item.itemName.split('-').join(' ') + '\n')}`
       })
     })
   } else if (parameters.product && parameters.product.length) {
@@ -44,7 +42,7 @@ app.post("/products", (req, res) => {
       let spec_value;
       let payload = { is_url: false };
       if (spec == 'image') {   
-        spec_value = `${BASE_URL}/images:${id}`
+        spec_value = `${BASE_URL}/images?id=${id}`
         payload = {
           is_url: true
         }
@@ -55,10 +53,8 @@ app.post("/products", (req, res) => {
       } else {
         // let spec_value = yoyos.find(item => item.id == productName)[spec];
         spec_value = require(`./data/${id}.json`)
-        console.log('spec', spec);
-        console.log('spec_value before', spec_value.specs)
         spec_value = spec_value.specs.find((specification) => {
-          if(specification.title === spec) {
+          if(specification.title.includes(spec)) {
             return specification['spec']
           }
         })
@@ -70,19 +66,20 @@ app.post("/products", (req, res) => {
       }
     })
   } else {
-    let names = yoyos.map(({ name }) => name);
-    db.getCategoryProducts('Canvas').then((result) => {
+    const { parameters, outputContexts } = req.body.queryResult;
+    const productName = outputContexts ? outputContexts[0].parameters.product : null;
+    if(productName) {
+      console.log('product name in context: ', productName);
+    }
+    db.getAllCategories().then((categories) => {
       // console.log(result);
-      names = result.map(({itemName}) => itemName.split('-').join(' '));
+      categories = categories.map((category) => '\n' + category);
       // console.log('name: ', names)
       return res.json({
-        fulfillmentText: `The available canvas products are: ` + names.join(', ')
+        fulfillmentText: `The available categories are: ` + categories
       });
     }).catch((err = 'none') => {
       console.log(err)
-      return res.json({
-        fulfillmentText: "The yoyos available are: " + names.join(', ')
-      });
     })
   }
 
@@ -90,7 +87,6 @@ app.post("/products", (req, res) => {
 });
 
 app.get('/images', (req, res) => {
-  // console.log('hereEEEEEEEEEEEEEEEEEEEEEE');
   const options = {
     root: path.join(__dirname, 'data/photo'),
     dotfiles: 'deny',
@@ -100,7 +96,7 @@ app.get('/images', (req, res) => {
     }
   }
 
-  res.sendFile('1.jpg', options, (err) => {
+  res.sendFile(`${req.query.id}.jpg`, options, (err) => {
     if(err) {
       console.log(err)
       next();
