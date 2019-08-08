@@ -2,21 +2,21 @@ import React, { Component } from 'react';
 import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat';
 import { Dialogflow_V2 } from 'react-native-dialogflow';
-import { dialogflowConfig } from './env.js';
+// import { dialogflowConfig } from './env.js';
 import openMap, { createOpenLink }from 'react-native-open-maps';
 import Geolocation from '@react-native-community/geolocation';
-import Welcome from './components/welcome'
+// import Welcome from './components/welcome'
 import SplashScreen from 'react-native-splash-screen';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import Bot from './components/bot.js';
+
 const BOT = {
   _id: 2,
   name: 'FAQ Bot',
   avatar: 'https://ci.imgur.com/7k12EPD.png'
 };
 
-class App extends Component {
-  
+
+class Bot extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -28,22 +28,13 @@ class App extends Component {
           user: BOT
         }
       ],
-      coords: null,
-      showBot: false
+      coords: null
     }
     this.onSend = this.onSend.bind(this);
   }
 
 
   componentDidMount() {
-    // console.log('moutned');
-    Dialogflow_V2.setConfiguration(
-      dialogflowConfig.client_email,
-      dialogflowConfig.private_key,
-      Dialogflow_V2.LANG_ENGLISH_US,
-      dialogflowConfig.project_id
-    );
-    SplashScreen.hide();
     this.findCoordinates();
   }
 
@@ -53,9 +44,7 @@ class App extends Component {
       this.setState({coords})
     }, (err) => console.log('getting location err: ', err), {enableHighAccuracy: true});
   };
-  toggleBot = () => {
-    this.setState({showBot: !this.state.showBot});
-  }
+
   goToCurrentLocation = () => {
     let currentLong = this.state.coords.longitude;
     let currentLat = this.state.coords.latitude;
@@ -108,34 +97,15 @@ class App extends Component {
 
   render() {
     return (
-      <View style={{ flex: 1, backgroundColor: 'rgb(0,73,144)' }}>
-        <Text style={{color: '#fff'}}>Lowe's</Text>
-        {this.state.showBot ? 
-        <Bot></Bot>
-        :
-        null
-        }
-        <TouchableOpacity
-          style={{
-              borderWidth:1,
-              borderColor:'rgba(0,0,0,0.2)',
-              alignItems:'center',
-              justifyContent:'center',
-              width:70,
-              position: 'absolute',                                          
-              bottom: 10,                                                    
-              right: 10,
-              height:70,
-              backgroundColor:'#fff',
-              borderRadius:100,
-            }}
-            onPress={this.toggleBot}
-        >
-          <Icon name="comment" size={30} color="#01a699" />
-        </TouchableOpacity>
-      </View>
-    );
+      <GiftedChat
+          messages={this.state.messages}
+          onSend={messages => this.onSend(messages)}
+          user={{
+            _id: 1
+          }}
+        />
+    )
   }
 }
-
-export default App;
+ 
+export default Bot;
