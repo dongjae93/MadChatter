@@ -40,11 +40,11 @@ app.post("/products", (req, res) => {
     db.getItemIdByItemName(productName.split(' ').join('-')).then((id) => {
       const spec = parameters.specs;
       let spec_value;
-      let payload = { is_url: false };
+      let payload = { is_img: false };
       if (spec == 'image') {   
         spec_value = `${BASE_URL}/images?id=${id}`
         payload = {
-          is_url: true
+          is_img: true
         }
         return res.json({
           fulfillmentText: spec_value,
@@ -69,14 +69,26 @@ app.post("/products", (req, res) => {
     const { parameters, outputContexts } = req.body.queryResult;
     const productName = outputContexts ? outputContexts[0].parameters ? outputContexts[0].parameters.product : null : null;
     if(productName) {
-      console.log('product name in context: ', productName);
-      db.getItemIdByItemName(productName.split(' ').join('-')).then((id) => {
-        let item = require(`./data/${id}.json`);
-        let specs = item.specs.map((spec) => spec['spec'] !== 'N/A' ? '\n' + spec.title + '\n' : null)
+      if(parameters.go_to_website) {
+        console.log('hiiiiiiii');
+        let website = `https://www.lowes.com/search?searchTerm=${productName.split(' ').join('+')}`
+        let payload = {
+          website
+        }
         return res.json({
-          fulfillmentText: `The availabe specs for ${productName} are ${specs}`
+          fulfillmentText: 'website',
+          payload
         })
-      })
+      } else {
+        console.log('product name in context: ', productName);
+        db.getItemIdByItemName(productName.split(' ').join('-')).then((id) => {
+          let item = require(`./data/${id}.json`);
+          let specs = item.specs.map((spec) => spec['spec'] !== 'N/A' ? '\n' + spec.title + '\n' : null)
+          return res.json({
+            fulfillmentText: `The availabe specs for ${productName} are ${specs}`
+          })
+        })
+      }
     } else {
       db.getAllCategories().then((categories) => {
         // console.log(result);

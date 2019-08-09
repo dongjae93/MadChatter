@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text } from 'react-native';
+import { Text, Linking } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat';
 import { Dialogflow_V2 } from 'react-native-dialogflow';
 import openMap from 'react-native-open-maps';
@@ -41,9 +41,7 @@ class Bot extends Component {
     }, (err) => console.log('getting location err: ', err), {enableHighAccuracy: true});
   };
 
-  goToCurrentLocation = () => {
-    let currentLong = this.state.coords.longitude;
-    let currentLat = this.state.coords.latitude;
+  goToLowes = () => {
     openMap({end: "Lowe's", start: "My Location", travelType: "drive" })
   }
   
@@ -78,17 +76,22 @@ class Bot extends Component {
       createdAt: new Date(),
       user: BOT
     }
-    if(payload && payload.is_url) {
+    if(payload && payload.website) {
+      let url = payload.website;
+      message.text = <Text>Tap <Text onPress={() => Linking.openURL(url)} style={{color: 'blue'}}>here</Text> to go to Lowe's website for the product</Text>
+    } 
+    if(payload && payload.is_img) {
       console.log('TEXXXXXXXXXTTTTTTTT: ', text);
       message.text = "image";
       message.image = text;
     }
     if(action && action.includes("maps")) {
-      message.text = <Text onPress={() => this.goToCurrentLocation()}>To Lowe's</Text>
+      message.text = <Text onPress={() => this.goToLowes()}>To Lowe's</Text>
     }
     this.setState(previousState => ({
       messages: GiftedChat.append(previousState.messages, [message])
     }));
+    
   }
 
   render() {
