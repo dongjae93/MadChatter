@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
-const BASE_URL = 'https://78bbe158.ngrok.io';
+const BASE_URL = 'https://5e9e1781.ngrok.io';
 const db = require('./db/db.js');
 // const d = require('../../FEC/scraped/photo/1.jpg')
 require('dotenv').config();

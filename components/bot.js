@@ -86,7 +86,7 @@ class Bot extends Component {
       message.image = text;
     }
     if(action && action.includes("maps")) {
-      message.text = <Text onPress={() => this.goToLowes()}>To Lowe's</Text>
+      message.text = <Text onPress={() => this.goToLowes()}><Text style={{color: 'blue'}}>Here</Text> is the direction to Lowe's</Text>
     }
     this.setState(previousState => ({
       messages: GiftedChat.append(previousState.messages, [message])
