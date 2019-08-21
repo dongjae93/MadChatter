@@ -46,8 +46,9 @@ const getCategoryProducts = (department) => {
 
 const getItemIdByItemName = (itemName) => {
   return new Promise((res, rej) => {
+    console.log(itemName);
     Item.findOne({itemName}, (err, item) => {
-      if(err) {
+      if(err || !item) {
         rej(err)
       } else {
         res(item.id);

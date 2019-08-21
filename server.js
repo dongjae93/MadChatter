@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
-const BASE_URL = 'https://5e9e1781.ngrok.io';
+const BASE_URL = 'https://a7225d87.ngrok.io';
 const db = require('./db/db.js');
 // const d = require('../../FEC/scraped/photo/1.jpg')
 require('dotenv').config();
@@ -15,6 +15,7 @@ app.use(express.static('public'));
 
 const yoyos = require('./yoyos.json');
 app.post("/products", (req, res) => {
+  console.log('hi');
   const { parameters, outputContexts } = req.body.queryResult;
   if(parameters.category && parameters.category.length) {
     db.getCategoryProducts(parameters.category).then((categoryItems) => {
@@ -64,6 +65,11 @@ app.post("/products", (req, res) => {
           payload
         });
       }
+    }).catch((err) => {
+      console.log(err);
+      return res.json({
+        fulfillmentText: 'We are sorry but we could not find the requested data :('
+      })
     })
   } else {
     const { parameters, outputContexts } = req.body.queryResult;
@@ -86,6 +92,11 @@ app.post("/products", (req, res) => {
           let specs = item.specs.map((spec) => spec['spec'] !== 'N/A' ? '\n' + spec.title + '\n' : null)
           return res.json({
             fulfillmentText: `The availabe specs for ${productName} are ${specs}`
+          })
+        }).catch((err) => {
+          console.log(err);
+          return res.json({
+            fulfillmentText: `The availabe specs for ${productName} could not be found`
           })
         })
       }

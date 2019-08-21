@@ -19,7 +19,7 @@ class Bot extends Component {
       messages: [
         {
           _id: 1,
-          text: `Hi! I am Lowe's FAQ bot 🤖.\n\nHow may I help you with today?`,
+          text: `Hi! I am Lowe's FAQ bot 🤖.\n\nHow may I help you today?`,
           createdAt: new Date(),
           user: BOT
         }
